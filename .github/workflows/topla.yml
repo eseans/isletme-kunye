@@ -55,7 +55,7 @@ jobs:
           else
             git commit -m "veri: $SEHIR kunye guncellendi $(date -u +%F)"
             for i in 1 2 3; do
-              git pull --rebase origin main && git push && break
+              git pull --rebase origin "$GITHUB_REF_NAME" && git push origin "$GITHUB_REF_NAME" && break
               echo "push cakismasi, tekrar ($i)"; sleep 10
             done
           fi
