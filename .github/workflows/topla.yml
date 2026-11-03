@@ -19,9 +19,9 @@ permissions:
 jobs:
   topla:
     runs-on: ubuntu-latest
-    # Sirali: matrix isleri ayni dala push yaptigi icin yaris olmasin.
-    max-parallel: 1
     strategy:
+      # Sirali: matrix isleri ayni dala push yaptigi icin yaris olmasin.
+      max-parallel: 1
       fail-fast: false
       matrix:
         sehir:
