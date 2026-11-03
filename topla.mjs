@@ -184,6 +184,11 @@ export async function sehirTopla(sehirAdi, kokDizin = '.') {
   if (!sehir) throw new Error(`Bilinmeyen sehir: ${sehirAdi} (SEHIRLER listesine ekle)`)
   const bugun = new Date().toISOString().slice(0, 10)
   const ham = await overpassCek(overpassSorgusu(await alanKimligiBul(sehir.alan)))
+  // Bos sonuc ASLA yazilmaz: bu sehrin sektor setinde 0 kayit gercek olamaz;
+  // bos yanit ayna/ariza kaynaklidir ve onceki iyi veriyu ezmesin.
+  if (!Array.isArray(ham?.elements) || ham.elements.length === 0) {
+    throw new Error(`${sehirAdi}: Overpass bos/gedikli yanit dondu — yazma iptal edildi`)
+  }
 
   const sehirDizini = join(kokDizin, 'data', sehir.slug)
   mkdirSync(sehirDizini, { recursive: true })

@@ -1,7 +1,8 @@
 name: Sehir kunye toplama
 
-# Belirli bir sehrin halka acik isletme kunyesini Overpass'ten (OSM) toplar,
-# data/ altina yazar ve isler. Kisisel veri toplanmaz (bkz. README - KVKK).
+# Sehir(ler)in halka acik isletme kunyesini Overpass'ten (OSM) toplar, data/
+# altina yazar ve isler. Kisisel veri toplanmaz (bkz. README - KVKK).
+# Haftalik cron varsayilan seti (Istanbul Ankara Izmir); dispatch ile tek sehir.
 
 on:
   schedule:
@@ -9,7 +10,7 @@ on:
   workflow_dispatch:
     inputs:
       sehir:
-        description: "Şehir (SEHIRLER listesinden: Istanbul, Ankara, Izmir, Bursa, Antalya, Eskisehir)"
+        description: "Şehir(ler) boşlukla, boşsa haftalık set (Istanbul Ankara Izmir)"
         required: false
         default: ""
 
@@ -19,15 +20,6 @@ permissions:
 jobs:
   topla:
     runs-on: ubuntu-latest
-    strategy:
-      # Sirali: matrix isleri ayni dala push yaptigi icin yaris olmasin.
-      max-parallel: 1
-      fail-fast: false
-      matrix:
-        sehir:
-          - Istanbul
-          - Ankara
-          - Izmir
     steps:
       - uses: actions/checkout@v4
 
@@ -38,22 +30,25 @@ jobs:
       - name: Testler (KVKK beyaz listesi kilidi)
         run: node --test test/kunye.test.mjs
 
-      - name: Topla (${{ matrix.sehir }})
+      - name: Topla
         env:
-          SEHIR: ${{ github.event.inputs.sehir || matrix.sehir }}
-        run: node topla.mjs "$SEHIR"
+          SEHIR_GIRDISI: ${{ github.event.inputs.sehir }}
+        run: |
+          LISTE="${SEHIR_GIRDISI:-Istanbul Ankara Izmir}"
+          for S in $LISTE; do
+            echo "== $S =="
+            node topla.mjs "$S"
+          done
 
       - name: Kaydet
-        env:
-          SEHIR: ${{ github.event.inputs.sehir || matrix.sehir }}
         run: |
           git config user.name "kunye-bot"
           git config user.email "actions@users.noreply.github.com"
           git add data/
           if git diff --cached --quiet; then
-            echo "Degisiklik yok ($SEHIR)"
+            echo "Degisiklik yok"
           else
-            git commit -m "veri: $SEHIR kunye guncellendi $(date -u +%F)"
+            git commit -m "veri: kunye guncellendi $(date -u +%F)"
             for i in 1 2 3; do
               git pull --rebase origin "$GITHUB_REF_NAME" && git push origin "$GITHUB_REF_NAME" && break
               echo "push cakismasi, tekrar ($i)"; sleep 10
