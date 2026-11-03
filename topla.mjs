@@ -163,14 +163,19 @@ async function overpassCek(sorgu, deneme = 0) {
         'user-agent': 'isletme-kunye/1.0 (+https://github.com/eseans/isletme-kunye)',
       },
     })
-    if (istek.ok) return istek.json()
-    if (istek.status >= 400 && istek.status < 500 && istek.status !== 429) {
+    if (istek.ok) {
+      const yanit = await istek.json()
+      // 200 ama bos govde DE yeniden denenebilir arizadir: bazi aynalar alan
+      // sorgularini bos dondurebiliyor. Bu sorgularin hepsi buyuk sehrin sektor
+      // setini ister; 0 kayit gercek olamaz.
+      if (Array.isArray(yanit?.elements) && yanit.elements.length > 0) return yanit
+    } else if (istek.status >= 400 && istek.status < 500 && istek.status !== 429) {
       throw new Error(`Overpass ${istek.status}: ${(await istek.text()).slice(0, 200)}`)
     }
   } catch (h) {
     if (deneme >= UCLAR.length * 3) throw h
   }
-  if (deneme >= UCLAR.length * 3 - 1) throw new Error('Overpass uc noktalarinin hepsi mesgul')
+  if (deneme >= UCLAR.length * 3 - 1) throw new Error('Overpass uc noktalarinin hepsi bos/gedikli dondu')
   await bekle(15000 * tur)
   return overpassCek(sorgu, deneme + 1)
 }
