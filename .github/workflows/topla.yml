@@ -1,0 +1,61 @@
+name: Sehir kunye toplama
+
+# Belirli bir sehrin halka acik isletme kunyesini Overpass'ten (OSM) toplar,
+# data/ altina yazar ve isler. Kisisel veri toplanmaz (bkz. README - KVKK).
+
+on:
+  schedule:
+    - cron: "0 3 * * 1" # her pazartesi 03:00 UTC
+  workflow_dispatch:
+    inputs:
+      sehir:
+        description: "Şehir (SEHIRLER listesinden: Istanbul, Ankara, Izmir, Bursa, Antalya, Eskisehir)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+jobs:
+  topla:
+    runs-on: ubuntu-latest
+    # Sirali: matrix isleri ayni dala push yaptigi icin yaris olmasin.
+    max-parallel: 1
+    strategy:
+      fail-fast: false
+      matrix:
+        sehir:
+          - Istanbul
+          - Ankara
+          - Izmir
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Testler (KVKK beyaz listesi kilidi)
+        run: node --test test/kunye.test.mjs
+
+      - name: Topla (${{ matrix.sehir }})
+        env:
+          SEHIR: ${{ github.event.inputs.sehir || matrix.sehir }}
+        run: node topla.mjs "$SEHIR"
+
+      - name: Kaydet
+        env:
+          SEHIR: ${{ github.event.inputs.sehir || matrix.sehir }}
+        run: |
+          git config user.name "kunye-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "Degisiklik yok ($SEHIR)"
+          else
+            git commit -m "veri: $SEHIR kunye guncellendi $(date -u +%F)"
+            for i in 1 2 3; do
+              git pull --rebase origin main && git push && break
+              echo "push cakismasi, tekrar ($i)"; sleep 10
+            done
+          fi
