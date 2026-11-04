@@ -56,7 +56,7 @@ print(f'kategori id eslemesi: {len(id_sektor)}')
 # 2) Yerler: kolonlari kesfet, TR'yi cek.
 kol = [r[0] for r in con.execute(f"DESCRIBE SELECT * FROM read_parquet('{yer_dosya[0]}') LIMIT 1").fetchall()]
 sec = lambda *a: next((x for x in a if x in kol), None)
-id_kolon = sec('fsq_id', 'id', 'place_id')
+id_kolon = sec('fsq_place_id', 'fsq_id', 'id')
 ulke, kat_kolon = sec('country_code', 'country'), sec('category_ids', 'fsq_category_ids', 'category_id')
 tel, web, hrs = sec('telephone', 'tel'), sec('website'), sec('hours')
 reg, adres, ilce_k = sec('admin_region', 'region'), sec('address'), sec('locality')
@@ -69,15 +69,15 @@ rows = con.execute(f"""
         {reg or 'NULL'} AS bolge, {tel or 'NULL'} AS telefon, {web or 'NULL'} AS web,
         {hrs or 'NULL'} AS saat, {kat_kolon} AS katlar
  FROM read_parquet('fsq/places_*.parquet', union_by_name=true)
- WHERE {ulke} IN ('TR','Turkey','Türkiye','Turkiye') AND name IS NOT NULL AND latitude IS NOT NULL
+ WHERE {ulke} IN ('TR','Turkey','Türkiye','Turkiye') AND name IS NOT NULL AND latitude IS NOT NULL AND date_closed IS NULL
 """).fetchall()
 print(f'TR kayit: {len(rows)}')
 
 bugun = '2026-11-05'
 yeni, toplam = {}, 0
 for fsq_id, ad, lat, lng, adres_v, ilce_v, bolge, telefon, web_v, saat, katlar in rows:
-  kidler = json.loads(katlar) if isinstance(katlar, str) else (katlar or [])
-  sektorler = {id_sektor[str(k)] for k in kidler if str(k) in id_sektor}
+  etiketler = json.loads(katlar) if isinstance(katlar, str) else (katlar or [])
+  sektorler = {KATEGORI[str(e)] for e in etiketler if str(e) in KATEGORI}
   if not sektorler: continue
   slug = next((s for s, (a1, a2, b1, b2) in SEHIR_BBOX.items() if a1 <= lat <= a2 and b1 <= lng <= b2), None)
   if not slug: continue
