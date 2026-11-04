@@ -93,7 +93,7 @@ for fsq_id, ad, lat, lng, adres_v, ilce_v, bolge, telefon, web_v, saat, katlar i
   if not slug: continue
   for sek in sektorler:
     yeni.setdefault(slug, {}).setdefault(sek, []).append({
-      'ad': ad, 'sektor': sek, 'kategori': sek, 'hizmet_ipuclari': etiketler[:8],
+      'ad': ad, 'sektor': sek, 'kategori': sek, 'hizmet_ipuclari': sorted(kidler)[:8],
       'adres': adres_v, 'il': None, 'ilce': ilce_v or bolge, 'mahalle': None,
       'telefon': telefon, 'web': web_v, 'sosyal': [],
       'calisma_saatleri': (str(saat)[:200] if saat else None),
