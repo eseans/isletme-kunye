@@ -74,6 +74,8 @@ rows = con.execute(f"""
 print(f'TR kayit: {len(rows)}')
 
 bugun = '2026-11-05'
+ornek = [r[10] for r in rows if r[10]][:3]
+print('KATLAR ORNEK:', repr(ornek)[:600])
 yeni, toplam = {}, 0
 for fsq_id, ad, lat, lng, adres_v, ilce_v, bolge, telefon, web_v, saat, katlar in rows:
   def duzlestir(x):
