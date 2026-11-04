@@ -6,11 +6,14 @@ name: Sehir kunye toplama
 
 on:
   schedule:
-    - cron: "0 3 * * 1" # her pazartesi 03:00 UTC
+    # YOGUN DONEM: 2026-11-11'e kadar her gun Istanbul (Topla adimindaki
+    # SON_TARIH gecilince bu tur kendini atlar). Sonrasinda haftalik set.
+    - cron: "0 3 * * *"
+    - cron: "0 4 * * 1"
   workflow_dispatch:
     inputs:
       sehir:
-        description: "Şehir(ler) boşlukla, boşsa haftalık set (Istanbul Ankara Izmir)"
+        description: "Şehir(ler) boşlukla, boşsa varsayılan set (Istanbul Ankara Izmir)"
         required: false
         default: ""
 
@@ -33,8 +36,19 @@ jobs:
       - name: Topla
         env:
           SEHIR_GIRDISI: ${{ github.event.inputs.sehir }}
+          TAKVIM: ${{ github.event.schedule }}
+          SON_TARIH: "2026-11-11"
         run: |
-          LISTE="${SEHIR_GIRDISI:-Istanbul Ankara Izmir}"
+          BUGUN=$(date -u +%F)
+          if [ -n "$TAKVIM" ] && [ "$TAKVIM" = "0 3 * * *" ] && [[ "$BUGUN" > "$SON_TARIH" ]]; then
+            echo "Gunluk yogun donem bitti ($BUGUN > $SON_TARIH) - gunluk tur atlandi."
+            exit 0
+          fi
+          if [ -n "$TAKVIM" ] && [ "$TAKVIM" = "0 3 * * *" ]; then
+            LISTE="Istanbul"
+          else
+            LISTE="${SEHIR_GIRDISI:-Istanbul Ankara Izmir}"
+          fi
           for S in $LISTE; do
             echo "== $S =="
             node topla.mjs "$S"

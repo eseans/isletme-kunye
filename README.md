@@ -9,11 +9,11 @@ toplayan, sürümleyen ve yayımlayan otomatik depo. GitHub Actions haftada bir
 
 | Alan | Örnek |
 |---|---|
-| ad, sektör, kategori | "Ada Diş Kliniği", dis-klinigi |
+| ad, sektör, kategori, hizmet ipuçları | "Ada Diş Kliniği", dis-klinigi, [orthodontics, implant] |
 | il, ilçe, mahalle, adres | İstanbul · Kadıköy · Bağdat Cad. 120 |
 | telefon | yalnız kayıtta **kamuyla paylaşılmış** kurumsal numara |
 | web sitesi, sosyal medya hesabı | işletme hesapları |
-| çalışma saatleri | OSM `opening_hours` |
+| çalışma saatleri, randevu, engelli erişimi | OSM `opening_hours` / `appointment` / `wheelchair` |
 | koordinat + harita linki | Google Maps ve Yandex Maps **arama linkleri (hesaplanır, kazınmaz)** |
 
 ## Ne TOPLAMAZ (KVKK sınırı — kodla kilitli)
@@ -22,6 +22,10 @@ toplayan, sürümleyen ve yayımlayan otomatik depo. GitHub Actions haftada bir
 - ❌ E-posta adresleri
 - ❌ Kişisel telefon/WhatsApp
 - ❌ Puan, yorum, popülerlik (uydurma veri zaten ürün kuralı gereği yasak)
+
+**Puan/eşleşme sinyali:** harita servislerinin puanları ToS + KVKK gereği KAZINMAZ.
+Sinyal olarak OSM etiket zenginliği toplanır (hizmet ipuçları, randevu, dolgunluk);
+gerçek puanlar yalnız kendi platform değerlendirmelerinden birikecek.
 
 Bu sınır `test/kunye.test.mjs` ile kilitlidir: beyaz liste dışına alan
 ekleyen değişiklik testi kırmızısı yapar. Dayanak çerçeve: ana repodaki
@@ -62,6 +66,14 @@ Kayıt örneği:
   "kaynak": "osm", "ilk_gorulme": "2026-11-03", "son_gorulme": "2026-11-03"
 }
 ```
+
+## Tarama düzeni
+
+- **Yoğun dönem (2026-11-11'e kadar):** her gün 03:00 UTC'de İstanbul, ilçe ilçe
+  (39 parça) tazelenir — süre bitince workflow kendini atlar.
+- **Normal:** her pazartesi 04:00 UTC'de İstanbul + Ankara + İzmir.
+- Büyük şehirler `parcala: true` ile ilçe ilişkilerine bölünür (tek dev sorgu
+  eksik/noksallı döner); küçük şehirler tek parça.
 
 ## Yeni şehir ekleme
 

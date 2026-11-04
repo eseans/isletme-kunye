@@ -1,57 +1,54 @@
-// isletme-kunye — halka acik isletme kunyesi toplayici.
+// isletme-kunye — halka acik isletme kunyesi toplayici (v2).
 //
-// KAYNAK: OpenStreetMap (Overpass API). OSM verisi acik lisanslidir (ODbL) ve
-// kunye alanlari (ad, kategori, adres, telefon, web, calisma saati) katkicilar
-// tarafindan ISTENILENREK yayinlanir. Google/Yandex linkleri HESAPLANIR
-// (koordinat + ad ile resmi URL bicimi) — hicbir Maps servisi kazinmaz.
+// KAYNAK: OpenStreetMap (Overpass API), ODbL. Buyuk sehirler ILCE ILCE
+// taranir (tek dev alan sorgusu zaman asimina/dogruluga gomulur); kucuk
+// sehirler tek sorguda. Google/Yandex linkleri HESAPLANIR — hicbir Maps
+// servisi kazinmaz. PUAN/PUAN KAZIMA YOK: harita puanlari servis sartlarina
+// ve KVKK'ya takilir; sinyal olarak OSM etiket zenginligi toplanir.
 //
-// KVKK SINIRI (bkz. ana repo docs/261103.isletme-verisi-hukuk-matrisi.md):
-// alanni beyaz listesi DISINDA HICBIR etiket kayda girmez. Kisi adi
-// (operator, contact:name), e-posta, kimlik benzeri alanlar toplanmaz.
-// Bu, kodun degil URUN KARARININ parcasi: beyaz liste daraltilabilir,
-// genisletilmemelidir.
+// KVKK SINIRI: kayit sablonundaki beyaz liste DISINA HICBIR alan cikmaz
+// (kisi adi, e-posta, kisisel iletisim OKUNMAZ). test/kunye.test.mjs kilitler.
 //
-// Kullanim: node topla.mjs <Sehir>            (ornek: node topla.mersin... no)
-//           node topla.mjs Istanbul
-// Cikti:    data/<sehir-slug>/<sektor>.json + data/<sehir-slug>/_ozet.json
+// Kullanim: node topla.mjs <Sehir>     Cikti: data/<slug>/<sektor>.json
 
 import { writeFileSync, readFileSync, mkdirSync, existsSync } from 'node:fs'
 import { join } from 'node:path'
 
-// ── Sehirler (slug + Overpass geocodeArea adi). Yeni sehir buraya eklenir. ──
 export const SEHIRLER = {
-  Istanbul: { slug: 'istanbul', alan: 'İstanbul' },
-  Ankara: { slug: 'ankara', alan: 'Ankara' },
-  Izmir: { slug: 'izmir', alan: 'İzmir' },
-  Bursa: { slug: 'bursa', alan: 'Bursa' },
-  Antalya: { slug: 'antalya', alan: 'Antalya' },
+  Istanbul: { slug: 'istanbul', alan: 'İstanbul', parcala: true },
+  Ankara: { slug: 'ankara', alan: 'Ankara', parcala: true },
+  Izmir: { slug: 'izmir', alan: 'İzmir', parcala: true },
+  Bursa: { slug: 'bursa', alan: 'Bursa', parcala: true },
+  Antalya: { slug: 'antalya', alan: 'Antalya', parcala: true },
   Eskisehir: { slug: 'eskisehir', alan: 'Eskişehir' },
 }
 
-// ── Sektor eslemesi: OSM etiketi -> eSeans sektoru. ──
-// Yalniz randevuyla calisan isletme turleri; okul/pazar gibi alanlar YOK.
+// Sektor eslemesi: OSM etiketi -> sektor. Etiket DEGERI noktali virgulle
+// coklu olabilir (shop=hairdresser;beauty) — esleyici buna gore calisir.
 export const SEKTORLER = [
-  { ad: 'dis-klinigi', etiketler: [['amenity', 'dentist']] },
+  { ad: 'dis-klinigi', etiketler: [['amenity', 'dentist'], ['healthcare', 'dentist']] },
   { ad: 'klinik', etiketler: [['amenity', 'clinic'], ['amenity', 'doctors'], ['healthcare', 'clinic'], ['healthcare', 'doctor'], ['healthcare', 'centre'], ['healthcare', 'midwife']] },
   { ad: 'guzellik-salonu', etiketler: [['shop', 'beauty'], ['shop', 'cosmetics'], ['shop', 'perfumery']] },
   { ad: 'kuafor', etiketler: [['shop', 'hairdresser'], ['shop', 'barber']] },
   { ad: 'spor-salonu', etiketler: [['leisure', 'fitness_centre'], ['leisure', 'sports_centre']] },
   { ad: 'spa-masaj', etiketler: [['shop', 'massage'], ['leisure', 'spa']] },
-  { ad: 'dovme', etiketler: [['shop', 'tattoo'], ['craft', 'tattoo']] },
+  { ad: 'dovme', etiketler: [['shop', 'tattoo'], ['craft', 'tattoo'], ['shop', 'piercing']] },
   { ad: 'veteriner', etiketler: [['amenity', 'veterinary']] },
-  { ad: 'psikoloji', etiketler: [['healthcare', 'psychologist'], ['office', 'psychologist'], ['office', 'therapist']] },
+  { ad: 'psikoloji', etiketler: [['healthcare', 'psychologist'], ['healthcare', 'psychotherapist'], ['office', 'psychologist'], ['office', 'therapist']] },
   { ad: 'diyetisyen', etiketler: [['healthcare', 'dietitian'], ['office', 'dietitian']] },
+  { ad: 'fizyoterapi', etiketler: [['healthcare', 'physiotherapist'], ['healthcare', 'chiropractor']] },
+  { ad: 'tamamlayici-tip', etiketler: [['healthcare', 'alternative'], ['healthcare', 'homed'] ] },
+  { ad: 'egitim-kurs', etiketler: [['amenity', 'language_school'], ['amenity', 'music_school'], ['amenity', 'dancing_school'], ['amenity', 'driving_school'], ['amenity', 'prep_school'], ['office', 'educational_institution']] },
+  { ad: 'optik', etiketler: [['shop', 'optician']] },
   { ad: 'fotografci', etiketler: [['shop', 'photo'], ['craft', 'photographer']] },
 ]
 
-// ── KVKK: kunye alanni beyaz listesi. BUNUN DISINA CIKMA. ──
-// Kisi adlari (operator, contact:name, owner), e-posta, TCKN benzeri her sey
-// bu listeye HIc girmedi; eslemede de okunmaz.
+// KVKK beyaz listesi — DISINA CIKMA.
 const KAYIT_SABLONU = {
-  ad: null, sektor: null, kategori: null,
+  ad: null, sektor: null, kategori: null, hizmet_ipuclari: [],
   adres: null, il: null, ilce: null, mahalle: null,
   telefon: null, web: null, sosyal: [],
-  calisma_saatleri: null,
+  calisma_saatleri: null, randevu: null, engelli_erisimi: null,
   lat: null, lng: null,
   maps_url: null, yandex_url: null, osm_url: null,
   kaynak: 'osm', ilk_gorulme: null, son_gorulme: null,
@@ -66,34 +63,45 @@ const cok = (etiket, ...anahtarlar) => {
   }
   return null
 }
+const coklu = (v) => String(v || '').split(';').map((x) => x.trim()).filter(Boolean)
 
-// Tek bir OSM ogesini kunye kaydina cevirir. Kisisel alan okumaz.
-export function kayitEsle(oge, sektor, sehir, bugun) {
+export const sektoreUyar = (oge, etiketler) => {
+  const t = oge?.tags || {}
+  return etiketler.some(([anahtar, deger]) => coklu(t[anahtar]).includes(deger))
+}
+
+// OSM'de hizmet/nitelik tasiyan yan-etiket ad uzaylari (künye tamamlayıcısı).
+const IPUCU_ANAHTARLARI = ['healthcare:speciality', 'beauty', 'sport', 'cuisine', 'tutor']
+
+export function kayitEsle(oge, sektor, sehir, ilceAdi, bugun) {
   const e = oge.tags || {}
   const ad = oz(e.name)
-  if (!ad) return null // isimsiz ogeler vitrin degil
+  if (!ad) return null
   const lat = oge.lat ?? oge?.center?.lat ?? null
   const lng = oge.lon ?? oge?.center?.lon ?? null
   const adres = [oz(e['addr:housenumber']), oz(e['addr:street']), oz(e['addr:neighbourhood'])].filter(Boolean).join(' ') || null
   const sosyal = []
-  for (const [anahtar, ad_] of [['contact:instagram', 'instagram'], ['contact:facebook', 'facebook'], ['contact:twitter', 'x']]) {
+  for (const [anahtar, tur] of [['contact:instagram', 'instagram'], ['contact:facebook', 'facebook'], ['contact:twitter', 'x']]) {
     const v = oz(e[anahtar])
-    if (v) sosyal.push({ tur: ad_, deger: v.startsWith('http') ? v : `https://${ad_ === 'x' ? 'x' : ad_}.com/${v.replace(/^@/, '')}` })
+    if (v) sosyal.push({ tur, deger: v.startsWith('http') ? v : `https://${tur === 'x' ? 'x' : tur}.com/${v.replace(/^@/, '')}` })
   }
+  const ipuclari = [...new Set(IPUCU_ANAHTARLARI.flatMap((a) => coklu(e[a])))].slice(0, 8)
   const sorgu = lat != null ? `${lat},${lng}` : `${ad} ${sehir}`
   return {
     ...KAYIT_SABLONU,
-    ad,
-    sektor,
+    ad, sektor,
     kategori: oz(e['healthcare:speciality']) || sektor,
+    hizmet_ipuclari: ipuclari,
     adres,
     il: oz(e['addr:city']) || sehir,
-    ilce: oz(e['addr:district']) || oz(e['addr:suburb']) || null,
+    ilce: oz(e['addr:district']) || oz(e['addr:suburb']) || ilceAdi,
     mahalle: oz(e['addr:neighbourhood']) || oz(e['addr:quarter']) || null,
     telefon: cok(e, 'phone', 'contact:phone', 'contact:mobile'),
     web: cok(e, 'website', 'contact:website'),
     sosyal,
     calisma_saatleri: cok(e, 'opening_hours'),
+    randevu: oz(e.appointment),
+    engelli_erisimi: oz(e.wheelchair),
     lat, lng,
     maps_url: `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(sorgu)}`,
     yandex_url: `https://yandex.com/maps/?text=${encodeURIComponent(ad + ' ' + sehir)}${lng != null ? `&ll=${lng}%2C${lat}&z=17` : ''}`,
@@ -125,9 +133,6 @@ export function overpassSorgusu(alanKimligi) {
   return `[out:json][timeout:300];area(${alanKimligi})->.a;(\n${parcalar.join('\n')}\n);out center tags;`
 }
 
-// Sehir adini Nominatim ile iliskiye cozup Overpass alan kimligine cevirir.
-// geocodeArea kisayolu bazi aynalarda kapali oldugundan sayisal kimlik
-// kullanilir. Iliski -> 3600000000+id (Overpass adresleme duzeni).
 export async function alanKimligiBul(alanAdi) {
   const istek = await fetch('https://nominatim.openstreetmap.org/search?q=' + encodeURIComponent(alanAdi) + '&format=json&limit=5&accept-language=tr', {
     headers: { 'user-agent': 'isletme-kunye/1.0 (+https://github.com/eseans/isletme-kunye)' },
@@ -141,8 +146,19 @@ export async function alanKimligiBul(alanAdi) {
   return 3600000000 + Number(secilen.osm_id)
 }
 
-// Overpass ana sunucusu sik doluyor; resmi aynalar sirayla denenir (bkz.
-// overpass-api.de/mirrors). 429/5xx ve ag hatalarinda ustel beklemeyle tekrar.
+// Ilceleri (admin_level=6, Turkiye duzeni) cozer; bulunamazsa ilin kendisi
+// tek parca olarak doner. Buyuk sehri tek sorguda taramak zaman asimina
+// takilir — parcali tarama hem tamamlar hem guvenilir olur.
+export async function parcalarBul(sehir, ilAlani) {
+  if (!sehir.parcala) return [{ ad: sehir.alan, kimlik: ilAlani }]
+  const q = `[out:json][timeout:120];area(${ilAlani})->.il;relation["boundary"="administrative"]["admin_level"="6"](area.il);out ids tags;`
+  const yanit = await overpassCek(q, 0, true)
+  const ilceler = (yanit?.elements || [])
+    .filter((r) => r.tags?.name)
+    .map((r) => ({ ad: r.tags.name, kimlik: 3600000000 + r.id }))
+  return ilceler.length ? ilceler : [{ ad: sehir.alan, kimlik: ilAlani }]
+}
+
 const UCLAR = [
   'https://overpass-api.de/api/interpreter',
   'https://overpass.kumi.systems/api/interpreter',
@@ -151,7 +167,8 @@ const UCLAR = [
 ]
 const bekle = (ms) => new Promise((c) => setTimeout(c, ms))
 
-async function overpassCek(sorgu, deneme = 0) {
+// bosKabul: ilce listesi gibi gercekten bos olabilecek ara sorgular icin.
+async function overpassCek(sorgu, deneme = 0, bosKabul = false) {
   const uc = UCLAR[deneme % UCLAR.length]
   const tur = Math.floor(deneme / UCLAR.length) + 1
   try {
@@ -165,10 +182,7 @@ async function overpassCek(sorgu, deneme = 0) {
     })
     if (istek.ok) {
       const yanit = await istek.json()
-      // 200 ama bos govde DE yeniden denenebilir arizadir: bazi aynalar alan
-      // sorgularini bos dondurebiliyor. Bu sorgularin hepsi buyuk sehrin sektor
-      // setini ister; 0 kayit gercek olamaz.
-      if (Array.isArray(yanit?.elements) && yanit.elements.length > 0) return yanit
+      if (Array.isArray(yanit?.elements) && (bosKabul || yanit.elements.length > 0)) return yanit
     } else if (istek.status >= 400 && istek.status < 500 && istek.status !== 429) {
       throw new Error(`Overpass ${istek.status}: ${(await istek.text()).slice(0, 200)}`)
     }
@@ -177,35 +191,39 @@ async function overpassCek(sorgu, deneme = 0) {
   }
   if (deneme >= UCLAR.length * 3 - 1) throw new Error('Overpass uc noktalarinin hepsi bos/gedikli dondu')
   await bekle(15000 * tur)
-  return overpassCek(sorgu, deneme + 1)
+  return overpassCek(sorgu, deneme + 1, bosKabul)
 }
-
-// Ogesi bu sektorun etiket kurallarindan en az birine uyuyor mu?
-export const sektoreUyar = (oge, etiketler) =>
-  etiketler.some(([anahtar, deger]) => oge?.tags?.[anahtar] === deger)
 
 export async function sehirTopla(sehirAdi, kokDizin = '.') {
   const sehir = SEHIRLER[sehirAdi]
   if (!sehir) throw new Error(`Bilinmeyen sehir: ${sehirAdi} (SEHIRLER listesine ekle)`)
   const bugun = new Date().toISOString().slice(0, 10)
-  const ham = await overpassCek(overpassSorgusu(await alanKimligiBul(sehir.alan)))
-  // Bos sonuc ASLA yazilmaz: bu sehrin sektor setinde 0 kayit gercek olamaz;
-  // bos yanit ayna/ariza kaynaklidir ve onceki iyi veriyu ezmesin.
-  if (!Array.isArray(ham?.elements) || ham.elements.length === 0) {
-    throw new Error(`${sehirAdi}: Overpass bos/gedikli yanit dondu — yazma iptal edildi`)
+  const ilAlani = await alanKimligiBul(sehir.alan)
+  const parcalar = await parcalarBul(sehir, ilAlani)
+
+  const kayitlar = new Map() // osm_url -> { sektorler:Set, oge, ilce }
+  for (const parca of parcalar) {
+    const yanit = await overpassCek(overpassSorgusu(parca.kimlik))
+    for (const oge of yanit.elements) {
+      const anahtar = `${oge.type}/${oge.id}`
+      const mevcut = kayitlar.get(anahtar) || { oge, ilce: parca.ad, sektorler: new Set() }
+      for (const s of SEKTORLER) if (sektoreUyar(oge, s.etiketler)) mevcut.sektorler.add(s.ad)
+      // Ilce etiketi yoksa tarama parcasindan doldur; varsa etiket kazanir.
+      if (!mevcut.oge.tags?.['addr:district'] && !mevcut.oge.tags?.['addr:suburb']) mevcut.oge = { ...mevcut.oge, ilceParca: parca.ad }
+      kayitlar.set(anahtar, mevcut)
+    }
   }
+  if (!kayitlar.size) throw new Error(`${sehirAdi}: hic kayit gelmedi — yazma iptal`)
 
   const sehirDizini = join(kokDizin, 'data', sehir.slug)
   mkdirSync(sehirDizini, { recursive: true })
+  const ozet = { sehir: sehirAdi, tarih: bugun, kaynak: '© OpenStreetMap katkıcıları (ODbL)', parca_sayisi: parcalar.length, sektorler: {}, toplam: 0 }
 
-  const ozet = { sehir: sehirAdi, tarih: bugun, kaynak: '© OpenStreetMap katkıcıları (ODbL)', ham_oge: ham.elements.length, sektorler: {}, toplam: 0 }
   for (const s of SEKTORLER) {
-    const yeniler = ham.elements
-      .filter((o) => sektoreUyar(o, s.etiketler))
-      .map((o) => kayitEsle(o, s.ad, sehirAdi, bugun))
+    const yeniler = [...kayitlar.values()]
+      .filter((k) => k.sektorler.has(s.ad))
+      .map((k) => kayitEsle(k.oge, s.ad, sehirAdi, k.oge.ilceParca || k.ilce, bugun))
       .filter(Boolean)
-    // Bir isletme birden fazla sektor etiketi tasiyabilir; kayit sektorune
-    // ozel dosyalarda tutulur (dosya = sektor gorunumu).
     const dosya = join(sehirDizini, `${s.ad}.json`)
     const eskiler = existsSync(dosya) ? JSON.parse(readFileSync(dosya, 'utf8')) : []
     const birlesik = birlestir(eskiler, yeniler)
@@ -217,7 +235,6 @@ export async function sehirTopla(sehirAdi, kokDizin = '.') {
   return ozet
 }
 
-// ── CLI ──
 const cliMi = process.argv[1] && process.argv[1].endsWith('topla.mjs')
 if (cliMi) {
   const sehir = process.argv[2]
@@ -226,6 +243,6 @@ if (cliMi) {
     process.exit(1)
   }
   sehirTopla(sehir)
-    .then((o) => console.log(`${o.sehir}: ${o.toplam} kunye — ${o.tarih}`))
+    .then((o) => console.log(`${o.sehir}: ${o.toplam} kunye (${o.parca_sayisi} parca) — ${o.tarih}`))
     .catch((h) => { console.error('Hata:', h.message); process.exit(1) })
 }
