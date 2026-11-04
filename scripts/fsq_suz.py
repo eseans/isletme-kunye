@@ -28,6 +28,9 @@ SEHIR_BBOX = {
   'izmir':(38.20,38.60,26.90,27.35),'bursa':(40.15,40.45,28.80,29.40),
   'antalya':(36.80,37.10,30.50,30.90),'eskisehir':(39.65,39.85,30.40,30.65),
 }
+def temizle(ad):
+  return ' '.join(str(ad).lower().replace('’', "'").replace('–', '-').split())
+
 def norm(ad):
   k = unicodedata.normalize('NFKD', ad or '')
   k = ''.join(c for c in k if not unicodedata.combining(c)).lower()
@@ -49,9 +52,9 @@ for yol in boyut_dosya:
   for satir in con.execute(f"SELECT {id_kolon}, {', '.join(ad_kolonlari)} FROM read_parquet('{yol}')").fetchall():
     for v in satir[1:]:
       if not v: continue
-      ad_ = str(v).lower()
+      ad_ = temizle(str(v))
       for anahtar, sek in KATEGORI.items():
-        if anahtar.lower() in ad_ or ad_ in anahtar.lower():
+        if temizle(anahtar) == ad_:
           id_sektor[str(satir[0])] = sek
           break
       if str(satir[0]) in id_sektor: break
