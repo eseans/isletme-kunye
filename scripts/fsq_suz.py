@@ -56,14 +56,15 @@ print(f'kategori id eslemesi: {len(id_sektor)}')
 # 2) Yerler: kolonlari kesfet, TR'yi cek.
 kol = [r[0] for r in con.execute(f"DESCRIBE SELECT * FROM read_parquet('{yer_dosya[0]}') LIMIT 1").fetchall()]
 sec = lambda *a: next((x for x in a if x in kol), None)
+id_kolon = sec('fsq_id', 'id', 'place_id')
 ulke, kat_kolon = sec('country_code', 'country'), sec('category_ids', 'fsq_category_ids', 'category_id')
 tel, web, hrs = sec('telephone', 'tel'), sec('website'), sec('hours')
 reg, adres, ilce_k = sec('admin_region', 'region'), sec('address'), sec('locality')
 print('ulke:', ulke, '| kategori:', kat_kolon, '| tel/web:', tel, web)
-assert ulke and kat_kolon
+assert ulke and kat_kolon and id_kolon
 
 rows = con.execute(f"""
- SELECT fsq_id, name, latitude, longitude, {adres or 'NULL'} AS adres, {ilce_k or 'NULL'} AS ilce,
+ SELECT {id_kolon} AS fsq_id, name, latitude, longitude, {adres or 'NULL'} AS adres, {ilce_k or 'NULL'} AS ilce,
         {reg or 'NULL'} AS bolge, {tel or 'NULL'} AS telefon, {web or 'NULL'} AS web,
         {hrs or 'NULL'} AS saat, {kat_kolon} AS katlar
  FROM read_parquet('fsq/places_*.parquet', union_by_name=true)
