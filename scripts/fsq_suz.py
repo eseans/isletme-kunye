@@ -61,7 +61,8 @@ ulke, kat_kolon = sec('country_code', 'country'), sec('category_ids', 'fsq_categ
 tel, web, hrs = sec('telephone', 'tel'), sec('website'), sec('hours')
 reg, adres, ilce_k = sec('admin_region', 'region'), sec('address'), sec('locality')
 print('ulke:', ulke, '| kategori:', kat_kolon, '| tel/web:', tel, web)
-assert ulke and kat_kolon and id_kolon
+print('YER KOLONLARI:', kol)
+assert ulke and kat_kolon and id_kolon, 'id/ulke/kategori kolonu yok — yukaridaki listeye bak'
 
 rows = con.execute(f"""
  SELECT {id_kolon} AS fsq_id, name, latitude, longitude, {adres or 'NULL'} AS adres, {ilce_k or 'NULL'} AS ilce,
