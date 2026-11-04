@@ -9,7 +9,18 @@ const api = async (p) => (await fetch('https://huggingface.co/api/datasets/fours
 
 const surumler = (await api('release')).filter((x) => x.type === 'directory' && /dt=\d{4}/.test(x.path)).map((x) => x.path)
 const son = surumler.sort().pop()
-const dosyalar = (await api(son)).filter((x) => x.path.endsWith('.parquet'))
+
+// Parquet'ler ic ice dizinlerde olabilir (dt=.../<boluk>/...): agaci yuruyerek topla.
+const parquetler = []
+async function yuru(yol, derinlik = 0) {
+  if (derinlik > 4) return
+  for (const d of await api(yol)) {
+    if (d.type === 'file' && d.path.endsWith('.parquet')) parquetler.push(d)
+    else if (d.type === 'directory') await yuru(d.path, derinlik + 1)
+  }
+}
+await yuru(son)
+const dosyalar = parquetler
 console.log(`${son}: ${dosyalar.length} parquet`)
 mkdirSync('fsq', { recursive: true })
 let i = 0
