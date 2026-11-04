@@ -76,14 +76,18 @@ print(f'TR kayit: {len(rows)}')
 bugun = '2026-11-05'
 yeni, toplam = {}, 0
 for fsq_id, ad, lat, lng, adres_v, ilce_v, bolge, telefon, web_v, saat, katlar in rows:
-  etiketler = json.loads(katlar) if isinstance(katlar, str) else (katlar or [])
+  def duzlestir(x):
+    if isinstance(x, str): return [x]
+    if isinstance(x, (list, tuple)): return [i for e in x for i in duzlestir(e)]
+    return [str(x)]
+  etiketler = duzlestir(json.loads(katlar) if isinstance(katlar, str) else (katlar or []))
   sektorler = {KATEGORI[str(e)] for e in etiketler if str(e) in KATEGORI}
   if not sektorler: continue
   slug = next((s for s, (a1, a2, b1, b2) in SEHIR_BBOX.items() if a1 <= lat <= a2 and b1 <= lng <= b2), None)
   if not slug: continue
   for sek in sektorler:
     yeni.setdefault(slug, {}).setdefault(sek, []).append({
-      'ad': ad, 'sektor': sek, 'kategori': sek, 'hizmet_ipuclari': [],
+      'ad': ad, 'sektor': sek, 'kategori': sek, 'hizmet_ipuclari': etiketler[:8],
       'adres': adres_v, 'il': None, 'ilce': ilce_v or bolge, 'mahalle': None,
       'telefon': telefon, 'web': web_v, 'sosyal': [],
       'calisma_saatleri': (str(saat)[:200] if saat else None),
