@@ -48,9 +48,13 @@ for yol in boyut_dosya:
   if not ad_kolonlari or not id_kolon: continue
   for satir in con.execute(f"SELECT {id_kolon}, {', '.join(ad_kolonlari)} FROM read_parquet('{yol}')").fetchall():
     for v in satir[1:]:
-      if v and str(v) in KATEGORI:
-        id_sektor[str(satir[0])] = KATEGORI[str(v)]
-        break
+      if not v: continue
+      ad_ = str(v).lower()
+      for anahtar, sek in KATEGORI.items():
+        if anahtar.lower() in ad_ or ad_ in anahtar.lower():
+          id_sektor[str(satir[0])] = sek
+          break
+      if str(satir[0]) in id_sektor: break
 print(f'kategori id eslemesi: {len(id_sektor)}')
 
 # 2) Yerler: kolonlari kesfet, TR'yi cek.
@@ -82,8 +86,8 @@ for fsq_id, ad, lat, lng, adres_v, ilce_v, bolge, telefon, web_v, saat, katlar i
     if isinstance(x, str): return [x]
     if isinstance(x, (list, tuple)): return [i for e in x for i in duzlestir(e)]
     return [str(x)]
-  etiketler = duzlestir(json.loads(katlar) if isinstance(katlar, str) else (katlar or []))
-  sektorler = {KATEGORI[str(e)] for e in etiketler if str(e) in KATEGORI}
+  kidler = set(duzlestir(json.loads(katlar) if isinstance(katlar, str) else (katlar or [])))
+  sektorler = {id_sektor[k] for k in kidler if k in id_sektor}
   if not sektorler: continue
   slug = next((s for s, (a1, a2, b1, b2) in SEHIR_BBOX.items() if a1 <= lat <= a2 and b1 <= lng <= b2), None)
   if not slug: continue
