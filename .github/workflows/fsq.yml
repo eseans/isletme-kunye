@@ -1,0 +1,44 @@
+name: FSQ iceri aktarma
+
+# Foursquare OS Places (Apache 2.0) acik setinden Turkiye kunyelerini iceri
+# aktarir: parquet indir (FSQ_HF_TOKEN secret) -> DuckDB suz -> OSM ile
+# birlestir -> commit. Aylik + manuel. FSQ NOTICE: scripts/fsq_indir.mjs
+# kaynagini loglar; veri "Foursquare OS Places, Apache 2.0" ile atifli.
+
+on:
+  schedule:
+    - cron: "0 5 2 * *" # ayin 2'si 05:00 UTC
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  fsq:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 20 }
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+
+      - name: DuckDB kur
+        run: pip install duckdb
+
+      - name: Parquet indir
+        env:
+          FSQ_HF_TOKEN: ${{ secrets.FSQ_HF_TOKEN }}
+        run: node scripts/fsq_indir.mjs
+
+      - name: Suz ve birlestir
+        run: python3 scripts/fsq_suz.py
+
+      - name: Kaydet
+        run: |
+          git config user.name "kunye-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet && echo "Degisiklik yok" || \
+            { git commit -m "veri: FSQ iceri aktarma $(date -u +%F)" && \
+              git pull --rebase origin "$GITHUB_REF_NAME" && git push origin "$GITHUB_REF_NAME"; }
