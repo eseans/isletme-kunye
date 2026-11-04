@@ -202,22 +202,28 @@ export async function sehirTopla(sehirAdi, kokDizin = '.') {
   const parcalar = await parcalarBul(sehir, ilAlani)
 
   const kayitlar = new Map() // osm_url -> { sektorler:Set, oge, ilce }
+  const hataliParcalar = []
   for (const parca of parcalar) {
-    const yanit = await overpassCek(overpassSorgusu(parca.kimlik))
-    for (const oge of yanit.elements) {
-      const anahtar = `${oge.type}/${oge.id}`
-      const mevcut = kayitlar.get(anahtar) || { oge, ilce: parca.ad, sektorler: new Set() }
-      for (const s of SEKTORLER) if (sektoreUyar(oge, s.etiketler)) mevcut.sektorler.add(s.ad)
-      // Ilce etiketi yoksa tarama parcasindan doldur; varsa etiket kazanir.
-      if (!mevcut.oge.tags?.['addr:district'] && !mevcut.oge.tags?.['addr:suburb']) mevcut.oge = { ...mevcut.oge, ilceParca: parca.ad }
-      kayitlar.set(anahtar, mevcut)
+    // Tek ilce hatasi sehir kaybetmesin: hata loglanir, kalan parcalar devam
+    // eder. Hicbiri gelmezse sehir yazilmaz (aşağıdaki kontrol).
+    try {
+      const yanit = await overpassCek(overpassSorgusu(parca.kimlik))
+      for (const oge of yanit.elements) {
+        const anahtar = `${oge.type}/${oge.id}`
+        const mevcut = kayitlar.get(anahtar) || { oge, ilce: parca.ad, sektorler: new Set() }
+        for (const s of SEKTORLER) if (sektoreUyar(oge, s.etiketler)) mevcut.sektorler.add(s.ad)
+        if (!mevcut.oge.tags?.['addr:district'] && !mevcut.oge.tags?.['addr:suburb']) mevcut.oge = { ...mevcut.oge, ilceParca: parca.ad }
+        kayitlar.set(anahtar, mevcut)
+      }
+    } catch (h) {
+      hataliParcalar.push(`${parca.ad}: ${h.message}`)
     }
   }
-  if (!kayitlar.size) throw new Error(`${sehirAdi}: hic kayit gelmedi — yazma iptal`)
+  if (!kayitlar.size) throw new Error(`${sehirAdi}: hicbir parcadan kayit gelmedi — yazma iptal`)
 
   const sehirDizini = join(kokDizin, 'data', sehir.slug)
   mkdirSync(sehirDizini, { recursive: true })
-  const ozet = { sehir: sehirAdi, tarih: bugun, kaynak: '© OpenStreetMap katkıcıları (ODbL)', parca_sayisi: parcalar.length, sektorler: {}, toplam: 0 }
+  const ozet = { sehir: sehirAdi, tarih: bugun, kaynak: '© OpenStreetMap katkıcıları (ODbL)', parca_sayisi: parcalar.length, hatali_parca: hataliParcalar, sektorler: {}, toplam: 0 }
 
   for (const s of SEKTORLER) {
     const yeniler = [...kayitlar.values()]
