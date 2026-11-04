@@ -66,8 +66,8 @@ rows = con.execute(f"""
  SELECT fsq_id, name, latitude, longitude, {adres or 'NULL'} AS adres, {ilce_k or 'NULL'} AS ilce,
         {reg or 'NULL'} AS bolge, {tel or 'NULL'} AS telefon, {web or 'NULL'} AS web,
         {hrs or 'NULL'} AS saat, {kat_kolon} AS katlar
- FROM read_parquet({yer_dosya!r})
- WHERE {ulke} = 'TR' AND name IS NOT NULL AND latitude IS NOT NULL
+ FROM read_parquet('fsq/places_*.parquet', union_by_name=true)
+ WHERE {ulke} IN ('TR','Turkey','Türkiye','Turkiye') AND name IS NOT NULL AND latitude IS NOT NULL
 """).fetchall()
 print(f'TR kayit: {len(rows)}')
 
