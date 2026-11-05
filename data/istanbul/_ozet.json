@@ -1,24 +1,27 @@
 {
   "sehir": "Istanbul",
-  "tarih": "2026-11-04",
+  "tarih": "2026-11-05",
   "kaynak": "© OpenStreetMap katkıcıları (ODbL)",
   "parca_sayisi": 39,
+  "hatali_parca": [
+    "Büyükçekmece: Overpass uc noktalarinin hepsi bos/gedikli dondu"
+  ],
   "sektorler": {
-    "dis-klinigi": 404,
-    "klinik": 701,
-    "guzellik-salonu": 542,
-    "kuafor": 1680,
-    "spor-salonu": 427,
-    "spa-masaj": 12,
-    "dovme": 40,
-    "veteriner": 185,
-    "psikoloji": 14,
-    "diyetisyen": 0,
-    "fizyoterapi": 3,
+    "dis-klinigi": 405,
+    "klinik": 702,
+    "guzellik-salonu": 544,
+    "kuafor": 1681,
+    "spor-salonu": 428,
+    "spa-masaj": 13,
+    "dovme": 41,
+    "veteriner": 188,
+    "psikoloji": 17,
+    "diyetisyen": 1,
+    "fizyoterapi": 4,
     "tamamlayici-tip": 1,
-    "egitim-kurs": 408,
+    "egitim-kurs": 411,
     "optik": 317,
-    "fotografci": 169
+    "fotografci": 170
   },
-  "toplam": 4903
+  "toplam": 4923
 }
