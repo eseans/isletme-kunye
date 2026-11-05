@@ -55,6 +55,16 @@ const KAYIT_SABLONU = {
 }
 
 const oz = (v) => (typeof v === 'string' ? v.trim() : null) || null
+// Turin harflerini katlayan slug (ana repo lib/kesfet.js ile ayni kurallar;
+// sitemap ile vitrin sayfasi ayni URL'yi uretmek ZORUNDA).
+export function slugla(s) {
+  const harita = { 'ç': 'c', 'ğ': 'g', 'ı': 'i', 'İ': 'i', 'ö': 'o', 'ş': 's', 'ü': 'u' }
+  return String(s || '').toLowerCase()
+    .replace(/[çğıöşüİ]/g, (ch) => harita[ch] || ch)
+    .normalize('NFKD').replace(/[̀-ͯ]/g, '')
+    .replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '').slice(0, 48)
+}
+
 // Cep numarasi (5xx) KISISEL sayilir: kunyeye hic girmez (KVKK, kullanici karari).
 export function cepMi(telefon) {
   if (!telefon) return false
