@@ -34,11 +34,14 @@ jobs:
       - name: Suz ve birlestir
         run: python3 scripts/fsq_suz.py
 
+      - name: Site disari aktar
+        run: node scripts/site_disari.mjs
+
       - name: Kaydet
         run: |
           git config user.name "kunye-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add data/
+          git add data/ site/
           git diff --cached --quiet && echo "Degisiklik yok" || \
             { git commit -m "veri: FSQ iceri aktarma $(date -u +%F)" && \
               git pull --rebase origin "$GITHUB_REF_NAME" && git push origin "$GITHUB_REF_NAME"; }

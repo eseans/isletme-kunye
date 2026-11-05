@@ -54,11 +54,14 @@ jobs:
             node topla.mjs "$S"
           done
 
+      - name: Site disari aktar
+        run: node scripts/site_disari.mjs
+
       - name: Kaydet
         run: |
           git config user.name "kunye-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add data/
+          git add data/ site/
           if git diff --cached --quiet; then
             echo "Degisiklik yok"
           else
