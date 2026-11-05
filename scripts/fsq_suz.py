@@ -31,6 +31,13 @@ SEHIR_BBOX = {
 def temizle(ad):
   return ' '.join(str(ad).lower().replace('’', "'").replace('–', '-').split())
 
+def cepmi(t):
+    if not t: return False
+    h = re.sub(r'[^\d+]', '', str(t)).lstrip('+')
+    if h.startswith('90') and len(h) == 12: h = h[2:]
+    h = h.lstrip('0')
+    return bool(re.match(r'^5\d{9}$', h))
+
 def norm(ad):
   k = unicodedata.normalize('NFKD', ad or '')
   k = ''.join(c for c in k if not unicodedata.combining(c)).lower()
@@ -98,7 +105,7 @@ for fsq_id, ad, lat, lng, adres_v, ilce_v, bolge, telefon, web_v, saat, katlar i
     yeni.setdefault(slug, {}).setdefault(sek, []).append({
       'ad': ad, 'sektor': sek, 'kategori': sek, 'hizmet_ipuclari': sorted(kidler)[:8],
       'adres': adres_v, 'il': None, 'ilce': ilce_v or bolge, 'mahalle': None,
-      'telefon': telefon, 'web': web_v, 'sosyal': [],
+      'telefon': (None if cepmi(telefon) else telefon), 'web': web_v, 'sosyal': [],
       'calisma_saatleri': (str(saat)[:200] if saat else None),
       'randevu': None, 'engelli_erisimi': None, 'lat': lat, 'lng': lng,
       'maps_url': f'https://www.google.com/maps/search/?api=1&query={lat},{lng}',
@@ -126,6 +133,7 @@ for slug, sektorler in yeni.items():
         eslesti['son_gorulme'] = bugun
         eslesti['fsq_id'] = a['fsq_id']
         for alan in ('telefon', 'web', 'adres', 'calisma_saatleri'):
+          if alan != 'telefon' or (a.get(alan) and not cepmi(a.get(alan))):
           if not eslesti.get(alan) and a.get(alan): eslesti[alan] = a[alan]; zengin += 1
       else:
         eski.append(a); eklendi += 1

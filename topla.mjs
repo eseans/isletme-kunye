@@ -55,6 +55,15 @@ const KAYIT_SABLONU = {
 }
 
 const oz = (v) => (typeof v === 'string' ? v.trim() : null) || null
+// Cep numarasi (5xx) KISISEL sayilir: kunyeye hic girmez (KVKK, kullanici karari).
+export function cepMi(telefon) {
+  if (!telefon) return false
+  let h = String(telefon).replace(/[^\d+]/g, '').replace(/^\+/, '')
+  if (h.startsWith('90') && h.length === 12) h = h.slice(2)
+  if (h.startsWith('0')) h = h.replace(/^0+/, '')
+  return /^5\d{9}$/.test(h)
+}
+
 const cok = (etiket, ...anahtarlar) => {
   for (const a of anahtarlar) {
     const v = etiket[a]
@@ -96,7 +105,7 @@ export function kayitEsle(oge, sektor, sehir, ilceAdi, bugun) {
     il: oz(e['addr:city']) || sehir,
     ilce: oz(e['addr:district']) || oz(e['addr:suburb']) || ilceAdi,
     mahalle: oz(e['addr:neighbourhood']) || oz(e['addr:quarter']) || null,
-    telefon: cok(e, 'phone', 'contact:phone', 'contact:mobile'),
+    telefon: (function () { const t = cok(e, 'phone', 'contact:phone', 'contact:mobile'); return cepMi(t) ? null : t })(),
     web: cok(e, 'website', 'contact:website'),
     sosyal,
     calisma_saatleri: cok(e, 'opening_hours'),
