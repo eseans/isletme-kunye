@@ -1,14 +1,14 @@
 // data/*.json -> site/*.json kompakt site ihracati (ana site bunu ceker).
 // Kayit bicimi: [ad, ilce, telefon, web, lat, lng, kaynak, id]
 // Kullanim: node scripts/site_disari.mjs
-import { readFileSync, writeFileSync, mkdirSync, readdirSync } from 'node:fs'
+import { readFileSync, writeFileSync, mkdirSync, readdirSync, statSync } from 'node:fs'
 import { join } from 'node:path'
 
 mkdirSync('site', { recursive: true })
 let toplam = 0
 for (const sehir of readdirSync('data')) {
   const d = join('data', sehir)
-  if (!readdirSync('.', { withFileTypes: true }).some((x) => x.isDirectory() && x.name === sehir)) continue
+  if (!statSync(d).isDirectory()) continue
   mkdirSync(join('site', sehir), { recursive: true })
   for (const f of readdirSync(d)) {
     if (!f.endsWith('.json') || f === '_ozet.json') continue
