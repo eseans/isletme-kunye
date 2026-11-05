@@ -54,6 +54,33 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": ".",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "hizmet_ipuclari": [
+   "4bf58dd8d48988d104941735"
+  ],
+  "adres": null,
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.89533233642578,
+  "lng": 30.692012786865234,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.89533233642578,30.692012786865234",
+  "yandex_url": "https://yandex.com/maps/?text=.&ll=30.692012786865234%2C36.89533233642578&z=17",
+  "osm_url": null,
+  "fsq_id": "55363cce498ec1ab7dadc3fe",
+  "kaynak": "foursquare",
+  "ilk_gorulme": "2026-11-05",
+  "son_gorulme": "2026-11-05"
+ },
+ {
   "ad": "02 Nolu Aile Sağlığı Merkezi",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -1025,7 +1052,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=36.870677211870124,30.72590343702278",
   "yandex_url": "https://yandex.com/maps/?text=27 Nolu Ahmet A. Ve Fatma Sönmez Sağlık Ocağı&ll=30.72590343702278%2C36.870677211870124&z=17",
   "osm_url": null,
-  "fsq_id": "4fa76a82e4b012fefec62df8",
+  "fsq_id": "5209c83a11d2bf6e2bc7df04",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -2154,6 +2181,60 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "?",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "hizmet_ipuclari": [
+   "4bf58dd8d48988d104941735"
+  ],
+  "adres": null,
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.897884368896484,
+  "lng": 30.766233444213867,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.897884368896484,30.766233444213867",
+  "yandex_url": "https://yandex.com/maps/?text=?&ll=30.766233444213867%2C36.897884368896484&z=17",
+  "osm_url": null,
+  "fsq_id": "53ce36d3498ed3afa72a0b5d",
+  "kaynak": "foursquare",
+  "ilk_gorulme": "2026-11-05",
+  "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "?",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "hizmet_ipuclari": [
+   "4bf58dd8d48988d104941735"
+  ],
+  "adres": null,
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.85590362548828,
+  "lng": 30.773853302001953,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.85590362548828,30.773853302001953",
+  "yandex_url": "https://yandex.com/maps/?text=?&ll=30.773853302001953%2C36.85590362548828&z=17",
+  "osm_url": null,
+  "fsq_id": "53ce3757498e68fe635a12c0",
+  "kaynak": "foursquare",
+  "ilk_gorulme": "2026-11-05",
+  "son_gorulme": "2026-11-05"
+ },
+ {
   "ad": "A Plast Estetik Merkezi",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -2546,7 +2627,12 @@
   "mahalle": null,
   "telefon": "(0242) 313 16 16",
   "web": "http://www.asklinik.com.tr",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/asklinik"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -3098,7 +3184,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=36.851692,30.770666",
   "yandex_url": "https://yandex.com/maps/?text=Ahd Clinic&ll=30.770666%2C36.851692&z=17",
   "osm_url": null,
-  "fsq_id": "602a6dd9c0bf6038d143fab0",
+  "fsq_id": "602a2f9aaa785c25bd418ea6",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -3458,11 +3544,11 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d104941735"
   ],
-  "adres": null,
+  "adres": "Yüzüncü Yıl Bulvarı Şahin Apt. 65/A",
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0242) 242 90 02",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -3473,7 +3559,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=36.88928062174548,30.687210490286503",
   "yandex_url": "https://yandex.com/maps/?text=Akdeniz Can Diş Deposu&ll=30.687210490286503%2C36.88928062174548&z=17",
   "osm_url": null,
-  "fsq_id": "513226bae4b0ca4ec7b3d3b4",
+  "fsq_id": "558d04db498ee38d6a68fc46",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -5282,7 +5368,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d104941735"
   ],
-  "adres": null,
+  "adres": "Üçgen Mah. Anafartalar Cad.",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -5621,7 +5707,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=36.889572,30.678112",
   "yandex_url": "https://yandex.com/maps/?text=Antalya Egitim ve Araştırma Hastanesi Beyin Cerrahi Bölümü&ll=30.678112%2C36.889572&z=17",
   "osm_url": null,
-  "fsq_id": "57ceac2f498e289db1f94149",
+  "fsq_id": "595684ad112c6c598fb48ec5",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -5810,7 +5896,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=36.890775,30.677545",
   "yandex_url": "https://yandex.com/maps/?text=Antalya Eğitim Ve Araştırma Hastanesi Göz Hastalıkları Polikliniği&ll=30.677545%2C36.890775&z=17",
   "osm_url": null,
-  "fsq_id": "595684ad112c6c598fb48ec5",
+  "fsq_id": "56b2ed82498e0e716847f341",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -5822,7 +5908,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d104941735"
   ],
-  "adres": null,
+  "adres": "Konyaaltı",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -5837,7 +5923,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=36.879051208496094,30.65534782409668",
   "yandex_url": "https://yandex.com/maps/?text=Antalya Genetik Hastaliklar Tani Merkezi&ll=30.65534782409668%2C36.879051208496094&z=17",
   "osm_url": null,
-  "fsq_id": "545b572b498eb8b76105b8d6",
+  "fsq_id": "545b591e498e08322d080fb1",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -6854,7 +6940,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.huseyinbalikci.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/drhuseyinbalikci"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -6917,7 +7008,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=36.897794167019796,30.690702869095325",
   "yandex_url": "https://yandex.com/maps/?text=Atatürk Devlet Hastanesi Acil Servis&ll=30.690702869095325%2C36.897794167019796&z=17",
   "osm_url": null,
-  "fsq_id": "57c11cca498e561955685916",
+  "fsq_id": "5830043f83622d649b3f5b43",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -6971,7 +7062,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=36.89056,30.70761",
   "yandex_url": "https://yandex.com/maps/?text=Atatürk Devlet Hastanesi Emar Bölümü&ll=30.70761%2C36.89056&z=17",
   "osm_url": null,
-  "fsq_id": "57aadc9f498e09bfd930d12c",
+  "fsq_id": "57aadc40498e6b5a007012f6",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -9363,7 +9454,12 @@
   "mahalle": null,
   "telefon": "(0242) 317 11 00",
   "web": "http://www.isilceri.com.tr",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/dr.isilceri"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -10532,7 +10628,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.isilkoleli.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/doc.dr.isilkoleli"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -10541,7 +10642,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=36.858826,30.740618",
   "yandex_url": "https://yandex.com/maps/?text=Doç Dr. Işıl Köleli Kadın Hastalıkları & Doğum ve Tüp Bebek Uzmanı&ll=30.740618%2C36.858826&z=17",
   "osm_url": null,
-  "fsq_id": "6593aaa8666e857cc9a3beb7",
+  "fsq_id": "6593bc2722df9c43ac70fe80",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -11288,7 +11389,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.ismailkaraoglan.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/dr.ismailkaraoglan"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -11385,7 +11491,12 @@
   "mahalle": null,
   "telefon": "(0242) 313 16 16",
   "web": "http://www.asklinik.com.tr",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/asklinik"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -11707,7 +11818,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.drbeautylasers.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/dr.beautylaser"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -13169,7 +13285,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=36.852805,30.747865",
   "yandex_url": "https://yandex.com/maps/?text=Dr.Arif Yıldırım&ll=30.747865%2C36.852805&z=17",
   "osm_url": null,
-  "fsq_id": "6470a3c63a966d384ab61b77",
+  "fsq_id": "6470c89c9b78dc4c0eadcdc0",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -13466,7 +13582,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=36.873601300494975,30.725623869715577",
   "yandex_url": "https://yandex.com/maps/?text=Dr.Fuat Altay&ll=30.725623869715577%2C36.873601300494975&z=17",
   "osm_url": null,
-  "fsq_id": "5234674d11d28190d12ce361",
+  "fsq_id": "504de483e4b062c86485c0ad",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -15247,7 +15363,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=36.90723369045041,30.664871973422787",
   "yandex_url": "https://yandex.com/maps/?text=Erasta Acil Tıbbi Müdahale Odası&ll=30.664871973422787%2C36.90723369045041&z=17",
   "osm_url": null,
-  "fsq_id": "58cba3ee33a24530774b9db9",
+  "fsq_id": "58cfee3faf7d175e6081ce36",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -16460,7 +16576,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.fizikend.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/fizikend"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -17156,7 +17277,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=36.897522,30.661448",
   "yandex_url": "https://yandex.com/maps/?text=Genel Çocuk Servisi&ll=30.661448%2C36.897522&z=17",
   "osm_url": null,
-  "fsq_id": "57f1ee1e498e4bb1ded42e38",
+  "fsq_id": "569bb045498eb2bf91946894",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -18379,7 +18500,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=36.943868669580596,30.70921498818502",
   "yandex_url": "https://yandex.com/maps/?text=Hayat Eczanesi&ll=30.70921498818502%2C36.943868669580596&z=17",
   "osm_url": null,
-  "fsq_id": "4e64bd75b61cd7808988be58",
+  "fsq_id": "55b5f94a498e57005bbefade",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -18480,7 +18601,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.helenaesthetics.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/helen.aesthetics"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -19129,7 +19255,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=36.84674609098495,30.615621402136036",
   "yandex_url": "https://yandex.com/maps/?text=Istek Yeditepe Koleji Revir&ll=30.615621402136036%2C36.84674609098495&z=17",
   "osm_url": null,
-  "fsq_id": "56289587498e6b2c404c8607",
+  "fsq_id": "5628950c498e8ce442cbfe22",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -21185,7 +21311,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d104941735"
   ],
-  "adres": null,
+  "adres": "Güzeloba",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -21200,7 +21326,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=36.858917438616004,30.795333288997355",
   "yandex_url": "https://yandex.com/maps/?text=Lara Anadolu Hastanesi Dahiliye Servisi&ll=30.795333288997355%2C36.858917438616004&z=17",
   "osm_url": null,
-  "fsq_id": "553f3d8d498edbeb336e2cfe",
+  "fsq_id": "55001816498ea3fcf0eae8dc",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -22758,7 +22884,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=36.856804,30.746895",
   "yandex_url": "https://yandex.com/maps/?text=Medicalpark Hastanesi Pediatri Bölümü Uzm.Dr.Seda Özer&ll=30.746895%2C36.856804&z=17",
   "osm_url": null,
-  "fsq_id": "5444c210498e9b3efe11f43b",
+  "fsq_id": "5444c2bd498e5512d2b3de2c",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -23157,7 +23283,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=36.900154,30.709639",
   "yandex_url": "https://yandex.com/maps/?text=Medipleks Tıp Merkezi&ll=30.709639%2C36.900154&z=17",
   "osm_url": null,
-  "fsq_id": "682eed3b6814584dcd252728",
+  "fsq_id": "682eedeafff3ad35aed52be2",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -25867,7 +25993,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=36.867693,30.732394",
   "yandex_url": "https://yandex.com/maps/?text=Onse Medikal Plus&ll=30.732394%2C36.867693&z=17",
   "osm_url": null,
-  "fsq_id": "64b0038f82b36201668e8b6b",
+  "fsq_id": "64a7ebb55270b84ff7ee6e62",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -26174,7 +26300,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.duyguaksoy.com.tr",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/opdrduyguaksoy"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -26311,7 +26442,12 @@
   "mahalle": null,
   "telefon": "(0242) 323 23 63",
   "web": "http://www.harunsimsek.com.tr",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/harunsimsekdr"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -26657,7 +26793,12 @@
   "mahalle": null,
   "telefon": "(0242) 324 22 77",
   "web": "https://sultanyalcin.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/opdrsultanyalcin"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -26895,7 +27036,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.turkishrhinoplastycentre.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/op.dr.hasan_yilmaz"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -30107,7 +30253,12 @@
   "mahalle": null,
   "telefon": "(0242) 316 98 99",
   "web": "http://www.antalyaterapipsikiyatri.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/psikiyatrist_sevilay_zorlu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -30351,7 +30502,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.psikologbusradereli.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/psk.busraduman"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -33708,7 +33864,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.burcucetinbalikci.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/drbalikcibeauty"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -34439,7 +34600,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=36.88866318483466,30.711168322260153",
   "yandex_url": "https://yandex.com/maps/?text=Verem Savaş Dispanseri&ll=30.711168322260153%2C36.88866318483466&z=17",
   "osm_url": null,
-  "fsq_id": "5297008911d24c02a7c61563",
+  "fsq_id": "541fd1cc498e76f1b48acfd3",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -36001,7 +36162,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=36.887833,30.718991",
   "yandex_url": "https://yandex.com/maps/?text=anadolu hastanesi kardiyoloji servisi&ll=30.718991%2C36.887833&z=17",
   "osm_url": null,
-  "fsq_id": "57068fa2498ea2b2dc55af28",
+  "fsq_id": "52f2950611d2b6933552585d",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -40034,7 +40195,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=36.858734,30.794357",
   "yandex_url": "https://yandex.com/maps/?text=Özel Lara Anadolu Hastanesi 5.Kat 505 Nolu Oda&ll=30.794357%2C36.858734&z=17",
   "osm_url": null,
-  "fsq_id": "5989c0e0e179104f7250dc57",
+  "fsq_id": "5a2a91752c7eb957310d299c",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -40432,7 +40593,12 @@
   "mahalle": null,
   "telefon": "(0242) 228 09 09",
   "web": "http://www.olimposhastanesi.com.tr",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/olimposhastanesi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -41265,7 +41431,12 @@
   "mahalle": null,
   "telefon": "(0242) 316 01 12",
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ilgisaglik"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,

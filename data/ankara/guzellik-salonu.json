@@ -82,6 +82,34 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": ".",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "hizmet_ipuclari": [
+   "4f04aa0c2fb6e1c99f3db0b8",
+   "5267e4d9e4b0ec79466e48c8"
+  ],
+  "adres": null,
+  "il": null,
+  "ilce": "Ankara",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.900156,
+  "lng": 32.857778,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.900156,32.857778",
+  "yandex_url": "https://yandex.com/maps/?text=.&ll=32.857778%2C39.900156&z=17",
+  "osm_url": null,
+  "fsq_id": "62ea5457ce6b821ca901bce4",
+  "kaynak": "foursquare",
+  "ilk_gorulme": "2026-11-05",
+  "son_gorulme": "2026-11-05"
+ },
+ {
   "ad": "2A Güzellik Merkezi",
   "sektor": "guzellik-salonu",
   "kategori": "guzellik-salonu",
@@ -857,7 +885,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=39.89527669241297,32.64723747968333",
   "yandex_url": "https://yandex.com/maps/?text=AYCA BELLA HAIR&BEAUTY&ll=32.64723747968333%2C39.89527669241297&z=17",
   "osm_url": null,
-  "fsq_id": "6267b989ddb2df06bbbdc4bc",
+  "fsq_id": "6267af0e5da5095181a801df",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -1232,7 +1260,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/adabeautyvip"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -1421,7 +1454,12 @@
   "mahalle": null,
   "telefon": "(0312) 504 12 00",
   "web": "http://www.adenkadinca.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/adenbeauty_vip"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -1658,7 +1696,7 @@
   "hizmet_ipuclari": [
    "4f04aa0c2fb6e1c99f3db0b8"
   ],
-  "adres": null,
+  "adres": "Yeni Ziraat Mahallesi",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -1673,7 +1711,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=39.957030330427735,32.85616661865812",
   "yandex_url": "https://yandex.com/maps/?text=Afrodit Kuaför&ll=32.85616661865812%2C39.957030330427735&z=17",
   "osm_url": null,
-  "fsq_id": "557b0319498e95a6f506a47e",
+  "fsq_id": "557b0291498e1b84b3ba777a",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -2288,7 +2326,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/avenueprofessional_ankara"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -4181,7 +4224,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://nazlihancioglu.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ipekkirpikankaraproteztrnak"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -4446,7 +4494,7 @@
   "hizmet_ipuclari": [
    "4f04aa0c2fb6e1c99f3db0b8"
   ],
-  "adres": null,
+  "adres": "Yücetepe mahallesi",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -4461,7 +4509,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=39.92177,32.844254",
   "yandex_url": "https://yandex.com/maps/?text=Anıttepe Sosyal Tesisleri Güzellik Salonu&ll=32.844254%2C39.92177&z=17",
   "osm_url": null,
-  "fsq_id": "5b50686c005ac1002b081682",
+  "fsq_id": "5b50693790d1ed002ce937e6",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -4805,7 +4853,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/arinkabeautygolbasi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -4941,7 +4994,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ariscukurambarvip"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -5130,7 +5188,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/arseguzellikmerkezi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -5871,7 +5934,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=39.91713014862891,32.855651736267646",
   "yandex_url": "https://yandex.com/maps/?text=AsMi Beauty Center&ll=32.855651736267646%2C39.91713014862891&z=17",
   "osm_url": null,
-  "fsq_id": "624ffca2a4d2a12f5bcbdd6b",
+  "fsq_id": "6241a921d7c8516aa660acd7",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -6577,7 +6640,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=39.91798,32.857258",
   "yandex_url": "https://yandex.com/maps/?text=Athena Beauty Club&ll=32.857258%2C39.91798&z=17",
   "osm_url": null,
-  "fsq_id": "50f968a3e4b04d33b2ef34d7",
+  "fsq_id": "4e37aa0a149579ccbaeff200",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -6758,7 +6821,12 @@
   "mahalle": null,
   "telefon": "(0312) 468 74 90",
   "web": "http://www.atolyetirnakci.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/atolye__kuafor"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -6786,7 +6854,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/aurabeautystudioankara"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -6841,7 +6914,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.auvita.com.tr",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/auvitaplaza"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -6868,7 +6946,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/avenis_beauty_center"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -7474,7 +7557,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=39.91189605727339,32.87247200414102",
   "yandex_url": "https://yandex.com/maps/?text=Aydın Kuaför&ll=32.87247200414102%2C39.91189605727339&z=17",
   "osm_url": null,
-  "fsq_id": "516699aae4b086f650a25a78",
+  "fsq_id": "5049992ae4b0a7a32d74bce1",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -9941,7 +10024,7 @@
    "4bf58dd8d48988d110951735",
    "4f04aa0c2fb6e1c99f3db0b8"
   ],
-  "adres": null,
+  "adres": "Bahçelievler Mah",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -9956,7 +10039,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=39.92830083952831,32.82601591655365",
   "yandex_url": "https://yandex.com/maps/?text=Bahceli Kuafor ve Guzellik Salonu&ll=32.82601591655365%2C39.92830083952831&z=17",
   "osm_url": null,
-  "fsq_id": "4f66e78fe4b0bf1014155162",
+  "fsq_id": "52b9a98d498ef89576988596",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -10466,7 +10549,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/barbienailbarr"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -10789,7 +10877,12 @@
   "mahalle": null,
   "telefon": "(0312) 276 35 15",
   "web": "http://www.baskentkuafor.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/baskentkuaformakyaj"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -11299,7 +11392,12 @@
   "mahalle": null,
   "telefon": "(0312) 232 27 25",
   "web": "http://www.gelinsacivemakyaji.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/basakkuafor"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -11536,7 +11634,7 @@
   "hizmet_ipuclari": [
    "4f04aa0c2fb6e1c99f3db0b8"
   ],
-  "adres": null,
+  "adres": "Bayındır 2 Sokak 47/3",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -11551,7 +11649,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=39.919292,32.856922",
   "yandex_url": "https://yandex.com/maps/?text=Be&da Güzellik salonu&ll=32.856922%2C39.919292&z=17",
   "osm_url": null,
-  "fsq_id": "587c9ec8102f47058038f57e",
+  "fsq_id": "5450da3c498e4ae259ab9552",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -11600,7 +11698,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=39.92124121554501,32.85940153945388",
   "yandex_url": "https://yandex.com/maps/?text=Beatiful Ladies Güzellik & Bakım&ll=32.85940153945388%2C39.92124121554501&z=17",
   "osm_url": null,
-  "fsq_id": "531db5c8498ef80da5a6fdaf",
+  "fsq_id": "53119e0e498ec9e1efae998d",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -12023,7 +12121,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/bebekguzellikmerkezi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -13622,7 +13725,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/bestelizklinik"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -14303,7 +14411,12 @@
   "mahalle": null,
   "telefon": "(0312) 566 33 21",
   "web": "http://www.biancokuafor.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/bianco_kuafor"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -14381,7 +14494,12 @@
   "mahalle": "Yaşamkent Mahallesi",
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/bilgedargunguzelliksalonu"
+   }
+  ],
   "calisma_saatleri": null,
   "lat": 39.8630327,
   "lng": 32.6442756,
@@ -15486,7 +15604,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.brobarbersvip.com.tr",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/brobarbersvip"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -17492,7 +17615,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/cansu_akar_beauty_art"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -17546,7 +17674,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.cansudurkun.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/cansudurkun"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -20780,7 +20913,12 @@
   "mahalle": null,
   "telefon": "(0312) 380 60 66",
   "web": "http://dermatenguzellik.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/dermaten_guzellik_salonu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -20882,11 +21020,11 @@
   "hizmet_ipuclari": [
    "4f04aa0c2fb6e1c99f3db0b8"
   ],
-  "adres": null,
+  "adres": "Ataç-1 Sk.",
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0312) 433 33 08",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -22539,7 +22677,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=39.92094318201113,32.826869172706715",
   "yandex_url": "https://yandex.com/maps/?text=Dilek Güzellik Salonu&ll=32.826869172706715%2C39.92094318201113&z=17",
   "osm_url": null,
-  "fsq_id": "5217955711d22f7a2b61c272",
+  "fsq_id": "53a5b836498ecd1a94782590",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -26233,7 +26371,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=39.904987,32.86078",
   "yandex_url": "https://yandex.com/maps/?text=Eda Kaynarca Güzellik Merkezi&ll=32.86078%2C39.904987&z=17",
   "osm_url": null,
-  "fsq_id": "594293b81b0ea51c33dceca2",
+  "fsq_id": "59429331286fda3ea804584a",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -26613,7 +26751,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=39.893296,32.800412",
   "yandex_url": "https://yandex.com/maps/?text=Eftelya Güzellik Salonu&ll=32.800412%2C39.893296&z=17",
   "osm_url": null,
-  "fsq_id": "57a5cf81cd106ad94ac97a20",
+  "fsq_id": "577508b0498e88a5a775ce61",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -27277,7 +27415,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/elaykuafor"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -27367,7 +27510,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=39.86678,32.82174",
   "yandex_url": "https://yandex.com/maps/?text=Elefante Beauty \"Güzellik & Estetik\"&ll=32.82174%2C39.86678&z=17",
   "osm_url": null,
-  "fsq_id": "62924b9f5954da7263523ec8",
+  "fsq_id": "62923be400b98a19a2aebe49",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -27819,7 +27962,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/eligovip"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -27963,7 +28111,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=39.903797,32.85204",
   "yandex_url": "https://yandex.com/maps/?text=Elis Güzellik Stüdyosu&ll=32.85204%2C39.903797&z=17",
   "osm_url": null,
-  "fsq_id": "56e95b58cd10a6e63a79cd19",
+  "fsq_id": "56a75858498e203d3dc469ed",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -28442,7 +28590,12 @@
   "mahalle": null,
   "telefon": "(0312) 234 44 04",
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/elitahairdesign"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -28940,7 +29093,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=40.00549617083185,32.82719135284424",
   "yandex_url": "https://yandex.com/maps/?text=Elona Güzellik Merkezi&ll=32.82719135284424%2C40.00549617083185&z=17",
   "osm_url": null,
-  "fsq_id": "643d0d9e49b76c537fc1e3cd",
+  "fsq_id": "643d0e5c4690853014003584",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -31062,7 +31215,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=39.88036,32.839005",
   "yandex_url": "https://yandex.com/maps/?text=Erenay Center&ll=32.839005%2C39.88036&z=17",
   "osm_url": null,
-  "fsq_id": "5ed0e8f9bcd6af00083c0fde",
+  "fsq_id": "5ed0e9855ccc140008509d10",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -31496,7 +31649,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=39.936826,32.63562",
   "yandex_url": "https://yandex.com/maps/?text=Ertan Albayrak&ll=32.63562%2C39.936826&z=17",
   "osm_url": null,
-  "fsq_id": "5cb5b9716e4650002c44d138",
+  "fsq_id": "5cb5b8f0d033600039b55406",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -31622,7 +31775,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/mervealtunayguzelliksalonu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -34379,7 +34537,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=39.872910768499224,32.863453706293015",
   "yandex_url": "https://yandex.com/maps/?text=Eva Kuaför&ll=32.863453706293015%2C39.872910768499224&z=17",
   "osm_url": null,
-  "fsq_id": "4fccd871e4b060a17cf1df96",
+  "fsq_id": "51e3efd6498eb91150aab538",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -34479,7 +34637,12 @@
   "mahalle": null,
   "telefon": "(0312) 287 09 09",
   "web": "http://www.evabeautyclub.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/evacukurambar"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -35216,7 +35379,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=39.91373535537752,32.912257950368804",
   "yandex_url": "https://yandex.com/maps/?text=Ezgi Güzellik Salonu&ll=32.912257950368804%2C39.91373535537752&z=17",
   "osm_url": null,
-  "fsq_id": "525110b2498ed95be854c273",
+  "fsq_id": "544219bf498e4795b0cde0bc",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -36654,7 +36817,12 @@
   "mahalle": null,
   "telefon": "(0312) 385 55 32",
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/fernazkastasarim"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -37649,7 +37817,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/flamingoguzellikmerkezi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -37782,8 +37955,8 @@
   "il": null,
   "ilce": "Ankara",
   "mahalle": null,
-  "telefon": null,
-  "web": null,
+  "telefon": "(0312) 466 28 22",
+  "web": "http://www.flavius.com.tr",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -39563,7 +39736,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/phibrows_fatosulger"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -40310,7 +40488,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/goldenbrothersbarber"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -40610,7 +40793,12 @@
   "mahalle": null,
   "telefon": "(0312) 240 58 28",
   "web": "http://www.grandkuafor.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/grandkuafor"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -40993,7 +41181,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=39.998578,32.86463",
   "yandex_url": "https://yandex.com/maps/?text=Gratis&ll=32.86463%2C39.998578&z=17",
   "osm_url": null,
-  "fsq_id": "58989d183bd4ab768a59ce16",
+  "fsq_id": "58989dc18ae3633850c0623f",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -41119,7 +41307,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/green_guzellik_merkezi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -42415,7 +42608,12 @@
   "mahalle": null,
   "telefon": "(0312) 433 14 34",
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/gulay.guzellikk"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -43227,7 +43425,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/gunes.guzelliksalonu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -43302,7 +43505,7 @@
   "hizmet_ipuclari": [
    "4f04aa0c2fb6e1c99f3db0b8"
   ],
-  "adres": null,
+  "adres": "Pınarbaşı Mahallesi",
   "il": null,
   "ilce": "Ankara",
   "mahalle": null,
@@ -43501,7 +43704,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=39.90378567357689,32.86054288100729",
   "yandex_url": "https://yandex.com/maps/?text=Gürcan Bilge Kalıcı Makyaj Stüdyosu&ll=32.86054288100729%2C39.90378567357689&z=17",
   "osm_url": null,
-  "fsq_id": "55082f7d498e1efc0adef0bf",
+  "fsq_id": "534266e3498ee61b84252e3c",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -44440,7 +44643,12 @@
   "mahalle": null,
   "telefon": "(0312) 233 99 00",
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/hsestetik"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -45773,7 +45981,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/happynailsbc"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -45802,7 +46015,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.harekuafor.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/harekuafor"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -46183,7 +46401,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=39.972427,32.842896",
   "yandex_url": "https://yandex.com/maps/?text=Hayal Beauty&ll=32.842896%2C39.972427&z=17",
   "osm_url": null,
-  "fsq_id": "693ab5d88104342cc15f37b6",
+  "fsq_id": "693abb908104342cc16352a1",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -46575,7 +46793,7 @@
    "4bf58dd8d48988d110951735",
    "4f04aa0c2fb6e1c99f3db0b8"
   ],
-  "adres": null,
+  "adres": "Batıkent",
   "il": null,
   "ilce": "Ankara",
   "mahalle": null,
@@ -46590,7 +46808,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=39.9594182327312,32.704278778121726",
   "yandex_url": "https://yandex.com/maps/?text=Helin Kuaför&ll=32.704278778121726%2C39.9594182327312&z=17",
   "osm_url": null,
-  "fsq_id": "515080b9e4b0f2f1a13a3484",
+  "fsq_id": "55327949498e4134d6bc61e1",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -46690,7 +46908,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/heliyabeautysaloon"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -47124,7 +47347,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://hillnailstudio.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/hillnailstudio"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -47179,7 +47407,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.hillsbeautycenter.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/hillsbeautycenter"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -49055,7 +49288,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=39.89409264427185,32.836579484245846",
   "yandex_url": "https://yandex.com/maps/?text=Kadir AKGÜN Saç Tasarım ve Güzellik Salonu&ll=32.836579484245846%2C39.89409264427185&z=17",
   "osm_url": null,
-  "fsq_id": "55800a38498e109d156e2e91",
+  "fsq_id": "55684022498e553d36d0f8b7",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -50426,7 +50659,12 @@
   "mahalle": "Ehlibeyt Mahallesi",
   "telefon": null,
   "web": "https://kibelebeautystudio.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/kibelebeautystudio"
+   }
+  ],
   "calisma_saatleri": "Ptesi-Pz 08:30-20:30",
   "lat": 39.8950749,
   "lng": 32.8165689,
@@ -50893,7 +51131,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=39.930367,32.88701",
   "yandex_url": "https://yandex.com/maps/?text=Krasiva Güzellik Salonu&ll=32.88701%2C39.930367&z=17",
   "osm_url": null,
-  "fsq_id": "5cf0045b535d6f002caf4c96",
+  "fsq_id": "5cf003ed3ba767002c0db8cf",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -52817,7 +53055,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/cilesizo"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -55001,7 +55244,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=39.968675,32.717435",
   "yandex_url": "https://yandex.com/maps/?text=Lamode Bay Bayan Güzellik MEYDAN AVM&ll=32.717435%2C39.968675&z=17",
   "osm_url": null,
-  "fsq_id": "5e4fdfc86f7fe5000886ea15",
+  "fsq_id": "5e4fd8f42f6c6c00070cd3ca",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -56361,7 +56604,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/livangelguzellik"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -56848,7 +57096,12 @@
   "mahalle": null,
   "telefon": "(0312) 325 77 33",
   "web": "http://www.lukkakuafor.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/lukkakuafor_atlantis"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -57795,7 +58048,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/melisbeautystudioankara"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -58149,7 +58407,12 @@
   "mahalle": null,
   "telefon": "(0312) 437 07 00",
   "web": "http://www.mustafademiralp.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/mustafademiralp"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -58457,7 +58720,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.madamejolly.com.tr",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/madamejollyperuk"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -58484,7 +58752,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.madamejolly.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/madamejollyperukmerkezi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -59129,7 +59402,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.makyajhane.com.tr",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/makyajhane"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -59428,7 +59706,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/marias.wind"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -59452,7 +59735,12 @@
   "mahalle": "Alacaatlı",
   "telefon": null,
   "web": "https://marigoldbeauty.com.tr",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/marigoldguzellikmerkezi"
+   }
+  ],
   "calisma_saatleri": null,
   "lat": 39.8485895,
   "lng": 32.6360414,
@@ -60793,7 +61081,12 @@
   "mahalle": null,
   "telefon": "(0312) 223 48 72",
   "web": "http://www.ankarasacmakyaj.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/medussa_kuafor"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -61180,7 +61473,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=39.93115593235069,32.825745984725366",
   "yandex_url": "https://yandex.com/maps/?text=Melahat Coşan  Beauty&Aesthetic&ll=32.825745984725366%2C39.93115593235069&z=17",
   "osm_url": null,
-  "fsq_id": "5bdaf0edc9a517002c55fdd6",
+  "fsq_id": "5bead2b678782c002c275f67",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -61306,7 +61599,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/by.melekarslan"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -62063,7 +62361,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.mervecoskun.com.tr",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/mervecoskunguzellik"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -62395,7 +62698,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=39.961394,32.717014",
   "yandex_url": "https://yandex.com/maps/?text=Meryem Ölmez Beauty Center&ll=32.717014%2C39.961394&z=17",
   "osm_url": null,
-  "fsq_id": "660ea478ab62b829b1fb3a71",
+  "fsq_id": "660ea7848063f666f39d5f68",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -62985,7 +63288,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/mila.nails.ankara"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -62994,7 +63302,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=39.980797,32.6634",
   "yandex_url": "https://yandex.com/maps/?text=Mila & Anna Beauty Center&ll=32.6634%2C39.980797&z=17",
   "osm_url": null,
-  "fsq_id": "629b06931c079819b706c3f5",
+  "fsq_id": "629b0897eacb460f278efd1b",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -63427,7 +63735,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=39.96245574951172,32.87554931640625",
   "yandex_url": "https://yandex.com/maps/?text=Mira&ll=32.87554931640625%2C39.96245574951172&z=17",
   "osm_url": null,
-  "fsq_id": "54fc7c02498eb8d13d178203",
+  "fsq_id": "54fc7dde498e1b4422e0b618",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -63555,7 +63863,12 @@
   "mahalle": null,
   "telefon": "(0312) 418 18 19",
   "web": "http://www.mirakuafor.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/mirakuafor_ankara"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -63618,7 +63931,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=39.981106,32.805317",
   "yandex_url": "https://yandex.com/maps/?text=Miray Guzellik Salonu&ll=32.805317%2C39.981106&z=17",
   "osm_url": null,
-  "fsq_id": "59ba287d3149b92b3cc888af",
+  "fsq_id": "59b3c768588e364f7e4c6296",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -64694,7 +65007,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/moonlight.kuafor"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -64777,7 +65095,12 @@
   "mahalle": null,
   "telefon": "(0312) 426 50 93",
   "web": "http://www.morguzellik.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/morguzelliksalonu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -65679,7 +66002,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=39.860706,32.67673",
   "yandex_url": "https://yandex.com/maps/?text=Muse Nail & Beauty&ll=32.67673%2C39.860706&z=17",
   "osm_url": null,
-  "fsq_id": "6368f38ca25b0260d22dc9b1",
+  "fsq_id": "63692b72ec03ae58cfb14782",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -66476,7 +66799,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/milagroguzellik"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -66803,7 +67131,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.nkestetik.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/nkguzellik"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -66992,7 +67325,12 @@
   "mahalle": null,
   "telefon": "(0312) 427 57 47",
   "web": "http://nadireguzellik.com.tr",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/nadireguzelliksalonu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -68188,7 +68526,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=39.926018540333644,32.85203065584322",
   "yandex_url": "https://yandex.com/maps/?text=Ne-şe Güzellik Salonu&ll=32.85203065584322%2C39.926018540333644&z=17",
   "osm_url": null,
-  "fsq_id": "5289f86011d2dcdd26cf1468",
+  "fsq_id": "5389908f498e34b97ace3b76",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -68965,7 +69303,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/neslimgungenankara.beytepe"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -68992,7 +69335,12 @@
   "mahalle": null,
   "telefon": "(0312) 474 00 94",
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/neslimgungenankara.beytepe"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -69073,7 +69421,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/nevabeautycenterr"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -70290,7 +70643,7 @@
   "hizmet_ipuclari": [
    "4f04aa0c2fb6e1c99f3db0b8"
   ],
-  "adres": null,
+  "adres": "Kızılay",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -70305,7 +70658,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=39.921359461398055,32.855748073542046",
   "yandex_url": "https://yandex.com/maps/?text=Nilgün Güzellik&ll=32.855748073542046%2C39.921359461398055&z=17",
   "osm_url": null,
-  "fsq_id": "56ffb4c5498e1287fd2d21d6",
+  "fsq_id": "56ffb7ce498e96ace5ffb1bd",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -71287,7 +71640,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.nkestetik.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/nurkamanbeauty"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -71906,7 +72264,7 @@
   "il": null,
   "ilce": "Çankaya",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0312) 438 58 38",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -71917,7 +72275,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=39.869290123680884,32.6914581656456",
   "yandex_url": "https://yandex.com/maps/?text=ONUR ÖZER VIP Kadın & Erkek&ll=32.6914581656456%2C39.869290123680884&z=17",
   "osm_url": null,
-  "fsq_id": "62ece6217243b370b60f55ae",
+  "fsq_id": "5c5d8a99588e36002c3ea84f",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -73098,11 +73456,11 @@
   "hizmet_ipuclari": [
    "4f04aa0c2fb6e1c99f3db0b8"
   ],
-  "adres": null,
+  "adres": "7.cadde 73.sokak No:3/2 Bahçelievler",
   "il": null,
   "ilce": "ANKARA",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0312) 223 76 38",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -73113,7 +73471,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=39.919629492268896,32.82747236143806",
   "yandex_url": "https://yandex.com/maps/?text=Oya Güzellik Salonu&ll=32.82747236143806%2C39.919629492268896&z=17",
   "osm_url": null,
-  "fsq_id": "534011a5498e54ecbce87f1e",
+  "fsq_id": "557800f9498e6d69a251fdb9",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -73784,7 +74142,12 @@
   "mahalle": null,
   "telefon": "(0312) 557 98 32",
   "web": "https://pariskuafor.com.tr",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/pariskuaforincek"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -73812,7 +74175,12 @@
   "mahalle": null,
   "telefon": "(0312) 491 98 21",
   "web": "http://www.pariskuafor.com.tr",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/pariskuaforofficial"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -73925,7 +74293,12 @@
   "mahalle": null,
   "telefon": "(0312) 225 41 54",
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/pariskuaforbeysu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -74607,7 +74980,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=39.929885,32.648626",
   "yandex_url": "https://yandex.com/maps/?text=Perihan Coşkun Güzellik Merkezi&ll=32.648626%2C39.929885&z=17",
   "osm_url": null,
-  "fsq_id": "59a7e742e7a2377e4ccfa61d",
+  "fsq_id": "59a7e7938d0a5343735273b3",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -74789,7 +75162,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.agorarezervasyon.com/mobile/firma-profili/Petis-Guzellik-Kuafor-Salonu.html",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/petis.kuafor"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -74816,7 +75194,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/petis.kuafor"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -75767,7 +76150,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=39.92246184898498,32.85333294150146",
   "yandex_url": "https://yandex.com/maps/?text=Prenses Peruk&ll=32.85333294150146%2C39.92246184898498&z=17",
   "osm_url": null,
-  "fsq_id": "4f7ea2e0e4b0cc5163a38710",
+  "fsq_id": "68ada6a8ea233834b6cb8616",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -76187,7 +76570,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/pusulaguzellikmerkezi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -77491,7 +77879,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=39.868223,32.678751",
   "yandex_url": "https://yandex.com/maps/?text=Recep Ökmen Hair Studio&ll=32.678751%2C39.868223&z=17",
   "osm_url": null,
-  "fsq_id": "64157b8dcb3a4e00e18def38",
+  "fsq_id": "64157c9d89776118c1259616",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -77685,7 +78073,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=39.907975,32.809639",
   "yandex_url": "https://yandex.com/maps/?text=Reina Nail Art&ll=32.809639%2C39.907975&z=17",
   "osm_url": null,
-  "fsq_id": "69202e8eaa5cb4770da3f5c5",
+  "fsq_id": "69202958d968b472f7c7aceb",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -78250,7 +78638,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/reyhanguzellilmerkezi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -78532,7 +78925,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=39.7927,32.813786",
   "yandex_url": "https://yandex.com/maps/?text=Rose D'or Beauty & Coiffeur&ll=32.813786%2C39.7927&z=17",
   "osm_url": null,
-  "fsq_id": "6454f628bd35cc784d882fa3",
+  "fsq_id": "6454f4ae187f8d31cce7e72e",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -79494,7 +79887,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=39.98308422540455,32.812308146430524",
   "yandex_url": "https://yandex.com/maps/?text=SACHH Kuaför Ve Güzellik Salonu&ll=32.812308146430524%2C39.98308422540455&z=17",
   "osm_url": null,
-  "fsq_id": "56da1d97498e25009235ba2b",
+  "fsq_id": "56dc2469498e330037243cec",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -79792,7 +80185,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=39.966874,32.714207",
   "yandex_url": "https://yandex.com/maps/?text=SELARES Güzellik Estetik Kozmetik&ll=32.714207%2C39.966874&z=17",
   "osm_url": null,
-  "fsq_id": "5b4b28bd0ff4f90039b30385",
+  "fsq_id": "5b4b281ff870fd002c0781a5",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -80698,7 +81091,12 @@
   "mahalle": null,
   "telefon": "(0312) 511 51 50",
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/sahra_beauty_lounge"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -81301,7 +81699,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=39.8738152581036,32.86222982080915",
   "yandex_url": "https://yandex.com/maps/?text=Sante Life&ll=32.86222982080915%2C39.8738152581036&z=17",
   "osm_url": null,
-  "fsq_id": "505d95d0e4b07c5bd27c5823",
+  "fsq_id": "53842f77498efeb5b3da1a81",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -81421,7 +81819,12 @@
   "mahalle": null,
   "telefon": "(0312) 433 73 00",
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/satibabacan"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -82418,7 +82821,12 @@
   "mahalle": null,
   "telefon": "(0312) 511 22 74",
   "web": "http://selincansever.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/selincanseverbc"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -84341,7 +84749,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=39.79173,32.8084",
   "yandex_url": "https://yandex.com/maps/?text=Serya Güzellik Merkezi&ll=32.8084%2C39.79173&z=17",
   "osm_url": null,
-  "fsq_id": "57fab716498e82d37b5c80f1",
+  "fsq_id": "57fab5a3498e82d37b59ddef",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -84441,7 +84849,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/setriasketimesgutt"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -84517,7 +84930,7 @@
    "4bf58dd8d48988d110951735",
    "4f04aa0c2fb6e1c99f3db0b8"
   ],
-  "adres": null,
+  "adres": "Seval Kuafor",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -84765,7 +85178,7 @@
   "ilce": "Ankara",
   "mahalle": null,
   "telefon": null,
-  "web": null,
+  "web": "http://sevenbeautycenter.com",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -84775,7 +85188,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=39.90776,32.861518",
   "yandex_url": "https://yandex.com/maps/?text=Seven Beauty Center&ll=32.861518%2C39.90776&z=17",
   "osm_url": null,
-  "fsq_id": "5d91f31f7a5b6000088b645f",
+  "fsq_id": "5d927a2bcf13be0008037740",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -85255,7 +85668,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=40.036385,32.902943",
   "yandex_url": "https://yandex.com/maps/?text=Sevinçyaman_beauty&ll=32.902943%2C40.036385&z=17",
   "osm_url": null,
-  "fsq_id": "644fdbeb2428a42d9e13faf1",
+  "fsq_id": "644fdb0696adb85778c530d2",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -85625,7 +86038,12 @@
   "mahalle": null,
   "telefon": "(0312) 925 84 94",
   "web": "http://shinebeautycenter.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/shinebeautycentervip"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -86184,7 +86602,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=39.96962830165806,32.873121741937545",
   "yandex_url": "https://yandex.com/maps/?text=Sinem Güzellik Salonu&ll=32.873121741937545%2C39.96962830165806&z=17",
   "osm_url": null,
-  "fsq_id": "534802f9498ee6006a03773f",
+  "fsq_id": "5258220711d2dfa9f1ddaf9f",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -86338,7 +86756,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/siriusbeautycenter"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -87508,7 +87931,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/studio6ankara"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -88427,7 +88855,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/sunadumankaya"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -88599,7 +89032,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=39.970333,32.709324",
   "yandex_url": "https://yandex.com/maps/?text=Suzanerolbeauty&ll=32.709324%2C39.970333&z=17",
   "osm_url": null,
-  "fsq_id": "5fdb635d1699bb085ef006e9",
+  "fsq_id": "5fdb663755f8881f410a3cb3",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -88707,7 +89140,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=39.882603,32.757988",
   "yandex_url": "https://yandex.com/maps/?text=Swan Güzellik Salonu / Kuaför&ll=32.757988%2C39.882603&z=17",
   "osm_url": null,
-  "fsq_id": "6040d31a393af34e65e0baa2",
+  "fsq_id": "604119e31685e36110e9aa70",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -88843,7 +89276,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=39.7924,32.815094",
   "yandex_url": "https://yandex.com/maps/?text=Sümeyra Güzellik Merkezi&ll=32.815094%2C39.7924&z=17",
   "osm_url": null,
-  "fsq_id": "6064a34d660fa82d762e372c",
+  "fsq_id": "60648a8c0e4b1e4498ee368c",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -90185,7 +90618,12 @@
   "mahalle": null,
   "telefon": "(0312) 222 74 40",
   "web": "http://www.tevfikbozdag.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/tevfikbozdag"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -90343,7 +90781,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/theinkfactory06"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -90419,7 +90862,7 @@
   "hizmet_ipuclari": [
    "4f04aa0c2fb6e1c99f3db0b8"
   ],
-  "adres": null,
+  "adres": "İşçi Blokları Mh. Muhsin Yazıcıoğlu Cd. 44/A Kelebek Sitesi",
   "il": null,
   "ilce": "Ankara",
   "mahalle": null,
@@ -90434,7 +90877,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=39.895444,32.810743",
   "yandex_url": "https://yandex.com/maps/?text=The Nail Hub&ll=32.810743%2C39.895444&z=17",
   "osm_url": null,
-  "fsq_id": "652d0f269cb6e319f04afd64",
+  "fsq_id": "657c78ab25cde6367dc5a611",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -92319,7 +92762,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/tugceertanbeauty"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -92374,7 +92822,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://tugceyildiz.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/tugceyildizcom"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -92612,7 +93065,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/twinscukurambar_erkek"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -93552,7 +94010,12 @@
   "mahalle": null,
   "telefon": "(0312) 241 00 15",
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/vogestetik"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -94473,7 +94936,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/vinaguzelliksalonu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -95599,7 +96067,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.womenandmenbeauty.com.tr",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/women.menbeauty"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -96510,12 +96983,12 @@
   "hizmet_ipuclari": [
    "4f04aa0c2fb6e1c99f3db0b8"
   ],
-  "adres": null,
+  "adres": "Güvenlik Caddesi 55/A",
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
-  "web": null,
+  "telefon": "(0312) 428 30 40",
+  "web": "http://www.yazguluguzellik.com",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -96959,7 +97432,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=40.00184,32.616794",
   "yandex_url": "https://yandex.com/maps/?text=Yeni Consept Sevgi Altuntaş&ll=32.616794%2C40.00184&z=17",
   "osm_url": null,
-  "fsq_id": "5f3b7e27dcf2fd338424d4c8",
+  "fsq_id": "5f3cfc4f93a5cd30d224e6de",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -97487,7 +97960,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.yumilashesturkey.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/yumilahes_turkey"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -98352,7 +98830,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=39.962994,32.582347",
   "yandex_url": "https://yandex.com/maps/?text=ZARİVA ZENA GÜZELLİK&ll=32.582347%2C39.962994&z=17",
   "osm_url": null,
-  "fsq_id": "642e9a114e50a40ffef811fb",
+  "fsq_id": "642e9af22a515e59807d04b5",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -98723,7 +99201,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/zayeblug_guzelliksalonu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -99410,7 +99893,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=39.78994159795726,32.81254599072516",
   "yandex_url": "https://yandex.com/maps/?text=Zeynep Bayan Kuaförü&ll=32.81254599072516%2C39.78994159795726&z=17",
   "osm_url": null,
-  "fsq_id": "5607f564498e62a8041b0849",
+  "fsq_id": "5607f5ce498ef5a81b9edb99",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -99518,7 +100001,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=39.97363048858489,32.839623391628265",
   "yandex_url": "https://yandex.com/maps/?text=Zeynep Betül İnceler Etlik&ll=32.839623391628265%2C39.97363048858489&z=17",
   "osm_url": null,
-  "fsq_id": "64dcb5bb35530b7a7b4f68ca",
+  "fsq_id": "6503716edf26560e505cb6ec",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -99914,7 +100397,12 @@
   "mahalle": null,
   "telefon": "(0312) 270 74 64",
   "web": "http://www.zuhalguzellik.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/zuhalguzellikmerkezi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -101369,7 +101857,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.ayseonuk.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ayseonukofficial"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -102263,7 +102756,12 @@
   "mahalle": null,
   "telefon": "(0312) 287 12 10",
   "web": "http://fbf.bz/b/4by",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/akinorenhairsalon"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -102317,7 +102815,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/by_fatima_beauty_center"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -102832,7 +103335,12 @@
   "mahalle": null,
   "telefon": "(0312) 316 01 42",
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/cezbehairsalon"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -103111,7 +103619,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=39.969304,32.726285",
   "yandex_url": "https://yandex.com/maps/?text=coconut shaker&ll=32.726285%2C39.969304&z=17",
   "osm_url": null,
-  "fsq_id": "570e6f28498ed527032a7c0f",
+  "fsq_id": "570e6feb498e7519c4d781e5",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -109646,7 +110154,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.madamejolly.com.tr",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/madamejollyperukmerkezi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -109673,7 +110186,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.madamejolly.com.tr",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/madamejollyhair"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -116859,7 +117377,12 @@
   "mahalle": null,
   "telefon": "(0312) 666 05 53",
   "web": "http://cigdemugurlu.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/cigdemugurlu_ankara"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -118054,7 +118577,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ozlem_tuncabeautycenter"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -119536,7 +120064,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ilkinozsanmakeup"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -121483,6 +122016,33 @@
   "yandex_url": "https://yandex.com/maps/?text=şkoıjm&ll=32.56877743860714%2C39.80806255046133&z=17",
   "osm_url": null,
   "fsq_id": "517a398d498e11ab30be8007",
+  "kaynak": "foursquare",
+  "ilk_gorulme": "2026-11-05",
+  "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Галиьп",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "hizmet_ipuclari": [
+   "4f04aa0c2fb6e1c99f3db0b8"
+  ],
+  "adres": "İlkyerleşim Mahallesi",
+  "il": null,
+  "ilce": "Ankara",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.96928024291992,
+  "lng": 32.72708511352539,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.96928024291992,32.72708511352539",
+  "yandex_url": "https://yandex.com/maps/?text=Галиьп&ll=32.72708511352539%2C39.96928024291992&z=17",
+  "osm_url": null,
+  "fsq_id": "556070b0498eb40f9dd4d138",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"

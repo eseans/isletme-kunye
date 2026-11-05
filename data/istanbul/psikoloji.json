@@ -783,7 +783,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://pskberkayates.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/pskberkayates"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -1608,7 +1613,7 @@
   "hizmet_ipuclari": [
    "63be6904847c3692a84b9bc2"
   ],
-  "adres": null,
+  "adres": "Anadolu Mahallesi Gaziosmanpaşa Caddesi No: 6",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -1623,7 +1628,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=41.181394425309826,28.745279610157013",
   "yandex_url": "https://yandex.com/maps/?text=Psikolog Özlem Ziyaoğlu&ll=28.745279610157013%2C41.181394425309826&z=17",
   "osm_url": null,
-  "fsq_id": "692c7e7ca90cae2914ff10e4",
+  "fsq_id": "67a49c902cad757cc976b8dd",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -1785,7 +1790,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=41.01064144140151,29.243609905242916",
   "yandex_url": "https://yandex.com/maps/?text=Sancaktepe Ahi Psikoloji Eğitim ve Danışmanlık Merkezi&ll=29.243609905242916%2C41.01064144140151&z=17",
   "osm_url": null,
-  "fsq_id": "65a2f07e06505d085edff4e2",
+  "fsq_id": "65a2edf506505d085ed8ee2a",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -2508,7 +2513,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/zihinharmoni"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,

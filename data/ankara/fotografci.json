@@ -465,7 +465,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://mguzel.com.tr",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/mahmutguzelstudyo"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,

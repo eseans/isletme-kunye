@@ -291,6 +291,33 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": ">",
+  "sektor": "spor-salonu",
+  "kategori": "spor-salonu",
+  "hizmet_ipuclari": [
+   "4bf58dd8d48988d102941735"
+  ],
+  "adres": null,
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.85209454919002,
+  "lng": 30.616756286780596,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.85209454919002,30.616756286780596",
+  "yandex_url": "https://yandex.com/maps/?text=>&ll=30.616756286780596%2C36.85209454919002&z=17",
+  "osm_url": null,
+  "fsq_id": "50781ed7e4b0e1f137516d17",
+  "kaynak": "foursquare",
+  "ilk_gorulme": "2026-11-05",
+  "son_gorulme": "2026-11-05"
+ },
+ {
   "ad": "A S Spor klübü",
   "sektor": "spor-salonu",
   "kategori": "spor-salonu",
@@ -393,7 +420,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=36.87722247501479,30.640311265153574",
   "yandex_url": "https://yandex.com/maps/?text=A.S.S. Spor Kulübü&ll=30.640311265153574%2C36.87722247501479&z=17",
   "osm_url": null,
-  "fsq_id": "55cb835a498e58d789475446",
+  "fsq_id": "55c39c45498e395e61696fa9",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -2284,7 +2311,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.aryahouseantalya.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/aryahouseantalya"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -3075,7 +3107,12 @@
   "mahalle": null,
   "telefon": "(0242) 316 12 13",
   "web": "http://www.bfitspor.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/bfitspor"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -3586,7 +3623,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/blackswanpilates"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -4114,7 +4156,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.ccsportstudyo.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ccsportstudyo"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -4204,7 +4251,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=36.850765,30.761246",
   "yandex_url": "https://yandex.com/maps/?text=Central Park Gym&ll=30.761246%2C36.850765&z=17",
   "osm_url": null,
-  "fsq_id": "641c8f583438114159f9292e",
+  "fsq_id": "64afa3715842437504100998",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -4543,7 +4590,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.coresfit.tr",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/corexfit.tr"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -4673,7 +4725,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/crossfightlara"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -4829,7 +4886,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/crossfitheavyduty"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -5097,7 +5159,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.pilatesyogaantalya.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/pilates_yoga_antalya"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -5356,7 +5423,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/dub_boxingg"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -5680,7 +5752,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/e.kpilates"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -5735,7 +5812,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.em-pilates.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/empilatessystem"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -7617,7 +7699,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/fitnessvenue07"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -7834,7 +7921,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=36.858919402022785,30.735398586502317",
   "yandex_url": "https://yandex.com/maps/?text=FizyoLara&ll=30.735398586502317%2C36.858919402022785&z=17",
   "osm_url": null,
-  "fsq_id": "580a560f38faa26bee0e2e75",
+  "fsq_id": "580a568038fa9d88675a7987",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -7965,7 +8052,12 @@
   "mahalle": null,
   "telefon": "(0242) 999 00 91",
   "web": "http://www.fizyomax.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/gtosterapiantalya"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -8457,7 +8549,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/gtpilatesstudio"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -8924,7 +9021,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=36.917392,30.713368",
   "yandex_url": "https://yandex.com/maps/?text=Global Ems Fitness&ll=30.713368%2C36.917392&z=17",
   "osm_url": null,
-  "fsq_id": "6131aa142056d45bc8b9b159",
+  "fsq_id": "6131a7dbaaee877c453fb555",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -9770,7 +9867,12 @@
   "mahalle": null,
   "telefon": "+902423230332",
   "web": "www.hillcity.com.tr",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/hillcityartisclub"
+   }
+  ],
   "calisma_saatleri": "06:00 - 23:00",
   "lat": 36.8507852,
   "lng": 30.7612255,
@@ -10455,7 +10557,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=36.847961,30.605077",
   "yandex_url": "https://yandex.com/maps/?text=Kangoo Club Antalya&ll=30.605077%2C36.847961&z=17",
   "osm_url": null,
-  "fsq_id": "5c0fe0131de765002ced46ee",
+  "fsq_id": "5c0e88ad088158002cb63cf2",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -10835,7 +10937,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/guneycan79"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -11109,7 +11216,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=36.90507794777426,30.65852079982841",
   "yandex_url": "https://yandex.com/maps/?text=Kuzen's GYM Body Fitness&ll=30.65852079982841%2C36.90507794777426&z=17",
   "osm_url": null,
-  "fsq_id": "528a6704498e6f90467190b1",
+  "fsq_id": "528a612f11d21963b9097e00",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -14642,7 +14749,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.pelinspilates.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/pelinspilated"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -14669,7 +14781,12 @@
   "mahalle": null,
   "telefon": "(0242) 229 73 91",
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/blend_fit"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -14900,7 +15017,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/pilates_atolyesi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -15090,7 +15212,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/pilates.by.nesrin"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -16115,7 +16242,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/spilatesantalya"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -16407,7 +16539,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/satva_yogaveterapi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -18229,7 +18366,12 @@
   "mahalle": null,
   "telefon": "(0242) 999 32 36",
   "web": "http://www.talofitnesclub.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/talofitnessclub"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -18752,7 +18894,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=36.89466524880747,30.734161633151995",
   "yandex_url": "https://yandex.com/maps/?text=Time City Fitness Center&ll=30.734161633151995%2C36.89466524880747&z=17",
   "osm_url": null,
-  "fsq_id": "534a47ac498e000996a2969e",
+  "fsq_id": "5500637b498e03d7545b2a48",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -19568,7 +19710,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=36.847966,30.605004",
   "yandex_url": "https://yandex.com/maps/?text=Wellness Antalya&ll=30.605004%2C36.847966&z=17",
   "osm_url": null,
-  "fsq_id": "5c0fe10ec53093002c5fcaff",
+  "fsq_id": "5c0e8972270ee7002ca79969",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -20154,7 +20296,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=36.856922,30.744396",
   "yandex_url": "https://yandex.com/maps/?text=Yoga Mola&ll=30.744396%2C36.856922&z=17",
   "osm_url": null,
-  "fsq_id": "58af0e71e72ef61adc92b6cc",
+  "fsq_id": "5822027d8edd3a06f36025a5",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -20611,6 +20753,33 @@
   "yandex_url": "https://yandex.com/maps/?text=Zıporr,yardırr!&ll=30.648512060440947%2C36.88656313146731&z=17",
   "osm_url": null,
   "fsq_id": "50f18d9ee4b0f9cd359de590",
+  "kaynak": "foursquare",
+  "ilk_gorulme": "2026-11-05",
+  "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "`”",
+  "sektor": "spor-salonu",
+  "kategori": "spor-salonu",
+  "hizmet_ipuclari": [
+   "4bf58dd8d48988d102941735"
+  ],
+  "adres": null,
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.85303,
+  "lng": 30.61492,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.85303,30.61492",
+  "yandex_url": "https://yandex.com/maps/?text=`”&ll=30.61492%2C36.85303&z=17",
+  "osm_url": null,
+  "fsq_id": "50781fc6e4b0112fc2ab8b16",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -21774,7 +21943,12 @@
   "mahalle": null,
   "telefon": "(0242) 255 55 24",
   "web": "http://medicalgym.com.tr",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/medicalgymacademia"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -22439,6 +22613,33 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "|",
+  "sektor": "spor-salonu",
+  "kategori": "spor-salonu",
+  "hizmet_ipuclari": [
+   "4bf58dd8d48988d102941735"
+  ],
+  "adres": null,
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.85303,
+  "lng": 30.61492,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.85303,30.61492",
+  "yandex_url": "https://yandex.com/maps/?text=|&ll=30.61492%2C36.85303&z=17",
+  "osm_url": null,
+  "fsq_id": "50781f28e4b02a5a81aca122",
+  "kaynak": "foursquare",
+  "ilk_gorulme": "2026-11-05",
+  "son_gorulme": "2026-11-05"
+ },
+ {
   "ad": "Çamlı Park Residance Gym",
   "sektor": "spor-salonu",
   "kategori": "spor-salonu",
@@ -23056,6 +23257,33 @@
   "yandex_url": "https://yandex.com/maps/?text=şampiyon bady&ll=30.680388973762724%2C36.916443383523614&z=17",
   "osm_url": null,
   "fsq_id": "52fe5a2a498e1d7e7afa670c",
+  "kaynak": "foursquare",
+  "ilk_gorulme": "2026-11-05",
+  "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Коняалты",
+  "sektor": "spor-salonu",
+  "kategori": "spor-salonu",
+  "hizmet_ipuclari": [
+   "4bf58dd8d48988d176941735"
+  ],
+  "adres": null,
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.873287,
+  "lng": 30.65605,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.873287,30.65605",
+  "yandex_url": "https://yandex.com/maps/?text=Коняалты&ll=30.65605%2C36.873287&z=17",
+  "osm_url": null,
+  "fsq_id": "5b49025aa6031c002cf84df9",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"

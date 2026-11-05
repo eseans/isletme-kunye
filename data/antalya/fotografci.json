@@ -273,7 +273,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.mavistudyo.com.tr",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/mavistudyoantalya"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,

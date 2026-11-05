@@ -149,7 +149,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/uzmanterapist__gizem"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -212,7 +217,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=40.21867,28.977251",
   "yandex_url": "https://yandex.com/maps/?text=Paradigma Psikoloji&ll=28.977251%2C40.21867&z=17",
   "osm_url": null,
-  "fsq_id": "65085e688f129b077fac7664",
+  "fsq_id": "65085090155dae2e16ecdea8",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"

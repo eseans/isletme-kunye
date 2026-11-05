@@ -48,7 +48,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.426073197090645,27.135323882102963",
   "yandex_url": "https://yandex.com/maps/?text=Buse Naz Korkmaz&ll=27.135323882102963%2C38.426073197090645&z=17",
   "osm_url": null,
-  "fsq_id": "64cc3cd34d2e6565f454c382",
+  "fsq_id": "64cc3f0053045e50e6d0eba7",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -149,7 +149,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/gelisimatolyesidanismanlik"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -158,7 +163,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.490333,27.067523",
   "yandex_url": "https://yandex.com/maps/?text=Gelişim Atölyesi Psikoloji Ve Danışmanlık Merkezi&ll=27.067523%2C38.490333&z=17",
   "osm_url": null,
-  "fsq_id": "66a0a8402b11e03edca2697e",
+  "fsq_id": "66a0a9befcb2261bf01ac0f3",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -204,7 +209,7 @@
   "ilce": "Bayraklı",
   "mahalle": null,
   "telefon": null,
-  "web": null,
+  "web": "https://gumuspsikoloji.com",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -214,7 +219,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.45261408405461,27.18086242675781",
   "yandex_url": "https://yandex.com/maps/?text=Gümüş Psikoloji Merkezi&ll=27.18086242675781%2C38.45261408405461&z=17",
   "osm_url": null,
-  "fsq_id": "65062926c18984614db46136",
+  "fsq_id": "651044fde3dfbc64cc76a90d",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -450,7 +455,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://mustafaburakarabaci.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/psk.dan.burakarabaci"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -671,7 +681,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ileri.psikoloji"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,

@@ -41,7 +41,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.sevkiterapi.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/sevkiterapi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,

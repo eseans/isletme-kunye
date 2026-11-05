@@ -27,6 +27,33 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "&",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "hizmet_ipuclari": [
+   "4d954af4a243a5684765b473"
+  ],
+  "adres": null,
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.003053,
+  "lng": 28.89191,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.003053,28.89191",
+  "yandex_url": "https://yandex.com/maps/?text=&&ll=28.89191%2C41.003053&z=17",
+  "osm_url": null,
+  "fsq_id": "51c455f8498e40dc8954dda5",
+  "kaynak": "foursquare",
+  "ilk_gorulme": "2026-11-05",
+  "son_gorulme": "2026-11-05"
+ },
+ {
   "ad": "5. Levent Veteriner Kliniği",
   "sektor": "veteriner",
   "kategori": "veteriner",
@@ -811,7 +838,12 @@
   "mahalle": null,
   "telefon": "(0216) 629 05 45",
   "web": "http://atasehir.vet",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/atasehir_akcayveterinerlik"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -919,7 +951,12 @@
   "mahalle": null,
   "telefon": "(0212) 263 00 88",
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/alfaveterinerklinigi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -1426,7 +1463,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/veterineranadolu.uskudar"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -3061,7 +3103,7 @@
   "hizmet_ipuclari": [
    "4d954af4a243a5684765b473"
   ],
-  "adres": null,
+  "adres": "Atatürk Mah. Esentepe Sokak No:15/A Halkalı",
   "il": null,
   "ilce": "Kucukcekmece istanbul",
   "mahalle": null,
@@ -3394,7 +3436,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=40.990864,29.135763",
   "yandex_url": "https://yandex.com/maps/?text=Ataşehir Atapark Veteriner Kliniği&ll=29.135763%2C40.990864&z=17",
   "osm_url": null,
-  "fsq_id": "6730c5d63c211c01f51d68c0",
+  "fsq_id": "6730c374277432457cdb9e41",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -3493,7 +3535,12 @@
   "mahalle": null,
   "telefon": "(0216) 455 45 71",
   "web": "http://www.atasehirveteriner.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/atasehirveterinerklinigi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -4054,7 +4101,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.aydosvet.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/aydosveterinerklinigi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -4342,7 +4394,12 @@
   "mahalle": "Bahçeşehir 2.Kısım Mahallesi",
   "telefon": "(0212) 803 13 55",
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/bahcekentveterinerklinigi"
+   }
+  ],
   "calisma_saatleri": "Mo-Sa 10:00-19:30",
   "randevu": null,
   "engelli_erisimi": null,
@@ -4990,7 +5047,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=41.043274,28.90908",
   "yandex_url": "https://yandex.com/maps/?text=Bayrampaşa Belediyesi Veteriner İşleri Müdürlüğü&ll=28.90908%2C41.043274&z=17",
   "osm_url": null,
-  "fsq_id": "582eaa6880e1af60b2ba8f5e",
+  "fsq_id": "570b7f36498eee895315b2c2",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -5312,7 +5369,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=41.061047,29.00794",
   "yandex_url": "https://yandex.com/maps/?text=Berkman Veteriner Kliniği&ll=29.00794%2C41.061047&z=17",
   "osm_url": null,
-  "fsq_id": "5f5cd43350e0d91a7085f8a9",
+  "fsq_id": "5f5b44d55148947f3d2c988e",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -5441,7 +5498,12 @@
   "mahalle": null,
   "telefon": "(0212) 574 50 00",
   "web": "http://www.beyazpati.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/beyazpativet"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -5961,7 +6023,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=41.046474,29.104124",
   "yandex_url": "https://yandex.com/maps/?text=Bird Garage&ll=29.104124%2C41.046474&z=17",
   "osm_url": null,
-  "fsq_id": "5802a2c0d67caf7adccff87b",
+  "fsq_id": "5802a33bd67c48b4c5a24f38",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -7172,11 +7234,11 @@
   "hizmet_ipuclari": [
    "4d954af4a243a5684765b473"
   ],
-  "adres": null,
+  "adres": "Veliefendi Mah.Prof.Dr.Turan Gunes Cad. No:152/A",
   "il": null,
   "ilce": "İstanbul",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0212) 664 71 55",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -7187,7 +7249,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=40.99417949410693,28.89463947823034",
   "yandex_url": "https://yandex.com/maps/?text=Cidago Veteriner Kliniği&ll=28.89463947823034%2C40.99417949410693&z=17",
   "osm_url": null,
-  "fsq_id": "55fdcadb498e081c6e73fc54",
+  "fsq_id": "55f96392498e25a91808ac1f",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -7526,7 +7588,12 @@
   "mahalle": null,
   "telefon": "(0212) 322 48 88",
   "web": "http://countryvetveteriner.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/countryvet_veteriner"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -8831,7 +8898,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/dunyaveterinerklinigicorlu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -9026,7 +9098,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=41.020668,28.643081",
   "yandex_url": "https://yandex.com/maps/?text=Efe Veteriner&ll=28.643081%2C41.020668&z=17",
   "osm_url": null,
-  "fsq_id": "65058abae2fd6e711b8b9b89",
+  "fsq_id": "65056a79322f45247fd64138",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -9453,7 +9525,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=40.995134,29.106998",
   "yandex_url": "https://yandex.com/maps/?text=Emef Veteriner Kliniği&ll=29.106998%2C40.995134&z=17",
   "osm_url": null,
-  "fsq_id": "59e9c7b0829b0c5ec0ee4d2b",
+  "fsq_id": "59e9c7003ba767222d6551ea",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -10283,7 +10355,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=41.063116723650204,28.966317102313038",
   "yandex_url": "https://yandex.com/maps/?text=FLORA VETERİNER KLİNİĞİ&ll=28.966317102313038%2C41.063116723650204&z=17",
   "osm_url": null,
-  "fsq_id": "5c261117f05ca8002deaf4ce",
+  "fsq_id": "62c025ac8c88c7194fdde613",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -10627,7 +10699,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.doktorpativeteriner.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/feneryoluveteriner"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -11297,7 +11374,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.merkezveteriner.com.tr",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/gebzemerkezveteriner"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -11306,7 +11388,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=40.7965,29.430062",
   "yandex_url": "https://yandex.com/maps/?text=Gebze Merkez Veteriner&ll=29.430062%2C40.7965&z=17",
   "osm_url": null,
-  "fsq_id": "665880ecf9e4667105b141dc",
+  "fsq_id": "653e523b43b7c236d11559f6",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -11954,7 +12036,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=40.98148591069296,29.076154582037027",
   "yandex_url": "https://yandex.com/maps/?text=Göztepe vet&ll=29.076154582037027%2C40.98148591069296&z=17",
   "osm_url": null,
-  "fsq_id": "4fd347fee4b06383cc2ce4c2",
+  "fsq_id": "4fd347fee4b00a1642d12410",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -13066,7 +13148,7 @@
   "il": null,
   "ilce": "Kurna Köyü",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0216) 677 20 68",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -13523,7 +13605,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/veterinerkaktus"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -14875,7 +14962,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=41.06501674143718,28.699869898647385",
   "yandex_url": "https://yandex.com/maps/?text=Kuzey Bahçeşehir Veteriner Kliniği&ll=28.699869898647385%2C41.06501674143718&z=17",
   "osm_url": null,
-  "fsq_id": "4f854d43e4b03a290edde75b",
+  "fsq_id": "68e646a02754616e1c37e5a7",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -14922,7 +15009,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://kuzguncukveteriner.com.tr",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/kuzguncuk_veteriner"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -15395,7 +15487,7 @@
   "ilce": "İstanbul",
   "mahalle": null,
   "telefon": "(0212) 324 05 05",
-  "web": null,
+  "web": "https://leventcityveteriner.com",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -15405,7 +15497,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=41.086441,29.004801",
   "yandex_url": "https://yandex.com/maps/?text=Levent City Veteriner&ll=29.004801%2C41.086441&z=17",
   "osm_url": null,
-  "fsq_id": "63d6979b8a19030ac9d154ae",
+  "fsq_id": "662f79d7fa9ef21894be2c87",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -15540,7 +15632,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=40.946672,29.109454",
   "yandex_url": "https://yandex.com/maps/?text=Leylek Vet Maltepe Veteriner Kliniği&ll=29.109454%2C40.946672&z=17",
   "osm_url": null,
-  "fsq_id": "675ad06b1e858505f6f2f6ac",
+  "fsq_id": "675aedf80a3d9b05c8fe629f",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -15958,7 +16050,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://merlinveterinerklinigi.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/merlinveteriner"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -16307,7 +16404,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=41.03845,28.433619",
   "yandex_url": "https://yandex.com/maps/?text=Marin Veteriner Kliniği&ll=28.433619%2C41.03845&z=17",
   "osm_url": null,
-  "fsq_id": "57c3de97498e382e56ed81d2",
+  "fsq_id": "57c3e214498e489aa3d08b41",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -16676,7 +16773,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://mayadaveteriner.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/mayadaveterinerklinigi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -18100,7 +18202,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://modaveteriner.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/modaveterinerklinigi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -18188,7 +18295,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=40.96603005512718,29.102203845977783",
   "yandex_url": "https://yandex.com/maps/?text=Monovet Veteriner Kliniği&ll=29.102203845977783%2C40.96603005512718&z=17",
   "osm_url": null,
-  "fsq_id": "4d1df788dbac2c0fbd903e35",
+  "fsq_id": "6882368063ccbb3a5254bb7f",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -19445,7 +19552,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=41.11638100096177,29.009592533111572",
   "yandex_url": "https://yandex.com/maps/?text=Opulent 1453 Veteriner Kliniği Maslak&ll=29.009592533111572%2C41.11638100096177&z=17",
   "osm_url": null,
-  "fsq_id": "57fcf2fdcd1035998621c30d",
+  "fsq_id": "643aca13d64cfd6a6d5b5082",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -19763,7 +19870,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/palakveterinerklinigi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -19927,7 +20039,12 @@
   "mahalle": null,
   "telefon": "(0212) 293 46 72",
   "web": "http://papsivet.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/papsivet"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -19954,7 +20071,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.papyonveteriner.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/papyonveteriner"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -20168,7 +20290,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/patiiziveterinermuayenehanesi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -20462,7 +20589,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.patilordispartakuleveteriner.com.tr",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/patilordveteriner"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -20498,7 +20630,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=41.01037022993783,28.816438615322113",
   "yandex_url": "https://yandex.com/maps/?text=Paticana Veteriner Kliniği&ll=28.816438615322113%2C41.01037022993783&z=17",
   "osm_url": null,
-  "fsq_id": "626314cddce86767a9a613ea",
+  "fsq_id": "626278e24d17ea4db58c2605",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -21335,7 +21467,12 @@
   "mahalle": null,
   "telefon": "(0212) 613 78 78",
   "web": "http://www.petaddress.com.tr",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/vetpetaddress"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -21464,7 +21601,12 @@
   "mahalle": null,
   "telefon": "(0212) 535 72 84",
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/petavrupavet"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -21601,7 +21743,12 @@
   "mahalle": null,
   "telefon": "(0212) 694 02 55",
   "web": "http://www.petdunyasi.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/petdunyasiveteriner"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -21845,7 +21992,12 @@
   "mahalle": null,
   "telefon": "(0212) 229 38 85",
   "web": "http://www.petlimani.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/pethouse_vet"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -21895,7 +22047,7 @@
   "il": "Istanbul",
   "ilce": "Kadıköy",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0216) 330 97 40",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -22276,7 +22428,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/petdocvet"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -22663,7 +22820,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=40.963146,29.09798",
   "yandex_url": "https://yandex.com/maps/?text=Petiköy Veteriner Kliniği&ll=29.09798%2C40.963146&z=17",
   "osm_url": null,
-  "fsq_id": "5eccfea6a93f0c000878a217",
+  "fsq_id": "5eccf6271744a900089f5022",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -22762,7 +22919,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/petislandsilivri"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -23036,7 +23198,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=41.13692489696425,29.052217611317996",
   "yandex_url": "https://yandex.com/maps/?text=Petlife&ll=29.052217611317996%2C41.13692489696425&z=17",
   "osm_url": null,
-  "fsq_id": "4dea3e9f7d8b6c7a5338ef0f",
+  "fsq_id": "4f81f7dfe4b085b99c7a7ddc",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -23244,7 +23406,12 @@
   "mahalle": null,
   "telefon": "(0212) 873 93 23",
   "web": "http://www.petmania.com.tr",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/petmaniaveteriner"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -23325,7 +23492,12 @@
   "mahalle": null,
   "telefon": "(0212) 699 23 23",
   "web": "http://www.petmundovet.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/petmundoveteriner"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -23833,7 +24005,12 @@
   "mahalle": null,
   "telefon": "(0216) 326 00 56",
   "web": "http://www.pettoveteriner.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/pettoveteriner"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -24202,7 +24379,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ponteveteriner"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -26551,7 +26733,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://siyendiveteriner.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/siyendiveteriner"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -27390,7 +27577,12 @@
   "mahalle": null,
   "telefon": "(0216) 999 93 48",
   "web": "http://www.mercan.vet",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/mercanveteriner"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -27642,7 +27834,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=40.958458,29.1025",
   "yandex_url": "https://yandex.com/maps/?text=Umut Veteriner Kliniği&ll=29.1025%2C40.958458&z=17",
   "osm_url": null,
-  "fsq_id": "63a2f9a3c029bf22f0264d38",
+  "fsq_id": "63a2d22a8359533822afcb18",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -27831,7 +28023,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=40.978752,29.091127",
   "yandex_url": "https://yandex.com/maps/?text=Uzman Veteriner&ll=29.091127%2C40.978752&z=17",
   "osm_url": null,
-  "fsq_id": "5d6a7d4ac391b80008aa4e19",
+  "fsq_id": "5d6a7da751bb400008f9d6a8",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -27980,7 +28172,7 @@
   "il": null,
   "ilce": "İSTANBUL",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0212) 855 51 84",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -28067,7 +28259,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://vet216veterinerklinigi.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/vet216vet"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -28184,7 +28381,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=40.982476939614386,29.08268487450186",
   "yandex_url": "https://yandex.com/maps/?text=VETMEMORİAL&ll=29.08268487450186%2C40.982476939614386&z=17",
   "osm_url": null,
-  "fsq_id": "6076e61e67b5517507833ad0",
+  "fsq_id": "6076c9c6e04c4d3be466445a",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -28724,7 +28921,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=40.937099,29.133783",
   "yandex_url": "https://yandex.com/maps/?text=Vet Kampüs&ll=29.133783%2C40.937099&z=17",
   "osm_url": null,
-  "fsq_id": "66d06a4d1c9e3e38aea3ea65",
+  "fsq_id": "66d06a9cfc4521696be836a8",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -29024,7 +29221,7 @@
   "hizmet_ipuclari": [
    "4d954af4a243a5684765b473"
   ],
-  "adres": null,
+  "adres": "Kaya Sultan Sokak",
   "il": null,
   "ilce": "Istanbul",
   "mahalle": null,
@@ -29379,7 +29576,12 @@
   "mahalle": null,
   "telefon": "(0216) 325 57 47",
   "web": "http://www.vet216kosuyolu.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/vet216kosuyolu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -30042,7 +30244,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.cerkezkoyvetplus.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/cerkezkoyveplus"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -30312,7 +30519,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://gebzemerkezveteriner.com.tr",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/gebzemerkezveteriner"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -31274,9 +31486,14 @@
   "il": null,
   "ilce": "İstanbul",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0212) 983 99 99",
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/veticana"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -31285,7 +31502,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=41.058933,28.985365",
   "yandex_url": "https://yandex.com/maps/?text=Veticana Veteriner Kliniği&ll=28.985365%2C41.058933&z=17",
   "osm_url": null,
-  "fsq_id": "5fbe2e28ea8d1541dd891c3f",
+  "fsq_id": "5bb1d922bb8d36002c48a0f8",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -31465,7 +31682,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.vetirix.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/vetirix"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -32030,7 +32252,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=40.976627,28.65836",
   "yandex_url": "https://yandex.com/maps/?text=Vetmarise Veteriner Kliniği&ll=28.65836%2C40.976627&z=17",
   "osm_url": null,
-  "fsq_id": "697b67feb9009a576fb83065",
+  "fsq_id": "697b6719c7fbcb05b914b5a1",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -32390,7 +32612,12 @@
   "mahalle": null,
   "telefon": "(0282) 725 20 00",
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/cerezkoyvetplus"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -32521,7 +32748,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/vetrioveterinerklinigi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -32613,7 +32845,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=41.018623,28.826624",
   "yandex_url": "https://yandex.com/maps/?text=Vetropol Veteriner Kliniği&ll=28.826624%2C41.018623&z=17",
   "osm_url": null,
-  "fsq_id": "60b2148b09b4f574c2590e7e",
+  "fsq_id": "60b215aaab53ed1c60121aa4",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -33010,7 +33242,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/vetwisecadde"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -33278,7 +33515,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.vivovet.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/vivovetveterinerklinigi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -33862,7 +34104,12 @@
   "mahalle": null,
   "telefon": "(0216) 347 08 38",
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/yenitepevet7_24"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -33889,7 +34136,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.yenitepevet.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/yenitepevet7_24"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -34213,7 +34465,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=41.06384997912515,28.93031045794487",
   "yandex_url": "https://yandex.com/maps/?text=Yıldıztabya Veteriner Kliniği&ll=28.93031045794487%2C41.06384997912515&z=17",
   "osm_url": null,
-  "fsq_id": "64be6ced9eeab61d5a8a40f8",
+  "fsq_id": "64c1b1fe4f1de61795b4c444",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -34552,7 +34804,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.zoomveteriner.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/zoomveteriner"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -36135,7 +36392,12 @@
   "mahalle": null,
   "telefon": "(0212) 621 04 05",
   "web": "http://www.capaveteriner.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/capaveteriner"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -36195,7 +36457,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=41.141717608396384,28.462911336578752",
   "yandex_url": "https://yandex.com/maps/?text=Çatalca Veteriner Kliniği&ll=28.462911336578752%2C41.141717608396384&z=17",
   "osm_url": null,
-  "fsq_id": "50d42d2ae4b0bb5640bb60cf",
+  "fsq_id": "6aa91f8573953b0a60a303cc",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -36240,7 +36502,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/caglayanvetveterinerhizmetleri"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -36249,7 +36516,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=41.076556,28.98495",
   "yandex_url": "https://yandex.com/maps/?text=ÇağlayanVet Veteriner Muayenehanesi&ll=28.98495%2C41.076556&z=17",
   "osm_url": null,
-  "fsq_id": "6a69d25c01d2c36a65a35eed",
+  "fsq_id": "6a6a2b138151520392dfb00d",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -36401,7 +36668,12 @@
   "mahalle": null,
   "telefon": "0850 346 3333",
   "web": "https://www.celikcesa.com.tr",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/celikcesa"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -36482,7 +36754,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/cerkezkoy_veteriner_klinigi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -36909,7 +37186,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/umitveteriner"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -37072,7 +37354,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://ozelumraniyeveterinerklinigi.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ozelumraniyeveterinerklinigi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -37081,7 +37368,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=41.026437,29.089947",
   "yandex_url": "https://yandex.com/maps/?text=özel ümraniye veteriner kliniği&ll=29.089947%2C41.026437&z=17",
   "osm_url": null,
-  "fsq_id": "5d1806f7c195980023b478fa",
+  "fsq_id": "6a99baf6d27af9503cbd1029",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -37525,7 +37812,12 @@
   "mahalle": "Yenişehir",
   "telefon": "+90 216 456 36 06",
   "web": "https://www.isthayvanhastanesi.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/istanbulhayvanhastanesi"
+   }
+  ],
   "calisma_saatleri": "24/7",
   "randevu": null,
   "engelli_erisimi": null,
@@ -37846,7 +38138,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/sehirvet"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -37894,12 +38191,12 @@
   "hizmet_ipuclari": [
    "4d954af4a243a5684765b473"
   ],
-  "adres": null,
+  "adres": "Florya Cad. No:27 D:3 Bakırköy",
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
-  "web": null,
+  "telefon": "(0212) 580 78 78",
+  "web": "http://fbf.bz/b/4A3",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -37909,7 +38206,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=40.98160324235095,28.793845291275915",
   "yandex_url": "https://yandex.com/maps/?text=Şenlikköy Veteriner Kliniği&ll=28.793845291275915%2C40.98160324235095&z=17",
   "osm_url": null,
-  "fsq_id": "51a9ebd9498e2598b0f67420",
+  "fsq_id": "4fc7fce3e4b0936e6efe2edc",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -38033,7 +38330,12 @@
   "mahalle": null,
   "telefon": "(0212) 607 17 00",
   "web": "https://www.sirinvet.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/sirinvet"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,

@@ -108,6 +108,33 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": ".",
+  "sektor": "spa-masaj",
+  "kategori": "spa-masaj",
+  "hizmet_ipuclari": [
+   "4bf58dd8d48988d1ed941735"
+  ],
+  "adres": null,
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.027503967285156,
+  "lng": 28.918764114379883,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.027503967285156,28.918764114379883",
+  "yandex_url": "https://yandex.com/maps/?text=.&ll=28.918764114379883%2C41.027503967285156&z=17",
+  "osm_url": null,
+  "fsq_id": "5649ce5c498eafa544650738",
+  "kaynak": "foursquare",
+  "ilk_gorulme": "2026-11-05",
+  "son_gorulme": "2026-11-05"
+ },
+ {
   "ad": "07Lifespa",
   "sektor": "spa-masaj",
   "kategori": "spa-masaj",
@@ -610,7 +637,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://aurafitspa.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/aurafitspa_"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -941,7 +973,12 @@
   "mahalle": null,
   "telefon": "(0216) 340 21 38",
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ak_sauna_spa"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -1730,7 +1767,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.angelbabyspa.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/beylikduzubabyspa"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -2387,7 +2429,12 @@
   "mahalle": null,
   "telefon": "(0212) 230 44 72",
   "web": "http://www.aristestetik.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/aristestetik"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -2960,7 +3007,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/auraspagiyimkent"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -3587,7 +3639,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.babygospa.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/babygospa"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -4820,7 +4877,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.bfinebeauty.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/bfinebeautydayspa"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -5832,7 +5894,12 @@
   "mahalle": null,
   "telefon": "0850 532 1035",
   "web": "http://carpediemspawellness.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/carpediemspa_laquinta"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -5886,7 +5953,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.ayakmasaji.com.tr",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/carpediemfoot"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -7634,7 +7706,12 @@
   "mahalle": null,
   "telefon": "(0212) 541 44 45",
   "web": "http://www.dreamspafitness.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/dreamspafitness"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -7661,7 +7738,12 @@
   "mahalle": null,
   "telefon": "(0216) 651 03 45",
   "web": "http://www.dreamspafitness.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/dreamspafitness"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -8124,7 +8206,12 @@
   "mahalle": null,
   "telefon": "(0212) 251 49 49",
   "web": "http://www.dencityhotel.com/spa/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/dencityhotelbestspa"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -8836,7 +8923,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.navitasspa.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/navitasspahiltontopkapi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -8864,7 +8956,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.navitasspa.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/navitasspatopkapi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -9087,7 +9184,12 @@
   "mahalle": null,
   "telefon": "(0262) 642 88 88",
   "web": "http://www.dsroyal.com.tr",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/dsroyalestetikguzellik"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -9966,7 +10068,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=41.020508,28.653532",
   "yandex_url": "https://yandex.com/maps/?text=Enjoy Masaj Salonu&ll=28.653532%2C41.020508&z=17",
   "osm_url": null,
-  "fsq_id": "640e0ae2617f7a25279e5594",
+  "fsq_id": "640e2360bb288d176f87489e",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -11753,12 +11855,12 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d1ed941735"
   ],
-  "adres": null,
+  "adres": "Kanyon - Metrocity Alt Geçidi 3T Eco Bazaar AVM",
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
-  "web": null,
+  "telefon": "(0212) 270 78 70",
+  "web": "http://www.footbliss.com.tr",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -11864,7 +11966,7 @@
   "ilce": "Istanbul",
   "mahalle": null,
   "telefon": null,
-  "web": null,
+  "web": "https://maps.app.goo.gl/UwWE1NJfVsBudAij6",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -11874,7 +11976,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=41.02544029192528,28.97417436540536",
   "yandex_url": "https://yandex.com/maps/?text=Foot Therapy Galata&ll=28.97417436540536%2C41.02544029192528&z=17",
   "osm_url": null,
-  "fsq_id": "67d45151e9e57a53d0ca201a",
+  "fsq_id": "67d453c6a1563c170e078620",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -12146,7 +12248,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=41.0119,28.654293",
   "yandex_url": "https://yandex.com/maps/?text=Fox Spa Center&ll=28.654293%2C41.0119&z=17",
   "osm_url": null,
-  "fsq_id": "63f644d930b7445094daa117",
+  "fsq_id": "63f646441e9c20390f89c2d1",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -12256,7 +12358,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=41.012010240121825,28.93569528978063",
   "yandex_url": "https://yandex.com/maps/?text=Fındıkzade Spa Merkezi&ll=28.93569528978063%2C41.012010240121825&z=17",
   "osm_url": null,
-  "fsq_id": "56e41797498ea4e766771a92",
+  "fsq_id": "56e41854498e3f5a7fd912f9",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -12358,7 +12460,12 @@
   "mahalle": null,
   "telefon": "(0212) 368 11 48",
   "web": "https://www.hyatt.com/grand-hyatt/en-US/istan-grand-hyatt-istanbul",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/hyatt"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -12903,7 +13010,12 @@
   "mahalle": null,
   "telefon": "0850 302 8536",
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/greenroof.otel"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -12931,7 +13043,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://greenspa.com.tr",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/artoflivinghouse"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -14132,7 +14249,12 @@
   "mahalle": null,
   "telefon": "(0212) 557 57 77",
   "web": "http://www.harmonyhotels.com.tr",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/harmonyhotelmerter"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -14268,7 +14390,12 @@
   "mahalle": null,
   "telefon": "0850 885 1589",
   "web": "http://hattusa.com.tr",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/hattusakazdaglari"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -14304,7 +14431,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=41.045406,28.761553",
   "yandex_url": "https://yandex.com/maps/?text=Havuz Başı&ll=28.761553%2C41.045406&z=17",
   "osm_url": null,
-  "fsq_id": "5b12506fa6031c002c4397fe",
+  "fsq_id": "5b124ff859c4230039c751fa",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -14653,7 +14780,12 @@
   "mahalle": null,
   "telefon": "(0212) 401 37 37",
   "web": "https://www.hilton.com/en/hotels/istaphi-hilton-istanbul-airport",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/hiltonistanbulairport"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -15779,7 +15911,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=41.192408742472075,28.904337110140453",
   "yandex_url": "https://yandex.com/maps/?text=KG&CC Spa&ll=28.904337110140453%2C41.192408742472075&z=17",
   "osm_url": null,
-  "fsq_id": "525fa115498e85cfd9d0d9ad",
+  "fsq_id": "4ea007b3b80362c6628bfd39",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -16831,7 +16963,12 @@
   "mahalle": null,
   "telefon": "(0212) 672 18 29",
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/kubratoksoybeauty"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -17734,7 +17871,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=41.09793,28.999035",
   "yandex_url": "https://yandex.com/maps/?text=Lefii Spa Merkezi&ll=28.999035%2C41.09793&z=17",
   "osm_url": null,
-  "fsq_id": "645cedf2b94034239653ecec",
+  "fsq_id": "645cf4f7bc1e8f1e577f39c7",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -17781,7 +17918,12 @@
   "mahalle": null,
   "telefon": "(0212) 359 15 00",
   "web": "http://www.lesottomans.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/lesottomans"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -18276,7 +18418,12 @@
   "mahalle": null,
   "telefon": "(0212) 463 05 00",
   "web": "http://www.liveraspa.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/livera_spa_"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -18712,7 +18859,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.museandlifekarakoy.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/museandlifekarakoy"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -19418,7 +19570,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/master_barbers"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -19582,7 +19739,12 @@
   "mahalle": null,
   "telefon": "444 0 614",
   "web": "http://www.mayaestetik.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/mayaestetik"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -19964,7 +20126,12 @@
   "mahalle": null,
   "telefon": "(0216) 519 27 19",
   "web": "http://www.metropolhamamspa.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/metropolhamamspa"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -20083,7 +20250,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=40.95945100462487,29.102123196785495",
   "yandex_url": "https://yandex.com/maps/?text=Mia Spa&ll=29.102123196785495%2C40.95945100462487&z=17",
   "osm_url": null,
-  "fsq_id": "4fc7b0fde4b0647c52ba6858",
+  "fsq_id": "4cd15e6306b546883e2ee094",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -20435,7 +20602,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=41.029894,28.973123",
   "yandex_url": "https://yandex.com/maps/?text=Molton Spa&ll=28.973123%2C41.029894&z=17",
   "osm_url": null,
-  "fsq_id": "58f07d08c5b11c7b5a15670a",
+  "fsq_id": "58ef2f091213841daf7cc84e",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -20655,7 +20822,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=41.07802480259189,29.008873701095585",
   "yandex_url": "https://yandex.com/maps/?text=Mota Spa&ll=29.008873701095585%2C41.07802480259189&z=17",
   "osm_url": null,
-  "fsq_id": "5ffb9f269297d176ad6e0b36",
+  "fsq_id": "632849c3b4ce6e2d6fd55bcb",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -20702,7 +20869,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://mottoxspawellness.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/mottoxspawellnes"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -21220,7 +21392,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://navitasspa.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/navitasspahiltontopkapi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -21959,7 +22136,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.nisanshotelsuite.com.tr",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/hotelnisanssuite"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -22197,7 +22379,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d1ed941735"
   ],
-  "adres": null,
+  "adres": "Cevizli Mh.",
   "il": null,
   "ilce": "Cevizli",
   "mahalle": null,
@@ -22212,7 +22394,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=40.92190492019154,29.158545355883057",
   "yandex_url": "https://yandex.com/maps/?text=Nu Spa&ll=29.158545355883057%2C40.92190492019154&z=17",
   "osm_url": null,
-  "fsq_id": "58e118bb5d6ec64f3be94c13",
+  "fsq_id": "5be0752fe17910002c4523a7",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -23465,7 +23647,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=40.993477,28.708128",
   "yandex_url": "https://yandex.com/maps/?text=Okyanus Spa&ll=28.708128%2C40.993477&z=17",
   "osm_url": null,
-  "fsq_id": "640619701764786483d3ac33",
+  "fsq_id": "64060b733d20913feae9de01",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -23591,7 +23773,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.shopier.com/ShowProductNew/storefront.php?shop=OLABABYIstanbul&sid=YUhieWhiNlZydGR5ekZFSTBfLTFfIF8g",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/olababyistanbul"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -24275,7 +24462,12 @@
   "mahalle": null,
   "telefon": "(0216) 570 00 50",
   "web": "http://www.palestra.com.tr",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/marriottrewards"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -25370,7 +25562,12 @@
   "mahalle": null,
   "telefon": "(0212) 496 10 00",
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/primefitexclusive"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -25809,7 +26006,12 @@
   "mahalle": null,
   "telefon": "0850 340 7496",
   "web": "http://www.qgymspa.net",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/qgym.spa"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -25915,8 +26117,8 @@
   "il": null,
   "ilce": "İstanbul",
   "mahalle": null,
-  "telefon": null,
-  "web": null,
+  "telefon": "(0212) 297 22 00",
+  "web": "http://www.taksimgonen.com",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -25926,7 +26128,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=41.038810007182995,28.983556329298118",
   "yandex_url": "https://yandex.com/maps/?text=Qualia Spa&ll=28.983556329298118%2C41.038810007182995&z=17",
   "osm_url": null,
-  "fsq_id": "55a94188498e4f795f86d29d",
+  "fsq_id": "4f6b5c2fe4b0bcd826801b63",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -26598,7 +26800,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.relaxspaistanbul.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/relaxspaaa"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -29001,7 +29208,12 @@
   "mahalle": null,
   "telefon": "(0216) 585 60 78",
   "web": "http://www.serenita.com.tr",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/streetworkoutturkiye"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -29763,7 +29975,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/sirenaspaatasehir"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -30286,7 +30503,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=40.92395782470703,29.12603759765625",
   "yandex_url": "https://yandex.com/maps/?text=Spa&ll=29.12603759765625%2C40.92395782470703&z=17",
   "osm_url": null,
-  "fsq_id": "53553289498ed5a1a5465d7a",
+  "fsq_id": "535532f1498eef77e4185a75",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -30640,7 +30857,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=40.96217689593785,29.076715917907727",
   "yandex_url": "https://yandex.com/maps/?text=Spa Ceylon&ll=29.076715917907727%2C40.96217689593785&z=17",
   "osm_url": null,
-  "fsq_id": "5226081e11d2bcafd253aeee",
+  "fsq_id": "52906fab498e9d8859b20381",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -31005,7 +31222,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d1ed941735"
   ],
-  "adres": null,
+  "adres": "Küçükbakkalköy Şenlik Sokak No.1",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -31020,7 +31237,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=40.983605,29.107094",
   "yandex_url": "https://yandex.com/maps/?text=Spa Sunrise Ataşehir&ll=29.107094%2C40.983605&z=17",
   "osm_url": null,
-  "fsq_id": "6125d88f17992e0eeb975281",
+  "fsq_id": "6125d272d0e7c026940e5714",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -31402,7 +31619,12 @@
   "mahalle": null,
   "telefon": "(0216) 467 07 82",
   "web": "http://www.spacedayspa.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/spacedayspa"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -34765,7 +34987,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.vannaspa.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/vannaspa"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -34794,7 +35021,12 @@
   "mahalle": null,
   "telefon": "(0216) 571 61 45",
   "web": "http://www.vannaspa.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/vannaspafitness"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -34849,7 +35081,12 @@
   "mahalle": null,
   "telefon": "(0212) 325 32 80",
   "web": "http://group.verita.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/veritahealthturkey"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -34935,7 +35172,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.spavictory.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/victoryspaistanbul"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -36280,7 +36522,12 @@
   "mahalle": null,
   "telefon": "(0212) 213 52 52",
   "web": "http://www.zoneclub.me",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/zonefitnessspa"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -37530,7 +37777,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/elemntspa"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -39852,7 +40104,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.giornofelice.com.tr",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/giornofelicespa"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,

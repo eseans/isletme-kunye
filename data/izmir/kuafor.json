@@ -60,7 +60,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d110951735"
   ],
-  "adres": null,
+  "adres": "Mevlana Mahallesi",
   "il": null,
   "ilce": "Bornova",
   "mahalle": null,
@@ -75,7 +75,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.448692,27.231922",
   "yandex_url": "https://yandex.com/maps/?text=(Hd) Barber Shop&ll=27.231922%2C38.448692&z=17",
   "osm_url": null,
-  "fsq_id": "5cc7756cad1789002ccf8665",
+  "fsq_id": "5cc55d9259c423002c4c1403",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -497,7 +497,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.501644,27.054489",
   "yandex_url": "https://yandex.com/maps/?text=35 BUÇUK BAYAN KUAFÖRÜ&ll=27.054489%2C38.501644&z=17",
   "osm_url": null,
-  "fsq_id": "5c3c720465cdf8002c1671f1",
+  "fsq_id": "5c38c68235f983002c65db13",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -759,7 +759,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/altiustubirsac"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -1363,7 +1368,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.42572980577203,27.198281783033963",
   "yandex_url": "https://yandex.com/maps/?text=ADIVAR Erkek Kuaförü&ll=27.198281783033963%2C38.42572980577203&z=17",
   "osm_url": null,
-  "fsq_id": "54d1116f498e7c67eb6168f3",
+  "fsq_id": "54d110ea498efee27c9710eb",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -1813,7 +1818,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/angel_couffeur"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -2915,7 +2925,12 @@
   "mahalle": null,
   "telefon": "(0232) 344 06 07",
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ruyamkuafor"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -3234,7 +3249,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d110951735"
   ],
-  "adres": null,
+  "adres": "İzmir",
   "il": null,
   "ilce": "izmir",
   "mahalle": null,
@@ -3249,7 +3264,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.398527,27.104456",
   "yandex_url": "https://yandex.com/maps/?text=Adilkarahairstudio&ll=27.104456%2C38.398527&z=17",
   "osm_url": null,
-  "fsq_id": "64f45c62fb32297b4a937ff6",
+  "fsq_id": "64f45b8639ae507eb54b9570",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -3321,7 +3336,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/adnanerkekkuaforu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -4122,7 +4142,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d110951735"
   ],
-  "adres": null,
+  "adres": "742 Sokak",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -4137,7 +4157,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.47740598555657,27.214349560237245",
   "yandex_url": "https://yandex.com/maps/?text=Ahmet Erkek Kuaförü&ll=27.214349560237245%2C38.47740598555657&z=17",
   "osm_url": null,
-  "fsq_id": "560beb5c498ee4045e9fbcba",
+  "fsq_id": "56b5ccfc498ecb17d2a7ed50",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -4866,7 +4886,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.397,27.074826",
   "yandex_url": "https://yandex.com/maps/?text=Aksoy Erkek Kuaförü&ll=27.074826%2C38.397&z=17",
   "osm_url": null,
-  "fsq_id": "528a537e11d2ae8b1c8f4608",
+  "fsq_id": "4e32bcdec65bfd5a4e297b2a",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -8121,7 +8141,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.462212352653985,27.20009852581726",
   "yandex_url": "https://yandex.com/maps/?text=Always Erkek Kuaförü&ll=27.20009852581726%2C38.462212352653985&z=17",
   "osm_url": null,
-  "fsq_id": "52077eb911d2522d82ef7e30",
+  "fsq_id": "5237363e11d288ce58183cc4",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -9060,7 +9080,12 @@
   "mahalle": null,
   "telefon": "(0232) 999 65 01",
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/anilirtem_sactasarim"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -9069,7 +9094,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.46323059956254,27.214282789649157",
   "yandex_url": "https://yandex.com/maps/?text=Anıl İrtem Saç Tasarım&ll=27.214282789649157%2C38.46323059956254&z=17",
   "osm_url": null,
-  "fsq_id": "5b606cd5e4c459002cf78f06",
+  "fsq_id": "5388d7d9498e33f16c37734c",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -9708,7 +9733,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/armagankuafor"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -14233,7 +14263,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.474458,27.196373",
   "yandex_url": "https://yandex.com/maps/?text=Aysel & Aynur Saç Tasarım&ll=27.196373%2C38.474458&z=17",
   "osm_url": null,
-  "fsq_id": "5c153e7a60d11b002ca5f8b5",
+  "fsq_id": "5c153ba4acc5f5002c21ad43",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -14488,7 +14518,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/aytacburcukuafor"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -14524,7 +14559,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.46837,27.177977",
   "yandex_url": "https://yandex.com/maps/?text=Aytaç Erkek Kuaförü&ll=27.177977%2C38.46837&z=17",
   "osm_url": null,
-  "fsq_id": "56f2c956cd1041444f7741d3",
+  "fsq_id": "55fc2e86498ee182b2072bbe",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -14821,7 +14856,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.32508808172996,27.13482578420446",
   "yandex_url": "https://yandex.com/maps/?text=Ayyıldız Erkek Kuaförü&ll=27.13482578420446%2C38.32508808172996&z=17",
   "osm_url": null,
-  "fsq_id": "559d51ee498e30df05e8d3fb",
+  "fsq_id": "53cbe44d498e10c40b1eb326",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -17101,7 +17136,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d110951735"
   ],
-  "adres": null,
+  "adres": "6497 Sok .No 14/a Yalımahallesi Karşıyaka İzmir",
   "il": null,
   "ilce": "İzmir",
   "mahalle": null,
@@ -17116,7 +17151,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.472842500126006,27.084891944861372",
   "yandex_url": "https://yandex.com/maps/?text=BY MAKAS&ll=27.084891944861372%2C38.472842500126006&z=17",
   "osm_url": null,
-  "fsq_id": "55313ac8498ecba13d054cda",
+  "fsq_id": "5df09b19e427d600085aca87",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -17860,7 +17895,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d110951735"
   ],
-  "adres": null,
+  "adres": "692 Sok No.5 Göksu Mah",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -17875,7 +17910,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.368879503684305,27.14708959728416",
   "yandex_url": "https://yandex.com/maps/?text=Bahar Kuaför&ll=27.14708959728416%2C38.368879503684305&z=17",
   "osm_url": null,
-  "fsq_id": "5346d4d2498e3151ed6d42a1",
+  "fsq_id": "535a19b1498ea4618bfd7cba",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -18589,7 +18624,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/barberbyserhat"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -18880,7 +18920,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/barbercenk_official"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -18908,7 +18953,12 @@
   "mahalle": null,
   "telefon": "(0232) 463 22 01",
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/barbershopcihan"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -19052,7 +19102,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.390366283427625,27.049785554409024",
   "yandex_url": "https://yandex.com/maps/?text=Barber shop by Cevdet&ll=27.049785554409024%2C38.390366283427625&z=17",
   "osm_url": null,
-  "fsq_id": "65d34b1f1746da6e4dd4e136",
+  "fsq_id": "65d351f75c3a585802ce86d3",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -19340,7 +19390,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/barbers_ugur"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -20208,7 +20263,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.40137309622469,27.11098949804431",
   "yandex_url": "https://yandex.com/maps/?text=Bay Ata Kuaför&ll=27.11098949804431%2C38.40137309622469&z=17",
   "osm_url": null,
-  "fsq_id": "56014a71498ef77d5f160f8d",
+  "fsq_id": "560141d0498e1b505e91ed0c",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -21649,7 +21704,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d110951735"
   ],
-  "adres": null,
+  "adres": "Demirköprü",
   "il": null,
   "ilce": "Karşıyaka",
   "mahalle": null,
@@ -21664,7 +21719,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.468300923594526,27.09624187830515",
   "yandex_url": "https://yandex.com/maps/?text=Başkent Kuaför&ll=27.09624187830515%2C38.468300923594526&z=17",
   "osm_url": null,
-  "fsq_id": "53b1ab1b498ec5c318946731",
+  "fsq_id": "531f0867498ec859da3ccba0",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -22088,7 +22143,12 @@
   "mahalle": null,
   "telefon": "(0232) 368 02 49",
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/bekirkuafor"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -25296,7 +25356,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.3976006723182,27.07481987936975",
   "yandex_url": "https://yandex.com/maps/?text=Berber Kenan&ll=27.07481987936975%2C38.3976006723182&z=17",
   "osm_url": null,
-  "fsq_id": "5561b0e4498e668809f8b41e",
+  "fsq_id": "56519c9d498ef3cf4336fe46",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -27090,7 +27150,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.39577,27.068657",
   "yandex_url": "https://yandex.com/maps/?text=Berber Sezai&ll=27.068657%2C38.39577&z=17",
   "osm_url": null,
-  "fsq_id": "65e9e67aa474b54f7f997e71",
+  "fsq_id": "65e9f0a8da380103a7498cda",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -29237,7 +29297,12 @@
   "mahalle": null,
   "telefon": "(0232) 347 61 81",
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/berberim_umitcakar"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -29258,7 +29323,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d110951735"
   ],
-  "adres": null,
+  "adres": "Küçükpark Bornova",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -29345,7 +29410,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/berbershopsahinbalik"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -30554,7 +30624,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.beykuafor.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/sevketkoparalbey"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -30608,7 +30683,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/sevketkoparalbey"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -31203,7 +31283,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/bilaldemir_"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -32369,7 +32454,7 @@
   "il": null,
   "ilce": "Izmir",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0454) 212 75 68",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -32587,7 +32672,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/blackcherrybarberco"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -32992,7 +33082,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/blazi.coiffeur"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -33537,7 +33632,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.38614,27.055096",
   "yandex_url": "https://yandex.com/maps/?text=Boss Erkek Kuaförü&ll=27.055096%2C38.38614&z=17",
   "osm_url": null,
-  "fsq_id": "57f7800e498e466c1a267c4b",
+  "fsq_id": "57f77f6c498eacc89a68c91d",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -34185,7 +34280,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.38194,27.176044",
   "yandex_url": "https://yandex.com/maps/?text=Buca Bayan Kuaförü&ll=27.176044%2C38.38194&z=17",
   "osm_url": null,
-  "fsq_id": "619e3e7fdeeb172ac1b64af5",
+  "fsq_id": "5ddf7b1f61260b00079643a2",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -34528,7 +34623,12 @@
   "mahalle": null,
   "telefon": "(0232) 364 80 17",
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/kuaforbulentugurlu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -34657,7 +34757,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/burakkderdiyokk"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -35342,7 +35447,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.394768666648346,27.11100098857899",
   "yandex_url": "https://yandex.com/maps/?text=Burcu Kuaför&ll=27.11100098857899%2C38.394768666648346&z=17",
   "osm_url": null,
-  "fsq_id": "51cc055d498ea104dfd3dd83",
+  "fsq_id": "5128ef54e4b01bb755b735f9",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -35441,7 +35546,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/burcu_capan_hairstylist_studio"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -36281,7 +36391,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/kuaforbyabdullah2018"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -36473,7 +36588,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://by-ahmet.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/by.ahmet"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -36529,7 +36649,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://by-ahmet.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/by.ahmet"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -37064,7 +37189,12 @@
   "mahalle": null,
   "telefon": "(0232) 261 00 11",
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/bybarsagrman"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -37100,7 +37230,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.380085,27.183165",
   "yandex_url": "https://yandex.com/maps/?text=By Barış Ağırman Buca Exclusive&ll=27.183165%2C38.380085&z=17",
   "osm_url": null,
-  "fsq_id": "64355c1a95f1c60ee1ff594a",
+  "fsq_id": "64355c1c9665540910ad538b",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -37193,7 +37323,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d110951735"
   ],
-  "adres": null,
+  "adres": "Yesillik Cad No:6/b",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -37208,7 +37338,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.401695,27.13009",
   "yandex_url": "https://yandex.com/maps/?text=By Berber&ll=27.13009%2C38.401695&z=17",
   "osm_url": null,
-  "fsq_id": "5ab669181953f32d12813481",
+  "fsq_id": "55bcb367498e67cbb07e21af",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -38086,7 +38216,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/byerkanhairboss"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -39756,7 +39891,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/muhammed_erdmr"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -40323,7 +40463,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/byosman_"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -40845,7 +40990,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.44243,27.197905",
   "yandex_url": "https://yandex.com/maps/?text=By Serdar Hair Palace&ll=27.197905%2C38.44243&z=17",
   "osm_url": null,
-  "fsq_id": "6233024ee1ef4c6ab206d354",
+  "fsq_id": "68566130a6c25d2944c9aec9",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -41858,7 +42003,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/byvolkankuafor"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -42878,7 +43028,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.byceyenilekendini.com.tr",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/bycesaloon"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -42906,7 +43061,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.byce.com.tr",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/bycemobil"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -42960,7 +43120,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/byistanbul_exclusive"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -44023,7 +44188,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.465487669515234,27.196415357703234",
   "yandex_url": "https://yandex.com/maps/?text=CEMRE KUAFÖR&ll=27.196415357703234%2C38.465487669515234&z=17",
   "osm_url": null,
-  "fsq_id": "55f83389498e709df65e36ca",
+  "fsq_id": "52dd0f2e498e66c023f96bd5",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -45071,7 +45236,12 @@
   "mahalle": null,
   "telefon": "(0232) 520 13 38",
   "web": "http://canca101@hotmail.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/can_bircok"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -45188,7 +45358,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.298427,27.177838",
   "yandex_url": "https://yandex.com/maps/?text=Can Erkek Kuaförü&ll=27.177838%2C38.298427&z=17",
   "osm_url": null,
-  "fsq_id": "544be3d2498e317ec4dc9de2",
+  "fsq_id": "51c99146498e038a4125e6e2",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -45287,7 +45457,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/kuafor_canatayuysal"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -45696,7 +45871,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.459642489343935,27.10635897275998",
   "yandex_url": "https://yandex.com/maps/?text=Canan Kuaför&ll=27.10635897275998%2C38.459642489343935&z=17",
   "osm_url": null,
-  "fsq_id": "514724d3e4b0251c3d23c37a",
+  "fsq_id": "55b26663498ef7058c0f3ef4",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -48395,7 +48570,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.469777475942834,27.098407286894524",
   "yandex_url": "https://yandex.com/maps/?text=Ceyda Kuaför&ll=27.098407286894524%2C38.469777475942834&z=17",
   "osm_url": null,
-  "fsq_id": "548d8d4f498e439cbfbe370e",
+  "fsq_id": "548d8d23498e73a77bcc43ab",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -48613,7 +48788,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.4378,27.145409",
   "yandex_url": "https://yandex.com/maps/?text=Ceylin Princess&ll=27.145409%2C38.4378&z=17",
   "osm_url": null,
-  "fsq_id": "58710bd08ee5605eafed49fb",
+  "fsq_id": "58710c40c5f8a7566a436cb7",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -48857,7 +49032,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.24294316257676,27.27689990667781",
   "yandex_url": "https://yandex.com/maps/?text=Cicim Kuaför💅🏼💄💇👸🏼&ll=27.27689990667781%2C38.24294316257676&z=17",
   "osm_url": null,
-  "fsq_id": "569229c9498e94af9c322019",
+  "fsq_id": "52dfbb7a11d2ed1040888d23",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -49062,7 +49237,7 @@
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0232) 330 30 15",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -49073,7 +49248,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.40777454895341,27.13499757360052",
   "yandex_url": "https://yandex.com/maps/?text=Cihan Kuaför&ll=27.13499757360052%2C38.40777454895341&z=17",
   "osm_url": null,
-  "fsq_id": "55436818498e2914edfcf2f7",
+  "fsq_id": "556f3980498e1b61f8b8c09d",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -49946,7 +50121,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/cilimatekuaforguzellik"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -51766,7 +51946,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.39379172164126,27.11855169492747",
   "yandex_url": "https://yandex.com/maps/?text=Cumhuriyet Erkek Kuaförü&ll=27.11855169492747%2C38.39379172164126&z=17",
   "osm_url": null,
-  "fsq_id": "516d022ee4b0aad495df9a68",
+  "fsq_id": "5a1d3367f5e9d70e8c9d86cc",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -52038,7 +52218,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.396679,27.085825",
   "yandex_url": "https://yandex.com/maps/?text=Cyssus Studio&ll=27.085825%2C38.396679&z=17",
   "osm_url": null,
-  "fsq_id": "6277a3cb35c7ab40d0a0ed14",
+  "fsq_id": "6278409ac2391d5e9de808e6",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -52254,7 +52434,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d110951735"
   ],
-  "adres": null,
+  "adres": "Özkanlar Bornova",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -52459,7 +52639,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.455713246119736,27.107100673019886",
   "yandex_url": "https://yandex.com/maps/?text=DES Hair Desing&Beauty&ll=27.107100673019886%2C38.455713246119736&z=17",
   "osm_url": null,
-  "fsq_id": "64234d05c4ed597a365b249c",
+  "fsq_id": "6423498ccac2ef7fa3a6da52",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -52991,8 +53171,13 @@
   "ilce": "İzmir",
   "mahalle": null,
   "telefon": null,
-  "web": null,
-  "sosyal": [],
+  "web": "http://saloondamla.com",
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ddamladurukan"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -53001,7 +53186,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.45981373505899,27.114638189430448",
   "yandex_url": "https://yandex.com/maps/?text=Damla Durukan | Kuaför & Güzellik Merkezi&ll=27.114638189430448%2C38.45981373505899&z=17",
   "osm_url": null,
-  "fsq_id": "59cd1d669d6a1941f38be7ef",
+  "fsq_id": "669e2d796f9b7f42737083ff",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -54156,7 +54341,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/denizsactasarim"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -54165,7 +54355,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.39372629476489,27.126736740603985",
   "yandex_url": "https://yandex.com/maps/?text=Deniz Saç Tasarım&ll=27.126736740603985%2C38.39372629476489&z=17",
   "osm_url": null,
-  "fsq_id": "57320c82498e77a6f48ba88d",
+  "fsq_id": "571f9dee498e051e1848b061",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -55016,7 +55206,12 @@
   "mahalle": null,
   "telefon": "(0312) 435 54 27",
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/kuafor.degisim"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -55280,7 +55475,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/dikmenerkuafor"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -55362,7 +55562,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/dilaracambaz35"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -57022,11 +57227,11 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d110951735"
   ],
-  "adres": null,
+  "adres": "6052 Sok. No. 2a Karşıyaka",
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0232) 382 15 24",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -57037,7 +57242,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.470073,27.110013",
   "yandex_url": "https://yandex.com/maps/?text=Doğan Kuaför&ll=27.110013%2C38.470073&z=17",
   "osm_url": null,
-  "fsq_id": "58381fd1809a7723203c84c6",
+  "fsq_id": "5096242b498ecb7e5520f929",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -57985,7 +58190,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.39031270823067,27.165881130030836",
   "yandex_url": "https://yandex.com/maps/?text=EGE Erkek Kuaförü&ll=27.165881130030836%2C38.39031270823067&z=17",
   "osm_url": null,
-  "fsq_id": "5593bb2a498e722d23643de7",
+  "fsq_id": "5900ce6fda5ede037e6c72a4",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -61304,7 +61509,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d110951735"
   ],
-  "adres": null,
+  "adres": "8903/2 sokak no:1 daire:3 çiğli balatçık mektebim kollejin yanı Akdeniz rezidans",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -62405,7 +62610,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.398275,27.18779",
   "yandex_url": "https://yandex.com/maps/?text=Elit Kuaför&ll=27.18779%2C38.398275&z=17",
   "osm_url": null,
-  "fsq_id": "594ea45323472411d67b64ca",
+  "fsq_id": "594ea3cf037be13aa510f935",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -62450,7 +62655,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/kuafor_elit"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -63093,7 +63303,12 @@
   "mahalle": null,
   "telefon": "(0232) 252 07 75",
   "web": "http://elittegaziemir.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/elittekuafor"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -63932,7 +64147,12 @@
   "mahalle": null,
   "telefon": "(0232) 276 72 76",
   "web": "http://www.emirerkekkuaforu.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/emirerkekkuaforu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -65006,7 +65226,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d110951735"
   ],
-  "adres": null,
+  "adres": "1643/31",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -66201,7 +66421,12 @@
   "mahalle": null,
   "telefon": "(0232) 243 84 61",
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/kuaforercann"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -67379,7 +67604,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/erisenberber"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -68307,7 +68537,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/by_vakko_official"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -68424,7 +68659,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.46530802355773,27.22172836673722",
   "yandex_url": "https://yandex.com/maps/?text=Erkek Kuaförü Hakan&ll=27.22172836673722%2C38.46530802355773&z=17",
   "osm_url": null,
-  "fsq_id": "54e60257498ea04a7e4490e5",
+  "fsq_id": "54954fe0498ea9800f4c9ae7",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -68841,7 +69076,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d110951735"
   ],
-  "adres": null,
+  "adres": "150 Sk",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -68856,7 +69091,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.46605,27.21847",
   "yandex_url": "https://yandex.com/maps/?text=Erkeksen Gel Kuaför&ll=27.21847%2C38.46605&z=17",
   "osm_url": null,
-  "fsq_id": "5d1f50247dc74200231d4c12",
+  "fsq_id": "5d1f50dc8be3b00023f1a230",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -69166,7 +69401,7 @@
    "4bf58dd8d48988d110951735",
    "4f04aa0c2fb6e1c99f3db0b8"
   ],
-  "adres": null,
+  "adres": "1752 Sokak No11/C",
   "il": null,
   "ilce": "Karşıyaka",
   "mahalle": null,
@@ -69181,7 +69416,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.45485,27.10767",
   "yandex_url": "https://yandex.com/maps/?text=Ersin Berber Salonu&ll=27.10767%2C38.45485&z=17",
   "osm_url": null,
-  "fsq_id": "501bbb89e4b03c7b5dd7ad39",
+  "fsq_id": "526e38dc11d25b9a9672aa4a",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -70413,7 +70648,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.394066626944955,27.076003607693206",
   "yandex_url": "https://yandex.com/maps/?text=Esra Kuafor&ll=27.076003607693206%2C38.394066626944955&z=17",
   "osm_url": null,
-  "fsq_id": "554d1323498e05b6d6a4dd6f",
+  "fsq_id": "5120e51de4b0b8daef799077",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -72058,7 +72293,12 @@
   "mahalle": null,
   "telefon": "(0232) 239 10 20",
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/factoryizmircoiffeur"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -72526,7 +72766,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.47026869715882,27.086050109455126",
   "yandex_url": "https://yandex.com/maps/?text=Fame Kuafor&ll=27.086050109455126%2C38.47026869715882&z=17",
   "osm_url": null,
-  "fsq_id": "550ebda7498e8f16ae7c350b",
+  "fsq_id": "550349ea498ec585d0cd9343",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -72688,7 +72928,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.39342961624636,27.14316623008165",
   "yandex_url": "https://yandex.com/maps/?text=Fantastik Saç Tasarım&ll=27.14316623008165%2C38.39342961624636&z=17",
   "osm_url": null,
-  "fsq_id": "53763901498e622ad55237a9",
+  "fsq_id": "51932a7f498e2ec0f175e1ae",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -73607,7 +73847,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.39065815768563,27.03986813162734",
   "yandex_url": "https://yandex.com/maps/?text=Fatos kuafor&ll=27.03986813162734%2C38.39065815768563&z=17",
   "osm_url": null,
-  "fsq_id": "53033f04498e136ff28be967",
+  "fsq_id": "537df69e498e976c85c278c5",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -74288,7 +74528,12 @@
   "mahalle": null,
   "telefon": "(0232) 347 35 45",
   "web": "http://www.favorikuafor.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/favorierkekkuaforu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -74984,7 +75229,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ferhaterkekkuaforu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -75092,7 +75342,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ferhatmesinci"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -75841,7 +76096,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.45590330652867,27.17861167148816",
   "yandex_url": "https://yandex.com/maps/?text=First Class Erkek Kuaförü&ll=27.17861167148816%2C38.45590330652867&z=17",
   "osm_url": null,
-  "fsq_id": "563def95cd10a7437fa28360",
+  "fsq_id": "4e4c18ddd22d10a6c5c6e33a",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -75895,7 +76150,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.479446,27.125462",
   "yandex_url": "https://yandex.com/maps/?text=First Class Erkek Kuaförü&ll=27.125462%2C38.479446&z=17",
   "osm_url": null,
-  "fsq_id": "576e6763498e0917ada553e1",
+  "fsq_id": "532b5685498e1b0d589a61f3",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -78220,7 +78475,12 @@
   "mahalle": null,
   "telefon": "(0232) 421 14 56",
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/artistbygkn"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -78445,7 +78705,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.45092425837133,27.313185906437134",
   "yandex_url": "https://yandex.com/maps/?text=Gamze Kuaför&ll=27.313185906437134%2C38.45092425837133&z=17",
   "osm_url": null,
-  "fsq_id": "5720c8bd498e4c2d739a1a82",
+  "fsq_id": "57222859cd108f9473602a57",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -78619,7 +78879,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d110951735"
   ],
-  "adres": null,
+  "adres": "Vasif Cinar Bulvari No:9/a Buktas Apt",
   "il": null,
   "ilce": "İzmir,İzmir",
   "mahalle": null,
@@ -81499,8 +81759,13 @@
   "ilce": "Karabağlar",
   "mahalle": null,
   "telefon": "(0232) 243 34 97",
-  "web": null,
-  "sosyal": [],
+  "web": "https://www.instagram.com/gokhancinarhair",
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/gokhancinarhair"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -82465,7 +82730,12 @@
   "mahalle": null,
   "telefon": "(0232) 255 55 08",
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/gozde_time"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -83471,7 +83741,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.44955,27.230751",
   "yandex_url": "https://yandex.com/maps/?text=Güler Bayan Kuaförü&ll=27.230751%2C38.44955&z=17",
   "osm_url": null,
-  "fsq_id": "57acd37438fa9e23f49bc1ec",
+  "fsq_id": "57acd310498e35086f1d18ee",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -83705,7 +83975,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/gulizsactasarim"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -85276,7 +85551,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.387695057215765,27.17550431029066",
   "yandex_url": "https://yandex.com/maps/?text=Güven Erkek Kuaförü&ll=27.17550431029066%2C38.387695057215765&z=17",
   "osm_url": null,
-  "fsq_id": "530dc4e9498e90a5461da748",
+  "fsq_id": "52b7070c498e194d8688fd54",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -85493,7 +85768,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.429287,27.269821",
   "yandex_url": "https://yandex.com/maps/?text=Güzellik Salonu&ll=27.269821%2C38.429287&z=17",
   "osm_url": null,
-  "fsq_id": "577822dc498e9c7c81de2476",
+  "fsq_id": "57782221cd10013c3c6dd880",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -85700,7 +85975,12 @@
   "mahalle": null,
   "telefon": "(0232) 336 38 36",
   "web": "http://www.halildeveli.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/halildevelihairdesign"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -85727,7 +86007,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/halildevelihairdesign"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -85862,7 +86147,12 @@
   "mahalle": null,
   "telefon": "(0232) 364 90 93",
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/hulyanesrinn"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -86025,7 +86315,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/hankuafor"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -86052,7 +86347,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/han.bygokhan"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -87001,7 +87301,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.395734785173175,27.014499325028154",
   "yandex_url": "https://yandex.com/maps/?text=Hair & Makeup Saloon By ÖZGE&ll=27.014499325028154%2C38.395734785173175&z=17",
   "osm_url": null,
-  "fsq_id": "564ad9e3498e50e94583f110",
+  "fsq_id": "5c149ad225ecca002c849911",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -88638,7 +88938,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.405637,27.120611",
   "yandex_url": "https://yandex.com/maps/?text=Hairbarizmir&ll=27.120611%2C38.405637&z=17",
   "osm_url": null,
-  "fsq_id": "651960b1e0438157f14c09d0",
+  "fsq_id": "6519631092a9b935876672ae",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -90378,7 +90678,12 @@
   "mahalle": null,
   "telefon": "(0232) 370 22 16",
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/kuafor_halil35"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -90893,7 +91198,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/han_kuafor"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -92184,7 +92494,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d110951735"
   ],
-  "adres": null,
+  "adres": "Şehit Ceysu Ceylan 177 Sokak",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -92199,7 +92509,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.403818267418465,27.105054551481935",
   "yandex_url": "https://yandex.com/maps/?text=Hatay Erkek Kuaförü&ll=27.105054551481935%2C38.403818267418465&z=17",
   "osm_url": null,
-  "fsq_id": "56ae246c498ee6c0ba1b3bdd",
+  "fsq_id": "576ea466498eda0238eed656",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -94654,7 +94964,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.383185,27.110179",
   "yandex_url": "https://yandex.com/maps/?text=Hülya Kuaför&ll=27.110179%2C38.383185&z=17",
   "osm_url": null,
-  "fsq_id": "57b871a7498e955a16222d2d",
+  "fsq_id": "5411ab50498e59d37e3e7f29",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -94762,7 +95072,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.40579845235284,27.118585380754144",
   "yandex_url": "https://yandex.com/maps/?text=Hülyam Kuaför&ll=27.118585380754144%2C38.40579845235284&z=17",
   "osm_url": null,
-  "fsq_id": "51f93cce498e460c8afea0b9",
+  "fsq_id": "533bd4bc498e6db1ab1535d2",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -96727,7 +97037,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/jinepsbeauty"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -97514,7 +97829,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.425402077077635,27.197568786476854",
   "yandex_url": "https://yandex.com/maps/?text=KUAFORU'MOSMAN😎😎&ll=27.197568786476854%2C38.425402077077635&z=17",
   "osm_url": null,
-  "fsq_id": "55df0e5f498e8871579a6f19",
+  "fsq_id": "52022ab2498ef58ec3e2723a",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -97855,7 +98170,7 @@
   "ilce": "Çiğli",
   "mahalle": null,
   "telefon": null,
-  "web": null,
+  "web": "http://www.kuaforerol.com",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -98351,7 +98666,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.471363584169666,27.08787438557471",
   "yandex_url": "https://yandex.com/maps/?text=KUAFÖR Rahim&Fatih&ll=27.08787438557471%2C38.471363584169666&z=17",
   "osm_url": null,
-  "fsq_id": "544cf6ff498e3d7484788a15",
+  "fsq_id": "50d99862e4b06651e8c37282",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -98433,7 +98748,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.37347,27.172312",
   "yandex_url": "https://yandex.com/maps/?text=KUAFÖR ÇAPKIN&ll=27.172312%2C38.37347&z=17",
   "osm_url": null,
-  "fsq_id": "5a50b32d872f7d61a98b6aa1",
+  "fsq_id": "5a50b2ca3c858d2b2f8c760d",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -99516,7 +99831,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.384316,27.167835",
   "yandex_url": "https://yandex.com/maps/?text=Kamil Kuaför&ll=27.167835%2C38.384316&z=17",
   "osm_url": null,
-  "fsq_id": "593e72350d8a0f78aa6979f6",
+  "fsq_id": "50c47ee4e4b04894267a8b5c",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -99888,7 +100203,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.251359662575545,27.13344493690511",
   "yandex_url": "https://yandex.com/maps/?text=Karadeniz Erkek Kuaförü&ll=27.13344493690511%2C38.251359662575545&z=17",
   "osm_url": null,
-  "fsq_id": "5215e400bce65a17227641e0",
+  "fsq_id": "571519eb498e87c72462af2d",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -100023,7 +100338,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.456595,27.183329",
   "yandex_url": "https://yandex.com/maps/?text=Karataş Erkek Kuaförü&ll=27.183329%2C38.456595&z=17",
   "osm_url": null,
-  "fsq_id": "526e523511d2e18f567b39db",
+  "fsq_id": "55b76d68498eefcfa773ce3b",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -100463,7 +100778,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d110951735"
   ],
-  "adres": null,
+  "adres": "Yedi Göller İş Merkezi P:111",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -100667,7 +100982,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.38004003720371,27.176369974525397",
   "yandex_url": "https://yandex.com/maps/?text=Kardeşler Kuaför&ll=27.176369974525397%2C38.38004003720371&z=17",
   "osm_url": null,
-  "fsq_id": "54e43d17498ef55419029b3b",
+  "fsq_id": "519a45be498edac30e2294d4",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -102004,7 +102319,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/kazimozgursactasarim"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -102420,7 +102740,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.369741,27.130007",
   "yandex_url": "https://yandex.com/maps/?text=Kenan Kuaför&ll=27.130007%2C38.369741&z=17",
   "osm_url": null,
-  "fsq_id": "5826e29a089b755fe54c9348",
+  "fsq_id": "57aca314498e038d1d47d524",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -102682,7 +103002,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.frizerbykerembarber.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/frizerbykeremkilinc"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -103287,7 +103612,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.38652917257965,27.05865499309282",
   "yandex_url": "https://yandex.com/maps/?text=Klas Erkek Kuaförü&ll=27.05865499309282%2C38.38652917257965&z=17",
   "osm_url": null,
-  "fsq_id": "50fa90d0e4b02622b31c47b8",
+  "fsq_id": "538a0b28498e450b0a2757d5",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -103686,7 +104011,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.43286702167465,27.161719501018524",
   "yandex_url": "https://yandex.com/maps/?text=Korneum Kuaför ve Güzellik Salonu&ll=27.161719501018524%2C38.43286702167465&z=17",
   "osm_url": null,
-  "fsq_id": "66dffa3c51cd9d406e1a03fe",
+  "fsq_id": "66dffd95fda9520668215d10",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -105594,7 +105919,7 @@
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0232) 422 21 90",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -105605,7 +105930,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.43674096447185,27.142953688282766",
   "yandex_url": "https://yandex.com/maps/?text=Kuafor Hayri&ll=27.142953688282766%2C38.43674096447185&z=17",
   "osm_url": null,
-  "fsq_id": "51deba31498e8d5a1de4cb60",
+  "fsq_id": "502a7737e4b05f0c00bfcf0b",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -106618,7 +106943,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d110951735"
   ],
-  "adres": null,
+  "adres": "İnönü Caddesi",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -106633,7 +106958,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.40151026262543,27.107955098698152",
   "yandex_url": "https://yandex.com/maps/?text=Kuafor Onder - Make Up Aynur&ll=27.107955098698152%2C38.40151026262543&z=17",
   "osm_url": null,
-  "fsq_id": "52108eca498ef4370875a863",
+  "fsq_id": "519b4431498e749f81b91e1f",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -107376,7 +107701,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d110951735"
   ],
-  "adres": null,
+  "adres": "Ucyol Metro Yanı",
   "il": null,
   "ilce": "İzmir Province",
   "mahalle": null,
@@ -107391,7 +107716,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.405517305700485,27.12066430179893",
   "yandex_url": "https://yandex.com/maps/?text=Kuafor Serkan&ll=27.12066430179893%2C38.405517305700485&z=17",
   "osm_url": null,
-  "fsq_id": "4ea6e2364690ee4469158772",
+  "fsq_id": "5518f2ee498e6ccba14a53ac",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -110606,7 +110931,12 @@
   "mahalle": null,
   "telefon": "(0232) 231 68 64",
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/kuaforalialemdar"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -112630,7 +112960,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.427941,27.150612",
   "yandex_url": "https://yandex.com/maps/?text=Kuaför Beyhan&ll=27.150612%2C38.427941&z=17",
   "osm_url": null,
-  "fsq_id": "536ca57b498e3bf2f4a1c383",
+  "fsq_id": "505aeaf6e4b0e0a791ba7902",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -112874,7 +113204,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.39071675297691,27.160631969332957",
   "yandex_url": "https://yandex.com/maps/?text=Kuaför Burak&ll=27.160631969332957%2C38.39071675297691&z=17",
   "osm_url": null,
-  "fsq_id": "5489b3a8498e27d847647b7d",
+  "fsq_id": "6527dd0a98ffd8200751bc82",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -113406,7 +113736,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/kuaforcananalsancak"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -113676,7 +114011,12 @@
   "mahalle": null,
   "telefon": "(0232) 246 99 43",
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/cemalokankuafor"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -114227,7 +114567,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d110951735"
   ],
-  "adres": null,
+  "adres": "1836 sok 2/1 A",
   "il": null,
   "ilce": "Karşıyaka",
   "mahalle": null,
@@ -114242,7 +114582,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.45987,27.115986",
   "yandex_url": "https://yandex.com/maps/?text=Kuaför Dilek&ll=27.115986%2C38.45987&z=17",
   "osm_url": null,
-  "fsq_id": "57c9925d498e1794108b5315",
+  "fsq_id": "57c3f5a4498e59a8bdfdeb88",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -114546,7 +114886,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://kuaförefe35",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/efeteam35"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -115287,7 +115632,12 @@
   "mahalle": null,
   "telefon": "(0232) 461 55 41",
   "web": "http://www.erdemtekelioglu.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/kuaforerdemtekelioglu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -116605,7 +116955,12 @@
   "mahalle": null,
   "telefon": "(0232) 285 80 13",
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/salonfikret"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -119418,7 +119773,12 @@
   "mahalle": null,
   "telefon": "(0232) 278 43 00",
   "web": "http://www.kuaforkemalmustafa.com.tr",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/kemalmustafakuaforofficial"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -119589,7 +119949,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.43448,27.143961",
   "yandex_url": "https://yandex.com/maps/?text=Kuaför Kıymet&ll=27.143961%2C38.43448&z=17",
   "osm_url": null,
-  "fsq_id": "5ae053ae1b0ea574b9eb3bf0",
+  "fsq_id": "5ae0535367e5f26674a29221",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -119670,7 +120030,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.435862,27.143267",
   "yandex_url": "https://yandex.com/maps/?text=Kuaför Levent&ll=27.143267%2C38.435862&z=17",
   "osm_url": null,
-  "fsq_id": "5836ee8d6cea3f6e866bc14f",
+  "fsq_id": "4e88770bb8034a7451349961",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -121053,7 +121413,12 @@
   "mahalle": null,
   "telefon": "(0232) 442 26 62",
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/metkuafor"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -121274,7 +121639,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.457255,27.184772",
   "yandex_url": "https://yandex.com/maps/?text=Kuaför Murat&ll=27.184772%2C38.457255&z=17",
   "osm_url": null,
-  "fsq_id": "5b4098d1cbcdee002ca269c6",
+  "fsq_id": "58b2f37601f0776198b2821b",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -121367,11 +121732,11 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d110951735"
   ],
-  "adres": null,
+  "adres": "65 Sokak No:10 /A",
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0232) 277 54 84",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -121382,7 +121747,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.39406465821146,27.067269780651625",
   "yandex_url": "https://yandex.com/maps/?text=Kuaför Murat&ll=27.067269780651625%2C38.39406465821146&z=17",
   "osm_url": null,
-  "fsq_id": "4f3fb143e4b028ca591c52ae",
+  "fsq_id": "53d5184b498efa2a3521a484",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -121779,7 +122144,12 @@
   "mahalle": null,
   "telefon": "(0232) 247 65 63",
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/kuaformustyy"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -124539,7 +124909,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/hairsefer"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -125023,7 +125398,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.321163,27.127255",
   "yandex_url": "https://yandex.com/maps/?text=Kuaför Semih&ll=27.127255%2C38.321163&z=17",
   "osm_url": null,
-  "fsq_id": "5a9e6714838e59676b55233a",
+  "fsq_id": "5649f16a498efdfaa2e0e747",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -125197,11 +125572,11 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d110951735"
   ],
-  "adres": null,
+  "adres": "1809 Sokak No.14",
   "il": null,
   "ilce": "Karşıyaka",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0232) 362 38 74",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -125212,7 +125587,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.458463,27.096656",
   "yandex_url": "https://yandex.com/maps/?text=Kuaför Sercan&ll=27.096656%2C38.458463&z=17",
   "osm_url": null,
-  "fsq_id": "56a9b0f1498e82320e3451d7",
+  "fsq_id": "503c9704e4b0f8bcbea7077d",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -125526,7 +125901,7 @@
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0232) 464 38 24",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -125537,7 +125912,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.43589861815802,27.143987673344387",
   "yandex_url": "https://yandex.com/maps/?text=Kuaför Serkan&ll=27.143987673344387%2C38.43589861815802&z=17",
   "osm_url": null,
-  "fsq_id": "55716576498edc19c8e48c9a",
+  "fsq_id": "51f654bc498ee8e8114250a7",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -126432,7 +126807,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d110951735"
   ],
-  "adres": null,
+  "adres": "1748 sk. no:10/1",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -126447,7 +126822,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.456556,27.109006",
   "yandex_url": "https://yandex.com/maps/?text=Kuaför Suat&ll=27.109006%2C38.456556&z=17",
   "osm_url": null,
-  "fsq_id": "563486f7498e7a764d1542e1",
+  "fsq_id": "4eb53b669adfc687124b5964",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -128000,7 +128375,12 @@
   "mahalle": null,
   "telefon": "(0232) 330 20 56",
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/yeliz_kuafor__"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -128336,7 +128716,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.464514893972094,27.200162243123874",
   "yandex_url": "https://yandex.com/maps/?text=Kuaför Yıldıray&ll=27.200162243123874%2C38.464514893972094&z=17",
   "osm_url": null,
-  "fsq_id": "54a8077f498ea948a444a1d6",
+  "fsq_id": "5336d405498ee509b159858b",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -129542,7 +129922,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.427498,27.229559",
   "yandex_url": "https://yandex.com/maps/?text=Kuaför ÖMER&ll=27.229559%2C38.427498&z=17",
   "osm_url": null,
-  "fsq_id": "57c4451738fab5e8dbdb87f3",
+  "fsq_id": "57c43bb9498e722e496cf2c8",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -130382,7 +130762,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.4023082792487,27.095959331922902",
   "yandex_url": "https://yandex.com/maps/?text=Kuaför İbrahim&ll=27.095959331922902%2C38.4023082792487&z=17",
   "osm_url": null,
-  "fsq_id": "534fbe40498ed51b086c4dc2",
+  "fsq_id": "520cee8511d2ecb0fc2a22ad",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -131276,7 +131656,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.4825135453289,27.211106065496445",
   "yandex_url": "https://yandex.com/maps/?text=KuaförüMeral&ll=27.211106065496445%2C38.4825135453289&z=17",
   "osm_url": null,
-  "fsq_id": "556dd020498e486b9050ff79",
+  "fsq_id": "57090478498efb0eb75f3f2d",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -131574,7 +131954,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.43107,27.192493",
   "yandex_url": "https://yandex.com/maps/?text=Kuaförüm Sayko&ll=27.192493%2C38.43107&z=17",
   "osm_url": null,
-  "fsq_id": "56e6bf81498e3a6d0af455c5",
+  "fsq_id": "56e6bef3498ea7d9eef918eb",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -131646,7 +132026,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/kuaforumugurlayik"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -134922,7 +135307,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.42636,27.200317",
   "yandex_url": "https://yandex.com/maps/?text=Lider Erkek Kuaför'ü&ll=27.200317%2C38.42636&z=17",
   "osm_url": null,
-  "fsq_id": "5841befe876ade32f70508da",
+  "fsq_id": "52ebeb27498e38f5725f5ff4",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -135049,7 +135434,12 @@
   "mahalle": null,
   "telefon": "(0232) 384 50 05",
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/lidyakuafor"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -135965,7 +136355,12 @@
   "mahalle": null,
   "telefon": "(0232) 407 88 88",
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/locca_kuafor_alsancak"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -136273,7 +136668,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.386237907371545,27.17123811895858",
   "yandex_url": "https://yandex.com/maps/?text=Lost Erkek Kuaförü&ll=27.17123811895858%2C38.386237907371545&z=17",
   "osm_url": null,
-  "fsq_id": "5498510e498ed496ec7c19c6",
+  "fsq_id": "4fd378bde4b0bd432877e977",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -136394,7 +136789,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/lotuskuaforizmir"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -136909,7 +137309,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/m_hairmaster"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -137125,7 +137530,12 @@
   "mahalle": null,
   "telefon": "(0232) 244 39 73",
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/mdmetindemir"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -137269,7 +137679,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.393605957698014,27.01612577217448",
   "yandex_url": "https://yandex.com/maps/?text=MEHMET ERKEK KUAFÖRÜ&ll=27.01612577217448%2C38.393605957698014&z=17",
   "osm_url": null,
-  "fsq_id": "563a40dacd10e52221bae32b",
+  "fsq_id": "54ba732c498ea0b84151e5b4",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -137620,7 +138030,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.459644749675604,27.191819538914",
   "yandex_url": "https://yandex.com/maps/?text=MISS FIRCHA SAÇ TASARIM&ll=27.191819538914%2C38.459644749675604&z=17",
   "osm_url": null,
-  "fsq_id": "58b1b4079dc8d02dc6c4b480",
+  "fsq_id": "58b40b4d9dc8d02d725381b3",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -138314,7 +138724,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.madameruuj.com.tr",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/madameruuj"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -138368,7 +138783,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/mag_hair_studio"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -139071,7 +139491,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/makaspoint"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -139260,7 +139685,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.makkassboutique.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/makkassamettan"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -139593,7 +140023,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.398978,27.105806",
   "yandex_url": "https://yandex.com/maps/?text=Mario&ll=27.105806%2C38.398978&z=17",
   "osm_url": null,
-  "fsq_id": "5a453a230c9f312950505c2e",
+  "fsq_id": "5a4d43e966fc6579917cc75f",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -139719,7 +140149,12 @@
   "mahalle": null,
   "telefon": "(0232) 330 21 22",
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/marvelguzellikmerkezi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -139964,7 +140399,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/masha_couiffor"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -140255,7 +140695,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/mavisactasarim"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -140264,7 +140709,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.425987,27.200388",
   "yandex_url": "https://yandex.com/maps/?text=Mavi SaçTasarım&ll=27.200388%2C38.425987&z=17",
   "osm_url": null,
-  "fsq_id": "59e9acbee97dfb5a1b7b6a37",
+  "fsq_id": "56b48b77498e225f810749d3",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -140643,7 +141088,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.277094,27.127991",
   "yandex_url": "https://yandex.com/maps/?text=Medusa Couffeur&ll=27.127991%2C38.277094&z=17",
   "osm_url": null,
-  "fsq_id": "68b5b878188aea554bda9dc3",
+  "fsq_id": "68b5b7aac44d0311634c2a57",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -141453,7 +141898,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.465603,27.090382",
   "yandex_url": "https://yandex.com/maps/?text=Mehmet Çetin Saç Tasarım&ll=27.090382%2C38.465603&z=17",
   "osm_url": null,
-  "fsq_id": "5a8efb64286fda4b97403f56",
+  "fsq_id": "5a8fb5ea610f04589e5ee341",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -142203,7 +142648,12 @@
   "mahalle": null,
   "telefon": "(0232) 386 51 61",
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/kuafor_melisa"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -143875,7 +144325,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d110951735"
   ],
-  "adres": null,
+  "adres": "Şair Esref Bulvari Mimar Sinan Mahallesi 84/B",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -146414,7 +146864,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d110951735"
   ],
-  "adres": null,
+  "adres": "568 sk. No 26 Buca Izmir",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -146429,7 +146879,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.38747725090054,27.140948891303992",
   "yandex_url": "https://yandex.com/maps/?text=Moda Kuaför&ll=27.140948891303992%2C38.38747725090054&z=17",
   "osm_url": null,
-  "fsq_id": "5509a8e7498e24a4576cbce6",
+  "fsq_id": "55e553fd498ed66535721f21",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -147224,7 +147674,12 @@
   "mahalle": null,
   "telefon": "(0232) 238 21 07",
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/moringacoiffeur"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -148438,7 +148893,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.394034366237676,27.14564203861224",
   "yandex_url": "https://yandex.com/maps/?text=Murat Erkek Kuaförü&ll=27.14564203861224%2C38.394034366237676&z=17",
   "osm_url": null,
-  "fsq_id": "507ee7a1e4b0c049512ff014",
+  "fsq_id": "57bc6a59498ebc983b0b0d8b",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -148790,7 +149245,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.402127,27.103349",
   "yandex_url": "https://yandex.com/maps/?text=Murat Kuaför&ll=27.103349%2C38.402127&z=17",
   "osm_url": null,
-  "fsq_id": "5bdda12292e7a9002c2c6a22",
+  "fsq_id": "5309c8e5498e5874734277dd",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -150025,7 +150480,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/mvsactasarim"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -151572,7 +152032,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.393330879742976,27.150788351009883",
   "yandex_url": "https://yandex.com/maps/?text=Naturel Erkek Kuaforu&ll=27.150788351009883%2C38.393330879742976&z=17",
   "osm_url": null,
-  "fsq_id": "4e835e1ff5b907135ec9856e",
+  "fsq_id": "55cf1e9c498ee6d3825e4bf4",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -151837,7 +152297,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.45702822242054,27.1834475362549",
   "yandex_url": "https://yandex.com/maps/?text=Naz Kuaför&ll=27.1834475362549%2C38.45702822242054&z=17",
   "osm_url": null,
-  "fsq_id": "520297b4498e53fc170a5551",
+  "fsq_id": "5127a30ce4b0915cf84080be",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -153018,7 +153478,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.517425610702695,27.056034473914952",
   "yandex_url": "https://yandex.com/maps/?text=Neon Erkek Kuaförü&ll=27.056034473914952%2C38.517425610702695&z=17",
   "osm_url": null,
-  "fsq_id": "51160c26e4b0d43474ff253a",
+  "fsq_id": "55ae23ec498e14c69cd445bc",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -156753,7 +157213,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/nuriadar"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -159020,7 +159485,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/orhanhairartistt"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -159264,7 +159734,12 @@
   "mahalle": null,
   "telefon": "(0232) 251 99 33",
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/orcinkuafor"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -159537,7 +160012,12 @@
   "mahalle": null,
   "telefon": "(0232) 278 57 44",
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/osmansevdakuaforr"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -159573,7 +160053,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.43028,27.141891",
   "yandex_url": "https://yandex.com/maps/?text=Osman Atak Barbershop&ll=27.141891%2C38.43028&z=17",
   "osm_url": null,
-  "fsq_id": "66f123405d13700d0fda1d7c",
+  "fsq_id": "66f1249bc18bdf04de0d8a77",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -161323,7 +161803,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.410917358333975,27.121373991973215",
   "yandex_url": "https://yandex.com/maps/?text=Palmiye Kuafor&ll=27.121373991973215%2C38.410917358333975&z=17",
   "osm_url": null,
-  "fsq_id": "4ee87e6d991154b31c233a85",
+  "fsq_id": "53025a45498e78c446ef8d38",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -161784,7 +162264,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.433474293466304,27.198159826357124",
   "yandex_url": "https://yandex.com/maps/?text=Paris Kuaför&ll=27.198159826357124%2C38.433474293466304&z=17",
   "osm_url": null,
-  "fsq_id": "533971cd498e52d88591d73e",
+  "fsq_id": "51570ca1e4b079b31e6fd1a0",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -162261,7 +162741,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.patronerkekkuaforu.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/patronkuafor"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -163975,7 +164460,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d110951735"
   ],
-  "adres": null,
+  "adres": "Egekent_izmir",
   "il": null,
   "ilce": "İzmir",
   "mahalle": null,
@@ -163990,7 +164475,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.50116,27.063303",
   "yandex_url": "https://yandex.com/maps/?text=Profesyonel Saç Tasarım&ll=27.063303%2C38.50116&z=17",
   "osm_url": null,
-  "fsq_id": "59edc8cd029a5529f5b912c7",
+  "fsq_id": "55f7ff36498efa73834dcad7",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -164125,7 +164610,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.494897620564025,26.949684220530767",
   "yandex_url": "https://yandex.com/maps/?text=Pınar Kuaför&ll=26.949684220530767%2C38.494897620564025&z=17",
   "osm_url": null,
-  "fsq_id": "5776ab7f498ecac8cd883c79",
+  "fsq_id": "56d494eacd107cc2732ec141",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -164548,7 +165033,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/qualityhairsalon"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -164923,7 +165413,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d110951735"
   ],
-  "adres": null,
+  "adres": "Mansuroglu mah, Ankara caddesi, 149F",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -164938,7 +165428,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.4557874700125,27.199430343953654",
   "yandex_url": "https://yandex.com/maps/?text=RES Erkek Kuaför&ll=27.199430343953654%2C38.4557874700125&z=17",
   "osm_url": null,
-  "fsq_id": "54b11347498efd7048fc2b01",
+  "fsq_id": "5294b91f11d216a90d2dcc27",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -165601,7 +166091,12 @@
   "mahalle": null,
   "telefon": "(0232) 275 52 77",
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/renk_kuafor_esrin"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -167601,7 +168096,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.599603,27.078305",
   "yandex_url": "https://yandex.com/maps/?text=RÜYA’M Hair Design&ll=27.078305%2C38.599603&z=17",
   "osm_url": null,
-  "fsq_id": "5c51d16e7a0eff00264ae474",
+  "fsq_id": "5c507a096e69af0026ea9763",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -167721,7 +168216,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d110951735"
   ],
-  "adres": null,
+  "adres": "1639sk. No:35/c BAYRAKLI.",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -168106,7 +168601,12 @@
   "mahalle": null,
   "telefon": "(0232) 463 06 14",
   "web": "http://sckuafor.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/sckuafor35"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -168322,7 +168822,12 @@
   "mahalle": null,
   "telefon": "(0232) 261 03 04",
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/salon_guvenli"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -168550,7 +169055,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.575829950949355,27.06516341516215",
   "yandex_url": "https://yandex.com/maps/?text=SALON FERDİ&ll=27.06516341516215%2C38.575829950949355&z=17",
   "osm_url": null,
-  "fsq_id": "5621f2ea498ed9f1f6ef92ce",
+  "fsq_id": "5619477b498e7f3378caa3d9",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -168568,7 +169073,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/saloonhairclinic"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -168913,7 +169423,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/saloonmuco"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -169219,7 +169734,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.36776439529672,27.152196181032632",
   "yandex_url": "https://yandex.com/maps/?text=SERAY KUAFÖR&ll=27.152196181032632%2C38.36776439529672&z=17",
   "osm_url": null,
-  "fsq_id": "5661bbf6498e87c33ff29444",
+  "fsq_id": "56c0b463498ea4e62495bf40",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -169621,7 +170136,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.358053,27.126358",
   "yandex_url": "https://yandex.com/maps/?text=SaLooN AtaKaN&ll=27.126358%2C38.358053&z=17",
   "osm_url": null,
-  "fsq_id": "6411707dba5e934e0ed132ad",
+  "fsq_id": "64117080093b9c1d565d5dba",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -170977,7 +171492,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.36495,27.193611",
   "yandex_url": "https://yandex.com/maps/?text=Salon Aslim&ll=27.193611%2C38.36495&z=17",
   "osm_url": null,
-  "fsq_id": "5d3c45eac88d2b000806abad",
+  "fsq_id": "5d3c464d52187400085d918a",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -171113,7 +171628,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.46068103783871,27.213257515053325",
   "yandex_url": "https://yandex.com/maps/?text=Salon Ayhan Kuaför&ll=27.213257515053325%2C38.46068103783871&z=17",
   "osm_url": null,
-  "fsq_id": "57b38416498ee9454a8f4ae1",
+  "fsq_id": "57b42873498e70bca56dd77b",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -171213,7 +171728,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/salonbrand2019"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -171458,7 +171978,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/salon_by_engin"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -171593,7 +172118,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/salonbyugur_"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -171620,7 +172150,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/saloncadde_guzellik_merkezi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -172480,7 +173015,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/salonetiler"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -172779,7 +173319,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.kolayrandevu.com/isletme/salon-gokhan?gclid=CjwKCAiAoNTUBRBUEiwAWje2lmtdfdpJxRpWgrARxG_b1Mr0I_4h2wyW7u5PQN2_GN3T0YVlk5Az8BoCEhUQAvD_BwE",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/gokhanbicer35"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -172914,7 +173459,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/saloon_hc"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -173022,7 +173572,12 @@
   "mahalle": null,
   "telefon": "(0262) 330 44 42",
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/salonhm_"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -173070,7 +173625,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d110951735"
   ],
-  "adres": null,
+  "adres": "Yalı Mah. 6497 Sok. 14/A",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -173085,7 +173640,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.47274936131449,27.086752323801264",
   "yandex_url": "https://yandex.com/maps/?text=Salon Hüseyn Ünlü&ll=27.086752323801264%2C38.47274936131449&z=17",
   "osm_url": null,
-  "fsq_id": "57285baf498e8054a5d4d941",
+  "fsq_id": "572a477a498e1f84a87b3108",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -173129,7 +173684,7 @@
   "ilce": "İzmir",
   "mahalle": null,
   "telefon": null,
-  "web": null,
+  "web": "https://www.kolayrandevu.com/isletme/buca-salon-kess?gclid=CJ2Dxue5ydMCFVEW0wodx7QMWA",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -173139,7 +173694,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.38857285785173,27.160431490474753",
   "yandex_url": "https://yandex.com/maps/?text=Salon KESS&ll=27.160431490474753%2C38.38857285785173&z=17",
   "osm_url": null,
-  "fsq_id": "55e7fab6498e2ae1a5195ea4",
+  "fsq_id": "5b06c0487269fe0039c05033",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -173696,9 +174251,14 @@
   "il": null,
   "ilce": "İzmir",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0232) 347 93 90",
   "web": "https://www.instagram.com/salonmehmetcan/profilecard/?igsh=MWEwdnZxejIxbzV2eQ==",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/salonmehmetcan"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -173707,7 +174267,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.457712,27.191346",
   "yandex_url": "https://yandex.com/maps/?text=Salon Mehmet Can&ll=27.191346%2C38.457712&z=17",
   "osm_url": null,
-  "fsq_id": "677b9e54c21796602fc8a4c9",
+  "fsq_id": "5920240cff03065a88a074ad",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -174214,7 +174774,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/saloon_pandora"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -174239,7 +174804,7 @@
   "il": null,
   "ilce": "İzmir",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0232) 374 71 00",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -174250,7 +174815,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.46083069116695,27.204480581182235",
   "yandex_url": "https://yandex.com/maps/?text=Salon Paris&ll=27.204480581182235%2C38.46083069116695&z=17",
   "osm_url": null,
-  "fsq_id": "511ce6f8e4b05787c51ca05c",
+  "fsq_id": "4deba121ae60e98923771c94",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -174323,7 +174888,12 @@
   "mahalle": null,
   "telefon": "(0232) 339 76 77",
   "web": "http://www.salonpasa.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/salonpasaizmir"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -174729,7 +175299,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/salon.serdar.yldrm"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -174750,7 +175325,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d110951735"
   ],
-  "adres": null,
+  "adres": "159. Sk. 10/a, 35660 Buca/İzmir",
   "il": null,
   "ilce": "İZMİR",
   "mahalle": null,
@@ -174765,7 +175340,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.388218,27.164299",
   "yandex_url": "https://yandex.com/maps/?text=Salon Servet Sakçı&ll=27.164299%2C38.388218&z=17",
   "osm_url": null,
-  "fsq_id": "61cc489b60ea355e1d6ccee7",
+  "fsq_id": "62e8c9ec586b01741dadff6a",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -175101,7 +175676,12 @@
   "mahalle": null,
   "telefon": "(0232) 369 87 58",
   "web": "http://www.ufukcanbulut.com.tr",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/salonufuk"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -175263,7 +175843,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/salonx_salonx"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -176424,7 +177009,12 @@
   "mahalle": null,
   "telefon": "(0232) 342 12 86",
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/salonatm"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -177141,7 +177731,12 @@
   "mahalle": null,
   "telefon": "(0232) 454 00 64",
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/saloon_by_murat"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -177569,7 +178164,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/diva_sac_tasarim"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -178249,7 +178849,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d110951735"
   ],
-  "adres": null,
+  "adres": "Yildiz Caddesi No:113 A Yesilyurt",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -178264,7 +178864,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.39469909667969,27.112010955810547",
   "yandex_url": "https://yandex.com/maps/?text=Saloon HAIR ALPER ERKEK KUAFORU&ll=27.112010955810547%2C38.39469909667969&z=17",
   "osm_url": null,
-  "fsq_id": "5618fb3f498e45e3055a0f23",
+  "fsq_id": "562228f9498e6d667788284c",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -178834,7 +179434,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d110951735"
   ],
-  "adres": null,
+  "adres": "Uluönder caddesi no:36/A Yeşilyurt",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -178849,7 +179449,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.39804572976998,27.115608641451153",
   "yandex_url": "https://yandex.com/maps/?text=Saloon La Femme&ll=27.115608641451153%2C38.39804572976998&z=17",
   "osm_url": null,
-  "fsq_id": "50812795e4b01342481b6bf6",
+  "fsq_id": "52309a51498e359d072570af",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -179803,7 +180403,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.saloonoktay.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/saloonoktay"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -179831,7 +180436,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/saloonoktay"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -180165,7 +180775,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.39400647418496,27.178815893968036",
   "yandex_url": "https://yandex.com/maps/?text=Saloon SAMET&ll=27.178815893968036%2C38.39400647418496&z=17",
   "osm_url": null,
-  "fsq_id": "591b3d1ffebf310643a46348",
+  "fsq_id": "596499b3f0ca952eb7ba84d7",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -180366,7 +180976,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/saloon.seda"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -180609,7 +181224,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/saloon.tb"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -180636,7 +181256,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/saloontatli"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -181650,7 +182275,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/saloon.88"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -181713,7 +182343,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.390884,27.160992",
   "yandex_url": "https://yandex.com/maps/?text=Saloonhairart&ll=27.160992%2C38.390884&z=17",
   "osm_url": null,
-  "fsq_id": "628f4aac39edd11b842cc6a5",
+  "fsq_id": "628f4db8c27d1c51402ef05c",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -182321,7 +182951,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/sarmasik_kuafor"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -182763,7 +183398,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.41688851523401,27.18247241392986",
   "yandex_url": "https://yandex.com/maps/?text=Saç Doktoru Nuri&ll=27.18247241392986%2C38.41688851523401&z=17",
   "osm_url": null,
-  "fsq_id": "561a2431498e26fd0449afd8",
+  "fsq_id": "53553d85498e9b9e93ac3c31",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -183216,7 +183851,12 @@
   "mahalle": null,
   "telefon": "(0232) 336 06 60",
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/saca_kuafor"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -183351,7 +183991,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/sacavrahairhome"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -187163,7 +187808,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.46884543613747,27.249949099988388",
   "yandex_url": "https://yandex.com/maps/?text=Serhat Erkek Kuaforu&ll=27.249949099988388%2C38.46884543613747&z=17",
   "osm_url": null,
-  "fsq_id": "57190dee498e9df658b075b2",
+  "fsq_id": "594e938bee7120547515a956",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -187962,7 +188607,12 @@
   "mahalle": null,
   "telefon": "(0232) 342 22 48",
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/serkansactasarim"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -188097,7 +188747,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/kuaforserkanozer"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -188269,7 +188924,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.46292411038092,27.12220506862722",
   "yandex_url": "https://yandex.com/maps/?text=Serpil Kuaför&ll=27.12220506862722%2C38.46292411038092&z=17",
   "osm_url": null,
-  "fsq_id": "4f842620e4b09e5c4e0f2812",
+  "fsq_id": "53f74c81498ebfcd29e00058",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -190780,7 +191435,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/sibelsavutkuafor"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -191903,7 +192563,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/siyaguzellik"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -192230,7 +192895,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.40468,27.11796",
   "yandex_url": "https://yandex.com/maps/?text=Smyrna Erkek Kuaförü Özcan&ll=27.11796%2C38.40468&z=17",
   "osm_url": null,
-  "fsq_id": "57bef662498e5275766a709c",
+  "fsq_id": "57bf0978498ec0807bbcd9ef",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -192628,7 +193293,12 @@
   "mahalle": null,
   "telefon": "(0232) 238 08 68",
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/solohairizmir"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -192842,7 +193512,7 @@
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0232) 262 91 68",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -192853,7 +193523,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.39864323078268,27.116602548099014",
   "yandex_url": "https://yandex.com/maps/?text=Soner Kuaför&ll=27.116602548099014%2C38.39864323078268&z=17",
   "osm_url": null,
-  "fsq_id": "55bcbbb9498e69dea4d4b9f4",
+  "fsq_id": "4f6c5647e4b0e428412e7260",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -195023,7 +195693,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/sudehairmakeup"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -195167,7 +195842,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.37052581896406,27.14635755448412",
   "yandex_url": "https://yandex.com/maps/?text=Sultan Kuaför&ll=27.14635755448412%2C38.37052581896406&z=17",
   "osm_url": null,
-  "fsq_id": "53319022498ef9db71ce18c4",
+  "fsq_id": "5b99444f835c9a002bcec9b1",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -195574,7 +196249,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.38648693542147,27.05502878347195",
   "yandex_url": "https://yandex.com/maps/?text=Suslen kuafor&ll=27.05502878347195%2C38.38648693542147&z=17",
   "osm_url": null,
-  "fsq_id": "50d57f37e4b0f535866ebe5f",
+  "fsq_id": "57c9706c498e17941046fc36",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -195769,7 +196444,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d110951735"
   ],
-  "adres": null,
+  "adres": "Mithatpaşa caddesi No: 568/A1",
   "il": null,
   "ilce": "İzmir",
   "mahalle": null,
@@ -198945,7 +199620,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/thehairdoctorbyfiratkir"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -198999,7 +199679,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/themancaveizmir"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -199924,7 +200609,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.43294,27.138792",
   "yandex_url": "https://yandex.com/maps/?text=Topraksekerizmir&ll=27.138792%2C38.43294&z=17",
   "osm_url": null,
-  "fsq_id": "5d909da1e9d0f3000777e195",
+  "fsq_id": "5d909b8f7a5b600008343285",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -200060,7 +200745,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.45131,27.186625",
   "yandex_url": "https://yandex.com/maps/?text=Traş&ll=27.186625%2C38.45131&z=17",
   "osm_url": null,
-  "fsq_id": "60a3911b1bba417bd0ea0333",
+  "fsq_id": "60a3906ecde0554d079929f2",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -200650,7 +201335,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.49784463187404,27.054729948806155",
   "yandex_url": "https://yandex.com/maps/?text=Tuana Kuaför&ll=27.054729948806155%2C38.49784463187404&z=17",
   "osm_url": null,
-  "fsq_id": "55a79ca5498e972a4187ead9",
+  "fsq_id": "55a79c75498edd3b645671a6",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -201152,7 +201837,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d110951735"
   ],
-  "adres": null,
+  "adres": "1836 Sk. No:22/A",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -201167,7 +201852,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.460087897442584,27.115166265276592",
   "yandex_url": "https://yandex.com/maps/?text=Tuncay Erkek Kuaförü&ll=27.115166265276592%2C38.460087897442584&z=17",
   "osm_url": null,
-  "fsq_id": "52fb82c8498eb8a6867736b7",
+  "fsq_id": "562e61a7498e6190561848af",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -203079,7 +203764,12 @@
   "mahalle": null,
   "telefon": "(0232) 452 40 84",
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/umutsahmanbarbersshop"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -203595,7 +204285,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.39565007172739,27.06672823187546",
   "yandex_url": "https://yandex.com/maps/?text=UĞUR EKERBIÇER HAIR & MAKEUP STUDIO&ll=27.06672823187546%2C38.39565007172739&z=17",
   "osm_url": null,
-  "fsq_id": "60c0b59c9884dc1de63f4d8f",
+  "fsq_id": "643ba9d748f1995872264b8c",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -203777,7 +204467,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ugurarslanizmir"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -204029,7 +204724,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.376192,27.130827",
   "yandex_url": "https://yandex.com/maps/?text=Uğur Erkek Kuaförü&ll=27.130827%2C38.376192&z=17",
   "osm_url": null,
-  "fsq_id": "56cdb832cd10924b674b8389",
+  "fsq_id": "566efa3e498ee4ffee308ce8",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -205794,7 +206489,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/vikingsbarbershop.tr"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -207498,7 +208198,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.45808802897837,27.19385401998887",
   "yandex_url": "https://yandex.com/maps/?text=YUSUF OZKANCA&ll=27.19385401998887%2C38.45808802897837&z=17",
   "osm_url": null,
-  "fsq_id": "54a924a2498e386093fc6ef1",
+  "fsq_id": "54a923c0498e425f3b7be249",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -207572,7 +208272,12 @@
   "mahalle": null,
   "telefon": "(0232) 382 91 91",
   "web": "http://www.yakamozbeautypark.com.tr",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/yakamozbeautypark"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -209521,7 +210226,12 @@
   "mahalle": null,
   "telefon": "(0232) 330 83 85",
   "web": "http://yelizsaliha&guzelliksalonu.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/yelizsaliha_guzellik_bakm"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -210877,7 +211587,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.46366522910012,27.180547179816994",
   "yandex_url": "https://yandex.com/maps/?text=Yunus Erkek Kuaförü&ll=27.180547179816994%2C38.46366522910012&z=17",
   "osm_url": null,
-  "fsq_id": "55f29660498ef87812f5bdfb",
+  "fsq_id": "55f296d8498e8eb661b338cb",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -211811,7 +212521,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.38189,27.125994",
   "yandex_url": "https://yandex.com/maps/?text=Yıldız Erkek Kuaförü&ll=27.125994%2C38.38189&z=17",
   "osm_url": null,
-  "fsq_id": "577922b9498e189816ea52ef",
+  "fsq_id": "589ec43f9435a91678c0084a",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -212290,7 +213000,12 @@
   "mahalle": null,
   "telefon": "(0232) 337 29 93",
   "web": "http://www.zenhairmakeup.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/zenhairmakeup"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -212299,7 +213014,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.47331058963626,27.099177108929606",
   "yandex_url": "https://yandex.com/maps/?text=ZEN Hair Makeup&ll=27.099177108929606%2C38.47331058963626&z=17",
   "osm_url": null,
-  "fsq_id": "573c6286cd10a5a48fad0f33",
+  "fsq_id": "5c433a4ff870fd002c0f8f01",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -212509,7 +213224,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.449146,27.235361",
   "yandex_url": "https://yandex.com/maps/?text=Zafer Erkek Kuaförü&ll=27.235361%2C38.449146&z=17",
   "osm_url": null,
-  "fsq_id": "5ed7d11ba978160008e82a7f",
+  "fsq_id": "5ed7d2c78a5d380007f361d1",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -215665,7 +216380,12 @@
   "mahalle": null,
   "telefon": "(0232) 438 53 98",
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/atis_sac_ekim_kalici_makyaj"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -216971,7 +217691,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.474211,27.097324",
   "yandex_url": "https://yandex.com/maps/?text=bay uğur berber&ll=27.097324%2C38.474211&z=17",
   "osm_url": null,
-  "fsq_id": "58272b81991e9b05db3a94ad",
+  "fsq_id": "58272c29a130da30be850012",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -222358,7 +223078,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.31951588985728,27.131952913966085",
   "yandex_url": "https://yandex.com/maps/?text=dilek&cem bayan kuaförü 2&ll=27.131952913966085%2C38.31951588985728&z=17",
   "osm_url": null,
-  "fsq_id": "56efff1b498e40e2b009058c",
+  "fsq_id": "56efffcd498e35328a733489",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -227159,7 +227879,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/hhsaloon"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -227294,7 +228019,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/hairboss.barber"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -228869,7 +229599,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.49706933005062,27.089215746723337",
   "yandex_url": "https://yandex.com/maps/?text=imaj Erkek Kuaförü&ll=27.089215746723337%2C38.49706933005062&z=17",
   "osm_url": null,
-  "fsq_id": "5724a5a0498e11c98006e96d",
+  "fsq_id": "56951933498e4e2f5fa5c3f4",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -229395,7 +230125,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d110951735"
   ],
-  "adres": null,
+  "adres": "Hatay Nokta",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -229410,7 +230140,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.402146,27.106144",
   "yandex_url": "https://yandex.com/maps/?text=istanbul erkek kuaförü eşrefin yeri&ll=27.106144%2C38.402146&z=17",
   "osm_url": null,
-  "fsq_id": "5725e4f6498e87b32e7874c7",
+  "fsq_id": "4ef0ce0a29c22c6c771eecd9",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -233385,7 +234115,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.4221683703909,27.13659456572815",
   "yandex_url": "https://yandex.com/maps/?text=kuaför murat özden&ll=27.13659456572815%2C38.4221683703909&z=17",
   "osm_url": null,
-  "fsq_id": "54074811498e57a37217f893",
+  "fsq_id": "54074791498e57e1e8b7f88f",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -235222,7 +235952,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.46467972294295,27.19589275554144",
   "yandex_url": "https://yandex.com/maps/?text=lisa kuaför&ll=27.19589275554144%2C38.46467972294295&z=17",
   "osm_url": null,
-  "fsq_id": "56fb7da5498ee8272533bc3e",
+  "fsq_id": "56fb7cba498e42887146b4c2",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -235952,7 +236682,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.38331,27.18247",
   "yandex_url": "https://yandex.com/maps/?text=mehmetgonultas barber'sclub&ll=27.18247%2C38.38331&z=17",
   "osm_url": null,
-  "fsq_id": "579779aa498e5f4f7ec99fc8",
+  "fsq_id": "579664ea498e4f6d7413ce5b",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -238593,7 +239323,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.45921807585295,27.20868948809731",
   "yandex_url": "https://yandex.com/maps/?text=new style&ll=27.20868948809731%2C38.45921807585295&z=17",
   "osm_url": null,
-  "fsq_id": "5190ecd7498efe07b255c879",
+  "fsq_id": "512d0362e4b0674c4b45d3c0",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -239199,7 +239929,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d110951735"
   ],
-  "adres": null,
+  "adres": "İzmir",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -239214,7 +239944,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.39932974321539,27.19233787664511",
   "yandex_url": "https://yandex.com/maps/?text=orcin kuaför&ll=27.19233787664511%2C38.39932974321539&z=17",
   "osm_url": null,
-  "fsq_id": "536250b5498e205d7f68a11d",
+  "fsq_id": "5899f4a684c4ed1ae16bce20",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -240402,7 +241132,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.581559,27.073446",
   "yandex_url": "https://yandex.com/maps/?text=roza kuafor&ll=27.073446%2C38.581559&z=17",
   "osm_url": null,
-  "fsq_id": "56423df1498e4e70c23f699e",
+  "fsq_id": "56423e18498e49d0418480a2",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -245148,7 +245878,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/thebarberorcun"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -247171,7 +247906,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d110951735"
   ],
-  "adres": null,
+  "adres": "100/1 Sokak",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -247186,7 +247921,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.400996956462905,27.096844165524583",
   "yandex_url": "https://yandex.com/maps/?text=yüksel kuaför&ll=27.096844165524583%2C38.400996956462905&z=17",
   "osm_url": null,
-  "fsq_id": "51c85666498ec423f36ed4b3",
+  "fsq_id": "52ff3212498e86167b0abf1c",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -247808,7 +248543,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.589516,27.075762",
   "yandex_url": "https://yandex.com/maps/?text=ÇAĞAN ERKEK KUAFÖRÜ&ll=27.075762%2C38.589516&z=17",
   "osm_url": null,
-  "fsq_id": "576fed02498e0e118a7a98d6",
+  "fsq_id": "568262d6498e3e2c6c959813",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -248267,7 +249002,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.395958,27.11025",
   "yandex_url": "https://yandex.com/maps/?text=Çankaya Erkek Kuaförü&ll=27.11025%2C38.395958&z=17",
   "osm_url": null,
-  "fsq_id": "5824c0b968a4a32c094547ee",
+  "fsq_id": "5696a73d498e006d6bc21fa3",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -250756,7 +251491,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.393014,27.147106",
   "yandex_url": "https://yandex.com/maps/?text=Ömer Hair Desinger&ll=27.147106%2C38.393014&z=17",
   "osm_url": null,
-  "fsq_id": "5a59cd4f628c8346e772f076",
+  "fsq_id": "5a86a91c840fc24cf4a37077",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -251962,7 +252697,7 @@
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0232) 253 74 01",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -251973,7 +252708,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.376556,27.131587",
   "yandex_url": "https://yandex.com/maps/?text=Özdilara Kuaför&ll=27.131587%2C38.376556&z=17",
   "osm_url": null,
-  "fsq_id": "5202ab28498e91306124da7c",
+  "fsq_id": "52d66ee8498e5ff6e87b3771",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -252396,7 +253131,12 @@
   "mahalle": null,
   "telefon": "(0232) 463 00 37",
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/kuafor_ozer"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -252810,7 +253550,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.460629056048695,27.106019781888136",
   "yandex_url": "https://yandex.com/maps/?text=Özgür & Özkan Kuaför&ll=27.106019781888136%2C38.460629056048695&z=17",
   "osm_url": null,
-  "fsq_id": "5564695d498e986b26168dc9",
+  "fsq_id": "535be5be498e2b9ccd306107",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -253798,7 +254538,12 @@
   "mahalle": null,
   "telefon": "+902322557616",
   "web": "https://www.instagram.com/ozlemkuaforgulyaka",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ozlemkuaforgulyaka"
+   }
+  ],
   "calisma_saatleri": "Mo-Sa 10:00-19:00",
   "lat": 38.3960603,
   "lng": 27.1212263,
@@ -253832,7 +254577,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.46180492530574,27.188128222483392",
   "yandex_url": "https://yandex.com/maps/?text=Özlem Kuaför&ll=27.188128222483392%2C38.46180492530574&z=17",
   "osm_url": null,
-  "fsq_id": "50c71fbde4b0b541c72eae18",
+  "fsq_id": "54cfac47498e27d620d1255c",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -254835,7 +255580,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d110951735"
   ],
-  "adres": null,
+  "adres": "37/1-A GüzelyalI Ízmir",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -254850,7 +255595,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.396503,27.081732",
   "yandex_url": "https://yandex.com/maps/?text=Ümit Kuaför&ll=27.081732%2C38.396503&z=17",
   "osm_url": null,
-  "fsq_id": "565c1787498efa946e8080e1",
+  "fsq_id": "524ec185498e88b11657327a",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -256551,7 +257296,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.384145,27.14584",
   "yandex_url": "https://yandex.com/maps/?text=İ.Poyraz Esen Saç Tasarım&ll=27.14584%2C38.384145&z=17",
   "osm_url": null,
-  "fsq_id": "6633d251bd9c073b1bc0cdde",
+  "fsq_id": "6633de6c9d2a262e12b51ba4",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -256903,7 +257648,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.452652216680384,27.10391082902617",
   "yandex_url": "https://yandex.com/maps/?text=İZ Kuaför&ll=27.10391082902617%2C38.452652216680384&z=17",
   "osm_url": null,
-  "fsq_id": "51b5fff4498e7748a455f16f",
+  "fsq_id": "57ab2e73498e2efa273c0331",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -257357,7 +258102,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.457443,27.1932",
   "yandex_url": "https://yandex.com/maps/?text=İbrahim Şen Hair Makeup Studio&ll=27.1932%2C38.457443&z=17",
   "osm_url": null,
-  "fsq_id": "653d7c05fa2fe46b979c8d93",
+  "fsq_id": "653d804f1a777e6bbe4af678",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -257485,7 +258230,12 @@
   "mahalle": null,
   "telefon": "(0232) 347 12 36",
   "web": "http://www.ibrahimibrahim.com.tr",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ibrahimibrahimozkanlar"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -257998,7 +258748,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ilhantemursactasarim"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -258430,7 +259185,12 @@
   "mahalle": null,
   "telefon": "(0232) 336 16 66",
   "web": "http://www.ilyaskuafor.net",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ilyaskuafor"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -259373,7 +260133,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/interkuaforizmir"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -259509,7 +260274,12 @@
   "mahalle": null,
   "telefon": "(0232) 400 35 45",
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ipekkozmetikkuafor"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -259708,7 +260478,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.4539680480957,27.18022918701172",
   "yandex_url": "https://yandex.com/maps/?text=İs-se kuaför&ll=27.18022918701172%2C38.4539680480957&z=17",
   "osm_url": null,
-  "fsq_id": "540847e9498e5458a8ad99fe",
+  "fsq_id": "54084821498ea65fbb0a68b5",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -263294,7 +264064,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=38.456665073391505,27.117726514833663",
   "yandex_url": "https://yandex.com/maps/?text=Şükrü Talay Saç Tasarım&ll=27.117726514833663%2C38.456665073391505&z=17",
   "osm_url": null,
-  "fsq_id": "530a4f03498e45dbc1d18c69",
+  "fsq_id": "54adadf5498e17070057fdf0",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -263706,6 +264476,61 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Парикмахерская",
+  "sektor": "kuafor",
+  "kategori": "kuafor",
+  "hizmet_ipuclari": [
+   "4bf58dd8d48988d110951735"
+  ],
+  "adres": null,
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.423724,
+  "lng": 27.142642,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.423724,27.142642",
+  "yandex_url": "https://yandex.com/maps/?text=Парикмахерская&ll=27.142642%2C38.423724&z=17",
+  "osm_url": null,
+  "fsq_id": "507a8daee4b01b417ab5de7e",
+  "kaynak": "foursquare",
+  "ilk_gorulme": "2026-11-05",
+  "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "تركيا",
+  "sektor": "kuafor",
+  "kategori": "kuafor",
+  "hizmet_ipuclari": [
+   "4bf58dd8d48988d110951735",
+   "52e81612bcbc57f1066b7a28"
+  ],
+  "adres": null,
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.39945,
+  "lng": 27.083318,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.39945,27.083318",
+  "yandex_url": "https://yandex.com/maps/?text=تركيا&ll=27.083318%2C38.39945&z=17",
+  "osm_url": null,
+  "fsq_id": "5e70d2ae9c0f6b000836536e",
+  "kaynak": "foursquare",
+  "ilk_gorulme": "2026-11-05",
+  "son_gorulme": "2026-11-05"
+ },
+ {
   "ad": "تركيا",
   "sektor": "kuafor",
   "kategori": "kuafor",
@@ -264043,7 +264868,12 @@
   "mahalle": null,
   "telefon": "(0232) 323 24 18",
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/izmirtirnak35"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,

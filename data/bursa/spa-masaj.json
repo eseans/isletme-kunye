@@ -1501,7 +1501,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=40.20191147909279,29.024230522704002",
   "yandex_url": "https://yandex.com/maps/?text=Kervansaray Thermal Hotel Convertion & SPA&ll=29.024230522704002%2C40.20191147909279&z=17",
   "osm_url": null,
-  "fsq_id": "56b49617498e429dd1f8fb41",
+  "fsq_id": "56b4957b498e1af5c80a722c",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -2776,7 +2776,12 @@
   "mahalle": null,
   "telefon": null,
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/tuana.masajsalonu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
