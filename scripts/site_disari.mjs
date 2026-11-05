@@ -31,12 +31,17 @@ for (const sehir of readdirSync('data')) {
     const sektor = f.replace('.json', '')
     sitemapUrller.push(`  <url><loc>https://esesion.com/isletmeler/${sehir}/${sektor}</loc><lastmod>${bugun}</lastmod></url>`)
     const kayitlar = JSON.parse(readFileSync(join(d, f), 'utf8'))
-      .map((k) => [
-        k.ad, k.ilce || '', k.telefon || '', k.web || '',
-        k.lat != null ? Number(k.lat.toFixed(4)) : null,
-        k.lng != null ? Number(k.lng.toFixed(4)) : null,
-        k.kaynak || 'osm', k.fsq_id || (k.osm_url || '').split('/').pop() || '',
-      ])
+      .map((k) => {
+        const ig = (k.sosyal || []).find((x) => x.tur === 'instagram')
+        const igAd = ig ? String(ig.deger).split('/').pop().replace(/^@+/, '') : ''
+        return [
+          k.ad, k.ilce || '', k.telefon || '', k.web || '',
+          k.lat != null ? Number(k.lat.toFixed(4)) : null,
+          k.lng != null ? Number(k.lng.toFixed(4)) : null,
+          k.kaynak || 'osm', k.fsq_id || (k.osm_url || '').split('/').pop() || '',
+          /^[A-Za-z][A-Za-z0-9._]{1,29}$/.test(igAd) ? igAd : '',
+        ]
+      })
       .sort((a, b) => String(a[0]).localeCompare(String(b[0]), 'tr'))
     for (const k of kayitlar) {
       if (!dolgun({ telefon: k[2], web: k[3] })) continue

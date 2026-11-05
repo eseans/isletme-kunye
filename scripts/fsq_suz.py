@@ -73,6 +73,7 @@ sec = lambda *a: next((x for x in a if x in kol), None)
 id_kolon = sec('fsq_place_id', 'fsq_id', 'id')
 ulke, kat_kolon = sec('country_code', 'country'), sec('category_ids', 'fsq_category_ids', 'category_id')
 tel, web, hrs = sec('telephone', 'tel'), sec('website'), sec('hours')
+insta = sec('instagram')
 reg, adres, ilce_k = sec('admin_region', 'region'), sec('address'), sec('locality')
 print('ulke:', ulke, '| kategori:', kat_kolon, '| tel/web:', tel, web)
 print('YER KOLONLARI:', kol)
@@ -81,7 +82,7 @@ assert ulke and kat_kolon and id_kolon, 'id/ulke/kategori kolonu yok — yukarid
 rows = con.execute(f"""
  SELECT {id_kolon} AS fsq_id, name, latitude, longitude, {adres or 'NULL'} AS adres, {ilce_k or 'NULL'} AS ilce,
         {reg or 'NULL'} AS bolge, {tel or 'NULL'} AS telefon, {web or 'NULL'} AS web,
-        {hrs or 'NULL'} AS saat, {kat_kolon} AS katlar
+        {hrs or 'NULL'} AS saat, {insta or 'NULL'} AS insta, {kat_kolon} AS katlar
  FROM read_parquet('fsq/places_*.parquet', union_by_name=true)
  WHERE {ulke} IN ('TR','Turkey','Türkiye','Turkiye') AND name IS NOT NULL AND latitude IS NOT NULL AND date_closed IS NULL
 """).fetchall()
@@ -91,7 +92,7 @@ bugun = '2026-11-05'
 ornek = [r[10] for r in rows if r[10]][:3]
 print('KATLAR ORNEK:', repr(ornek)[:600])
 yeni, toplam = {}, 0
-for fsq_id, ad, lat, lng, adres_v, ilce_v, bolge, telefon, web_v, saat, katlar in rows:
+for fsq_id, ad, lat, lng, adres_v, ilce_v, bolge, telefon, web_v, saat, insta, katlar in rows:
   def duzlestir(x):
     if isinstance(x, str): return [x]
     if isinstance(x, (list, tuple)): return [i for e in x for i in duzlestir(e)]
@@ -105,7 +106,9 @@ for fsq_id, ad, lat, lng, adres_v, ilce_v, bolge, telefon, web_v, saat, katlar i
     yeni.setdefault(slug, {}).setdefault(sek, []).append({
       'ad': ad, 'sektor': sek, 'kategori': sek, 'hizmet_ipuclari': sorted(kidler)[:8],
       'adres': adres_v, 'il': None, 'ilce': ilce_v or bolge, 'mahalle': None,
-      'telefon': (None if cepmi(telefon) else telefon), 'web': web_v, 'sosyal': [],
+      'telefon': (None if cepmi(telefon) else telefon), 'web': web_v,
+      'sosyal': ([{'tur': 'instagram', 'deger': 'https://instagram.com/' + insta}]
+                 if insta and re.fullmatch(r'[A-Za-z][A-Za-z0-9._]{1,29}', str(insta)) else []),
       'calisma_saatleri': (str(saat)[:200] if saat else None),
       'randevu': None, 'engelli_erisimi': None, 'lat': lat, 'lng': lng,
       'maps_url': f'https://www.google.com/maps/search/?api=1&query={lat},{lng}',
@@ -132,9 +135,11 @@ for slug, sektorler in yeni.items():
       if eslesti:
         eslesti['son_gorulme'] = bugun
         eslesti['fsq_id'] = a['fsq_id']
-        for alan in ('telefon', 'web', 'adres', 'calisma_saatleri'):
-          if alan != 'telefon' or (a.get(alan) and not cepmi(a.get(alan))):
-          if not eslesti.get(alan) and a.get(alan): eslesti[alan] = a[alan]; zengin += 1
+        for alan in ('telefon', 'web', 'adres', 'calisma_saatleri', 'sosyal'):
+          if alan == 'sosyal':
+            if not eslesti.get('sosyal') and a.get('sosyal'): eslesti['sosyal'] = a['sosyal']; zengin += 1
+          elif alan != 'telefon' or (a.get(alan) and not cepmi(a.get(alan))):
+            if not eslesti.get(alan) and a.get(alan): eslesti[alan] = a[alan]; zengin += 1
       else:
         eski.append(a); eklendi += 1
     eski.sort(key=lambda x: x.get('ad') or '')
