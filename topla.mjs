@@ -132,10 +132,14 @@ export function kayitEsle(oge, sektor, sehir, ilceAdi, bugun) {
 
 // Var olan kayitlarla birlestirir: ilk_gorulme korunur, alanlar tazelenir.
 export function birlestir(eskiler, yeniler) {
-  const mapa = new Map((eskiler || []).map((k) => [k.osm_url, k]))
+  // Anahtar: OSM kaydi osm_url, FSQ kaydi fsq_id ile ayirt edilir. Eskiden
+  // yalniz osm_url vardi; osm_url'suz (FSQ) kayitlarin TAMAMI tek 'undefined'
+  // anahtarina cokuerek gunluk OSM turunda siliniyordu (87k kayip, 2026-11-06).
+  const anahtar = (k) => k.osm_url || (k.fsq_id ? 'fsq:' + k.fsq_id : 'ad:' + k.ad)
+  const mapa = new Map((eskiler || []).map((k) => [anahtar(k), k]))
   for (const y of yeniler) {
-    const e = mapa.get(y.osm_url)
-    mapa.set(y.osm_url, e ? { ...y, ilk_gorulme: e.ilk_gorulme } : y)
+    const e = mapa.get(anahtar(y))
+    mapa.set(anahtar(y), e ? { ...y, ilk_gorulme: e.ilk_gorulme } : y)
   }
   return [...mapa.values()].sort((a, b) => a.ad.localeCompare(b.ad, 'tr'))
 }
