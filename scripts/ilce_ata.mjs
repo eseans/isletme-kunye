@@ -61,11 +61,13 @@ async function ilcePoligonlari(sehirSlug, sehirAdi) {
   const liste = []
   for (const ad of adlar) {
     await bekle(1100)
-    const r = await fetch('https://nominatim.openstreetmap.org/search?q=' + encodeURIComponent(`${ad}, ${sehirAdi}`) + '&format=json&limit=1&polygon_geojson=1&accept-language=tr', { headers: UA })
-    if (!r.ok) continue
+    const r = await fetch('https://nominatim.openstreetmap.org/search?q=' + encodeURIComponent(`${ad}, ${sehirAdi}`) + '&format=json&limit=5&polygon_geojson=1&accept-language=tr', { headers: UA })
+    if (!r.ok) { console.log(`  ilce: ${ad} HTTP ${r.status}`); continue }
     const j = await r.json()
-    if (j[0]?.polygon_geojson) liste.push({ ad, slug: slugla(ad), geo: j[0].polygon_geojson })
-    console.log(`  ilce: ${ad} ${j[0]?.polygon_geojson ? '✓' : '—'}`)
+    // Ilk sonuc POI/node olabilir; ilce SINIRI ancak relation'da olur.
+    const sec = (j || []).find((x) => x.osm_type === 'relation' && x.polygon_geojson)
+    if (sec) liste.push({ ad, slug: slugla(ad), geo: sec.polygon_geojson })
+    console.log(`  ilce: ${ad} ${sec ? '✓' : '—'}`)
   }
   mkdirSync('ilce-geo', { recursive: true })
   writeFileSync(onbellek, JSON.stringify(liste))
