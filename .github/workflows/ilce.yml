@@ -17,6 +17,9 @@ jobs:
         with: { node-version: 22 }
       - run: node scripts/ilce_ata.mjs ${{ github.event.inputs.sehirler }}
       - run: node scripts/site_disari.mjs
+      - run: node scripts/indexnow.mjs
+        env:
+          INDEXNOW_KEY: ${{ secrets.INDEXNOW_KEY }}
       - run: |
           git config user.name "eseans-bot"
           git config user.email "bot@eseans.com"
