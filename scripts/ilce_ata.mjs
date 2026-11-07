@@ -65,8 +65,10 @@ async function ilcePoligonlari(sehirSlug, sehirAdi) {
     if (!r.ok) { console.log(`  ilce: ${ad} HTTP ${r.status}`); continue }
     const j = await r.json()
     // Ilk sonuc POI/node olabilir; ilce SINIRI ancak relation'da olur.
-    const sec = (j || []).find((x) => x.osm_type === 'relation' && x.polygon_geojson)
-    if (sec) liste.push({ ad, slug: slugla(ad), geo: sec.polygon_geojson })
+    // Nominatim yanit bicimi degisti: poligon artik 'geojson' alaninda
+    // (eski 'polygon_geojson' anahtari donmuyor).
+    const sec = (j || []).find((x) => x.osm_type === 'relation' && x.geojson && x.type === 'administrative')
+    if (sec) liste.push({ ad, slug: slugla(ad), geo: sec.geojson })
     console.log(`  ilce: ${ad} ${sec ? '✓' : '—'}`)
   }
   mkdirSync('ilce-geo', { recursive: true })
