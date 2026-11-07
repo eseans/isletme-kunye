@@ -1,24 +1,25 @@
 {
   "sehir": "Istanbul",
-  "tarih": "2026-11-04",
+  "tarih": "2026-11-07",
   "kaynak": "© OpenStreetMap katkıcıları (ODbL)",
   "parca_sayisi": 39,
+  "hatali_parca": [],
   "sektorler": {
-    "dis-klinigi": 404,
-    "klinik": 701,
-    "guzellik-salonu": 542,
-    "kuafor": 1680,
-    "spor-salonu": 427,
-    "spa-masaj": 12,
-    "dovme": 40,
-    "veteriner": 185,
-    "psikoloji": 14,
-    "diyetisyen": 0,
-    "fizyoterapi": 3,
+    "dis-klinigi": 8361,
+    "klinik": 12374,
+    "guzellik-salonu": 15175,
+    "kuafor": 34951,
+    "spor-salonu": 7140,
+    "spa-masaj": 1465,
+    "dovme": 1652,
+    "veteriner": 1397,
+    "psikoloji": 107,
+    "diyetisyen": 195,
+    "fizyoterapi": 28,
     "tamamlayici-tip": 1,
-    "egitim-kurs": 408,
-    "optik": 317,
-    "fotografci": 169
+    "egitim-kurs": 2980,
+    "optik": 318,
+    "fotografci": 189
   },
-  "toplam": 4903
+  "toplam": 86333
 }
