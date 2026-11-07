@@ -1,0 +1,26 @@
+name: Ilce atama
+on:
+  workflow_dispatch:
+    inputs:
+      sehirler:
+        description: 'Bos = tum sehirler'
+        required: false
+        default: ''
+jobs:
+  ilce:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    permissions: { contents: write }
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22 }
+      - run: node scripts/ilce_ata.mjs ${{ github.event.inputs.sehirler }}
+      - run: node scripts/site_disari.mjs
+      - run: |
+          git config user.name "eseans-bot"
+          git config user.email "bot@eseans.com"
+          git add -A
+          git commit -m "veri: ilce atama + site ihracati $(date +%F)" || exit 0
+          git pull --rebase origin main || (git rebase --abort && exit 1)
+          git push
