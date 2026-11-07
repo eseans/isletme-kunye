@@ -20,6 +20,7 @@ const dolgun = (k) => Boolean((k.telefon && !cepMi(k.telefon)) || k.web)
 mkdirSync('site', { recursive: true })
 let toplam = 0
 const sitemapUrller = []
+const ozet = []
 const bugun = new Date().toISOString().slice(0, 10)
 for (const s of SEHIR_SLUG) sitemapUrller.push(`  <url><loc>https://esesion.com/isletmeler/${s}</loc></url>`)
 for (const sehir of readdirSync('data')) {
@@ -49,6 +50,13 @@ for (const sehir of readdirSync('data')) {
     }
     writeFileSync(join('site', sehir, sektor + '.json'),
       JSON.stringify({ sehir, sektor, n: kayitlar.length, kayitlar }) + '\n')
+    const ilceSay = {}
+    for (const k of kayitlar) if (k[1]) ilceSay[k[1]] = (ilceSay[k[1]] || 0) + 1
+    for (const [ad, n2] of Object.entries(ilceSay)) {
+      if (n2 < 5) continue
+      sitemapUrller.push(`  <url><loc>https://esesion.com/isletmeler/${sehir}/${sektor}/${slugla(ad)}</loc></url>`)
+    }
+    ozet.push({ sehir, sektor, n: kayitlar.length, ilceler: ilceSay })
     toplam += kayitlar.length
   }
 }
