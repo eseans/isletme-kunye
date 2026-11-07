@@ -9,6 +9,7 @@ import { join } from 'node:path'
 import { slugla, cepMi } from '../topla.mjs'
 
 const SEHIR_SLUG = ['istanbul', 'ankara', 'izmir', 'bursa', 'antalya', 'eskisehir']
+const SEHIR_AD = { istanbul: 'İstanbul', ankara: 'Ankara', izmir: 'İzmir', bursa: 'Bursa', antalya: 'Antalya', eskisehir: 'Eskişehir' }
 const SEKTOR_SLUG = ['kuafor', 'guzellik-salonu', 'klinik', 'dis-klinigi', 'spor-salonu',
   'egitim-kurs', 'dovme', 'veteriner', 'spa-masaj', 'diyetisyen', 'optik',
   'fotografci', 'psikoloji', 'fizyoterapi', 'tamamlayici-tip']
@@ -36,7 +37,8 @@ for (const sehir of readdirSync('data')) {
         const ig = (k.sosyal || []).find((x) => x.tur === 'instagram')
         const igAd = ig ? String(ig.deger).split('/').pop().replace(/^@+/, '') : ''
         return [
-          k.ad, k.ilce || '', k.telefon || '', k.web || '',
+          // FSQ 'locality' alani bazen sehir adi tasiyor; sahte 'Istanbul ilcesi' olmasin.
+          k.ad, (k.ilce && k.ilce !== SEHIR_AD[sehir] ? k.ilce : ''), k.telefon || '', k.web || '',
           k.lat != null ? Number(k.lat.toFixed(4)) : null,
           k.lng != null ? Number(k.lng.toFixed(4)) : null,
           k.kaynak || 'osm', k.fsq_id || (k.osm_url || '').split('/').pop() || '',
