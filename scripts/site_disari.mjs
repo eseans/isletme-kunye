@@ -38,7 +38,7 @@ for (const sehir of readdirSync('data')) {
         const igAd = ig ? String(ig.deger).split('/').pop().replace(/^@+/, '') : ''
         return [
           // FSQ 'locality' alani bazen sehir adi tasiyor; sahte 'Istanbul ilcesi' olmasin.
-          k.ad, (k.ilce && k.ilce !== SEHIR_AD[sehir] ? k.ilce : ''), k.telefon || '', k.web || '',
+          k.ad, (k.ilce && slugla(k.ilce) !== sehir ? k.ilce : ''), k.telefon || '', k.web || '',
           k.lat != null ? Number(k.lat.toFixed(4)) : null,
           k.lng != null ? Number(k.lng.toFixed(4)) : null,
           k.kaynak || 'osm', k.fsq_id || (k.osm_url || '').split('/').pop() || '',
