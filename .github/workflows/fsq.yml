@@ -36,6 +36,10 @@ jobs:
 
       - name: Site disari aktar
         run: node scripts/site_disari.mjs
+      - name: IndexNow bildirimi
+        run: node scripts/indexnow.mjs
+        env:
+          INDEXNOW_KEY: ${{ secrets.INDEXNOW_KEY }}
 
       - name: Kaydet
         run: |
