@@ -1,4 +1,9 @@
 // data/*.json -> site/*.json kompakt site ihracati (ana site bunu ceker).
+// Isim temizligi: kaynaklardaki susleme artiklari (---Ad---, "Ad", *Ad*) kesilir.
+const adTemiz = (ad) => {
+  const t = String(ad || '').replace(/^[\s\-\*"'.,:;|]+|[\s\-\*"'.,:;|]+$/g, '').replace(/\s{2,}/g, ' ')
+  return t || String(ad || '')
+}
 // Kayit bicimi: [ad, ilce, telefon, web, lat, lng, kaynak, id]
 // Ayrica site/_sitemap-isletmeler.xml uretir: dizin 90 + DOLGUN vitrin URL'leri
 // (sabit telefon veya web). Ince kunyeler bilincli disarida (olceklenmis icerik
@@ -38,7 +43,7 @@ for (const sehir of readdirSync('data')) {
         const igAd = ig ? String(ig.deger).split('/').pop().replace(/^@+/, '') : ''
         return [
           // FSQ 'locality' alani bazen sehir adi tasiyor; sahte 'Istanbul ilcesi' olmasin.
-          k.ad, (k.ilce && slugla(k.ilce) !== sehir ? k.ilce : ''), k.telefon || '', k.web || '',
+          adTemiz(k.ad), (k.ilce && slugla(k.ilce) !== sehir ? k.ilce : ''), k.telefon || '', k.web || '',
           k.lat != null ? Number(k.lat.toFixed(4)) : null,
           k.lng != null ? Number(k.lng.toFixed(4)) : null,
           k.kaynak || 'osm', k.fsq_id || (k.osm_url || '').split('/').pop() || '',
