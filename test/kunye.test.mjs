@@ -72,3 +72,21 @@ test('birlestirme ilk gorulmeyi korur; sorgu tum etiketleri ister', () => {
   assert.ok(s.includes('["healthcare"="dentist"]'))
   assert.ok(s.includes('["amenity"="language_school"]'))
 })
+
+test('web kunye: JSON-LD saat/telefon/adres + instagram; cep ve gonderi linki alinmaz', async () => {
+  const { sayfadanKunye, saatleriCoz } = await import('../scripts/web_kunye.mjs')
+  const html = `<script type="application/ld+json">{"@graph":[{"@type":"WebSite"},{"@type":"HairSalon","telephone":"+90 216 555 44 33",
+    "address":{"@type":"PostalAddress","streetAddress":"Bağdat Cad. 12"},
+    "openingHoursSpecification":[{"dayOfWeek":["https://schema.org/Monday","Tuesday"],"opens":"9:00","closes":"19:00:00"}],
+    "sameAs":["https://www.instagram.com/adakuafor/"]}]}</script><a href="https://instagram.com/p/xyz/">`
+  const b = sayfadanKunye(html)
+  assert.equal(b.telefon, '+90 216 555 44 33')
+  assert.equal(b.adres, 'Bağdat Cad. 12')
+  assert.equal(b.calisma_saatleri, 'Mo 09:00-19:00; Tu 09:00-19:00')
+  assert.equal(b.instagram, 'adakuafor')
+  assert.equal(sayfadanKunye('<a href="tel:0532 111 22 33">ara</a>').telefon, undefined, 'cep alinmamali')
+  assert.equal(sayfadanKunye('<a href="https://instagram.com/p/abc/">').instagram, undefined, 'gonderi linki hesap degil')
+  assert.equal(saatleriCoz({ openingHours: 'Mo-Sa 10:00-20:00' }), 'Mo-Sa 10:00-20:00')
+  const metin = JSON.stringify(sayfadanKunye('<script type="application/ld+json">{"@type":"Dentist","email":"a@b.com","founder":"Ayşe Y"}</script>'))
+  assert.ok(!metin.includes('@b.com') && !metin.includes('Ayşe'), 'e-posta/kisi adi sizdi')
+})

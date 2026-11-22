@@ -1,0 +1,52 @@
+name: Web kunye zenginlestirme
+
+# Isletmelerin KENDI web sitelerinden bos kalan kunye alanlarini tamamlar
+# (telefon, calisma saatleri, adres, instagram). Hukuk matrisi #3; ayrinti
+# scripts/web_kunye.mjs basinda. Haftalik + manuel; 30 gun icinde bakilan
+# alan adina tekrar gidilmez.
+
+on:
+  schedule:
+    - cron: "0 4 * * 3" # carsamba 04:00 UTC
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: kunye-yazma
+  cancel-in-progress: false
+
+jobs:
+  web:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 20 }
+
+      - name: Web sitelerinden kunye
+        run: node scripts/web_kunye.mjs 32
+
+      - name: Site disari aktar
+        run: node scripts/site_disari.mjs
+      - name: IndexNow bildirimi
+        run: node scripts/indexnow.mjs
+        env:
+          INDEXNOW_KEY: ${{ secrets.INDEXNOW_KEY }}
+
+      - name: Kaydet
+        run: |
+          git config user.name "kunye-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/ site/
+          if git diff --cached --quiet; then
+            echo "Degisiklik yok"
+          else
+            git commit -m "veri: web kunye zenginlestirme $(date -u +%F)"
+            for i in 1 2 3; do
+              git pull --rebase origin "$GITHUB_REF_NAME" && git push origin "$GITHUB_REF_NAME" && break
+              echo "push cakismasi, tekrar ($i)"; sleep 10
+            done
+          fi

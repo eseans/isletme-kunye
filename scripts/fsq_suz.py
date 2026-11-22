@@ -22,12 +22,37 @@ KATEGORI = {
   'Tutoring Center':'egitim-kurs','Art School':'egitim-kurs','Cooking School':'egitim-kurs',
   'Optician':'optik','Optical Shop':'optik',
   'Photographer':'fotografci','Photo Studio':'fotografci',
+  'Hair Removal Service':'guzellik-salonu','Tanning Salon':'guzellik-salonu','Skin Care Clinic':'guzellik-salonu',
+  'Cosmetic Surgeon':'klinik','Dermatologist':'klinik','Pediatrician':'klinik','Eye Doctor':'klinik','Ophthalmologist':'klinik',
+  'Physician':'klinik','Health and Medicine':'klinik','Medical Lab':'klinik',
+  'Pet Grooming Service':'veteriner',
+  'Swimming School':'egitim-kurs','Swim School':'egitim-kurs',
+  'Mental Health Service':'psikoloji','Counselor':'psikoloji','Physiotherapist':'fizyoterapi','Osteopath':'fizyoterapi',
+  'Fitness Studio':'spor-salonu','Cycle Studio':'spor-salonu','Climbing Gym':'spor-salonu','Tennis Court':'spor-salonu',
+  'Hammam':'spa-masaj','Turkish Bath':'spa-masaj','Sauna':'spa-masaj',
 }
 SEHIR_BBOX = {
   'istanbul':(40.75,41.75,27.85,29.65),'ankara':(39.70,40.20,32.40,33.20),
   'izmir':(38.20,38.60,26.90,27.35),'bursa':(40.15,40.45,28.80,29.40),
   'antalya':(36.80,37.10,30.50,30.90),'eskisehir':(39.65,39.85,30.40,30.65),
 }
+# 81 il: kaydin kendi admin_region alanindan (bbox yalniz yedek). Bolge adi
+# "Istanbul", "İstanbul", "Istanbul Province", "Antalya İli" gibi gelebilir.
+ILLER = json.load(open('iller.json', encoding='utf-8'))
+def _n(x):
+  k = unicodedata.normalize('NFKD', str(x or '').replace('ı', 'i').replace('İ', 'i'))
+  return re.sub(r'[^a-z]', '', ''.join(c for c in k if not unicodedata.combining(c)).lower())
+IL_NORM = {_n(ad): slug for slug, ad, _ in ILLER}
+IL_NORM.update({'icel': 'mersin', 'kahramanmaras': 'kahramanmaras', 'afyon': 'afyonkarahisar', 'maras': 'kahramanmaras', 'urfa': 'sanliurfa', 'antep': 'gaziantep', 'izmit': 'kocaeli', 'adapazari': 'sakarya'})
+def il_bul(bolge, ilce, lat, lng):
+  for aday in (bolge, ilce):
+    n = _n(aday)
+    for ek in ('province', 'ili', 'il', 'provinces'):
+      if n.endswith(ek) and n[:-len(ek)] in IL_NORM: n = n[:-len(ek)]
+    if n in IL_NORM: return IL_NORM[n]
+  return next((s for s, (a1, a2, b1, b2) in SEHIR_BBOX.items() if a1 <= lat <= a2 and b1 <= lng <= b2), None)
+eslesmeyen = {}
+
 def temizle(ad):
   return ' '.join(str(ad).lower().replace('’', "'").replace('–', '-').split())
 
@@ -100,8 +125,12 @@ for fsq_id, ad, lat, lng, adres_v, ilce_v, bolge, telefon, web_v, saat, insta, k
   kidler = set(duzlestir(json.loads(katlar) if isinstance(katlar, str) else (katlar or [])))
   sektorler = {id_sektor[k] for k in kidler if k in id_sektor}
   if not sektorler: continue
-  slug = next((s for s, (a1, a2, b1, b2) in SEHIR_BBOX.items() if a1 <= lat <= a2 and b1 <= lng <= b2), None)
-  if not slug: continue
+  slug = il_bul(bolge, ilce_v, lat, lng)
+  if not slug:
+    eslesmeyen[str(bolge)] = eslesmeyen.get(str(bolge), 0) + 1
+    continue
+  # Il adi ilce alanina dusmusse (FSQ locality = il) ilce bos kalir; sahte ilce olmasin.
+  if ilce_v and _n(ilce_v) in IL_NORM: ilce_v = None
   for sek in sektorler:
     yeni.setdefault(slug, {}).setdefault(sek, []).append({
       'ad': ad, 'sektor': sek, 'kategori': sek, 'hizmet_ipuclari': sorted(kidler)[:8],
@@ -118,6 +147,8 @@ for fsq_id, ad, lat, lng, adres_v, ilce_v, bolge, telefon, web_v, saat, insta, k
     })
     toplam += 1
 print(f'aday yeni kunye: {toplam}')
+print('IL ESLESMEYEN BOLGELER (ilk 40):', sorted(eslesmeyen.items(), key=lambda x: -x[1])[:40])
+print('IL DAGILIMI:', {k: sum(len(v) for v in d.values()) for k, d in sorted(yeni.items())})
 
 # 3) OSM ile birlestir: ayni sektor + ~150m + benzer ad -> tek kayitta zenginlestir.
 rapor = {}
