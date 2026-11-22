@@ -1,10 +1,19 @@
 // data/*.json -> site/*.json kompakt site ihracati (ana site bunu ceker).
 // Isim temizligi: kaynaklardaki susleme artiklari (---Ad---, "Ad", *Ad*) kesilir.
-const adTemiz = (ad) => {
-  const t = String(ad || '').replace(/^[\s\-\*"'.,:;|]+|[\s\-\*"'.,:;|]+$/g, '').replace(/\s{2,}/g, ' ')
-  return t || String(ad || '')
+// Emoji/sembol susleri (✂ 📢 《》 ☑) silinir; bastaki/sondaki noktalama kesilir.
+// Parantez dengesizse (bastaki "(" gibi) parantezler atilir.
+export const adTemiz = (ad) => {
+  let t = String(ad || '').normalize('NFC')
+    .replace(/[\p{Extended_Pictographic}\p{So}\p{Sk}\p{Co}\p{Cs}‍️《》〈〉«»【】〽§@#~^_=<>\[\]{}\\]/gu, ' ')
+  if ((t.match(/\(/g) || []).length !== (t.match(/\)/g) || []).length) t = t.replace(/[()]/g, ' ')
+  return t.replace(/\s{2,}/g, ' ').replace(/^[^\p{L}\p{N}(]+|[^\p{L}\p{N})]+$/gu, '').trim()
 }
-// Kayit bicimi: [ad, ilce, telefon, web, lat, lng, kaynak, id]
+// Gercek isim = en az 2 harf. "." "+90" gibi kayitlar listeye girmez.
+export const adGecerli = (ad) => (String(ad).match(/\p{L}/gu) || []).length >= 2
+// Liste sirasi: once dolgun (telefon/web), sonra adresli, sonra ad. Ziyaretci
+// ilk ekranda bos kunye degil, iletisim bilgisi olan isletme gorur.
+const zenginlik = (k) => (dolgun({ telefon: k[2], web: k[3] }) ? 2 : 0) + (k[9] ? 1 : 0)
+// Kayit bicimi: [ad, ilce, telefon, web, lat, lng, kaynak, id, instagram, adres, saatler]
 // Ayrica site/_sitemap-isletmeler.xml uretir: dizin 90 + DOLGUN vitrin URL'leri
 // (sabit telefon veya web). Ince kunyeler bilincli disarida (olceklenmis icerik
 // riski); slug/kimlik mantigi ana repo lib/isletmeler.js ile BIREBIR ayni.
@@ -48,9 +57,12 @@ for (const sehir of readdirSync('data')) {
           k.lng != null ? Number(k.lng.toFixed(4)) : null,
           k.kaynak || 'osm', k.fsq_id || (k.osm_url || '').split('/').pop() || '',
           /^[A-Za-z][A-Za-z0-9._]{1,29}$/.test(igAd) ? igAd : '',
+          // Hukuk matrisi #4 (is yeri adresi ✅) ve #9 (saat, "kaynaga gore" damgali).
+          k.adres || '', k.calisma_saatleri || '',
         ]
       })
-      .sort((a, b) => String(a[0]).localeCompare(String(b[0]), 'tr'))
+      .filter((k) => adGecerli(k[0]))
+      .sort((a, b) => zenginlik(b) - zenginlik(a) || String(a[0]).localeCompare(String(b[0]), 'tr'))
     for (const k of kayitlar) {
       if (!dolgun({ telefon: k[2], web: k[3] })) continue
       sitemapUrller.push(`  <url><loc>https://esesion.com${vitrinYolu(sehir, sektor, k[0], String(k[7]).slice(-10))}</loc></url>`)
@@ -67,6 +79,8 @@ for (const sehir of readdirSync('data')) {
     toplam += kayitlar.length
   }
 }
+// Kapi sayfasi (/isletmeler) sehir x sektor sayilarini buradan okur.
+writeFileSync('site/_ozet.json', JSON.stringify(ozet.map(({ sehir, sektor, n }) => ({ sehir, sektor, n }))) + '\n')
 writeFileSync('site/_sitemap-isletmeler.xml',
   `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${sitemapUrller.join('\n')}\n</urlset>\n`)
 console.log('site/ ihracati:', toplam, 'kayit | sitemap:', sitemapUrller.length, 'URL')
