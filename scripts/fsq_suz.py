@@ -117,6 +117,28 @@ bugun = '2026-11-05'
 ornek = [r[10] for r in rows if r[10]][:3]
 print('KATLAR ORNEK:', repr(ornek)[:600])
 yeni, toplam = {}, 0
+# Bolgesi bos kayitlar (~%40) icin il merkezleri: bolgesi bilinen TR yerlerinin
+# ortalamasi. Bos kayit en yakin merkeze atanir (60 km icinde); buyuk sehirler
+# zaten il_bul'daki bbox ile yakalanir.
+_bolge_onbellek = {}
+def il_bolgeden(bolge):
+  if bolge not in _bolge_onbellek: _bolge_onbellek[bolge] = il_bul(bolge, None, 999, 999)
+  return _bolge_onbellek[bolge]
+toplamlar = {}
+for r in rows:
+  if not r[6]: continue
+  sl = il_bolgeden(r[6])
+  if sl:
+    t = toplamlar.setdefault(sl, [0.0, 0.0, 0]); t[0] += r[2]; t[1] += r[3]; t[2] += 1
+MERKEZ = {sl: (a / n, b / n) for sl, (a, b, n) in toplamlar.items() if n >= 20}
+def en_yakin_il(lat, lng):
+  en, ek = None, 1e18
+  for sl, (a, b) in MERKEZ.items():
+    d = ((lat - a) * 111) ** 2 + ((lng - b) * 85) ** 2
+    if d < ek: en, ek = sl, d
+  return en if ek < 60 ** 2 else None
+print('il merkezi:', len(MERKEZ))
+
 for fsq_id, ad, lat, lng, adres_v, ilce_v, bolge, telefon, web_v, saat, insta, katlar in rows:
   def duzlestir(x):
     if isinstance(x, str): return [x]
@@ -125,7 +147,7 @@ for fsq_id, ad, lat, lng, adres_v, ilce_v, bolge, telefon, web_v, saat, insta, k
   kidler = set(duzlestir(json.loads(katlar) if isinstance(katlar, str) else (katlar or [])))
   sektorler = {id_sektor[k] for k in kidler if k in id_sektor}
   if not sektorler: continue
-  slug = il_bul(bolge, ilce_v, lat, lng)
+  slug = il_bul(bolge, ilce_v, lat, lng) or en_yakin_il(lat, lng)
   if not slug:
     eslesmeyen[str(bolge)] = eslesmeyen.get(str(bolge), 0) + 1
     continue
@@ -174,6 +196,7 @@ for slug, sektorler in yeni.items():
       else:
         eski.append(a); eklendi += 1
     eski.sort(key=lambda x: x.get('ad') or '')
+    os.makedirs(os.path.dirname(yol), exist_ok=True)  # yeni il: klasor yok
     json.dump(eski, open(yol, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
     rapor[f'{slug}/{sek}'] = (len(eski), eklendi, zengin)
 print(json.dumps(rapor, ensure_ascii=False)[:4000])
