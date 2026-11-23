@@ -108,6 +108,33 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "-",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "hizmet_ipuclari": [
+   "4bf58dd8d48988d178941735"
+  ],
+  "adres": null,
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.97923,
+  "lng": 28.872435,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.97923,28.872435",
+  "yandex_url": "https://yandex.com/maps/?text=-&ll=28.872435%2C40.97923&z=17",
+  "osm_url": null,
+  "fsq_id": "56f682b0498e0c68f3f73c3d",
+  "kaynak": "foursquare",
+  "ilk_gorulme": "2026-11-05",
+  "son_gorulme": "2026-11-05"
+ },
+ {
   "ad": "07'den 70'e Diş Kliğini",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -185233,7 +185260,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.venividident.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/venividident"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -226561,6 +226593,38 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "عيادة الدكتور ميشا لتجميل وزراعة الاسنان",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "hizmet_ipuclari": [
+   "4bf58dd8d48988d178941735"
+  ],
+  "adres": "Valikonağı Cad Akkavak Sokak 19/28 Halilbey Apt Nişantaşı İstanbul",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.implant.healthcare",
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/misaofficial"
+   }
+  ],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.052223,
+  "lng": 28.989677,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.052223,28.989677",
+  "yandex_url": "https://yandex.com/maps/?text=عيادة الدكتور ميشا لتجميل وزراعة الاسنان&ll=28.989677%2C41.052223&z=17",
+  "osm_url": null,
+  "fsq_id": "599ad744018cbb23723eb2d0",
+  "kaynak": "foursquare",
+  "ilk_gorulme": "2026-11-05",
+  "son_gorulme": "2026-11-05"
+ },
+ {
   "ad": "عيادة الدكتور ناصر يوسف",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -226596,6 +226660,35 @@
   "adres": null,
   "il": null,
   "ilce": "Esenyurt",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.025903,
+  "lng": 28.662363,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.025903,28.662363",
+  "yandex_url": "https://yandex.com/maps/?text=مركز الرازي الطبي&ll=28.662363%2C41.025903&z=17",
+  "osm_url": null,
+  "fsq_id": "5a392f3b65cdf83454f86b45",
+  "kaynak": "foursquare",
+  "ilk_gorulme": "2026-11-05",
+  "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "مركز الرازي الطبي",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "hizmet_ipuclari": [
+   "4bf58dd8d48988d104941735",
+   "4bf58dd8d48988d178941735",
+   "4f4531b14b9074f6e4fb0103"
+  ],
+  "adres": null,
+  "il": null,
+  "ilce": null,
   "mahalle": null,
   "telefon": null,
   "web": null,

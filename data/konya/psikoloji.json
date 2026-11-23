@@ -44,7 +44,7 @@
   "ilce": null,
   "mahalle": null,
   "telefon": null,
-  "web": null,
+  "web": "http://www.bepalpsikoloji.com",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -54,7 +54,7 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=37.86796,32.462822",
   "yandex_url": "https://yandex.com/maps/?text=Bepal Psikoloji&ll=32.462822%2C37.86796&z=17",
   "osm_url": null,
-  "fsq_id": "64c8ed722dd0730af23e162e",
+  "fsq_id": "64c8ee31486da727448d77b0",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -109,6 +109,60 @@
   "yandex_url": "https://yandex.com/maps/?text=Deniz Terapi Merkezi&ll=32.46431261301041%2C37.86835750265173&z=17",
   "osm_url": null,
   "fsq_id": "64c38ba98cfbce1dcefad976",
+  "kaynak": "foursquare",
+  "ilk_gorulme": "2026-11-05",
+  "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Konya Uzman (Klinik) Psikolog Taha Berk Şendağ",
+  "sektor": "psikoloji",
+  "kategori": "psikoloji",
+  "hizmet_ipuclari": [
+   "63be6904847c3692a84b9bc2"
+  ],
+  "adres": "Esenler, GÖRGÜLÜ CENTER, Horasan Sk. 4/46 A Blok,",
+  "il": null,
+  "ilce": "Selçuklu",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.91130799556535,
+  "lng": 32.468030749296304,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.91130799556535,32.468030749296304",
+  "yandex_url": "https://yandex.com/maps/?text=Konya Uzman (Klinik) Psikolog Taha Berk Şendağ&ll=32.468030749296304%2C37.91130799556535&z=17",
+  "osm_url": null,
+  "fsq_id": "6637da693e1458094fef8f64",
+  "kaynak": "foursquare",
+  "ilk_gorulme": "2026-11-05",
+  "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Luvita Psikoloji",
+  "sektor": "psikoloji",
+  "kategori": "psikoloji",
+  "hizmet_ipuclari": [
+   "63be6904847c3692a84b9bc2"
+  ],
+  "adres": null,
+  "il": null,
+  "ilce": "Selçuklu",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.889431,
+  "lng": 32.462879,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.889431,32.462879",
+  "yandex_url": "https://yandex.com/maps/?text=Luvita Psikoloji&ll=32.462879%2C37.889431&z=17",
+  "osm_url": null,
+  "fsq_id": "693c7088a2af8b42bbfbb3a2",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
@@ -222,6 +276,38 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Rahime Sözen Psikolojik Danışmanlık",
+  "sektor": "psikoloji",
+  "kategori": "psikoloji",
+  "hizmet_ipuclari": [
+   "63be6904847c3692a84b9bc1"
+  ],
+  "adres": "Melikşah Mahallesi Manolya Sok. 7/2 Meram/Konya, Konya, 42090",
+  "il": null,
+  "ilce": "Meram",
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://rahimesozenpsikoloji.com",
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/rahimesozenpsikoloji"
+   }
+  ],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.8681866548978,
+  "lng": 32.46680170297623,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.8681866548978,32.46680170297623",
+  "yandex_url": "https://yandex.com/maps/?text=Rahime Sözen Psikolojik Danışmanlık&ll=32.46680170297623%2C37.8681866548978&z=17",
+  "osm_url": null,
+  "fsq_id": "6639d03f7f3b332562aefd72",
+  "kaynak": "foursquare",
+  "ilk_gorulme": "2026-11-05",
+  "son_gorulme": "2026-11-05"
+ },
+ {
   "ad": "Songül Gizem Yücel Psikolojik Danışmanlık Merkezi",
   "sektor": "psikoloji",
   "kategori": "psikoloji",
@@ -273,6 +359,33 @@
   "yandex_url": "https://yandex.com/maps/?text=Sümbül Psikoloji Merkezi&ll=32.470074%2C37.867462&z=17",
   "osm_url": null,
   "fsq_id": "677bf98c5e5dff1a29cde5a8",
+  "kaynak": "foursquare",
+  "ilk_gorulme": "2026-11-05",
+  "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Tüllü Baba Dergahı",
+  "sektor": "psikoloji",
+  "kategori": "psikoloji",
+  "hizmet_ipuclari": [
+   "63be6904847c3692a84b9bc1"
+  ],
+  "adres": "Merkez çarşısı",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.870934,
+  "lng": 32.49839,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.870934,32.49839",
+  "yandex_url": "https://yandex.com/maps/?text=Tüllü Baba Dergahı&ll=32.49839%2C37.870934&z=17",
+  "osm_url": null,
+  "fsq_id": "669bac76d6829567dbb7c50d",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"

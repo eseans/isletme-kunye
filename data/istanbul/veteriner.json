@@ -54,6 +54,33 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "&",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "hizmet_ipuclari": [
+   "4d954af4a243a5684765b473"
+  ],
+  "adres": null,
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.003053,
+  "lng": 28.89191,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.003053,28.89191",
+  "yandex_url": "https://yandex.com/maps/?text=&&ll=28.89191%2C41.003053&z=17",
+  "osm_url": null,
+  "fsq_id": "51c455f8498e40dc8954dda5",
+  "kaynak": "foursquare",
+  "ilk_gorulme": "2026-11-05",
+  "son_gorulme": "2026-11-05"
+ },
+ {
   "ad": "5. Levent Veteriner Kliniği",
   "sektor": "veteriner",
   "kategori": "veteriner",
@@ -31631,9 +31658,14 @@
   "il": null,
   "ilce": "Şişli",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0212) 983 99 99",
   "web": null,
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/veticana"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
