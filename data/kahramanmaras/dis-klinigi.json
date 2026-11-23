@@ -801,7 +801,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://dentapgrup.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/dentapgrup"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -3266,9 +3271,14 @@
   "il": null,
   "ilce": "Onikişubat",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "0 344 502 03 46",
   "web": "https://erenzadedental.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/erenzadedental"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,

@@ -12,8 +12,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://sophiapsikolojim.com",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/sophiapsikolojim"
+   }
+  ],
+  "calisma_saatleri": "Mo 08:00-23:00; Tu 08:00-23:00; We 08:00-23:00; Th 08:00-23:00; Fr 08:00-23:00; Sa 08:00-23:00; Su 08:00-23:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 37.91889740118188,

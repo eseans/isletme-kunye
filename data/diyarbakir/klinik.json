@@ -6181,7 +6181,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://diyarbakirism.saglik.gov.tr",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/diyarbakirism"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -6601,7 +6606,7 @@
     "deger": "https://instagram.com/dr.emrahyildiz.clinic"
    }
   ],
-  "calisma_saatleri": null,
+  "calisma_saatleri": "Monday,Tuesday,Wednesday,Thursday,Friday,Saturday 10:00-20:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 37.955423727696555,
@@ -12460,7 +12465,12 @@
   "mahalle": null,
   "telefon": "444 3 823",
   "web": "http://www.genesishospital.com.tr",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ozelgenesis"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -18613,7 +18623,12 @@
   "mahalle": null,
   "telefon": "(0412) 237 70 01",
   "web": "http://www.sultanhastanesi.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ozel.sultanhastanesi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,

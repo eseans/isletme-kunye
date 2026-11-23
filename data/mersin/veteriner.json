@@ -1506,14 +1506,19 @@
   "hizmet_ipuclari": [
    "4d954af4a243a5684765b473"
   ],
-  "adres": null,
+  "adres": "Güvenevler, 2. Çevre Yolu, H. Okan Merzeci Bulvarı No:532",
   "il": null,
   "ilce": null,
   "mahalle": null,
   "telefon": "(0324) 444 37 38",
   "web": "http://www.petical.com.tr",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/peticalhayvanhastanesi"
+   }
+  ],
+  "calisma_saatleri": "Mo 00:00-23:59; Tu 00:00-23:59; We 00:00-23:59; Th 00:00-23:59; Fr 00:00-23:59; Sa 00:00-23:59; Su 00:00-23:59",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 36.786888993411125,

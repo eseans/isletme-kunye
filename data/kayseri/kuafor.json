@@ -4940,7 +4940,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.berber.club",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/berberclub"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,

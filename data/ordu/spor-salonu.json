@@ -2304,7 +2304,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d176941735"
   ],
-  "adres": null,
+  "adres": "11 Turgut Özal Bulvarı",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -3004,7 +3004,12 @@
   "mahalle": null,
   "telefon": "(0452) 234 52 12",
   "web": "http://www.yukselspor.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/yukselsporordu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,

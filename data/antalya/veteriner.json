@@ -1013,8 +1013,13 @@
   "mahalle": null,
   "telefon": "(0242) 311 40 30",
   "web": "http://www.ballipati.com",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ispartaballipativeteriner"
+   }
+  ],
+  "calisma_saatleri": "Mo-Su 09:30-19:30",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 36.87421183371875,
@@ -2634,14 +2639,19 @@
   "hizmet_ipuclari": [
    "4d954af4a243a5684765b473"
   ],
-  "adres": null,
+  "adres": "Çağlayan, Barınaklar Blv. No:74",
   "il": null,
   "ilce": "Muratpaşa",
   "mahalle": null,
   "telefon": "(0242) 323 33 66",
   "web": "http://antlarahayvanhastanesi.com",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/antlarahayvanhastanesi"
+   }
+  ],
+  "calisma_saatleri": "Mo 00:00-23:59; Tu 00:00-23:59; We 00:00-23:59; Th 00:00-23:59; Fr 00:00-23:59; Sa 00:00-23:59; Su 00:00-23:59",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 36.85149279385418,
@@ -2803,7 +2813,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.liva.vet",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/liva.vet"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,

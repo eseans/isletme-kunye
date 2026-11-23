@@ -176,8 +176,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://psikalyapsikoloji.com",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/psikalyapsikoloji"
+   }
+  ],
+  "calisma_saatleri": "Mo,Tu,We,Th,Fr,Sa 10:00-20:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 36.872434,

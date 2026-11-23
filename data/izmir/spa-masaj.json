@@ -7856,8 +7856,13 @@
   "mahalle": null,
   "telefon": "(0232) 339 40 07",
   "web": "http://yasamklinik.com",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/lemaclinic"
+   }
+  ],
+  "calisma_saatleri": "Mo 09:00-23:59; Tu 09:00-23:59; We 09:00-23:59; Th 09:00-23:59; Fr 09:00-23:59; Sa 09:00-23:59",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 38.461341709244316,

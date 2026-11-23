@@ -71915,8 +71915,13 @@
   "mahalle": "Şirinyalı Mahallesi",
   "telefon": null,
   "web": "https://mehmetbekirsen.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/mehmetbekirsen"
+   }
+  ],
+  "calisma_saatleri": "Mo 07:30-19:30; Tu 07:30-19:30; We 07:30-19:30; Th 07:30-19:30; Fr 07:30-19:30; Sa 07:30-19:30",
   "lat": 36.8635535,
   "lng": 30.7300047,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=36.8635535%2C30.7300047",
@@ -78693,8 +78698,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://psikalyapsikoloji.com",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/psikalyapsikoloji"
+   }
+  ],
+  "calisma_saatleri": "Mo,Tu,We,Th,Fr,Sa 10:00-20:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 36.872434,
@@ -81747,7 +81757,12 @@
   "mahalle": null,
   "telefon": "(0242) 324 44 42",
   "web": "http://www.sibelmalkoc.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/op.dr.sibel_malkoc"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -86144,7 +86159,7 @@
   "il": null,
   "ilce": "Serik",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "+90 242 528 5307",
   "web": "https://syedramedical.com",
   "sosyal": [],
   "calisma_saatleri": null,
@@ -87334,7 +87349,7 @@
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "4442763",
   "web": "http://www.terapitipmerkezi.com",
   "sosyal": [],
   "calisma_saatleri": null,
@@ -89807,14 +89822,19 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d177941735"
   ],
-  "adres": null,
+  "adres": "Sorgun mahallesi 8116 SK No:9",
   "il": null,
   "ilce": null,
   "mahalle": null,
   "telefon": "(0242) 743 39 99",
   "web": "http://aysecinkayakahveci.com",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/dr.aysecinkaya"
+   }
+  ],
+  "calisma_saatleri": "Mo 09:30-18:00; Tu 09:30-18:00; We 09:30-18:00; Th 09:30-18:00; Fr 09:30-18:00; Sa 09:30-18:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 36.779788571723344,
@@ -90205,7 +90225,12 @@
   "mahalle": "Soğuksu Mah",
   "telefon": null,
   "web": "https://www.mihribanunay.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/uzm.dr.mihribanunay"
+   }
+  ],
   "calisma_saatleri": null,
   "lat": 36.896188,
   "lng": 30.674033,
@@ -90501,7 +90526,12 @@
   "mahalle": null,
   "telefon": "(0242) 312 60 13",
   "web": "http://www.antalyapsikolojikdanisma.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/senolbaygul"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,

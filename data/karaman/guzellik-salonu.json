@@ -1586,7 +1586,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://newkaramanbeauty.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/newkaramanhotel"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,

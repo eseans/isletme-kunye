@@ -1309,7 +1309,12 @@
   "mahalle": null,
   "telefon": "(0252) 311 44 44",
   "web": "http://www.acibadem.com.tr",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/acibademsaglik"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,

@@ -1934,8 +1934,13 @@
   "mahalle": null,
   "telefon": "(0414) 312 52 32",
   "web": "http://www.essiguzellik.com",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/essiguzellik"
+   }
+  ],
+  "calisma_saatleri": "Mo,Tu,We,Th,Fr,Sa,Su 09:00-17:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 37.16308572213757,

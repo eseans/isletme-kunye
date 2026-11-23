@@ -120,7 +120,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.alasanat.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/alasanatakademisi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -1678,7 +1683,12 @@
   "mahalle": null,
   "telefon": "(0266) 243 66 65",
   "web": "http://ydsacademy.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ydsacademyturkey"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,

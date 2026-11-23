@@ -639,7 +639,7 @@
   "telefon": "(0324) 614 66 88",
   "web": "https://www.cosmoline.net",
   "sosyal": [],
-  "calisma_saatleri": null,
+  "calisma_saatleri": "Mo 08:30-19:00; Tu 08:30-19:00; We 08:30-19:00; Th 08:30-19:00; Fr 08:30-19:00; Sa 08:30-18:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 36.91690018736083,
@@ -1104,7 +1104,12 @@
   "mahalle": null,
   "telefon": "(0322) 213 13 12",
   "web": "http://www.guzellikdunyasi.com.tr",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/guzellikdunyasiadana"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,

@@ -143495,8 +143495,13 @@
   "mahalle": null,
   "telefon": "(0232) 388 00 32",
   "web": "http://www.nesakuafor.com",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/nesakuafor"
+   }
+  ],
+  "calisma_saatleri": "Mo 09:00-20:00; We 09:00-20:00; Th 09:00-20:00; Fr 09:00-20:00; Sa 09:00-20:00; Su 10:00-19:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 38.47918058707217,
@@ -195302,7 +195307,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.royalclasskuafor.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/royalclasskuafor"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,

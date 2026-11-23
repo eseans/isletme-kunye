@@ -1423,7 +1423,12 @@
   "mahalle": null,
   "telefon": "(0324) 503 80 77",
   "web": "https://dentgroup.com.tr",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/dentgroup_clinics"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
