@@ -147,7 +147,12 @@
   "mahalle": null,
   "telefon": "(0358) 225 00 19",
   "web": "http://fimarlife.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/fimarlifehotel"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -159,7 +164,8 @@
   "fsq_id": "50880e71e4b002962b6129d0",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-05",
+  "logo": "http://fimarlife.com/favicons/apple-touch-icon.png"
  },
  {
   "ad": "Hilas Termal Otel&Spa",

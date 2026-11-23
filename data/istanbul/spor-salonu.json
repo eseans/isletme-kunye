@@ -29660,7 +29660,7 @@
   "il": null,
   "ilce": "Kadıköy",
   "mahalle": null,
-  "telefon": "1",
+  "telefon": null,
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -30023,7 +30023,7 @@
   "il": "İstanbul",
   "ilce": "Zeytinburnu",
   "mahalle": null,
-  "telefon": "5101954",
+  "telefon": null,
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -52983,7 +52983,7 @@
   "il": "İstanbul",
   "ilce": "Bağcılar",
   "mahalle": null,
-  "telefon": "6560501",
+  "telefon": null,
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -74929,7 +74929,7 @@
   "il": "Istanbul",
   "ilce": "Şişli",
   "mahalle": null,
-  "telefon": "+90 212 234 36 33;+90 507 363 89 01",
+  "telefon": "+90 212 234 36 33",
   "web": "https://www.gorangayoga.com/",
   "sosyal": [],
   "calisma_saatleri": null,
@@ -111456,7 +111456,7 @@
   "il": null,
   "ilce": "Kadıköy",
   "mahalle": null,
-  "telefon": "+18183054555",
+  "telefon": null,
   "web": "http://www.modapilates.com",
   "sosyal": [
    {
@@ -121035,7 +121035,7 @@
   "il": "İstanbul",
   "ilce": "Fatih",
   "mahalle": null,
-  "telefon": "5348840",
+  "telefon": null,
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -167194,7 +167194,12 @@
   "mahalle": null,
   "telefon": "(0212) 344 01 96",
   "web": "http://www.trio.com.tr",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/trioulus"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -167206,7 +167211,8 @@
   "fsq_id": "4b7e9b7ff964a52024f52fe3",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-05",
+  "logo": "https://www.trio.com.tr/wp-content/uploads/2024/01/cropped-trio-favicon-180x180.png"
  },
  {
   "ad": "Trisad Spor Salonu",
@@ -170123,7 +170129,7 @@
   "il": null,
   "ilce": "Kadıköy",
   "mahalle": null,
-  "telefon": "+90-216-XXX-XXXX",
+  "telefon": null,
   "web": "http://www.unisportsfitness.com",
   "sosyal": [
    {
@@ -174576,7 +174582,7 @@
   "il": "İstanbul",
   "ilce": "Kadıköy",
   "mahalle": "Erenköy Mahallesi",
-  "telefon": "18408412569",
+  "telefon": null,
   "web": "https://weekendtrainingclub.com/erenkoy-subesi/",
   "sosyal": [],
   "calisma_saatleri": null,
@@ -174600,7 +174606,7 @@
   "il": "İstanbul",
   "ilce": "Kadıköy",
   "mahalle": "Suadiye Mahallesi",
-  "telefon": "18408412569",
+  "telefon": null,
   "web": "https://weekendtrainingclub.com/saskinbakkal-subesi/",
   "sosyal": [],
   "calisma_saatleri": null,

@@ -3495,7 +3495,12 @@
   "mahalle": null,
   "telefon": "(0382) 212 33 44",
   "web": "http://www.aksaraymayahastanesi.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/embed.js"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -6004,7 +6009,8 @@
   "fsq_id": "4ee992206c250521d112f5b7",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-05",
+  "logo": "http://www.aksarayhastanesi.com/frontendassets/images/apple-touch-icon.png"
  },
  {
   "ad": "Özel Aksaray Kalp Merkezi",
@@ -6289,7 +6295,12 @@
   "mahalle": null,
   "telefon": "(0382) 212 54 54",
   "web": "http://www.inovahastanesi.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/inovahastanesi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,

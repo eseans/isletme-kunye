@@ -2061,7 +2061,8 @@
   "fsq_id": "4ed641c6d3e36f47eaa63380",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-05",
+  "logo": "https://amerikankultur.com/assets/images/Akdlogo.png"
  },
  {
   "ad": "Amerikan Kültür Dil Okulları",
@@ -2201,7 +2202,8 @@
   "fsq_id": "5544fba1498edb4042834e3c",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-05",
+  "logo": "https://amerikankultur.com/assets/images/Akdlogo.png"
  },
  {
   "ad": "Amerikan Kültür Yabancı Dil Kursu",
@@ -2342,7 +2344,8 @@
   "fsq_id": "5634718b498e8cb7f2e8b063",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-05",
+  "logo": "https://amerikankultur.com/assets/images/Akdlogo.png"
  },
  {
   "ad": "Amerikan Kültür Yabancı Dil Okulları",
@@ -7601,7 +7604,8 @@
   "fsq_id": "5b420822e0c0c9002ccadd21",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-05",
+  "logo": "http://diplomatakademi.com/img/apple-touch-icon.png"
  },
  {
   "ad": "Direksiyon Sınav Yeri",
@@ -23540,7 +23544,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://karemsurucukursu.com.tr",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/karemmtsk"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
