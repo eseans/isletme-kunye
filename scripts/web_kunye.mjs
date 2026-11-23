@@ -151,7 +151,9 @@ if (process.argv[1]?.endsWith('web_kunye.mjs')) {
       try { const u = new URL(/^https?:/.test(k.web) ? k.web : 'https://' + k.web); if (!/^https?:$/.test(u.protocol)) continue; koken = u.origin } catch { continue }
       if (/facebook\.com|instagram\.com|google\.|linktr\.ee|wa\.me|whatsapp/i.test(koken)) continue
       // surum 2: logo eklendi — eski surumle bakilan siteler bir kez yeniden gezilir.
-      if (tazeMi(kontrol[koken]?.tarih) && kontrol[koken]?.surum === 2) continue
+      const eski = kontrol[koken]
+      // Erisilemeyen (ag/DNS aksakligi olabilir) 2 gun sonra yeniden denenir; basarili 30 gun.
+      if (eski?.surum === 2 && (eski.durum === 'erisilemedi' ? (Date.now() - Date.parse(eski.tarih)) / 864e5 < 2 : tazeMi(eski.tarih))) continue
       if (!isler.has(koken)) isler.set(koken, [])
       isler.get(koken).push(k)
     }
