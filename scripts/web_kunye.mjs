@@ -17,6 +17,11 @@ import { telefonTemizle } from '../topla.mjs'
 
 const UA = 'eseans-kunye/1.0 (+https://esesion.com/isletmeler; halka acik kunye)'
 const ESZ = Number(process.argv[2] || 24)
+// Zaman butcesi: GitHub Actions isi 120 dk'da oldurur ve o zaman HICBIR sey
+// kaydedilmez. Butce dolunca yeni alan adi alinmaz, eldeki kaydedilir; sonraki
+// calisma 30 gunluk onbellek sayesinde kaldigi yerden devam eder.
+const BUTCE_MS = Number(process.env.WEB_KUNYE_DK || 95) * 60_000
+const basla = Date.now()
 const KONTROL = 'data/_web_kontrol.json'
 const bugun = new Date().toISOString().slice(0, 10)
 const kontrol = existsSync(KONTROL) ? JSON.parse(readFileSync(KONTROL, 'utf8')) : {}
@@ -148,7 +153,7 @@ if (process.argv[1]?.endsWith('web_kunye.mjs')) {
   console.log(`web kunye: ${kuyruk.length} alan adi, ${ESZ} eszamanli`)
   let bitti = 0, dolan = { telefon: 0, calisma_saatleri: 0, adres: 0, logo: 0, sosyal: 0 }
   async function isci() {
-    while (kuyruk.length) {
+    while (kuyruk.length && Date.now() - basla < BUTCE_MS) {
       const koken = kuyruk.shift()
       const kayit = { tarih: bugun, surum: 2, alanlar: [] }
       if (await izinli(koken)) {
@@ -172,5 +177,5 @@ if (process.argv[1]?.endsWith('web_kunye.mjs')) {
   await Promise.all(Array.from({ length: ESZ }, isci))
   for (const [yol, kayitlar] of veriler) writeFileSync(yol, JSON.stringify(kayitlar, null, 1))
   writeFileSync(KONTROL, JSON.stringify(kontrol) + '\n')
-  console.log('bitti:', bitti, 'alan adi · doldurulan:', JSON.stringify(dolan))
+  console.log('bitti:', bitti, 'alan adi · doldurulan:', JSON.stringify(dolan), kuyruk.length ? `· butce doldu, ${kuyruk.length} alan adi sonraki calismaya kaldi` : '')
 }
