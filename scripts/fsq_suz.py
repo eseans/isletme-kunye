@@ -120,14 +120,17 @@ yeni, toplam = {}, 0
 # Bolgesi bos kayitlar (~%40) icin il merkezleri: bolgesi bilinen TR yerlerinin
 # ortalamasi. Bos kayit en yakin merkeze atanir (60 km icinde); buyuk sehirler
 # zaten il_bul'daki bbox ile yakalanir.
+# Il adi FSQ'da cogu zaman admin_region'da degil locality'de gelir (ilk calisma:
+# bolgeden 0 merkez) — ikisine de bakilir. bbox'a dusmesin diye koordinat 999.
 _bolge_onbellek = {}
-def il_bolgeden(bolge):
-  if bolge not in _bolge_onbellek: _bolge_onbellek[bolge] = il_bul(bolge, None, 999, 999)
-  return _bolge_onbellek[bolge]
+def il_bolgeden(bolge, yer):
+  a = (bolge, yer)
+  if a not in _bolge_onbellek: _bolge_onbellek[a] = il_bul(bolge, yer, 999, 999)
+  return _bolge_onbellek[a]
 toplamlar = {}
 for r in rows:
-  if not r[6]: continue
-  sl = il_bolgeden(r[6])
+  if not r[6] and not r[5]: continue
+  sl = il_bolgeden(r[6], r[5])
   if sl:
     t = toplamlar.setdefault(sl, [0.0, 0.0, 0]); t[0] += r[2]; t[1] += r[3]; t[2] += 1
 MERKEZ = {sl: (a / n, b / n) for sl, (a, b, n) in toplamlar.items() if n >= 20}
