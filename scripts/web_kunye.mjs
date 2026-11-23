@@ -68,7 +68,7 @@ export function saatleriCoz(ld) {
 
 const ISLETME_TIPI = /LocalBusiness|Salon|Spa|Dentist|Clinic|Medical|Physician|Health|Beauty|Barber|Hair|Gym|Fitness|Sports|Veterinar|Optician|Photograph|School|Store|Organization|Place/i
 
-export function sayfadanKunye(html) {
+export function sayfadanKunye(html, koken = '') {
   const out = {}
   for (const m of html.matchAll(/<script[^>]+application\/ld\+json[^>]*>([\s\S]*?)<\/script>/gi)) {
     let veri
@@ -80,6 +80,9 @@ export function sayfadanKunye(html) {
       const adr = [].concat(d.address || [])[0]
       if (!out.adres && adr && typeof adr === 'object' && adr.streetAddress) out.adres = String(adr.streetAddress).trim().slice(0, 160)
       if (!out.calisma_saatleri) out.calisma_saatleri = saatleriCoz(d)
+      // Isletmenin KENDI ilan ettigi logo (schema.org logo) once gelir.
+      const lg = [].concat(d.logo || [])[0]
+      if (!out.logo && lg) out.logo = typeof lg === 'string' ? lg : lg.url || lg.contentUrl || ''
       for (const s of [].concat(d.sameAs || [])) {
         const ig = String(s).match(/instagram\.com\/([A-Za-z0-9._]{2,30})\/?$/)
         if (ig && !out.instagram) out.instagram = ig[1]
@@ -94,6 +97,21 @@ export function sayfadanKunye(html) {
     const ig = html.match(/instagram\.com\/(?!p\/|reel\/|explore\/|stories\/|accounts\/)([A-Za-z0-9._]{2,30})\/?["'?]/i)
     if (ig) out.instagram = ig[1]
   }
+  // Logo yedegi: apple-touch-icon (180px, kare) ya da sizes>=96 ikon. og:image ALINMAZ
+  // (genelde fotograf; telif). Goreli yol site kokune gore cozulur.
+  if (!out.logo) {
+    const linkler = [...html.matchAll(/<link\s[^>]*>/gi)].map((m) => m[0])
+    const ALAN = { rel: /\brel\s*=\s*["']([^"']+)["']/i, href: /\bhref\s*=\s*["']([^"']+)["']/i, sizes: /\bsizes\s*=\s*["']([^"']+)["']/i }
+    const al = (t, ad) => (t.match(ALAN[ad]) || [])[1] || ''
+    const dokunma = linkler.find((t) => /apple-touch-icon/i.test(al(t, 'rel')))
+    const buyuk = linkler.find((t) => /(^|\s)icon(\s|$)/i.test(al(t, 'rel')) && (Number((al(t, 'sizes').match(/\d+/) || [0])[0]) >= 96 || /\.svg(\?|$)/i.test(al(t, 'href'))))
+    out.logo = al(dokunma || buyuk || '', 'href')
+  }
+  if (out.logo) {
+    try { const u = new URL(out.logo, (koken || 'https://x.invalid') + '/'); out.logo = /^https?:$/.test(u.protocol) && !u.hostname.endsWith('.invalid') ? u.href : '' } catch { out.logo = '' }
+    if (/^data:/i.test(out.logo) || out.logo.length > 400) out.logo = ''
+  }
+  if (!out.logo) delete out.logo
   if (out.telefon && cepMi(out.telefon)) delete out.telefon // KVKK: kisisel hat
   if (out.instagram && /^(instagram|explore|p|reel|share)$/i.test(out.instagram)) delete out.instagram
   if (!out.calisma_saatleri) delete out.calisma_saatleri
@@ -115,27 +133,28 @@ if (process.argv[1]?.endsWith('web_kunye.mjs')) {
     const kayitlar = JSON.parse(readFileSync(yol, 'utf8'))
     veriler.set(yol, kayitlar)
     for (const k of kayitlar) {
-      if (!k.web || (k.telefon && k.calisma_saatleri && k.adres && (k.sosyal || []).length)) continue
+      if (!k.web || (k.telefon && k.calisma_saatleri && k.adres && k.logo && (k.sosyal || []).length)) continue
       let koken
       try { const u = new URL(/^https?:/.test(k.web) ? k.web : 'https://' + k.web); if (!/^https?:$/.test(u.protocol)) continue; koken = u.origin } catch { continue }
       if (/facebook\.com|instagram\.com|google\.|linktr\.ee|wa\.me|whatsapp/i.test(koken)) continue
-      if (tazeMi(kontrol[koken]?.tarih)) continue
+      // surum 2: logo eklendi — eski surumle bakilan siteler bir kez yeniden gezilir.
+      if (tazeMi(kontrol[koken]?.tarih) && kontrol[koken]?.surum === 2) continue
       if (!isler.has(koken)) isler.set(koken, [])
       isler.get(koken).push(k)
     }
   }
   const kuyruk = [...isler.keys()]
   console.log(`web kunye: ${kuyruk.length} alan adi, ${ESZ} eszamanli`)
-  let bitti = 0, dolan = { telefon: 0, calisma_saatleri: 0, adres: 0, sosyal: 0 }
+  let bitti = 0, dolan = { telefon: 0, calisma_saatleri: 0, adres: 0, logo: 0, sosyal: 0 }
   async function isci() {
     while (kuyruk.length) {
       const koken = kuyruk.shift()
-      const kayit = { tarih: bugun, alanlar: [] }
+      const kayit = { tarih: bugun, surum: 2, alanlar: [] }
       if (await izinli(koken)) {
         const html = await getir(koken + '/')
-        const bulgu = html ? sayfadanKunye(html) : {}
+        const bulgu = html ? sayfadanKunye(html, koken) : {}
         for (const k of isler.get(koken)) {
-          for (const alan of ['telefon', 'calisma_saatleri', 'adres']) {
+          for (const alan of ['telefon', 'calisma_saatleri', 'adres', 'logo']) {
             if (!k[alan] && bulgu[alan]) { k[alan] = bulgu[alan]; dolan[alan]++; kayit.alanlar.includes(alan) || kayit.alanlar.push(alan) }
           }
           if (bulgu.instagram && !(k.sosyal || []).length) {

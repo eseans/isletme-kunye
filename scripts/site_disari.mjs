@@ -37,6 +37,33 @@ const vitrinYolu = (s, k, ad, kimlik) =>
   `/isletmeler/${s}/${k}/${slugla(ad).slice(0, 60) || 'isletme'}-${kimlik}`
 const dolgun = (k) => Boolean((k.telefon && !cepMi(k.telefon)) || k.web)
 
+// Kayit → site satiri. [12] = isletmenin kendi sitesindeki logo (web_kunye.mjs).
+function siteKaydi(k, sehir) {
+  const ig = (k.sosyal || []).find((x) => x.tur === 'instagram')
+  const igAd = ig ? String(ig.deger).split('/').pop().replace(/^@+/, '') : ''
+  return [
+    // FSQ 'locality' alani bazen sehir adi tasiyor; sahte 'Istanbul ilcesi' olmasin.
+    adTemiz(k.ad), (k.ilce && slugla(k.ilce) !== sehir ? k.ilce : ''), k.telefon || '', k.web || '',
+    k.lat != null ? Number(k.lat.toFixed(4)) : null,
+    k.lng != null ? Number(k.lng.toFixed(4)) : null,
+    k.kaynak || 'osm', k.fsq_id || (k.osm_url || '').split('/').pop() || '',
+    /^[A-Za-z][A-Za-z0-9._]{1,29}$/.test(igAd) ? igAd : '',
+    // Hukuk matrisi #4 (is yeri adresi ✅) ve #9 (saat, "kaynaga gore" damgali).
+    k.adres || '', k.calisma_saatleri || '', saatKaynagi(k), k.logo || '',
+  ]
+}
+// Turkce harfte \b calismaz (ş kelime karakteri sayilmaz): kendi kelime siniri.
+const kelime = (k) => new RegExp(`(^|[^a-z0-9çğıöşü])(${k})($|[^a-z0-9çğıöşü])`)
+export const DUZELT = [
+  ['dis-klinigi', kelime('diş|dis|dental|dent|ortodonti|ortodontist|implant|ağız ve diş|agiz ve dis|dişçi')],
+  ['diyetisyen', kelime('diyetisyen|dyt|diyet|beslenme')],
+  ['fizyoterapi', kelime('fizik tedavi|fizyoterapi|fizyoterapist|physio|fizyo')],
+  ['psikoloji', kelime('psikolog|psikoterapi|psikolojik danışmanlık|psikolojik danışman')],
+  ['veteriner', kelime('veteriner|vet')],
+  ['optik', kelime('optik|gözlükçü')],
+]
+const tasinan = {}
+
 mkdirSync('site', { recursive: true })
 let toplam = 0
 const sitemapUrller = []
@@ -50,26 +77,29 @@ for (const sehir of readdirSync('data')) {
   sitemapUrller.push(`  <url><loc>https://esesion.com/isletmeler/${sehir}</loc><lastmod>${bugun}</lastmod></url>`)
   const enlemler = [], boylamlar = []
   mkdirSync(join('site', sehir), { recursive: true })
+  // 1) Ilin butun sektorlerini oku (tasima icin hepsi bellekte olmali).
+  const kumeler = {}
   for (const f of readdirSync(d)) {
     if (!f.endsWith('.json') || f === '_ozet.json') continue
-    const sektor = f.replace('.json', '')
+    kumeler[f.replace('.json', '')] = JSON.parse(readFileSync(join(d, f), 'utf8')).map((k) => siteKaydi(k, sehir)).filter((k) => adGecerli(k[0]))
+  }
+  // 2) Ada gore sektor duzeltmesi: genis "klinik" kumesinde adi baska sektoru
+  //    acikca soyleyenler tasinir ("Formlife Diyetisyen" klinik degil). Eski URL
+  //    _tasinan.json ile 301 alir.
+  for (const [hedef, rx] of DUZELT) {
+    if (!kumeler.klinik) break
+    const hedefte = new Set((kumeler[hedef] ||= []).map((k) => k[7]))
+    kumeler.klinik = kumeler.klinik.filter((k) => {
+      if (!rx.test(k[0].toLocaleLowerCase('tr'))) return true
+      if (!hedefte.has(k[7])) kumeler[hedef].push(k)
+      tasinan[String(k[7]).slice(-10)] = hedef
+      return false
+    })
+  }
+  for (const sektor of Object.keys(kumeler)) {
+    if (!kumeler[sektor].length) continue
     sitemapUrller.push(`  <url><loc>https://esesion.com/isletmeler/${sehir}/${sektor}</loc><lastmod>${bugun}</lastmod></url>`)
-    const kayitlar = JSON.parse(readFileSync(join(d, f), 'utf8'))
-      .map((k) => {
-        const ig = (k.sosyal || []).find((x) => x.tur === 'instagram')
-        const igAd = ig ? String(ig.deger).split('/').pop().replace(/^@+/, '') : ''
-        return [
-          // FSQ 'locality' alani bazen sehir adi tasiyor; sahte 'Istanbul ilcesi' olmasin.
-          adTemiz(k.ad), (k.ilce && slugla(k.ilce) !== sehir ? k.ilce : ''), k.telefon || '', k.web || '',
-          k.lat != null ? Number(k.lat.toFixed(4)) : null,
-          k.lng != null ? Number(k.lng.toFixed(4)) : null,
-          k.kaynak || 'osm', k.fsq_id || (k.osm_url || '').split('/').pop() || '',
-          /^[A-Za-z][A-Za-z0-9._]{1,29}$/.test(igAd) ? igAd : '',
-          // Hukuk matrisi #4 (is yeri adresi ✅) ve #9 (saat, "kaynaga gore" damgali).
-          k.adres || '', k.calisma_saatleri || '', saatKaynagi(k),
-        ]
-      })
-      .filter((k) => adGecerli(k[0]))
+    const kayitlar = kumeler[sektor]
       .sort((a, b) => zenginlik(b) - zenginlik(a) || String(a[0]).localeCompare(String(b[0]), 'tr'))
     for (const k of kayitlar) {
       if (k[4] != null) { enlemler.push(k[4]); boylamlar.push(k[5]) }
@@ -97,6 +127,8 @@ for (const sehir of readdirSync('data')) {
 mkdirSync('site/_adlar', { recursive: true })
 for (const [s, liste] of Object.entries(adlar)) writeFileSync(`site/_adlar/${s}.json`, JSON.stringify(liste) + '\n')
 writeFileSync('site/_sehirler.json', JSON.stringify(sehirMeta) + '\n')
+// Sektoru duzeltilen vitrinler: kimlik → yeni sektor (worker eski URL'e 301 verir).
+writeFileSync('site/_tasinan.json', JSON.stringify(tasinan) + '\n')
 // Kapi sayfasi (/isletmeler) sehir x sektor sayilarini buradan okur.
 writeFileSync('site/_ozet.json', JSON.stringify(ozet) + '\n')
 writeFileSync('site/_sitemap-isletmeler.xml',

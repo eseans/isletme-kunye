@@ -90,3 +90,11 @@ test('web kunye: JSON-LD saat/telefon/adres + instagram; cep ve gonderi linki al
   const metin = JSON.stringify(sayfadanKunye('<script type="application/ld+json">{"@type":"Dentist","email":"a@b.com","founder":"Ayşe Y"}</script>'))
   assert.ok(!metin.includes('@b.com') && !metin.includes('Ayşe'), 'e-posta/kisi adi sizdi')
 })
+
+test('web kunye logo: kendi ilan ettigi logo / apple-touch-icon; kucuk favicon ve data: alinmaz', async () => {
+  const { sayfadanKunye } = await import('../scripts/web_kunye.mjs')
+  assert.equal(sayfadanKunye('<link rel="apple-touch-icon" href="/a.png">', 'https://ada.com').logo, 'https://ada.com/a.png')
+  assert.equal(sayfadanKunye('<script type="application/ld+json">{"@type":"Dentist","logo":"/l.svg"}</script>', 'https://d.com').logo, 'https://d.com/l.svg')
+  assert.equal(sayfadanKunye('<link rel="icon" href="/f.ico">', 'https://ada.com').logo, undefined)
+  assert.equal(sayfadanKunye('<link rel="apple-touch-icon" href="data:image/png;base64,AAAA">', 'https://ada.com').logo, undefined)
+})
