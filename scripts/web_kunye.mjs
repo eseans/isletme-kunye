@@ -27,7 +27,14 @@ const bugun = new Date().toISOString().slice(0, 10)
 const kontrol = existsSync(KONTROL) ? JSON.parse(readFileSync(KONTROL, 'utf8')) : {}
 const tazeMi = (t) => t && (Date.now() - Date.parse(t)) / 864e5 < 30
 
-async function getir(url, ms = 8000) {
+// Sert zaman siniri: undici bazen abort sonrasi govde okumayi hic sonuclandirmiyor;
+// olay dongusu bosalinca Node "exit 13" (sonuclanmamis top-level await) ile oluyor.
+// Yaris zamanlayicisi hem donguyu canli tutar hem sozu her durumda bitirir.
+function getir(url, ms = 8000) {
+  let z
+  return Promise.race([getirIc(url, ms), new Promise((c) => { z = setTimeout(() => c(null), ms + 2000) })]).finally(() => clearTimeout(z))
+}
+async function getirIc(url, ms) {
   const ac = new AbortController()
   const z = setTimeout(() => ac.abort(), ms)
   try {
