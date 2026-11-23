@@ -63,6 +63,12 @@ export const DUZELT = [
   ['optik', kelime('optik|gözlükçü')],
 ]
 const tasinan = {}
+// Coklu sektorlu isletmenin kalacagi sektor: ozelden genele.
+const ONCELIK = ['dis-klinigi', 'diyetisyen', 'psikoloji', 'fizyoterapi', 'veteriner', 'optik', 'dovme', 'fotografci',
+  'egitim-kurs', 'spa-masaj', 'spor-salonu', 'kuafor', 'guzellik-salonu', 'tamamlayici-tip', 'klinik']
+// Zengin kunye: iletisim (telefon/web) + en az bir ek bilgi (adres, saat, instagram)
+// ya da hem telefon hem web. Yalniz bunlar indekslenir.
+export const zengin = (k) => Boolean((k[2] || k[3]) && (k[9] || k[10] || k[8] || (k[2] && k[3])))
 
 mkdirSync('site', { recursive: true })
 let toplam = 0
@@ -96,9 +102,23 @@ for (const sehir of readdirSync('data')) {
       return false
     })
   }
+  // 3) Tek adres: ayni isletme birden cok sektorde ise (FSQ coklu kategori, ornegin
+  //    kuafor + guzellik salonu) en belirgin sektorde kalir; digerleri _tasinan ile
+  //    oraya 301. Kopya sayfa = Google'in olceklenmis icerik sinyali (7.7 bin vardi).
+  const sahip = new Map()
+  const sira = ONCELIK.filter((s) => kumeler[s]).concat(Object.keys(kumeler).filter((s) => !ONCELIK.includes(s)))
+  for (const s of sira) {
+    kumeler[s] = kumeler[s].filter((k) => {
+      const id = String(k[7]).slice(-10)
+      if (!sahip.has(id)) { sahip.set(id, s); return true }
+      tasinan[id] = sahip.get(id)
+      return false
+    })
+  }
   for (const sektor of Object.keys(kumeler)) {
     if (!kumeler[sektor].length) continue
-    sitemapUrller.push(`  <url><loc>https://esesion.com/isletmeler/${sehir}/${sektor}</loc><lastmod>${bugun}</lastmod></url>`)
+    // 5'ten az kayitli liste ince sayfa: yayinda ama sitemap'te yok (worker noindex verir).
+    if (kumeler[sektor].length >= 5) sitemapUrller.push(`  <url><loc>https://esesion.com/isletmeler/${sehir}/${sektor}</loc><lastmod>${bugun}</lastmod></url>`)
     const kayitlar = kumeler[sektor]
       .sort((a, b) => zenginlik(b) - zenginlik(a) || String(a[0]).localeCompare(String(b[0]), 'tr'))
     for (const k of kayitlar) {
@@ -106,6 +126,9 @@ for (const sehir of readdirSync('data')) {
       if (!dolgun({ telefon: k[2], web: k[3] })) continue
       // Arama dizini: yalniz dolgun kunyeler (adiyla aranan isletme genelde budur).
       ;(adlar[sehir] ||= []).push([k[0], sektor, k[1], String(k[7]).slice(-10), k[4], k[5]])
+      // Indeks yalniz ZENGIN kunyede (ad+telefon tek basina ince sayfa). Ayni kural
+      // ana sitede lib/isletmeler.js zenginMu (robots meta) — ikisi birlikte degisir.
+      if (!zengin(k)) continue
       sitemapUrller.push(`  <url><loc>https://esesion.com${vitrinYolu(sehir, sektor, k[0], String(k[7]).slice(-10))}</loc></url>`)
     }
     writeFileSync(join('site', sehir, sektor + '.json'),
