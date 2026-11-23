@@ -74,6 +74,22 @@ export function cepMi(telefon) {
   return /^5\d{9}$/.test(h)
 }
 
+// KVKK: alan birden cok numara tasiyabilir ("0242 512 33 20; 0552 713 33 20").
+// cepMi alani TEK numara sanip 05'li parcayi sizdiriyordu. Her parca ayri
+// degerlendirilir: 5 ile baslayan (cep ya da bozuk) ASLA kalmaz; yalniz bicimi
+// tutan kurumsal hat (2xx/3xx/4xx, 0850/0800, 444) kalir. Supheli → atilir.
+export function telefonTemizle(t) {
+  if (!t) return null
+  const kalan = String(t).split(/[;,/|]|\s-\s|\bveya\b/i).map((p) => p.trim()).filter((p) => {
+    let h = p.replace(/\D/g, '')
+    if (h.startsWith('90') && h.length === 12) h = h.slice(2)
+    h = h.replace(/^0+/, '')
+    if (h.startsWith('5')) return false
+    return /^[2-4]\d{9}$/.test(h) || /^8[05]0\d{7}$/.test(h) || /^444\d{4}$/.test(h)
+  })
+  return kalan.length ? kalan.join('; ') : null
+}
+
 const cok = (etiket, ...anahtarlar) => {
   for (const a of anahtarlar) {
     const v = etiket[a]
@@ -115,7 +131,7 @@ export function kayitEsle(oge, sektor, sehir, ilceAdi, bugun) {
     il: oz(e['addr:city']) || sehir,
     ilce: oz(e['addr:district']) || oz(e['addr:suburb']) || ilceAdi,
     mahalle: oz(e['addr:neighbourhood']) || oz(e['addr:quarter']) || null,
-    telefon: (function () { const t = cok(e, 'phone', 'contact:phone', 'contact:mobile'); return cepMi(t) ? null : t })(),
+    telefon: (function () { const t = cok(e, 'phone', 'contact:phone', 'contact:mobile'); return telefonTemizle(t) })(),
     web: cok(e, 'website', 'contact:website'),
     sosyal,
     calisma_saatleri: cok(e, 'opening_hours'),

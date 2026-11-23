@@ -62,10 +62,10 @@ test('isimsiz kayit vitrin degil; way merkeziyle eslenir; ilce parcasi dolabilir
 
 test('birlestirme ilk gorulmeyi korur; sorgu tum etiketleri ister', () => {
   const eski = [{ ...kayitEsle(oge({ name: 'A', shop: 'beauty' }), 'guzellik-salonu', 'Bursa', 'Nilüfer', '2026-01-01'), telefon: null }]
-  const yeni = [kayitEsle(oge({ name: 'A', shop: 'beauty', phone: '123' }), 'guzellik-salonu', 'Bursa', 'Nilüfer', '2026-11-04')]
+  const yeni = [kayitEsle(oge({ name: 'A', shop: 'beauty', phone: '0224 555 44 33' }), 'guzellik-salonu', 'Bursa', 'Nilüfer', '2026-11-04')]
   const b = birlestir(eski, yeni)
   assert.equal(b[0].ilk_gorulme, '2026-01-01')
-  assert.equal(b[0].telefon, '123')
+  assert.equal(b[0].telefon, '0224 555 44 33')
 
   const s = overpassSorgusu(360000223421)
   assert.ok(s.includes('area(360000223421)->.a;'))
@@ -97,4 +97,15 @@ test('web kunye logo: kendi ilan ettigi logo / apple-touch-icon; kucuk favicon v
   assert.equal(sayfadanKunye('<script type="application/ld+json">{"@type":"Dentist","logo":"/l.svg"}</script>', 'https://d.com').logo, 'https://d.com/l.svg')
   assert.equal(sayfadanKunye('<link rel="icon" href="/f.ico">', 'https://ada.com').logo, undefined)
   assert.equal(sayfadanKunye('<link rel="apple-touch-icon" href="data:image/png;base64,AAAA">', 'https://ada.com').logo, undefined)
+})
+
+test('KVKK telefon: coklu numarada 05li parca atilir; bozuk/5 ile baslayan asla kalmaz', async () => {
+  const { telefonTemizle } = await import('../topla.mjs')
+  assert.equal(telefonTemizle('+90 242 512 33 20; +90 552 713 33 20'), '+90 242 512 33 20')
+  assert.equal(telefonTemizle('+90 530 201 31 12; +90 533 450 00 77'), null)
+  assert.equal(telefonTemizle('507920366605'), null)
+  assert.equal(telefonTemizle('0532 111 22 33'), null)
+  assert.equal(telefonTemizle('(0224) 453 00 12'), '(0224) 453 00 12')
+  assert.equal(telefonTemizle('444 99 22'), '444 99 22')
+  assert.equal(telefonTemizle('0850 222 33 44'), '0850 222 33 44')
 })

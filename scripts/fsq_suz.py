@@ -56,6 +56,18 @@ eslesmeyen = {}
 def temizle(ad):
   return ' '.join(str(ad).lower().replace('’', "'").replace('–', '-').split())
 
+def telefon_temizle(t):
+  # topla.mjs telefonTemizle ile ayni: parca parca, 5'li asla, yalniz bicimi tutan sabit hat.
+  if not t: return None
+  kalan = []
+  for p in re.split(r'[;,/|]|\s-\s|veya', str(t), flags=re.I):
+    p = p.strip(); h = re.sub(r'\D', '', p)
+    if h.startswith('90') and len(h) == 12: h = h[2:]
+    h = h.lstrip('0')
+    if not p or h.startswith('5'): continue
+    if re.fullmatch(r'[2-4]\d{9}', h) or re.fullmatch(r'8[05]0\d{7}', h) or re.fullmatch(r'444\d{4}', h): kalan.append(p)
+  return '; '.join(kalan) or None
+
 def cepmi(t):
     if not t: return False
     h = re.sub(r'[^\d+]', '', str(t)).lstrip('+')
@@ -160,7 +172,7 @@ for fsq_id, ad, lat, lng, adres_v, ilce_v, bolge, telefon, web_v, saat, insta, k
     yeni.setdefault(slug, {}).setdefault(sek, []).append({
       'ad': ad, 'sektor': sek, 'kategori': sek, 'hizmet_ipuclari': sorted(kidler)[:8],
       'adres': adres_v, 'il': None, 'ilce': ilce_v or bolge, 'mahalle': None,
-      'telefon': (None if cepmi(telefon) else telefon), 'web': web_v,
+      'telefon': telefon_temizle(telefon), 'web': web_v,
       'sosyal': ([{'tur': 'instagram', 'deger': 'https://instagram.com/' + insta}]
                  if insta and re.fullmatch(r'[A-Za-z][A-Za-z0-9._]{1,29}', str(insta)) else []),
       'calisma_saatleri': (str(saat)[:200] if saat else None),
@@ -194,7 +206,7 @@ for slug, sektorler in yeni.items():
         for alan in ('telefon', 'web', 'adres', 'calisma_saatleri', 'sosyal'):
           if alan == 'sosyal':
             if not eslesti.get('sosyal') and a.get('sosyal'): eslesti['sosyal'] = a['sosyal']; zengin += 1
-          elif alan != 'telefon' or (a.get(alan) and not cepmi(a.get(alan))):
+          elif alan != 'telefon' or telefon_temizle(a.get(alan)):
             if not eslesti.get(alan) and a.get(alan): eslesti[alan] = a[alan]; zengin += 1
       else:
         eski.append(a); eklendi += 1

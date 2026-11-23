@@ -34,6 +34,9 @@ jobs:
       - name: Suz ve birlestir
         run: python3 scripts/fsq_suz.py
 
+      - name: KVKK telefon temizligi (05'li ve supheli numaralar)
+        run: node scripts/telefon_temizle.mjs
+
       - name: Site disari aktar
         run: node scripts/site_disari.mjs
       - name: IndexNow bildirimi

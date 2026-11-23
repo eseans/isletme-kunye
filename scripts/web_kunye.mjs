@@ -13,7 +13,7 @@
 
 import { readFileSync, writeFileSync, readdirSync, statSync, existsSync } from 'node:fs'
 import { join } from 'node:path'
-import { cepMi } from '../topla.mjs'
+import { telefonTemizle } from '../topla.mjs'
 
 const UA = 'eseans-kunye/1.0 (+https://esesion.com/isletmeler; halka acik kunye)'
 const ESZ = Number(process.argv[2] || 24)
@@ -112,7 +112,8 @@ export function sayfadanKunye(html, koken = '') {
     if (/^data:/i.test(out.logo) || out.logo.length > 400) out.logo = ''
   }
   if (!out.logo) delete out.logo
-  if (out.telefon && cepMi(out.telefon)) delete out.telefon // KVKK: kisisel hat
+  out.telefon = telefonTemizle(out.telefon) // KVKK: cep/supheli parca atilir
+  if (!out.telefon) delete out.telefon
   if (out.instagram && /^(instagram|explore|p|reel|share)$/i.test(out.instagram)) delete out.instagram
   if (!out.calisma_saatleri) delete out.calisma_saatleri
   return out

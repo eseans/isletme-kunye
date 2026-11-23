@@ -20,7 +20,7 @@ const zenginlik = (k) => (dolgun({ telefon: k[2], web: k[3] }) ? 2 : 0) + (k[9] 
 // Kullanim: node scripts/site_disari.mjs
 import { readFileSync, writeFileSync, mkdirSync, readdirSync, statSync, existsSync } from 'node:fs'
 import { join } from 'node:path'
-import { slugla, cepMi } from '../topla.mjs'
+import { slugla, telefonTemizle } from '../topla.mjs'
 
 // 81 il (iller.json); hangi illerde veri varsa o iller yayina girer.
 const IL_AD = Object.fromEntries(JSON.parse(readFileSync('iller.json', 'utf8')).map(([s, a]) => [s, a]))
@@ -35,7 +35,7 @@ const SEKTOR_SLUG = ['kuafor', 'guzellik-salonu', 'klinik', 'dis-klinigi', 'spor
 
 const vitrinYolu = (s, k, ad, kimlik) =>
   `/isletmeler/${s}/${k}/${slugla(ad).slice(0, 60) || 'isletme'}-${kimlik}`
-const dolgun = (k) => Boolean((k.telefon && !cepMi(k.telefon)) || k.web)
+const dolgun = (k) => Boolean(telefonTemizle(k.telefon) || k.web)
 
 // Kayit → site satiri. [12] = isletmenin kendi sitesindeki logo (web_kunye.mjs).
 function siteKaydi(k, sehir) {
@@ -43,7 +43,7 @@ function siteKaydi(k, sehir) {
   const igAd = ig ? String(ig.deger).split('/').pop().replace(/^@+/, '') : ''
   return [
     // FSQ 'locality' alani bazen sehir adi tasiyor; sahte 'Istanbul ilcesi' olmasin.
-    adTemiz(k.ad), (k.ilce && slugla(k.ilce) !== sehir ? k.ilce : ''), k.telefon || '', k.web || '',
+    adTemiz(k.ad), (k.ilce && slugla(k.ilce) !== sehir ? k.ilce : ''), telefonTemizle(k.telefon) || '', k.web || '',
     k.lat != null ? Number(k.lat.toFixed(4)) : null,
     k.lng != null ? Number(k.lng.toFixed(4)) : null,
     k.kaynak || 'osm', k.fsq_id || (k.osm_url || '').split('/').pop() || '',
