@@ -1572,7 +1572,12 @@
   "mahalle": null,
   "telefon": "(0462) 321 74 75",
   "web": "http://www.teol.com.tr",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/teoldilokullari"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -1584,7 +1589,8 @@
   "fsq_id": "4e5397d3ae606f5737a012d3",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-05",
+  "logo": "https://www.teol.com.tr/wp-content/uploads/2024/03/cropped-T-Logo-180x180.png"
  },
  {
   "ad": "Taksim Sürücü Kursu",

@@ -15148,7 +15148,12 @@
   "mahalle": null,
   "telefon": "(0352) 230 10 00",
   "web": "https://www.hospitadent.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/hospitadent"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -15160,7 +15165,8 @@
   "fsq_id": "535f4d15498e6ceb489a02a6",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-05",
+  "logo": "https://www.hospitadent.com/assets/images/logo.webp"
  },
  {
   "ad": "Kayseri Maya Göz Hastanesi",

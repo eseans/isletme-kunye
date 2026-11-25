@@ -4265,7 +4265,12 @@
   "mahalle": null,
   "telefon": "(0224) 294 08 01",
   "web": "http://uludag.edu.tr/veteriner",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/bursa.uludaguniversitesi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -4277,7 +4282,8 @@
   "fsq_id": "4e2fb9f9d1646b407b90ec1e",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-05",
+  "logo": "http://uludag.edu.tr/assets/images/favicon/apple-touch-icon.png"
  },
  {
   "ad": "Uludağ Veteriner Kliniği",
@@ -4714,7 +4720,8 @@
   "fsq_id": "65be1ec3b7a736213cf15347",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-05",
+  "logo": "https://vetelveteriner.com/uploads/cropped-vetel_logo_dark-icon-180x180.png"
  },
  {
   "ad": "Vetel Veteriner",
@@ -4746,7 +4753,8 @@
   "fsq_id": "65be1ec3b7a736213cf15347",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-05",
+  "logo": "https://vetelveteriner.com/uploads/cropped-vetel_logo_dark-icon-180x180.png"
  },
  {
   "ad": "Veterinary Surgeon House",

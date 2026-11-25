@@ -5069,7 +5069,8 @@
   "osm_url": "https://www.openstreetmap.org/node/6525160825",
   "kaynak": "osm",
   "ilk_gorulme": "2026-11-03",
-  "son_gorulme": "2026-11-11"
+  "son_gorulme": "2026-11-11",
+  "logo": "https://static.wixstatic.com/media/2296f0_4be08df847f6451cab7a3abe15d265c8%7Emv2.png/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/2296f0_4be08df847f6451cab7a3abe15d265c8%7Emv2.png"
  },
  {
   "ad": "Ali Erdinç Karslıoğlu",
@@ -6730,7 +6731,8 @@
   "osm_url": "https://www.openstreetmap.org/node/11160520682",
   "kaynak": "osm",
   "ilk_gorulme": "2026-11-03",
-  "son_gorulme": "2026-11-11"
+  "son_gorulme": "2026-11-11",
+  "logo": "https://alyansclinic.com/wp-content/uploads/2026/10/ikon.webp"
  },
  {
   "ad": "Alâ Clinic",
@@ -13460,7 +13462,12 @@
   "mahalle": null,
   "telefon": "(0212) 543 43 68",
   "web": "https://www.hospitadent.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/hospitadent"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -13472,7 +13479,8 @@
   "fsq_id": "515e7bf483025827f0941bea",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-05",
+  "logo": "https://www.hospitadent.com/assets/images/logo.webp"
  },
  {
   "ad": "Bakırköy hospitaldent",
@@ -37451,13 +37459,18 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d178941735"
   ],
-  "adres": null,
+  "adres": "1611 W. 135th St.",
   "il": null,
   "ilce": "Şişli",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "+310 349-1940",
   "web": "http://www.dentfix.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/dentfixequipment"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -37469,7 +37482,8 @@
   "fsq_id": "695ce1f3d14b952cbab42841",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-05",
+  "logo": "https://static.wixstatic.com/media/092618_705a53ea055244f29adeb1edcf6cfb0c.png/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/092618_705a53ea055244f29adeb1edcf6cfb0c.png"
  },
  {
   "ad": "Dentforalljustsmile",
@@ -42836,7 +42850,12 @@
   "mahalle": null,
   "telefon": "(0216) 336 63 63",
   "web": "http://www.dentram.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/profdrserhatyalcin"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -42848,7 +42867,8 @@
   "fsq_id": "5169067be4b0640a3d2eff29",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-05",
+  "logo": "https://www.dentram.com/wp-content/uploads/2025/12/logo.svg"
  },
  {
   "ad": "Dentram Diş Kliniği",
@@ -42863,7 +42883,12 @@
   "mahalle": null,
   "telefon": "(0212) 280 88 00",
   "web": "http://www.dentram.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/profdrserhatyalcin"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -42875,7 +42900,8 @@
   "fsq_id": "4fe07f83e4b0c441c2aeca0e",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-05",
+  "logo": "https://www.dentram.com/wp-content/uploads/2025/12/logo.svg"
  },
  {
   "ad": "Dentreferans Ağız Ve Diş Sağlığı Polikliniği",
@@ -43133,14 +43159,19 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d178941735"
   ],
-  "adres": null,
+  "adres": "Teşvikiye, Hakkı Yeten Cd. No:11",
   "il": null,
   "ilce": "Şişli",
   "mahalle": null,
   "telefon": "0850 255 8888",
   "web": "http://dentspa.com",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/dentspaint"
+   }
+  ],
+  "calisma_saatleri": "Mo 10:00-19:00; Tu 10:00-19:00; We 10:00-19:00; Th 10:00-19:00; Fr 10:00-19:00; Sa 10:00-19:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 41.054543,
@@ -43151,7 +43182,8 @@
   "fsq_id": "5d4aa9e7dae4eb00084bf2db",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-05",
+  "logo": "https://dentspa.com/wp-content/uploads/2026/05/dentspa-Logo-light_1778414307.webp"
  },
  {
   "ad": "Dentstil",
@@ -44137,7 +44169,8 @@
   "fsq_id": "55dd9927498e8bf05ab1db12",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-05",
+  "logo": "https://www.dentdevrent.com/wp-content/uploads/2021/01/dent-devrent-logo-1.png"
  },
  {
   "ad": "Devrent Diş Kliniği",
@@ -47353,7 +47386,8 @@
   "fsq_id": "50a63eb6c84c12f5da78fc38",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-05",
+  "logo": "https://static.wixstatic.com/media/9a1060_b1310da067a24f46babb8ec08b3928cf%7Emv2.png/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/9a1060_b1310da067a24f46babb8ec08b3928cf%7Emv2.png"
  },
  {
   "ad": "Dis Hekimi Cenap Kosu",
@@ -51918,7 +51952,8 @@
   "fsq_id": "50754544498e939b2ede2324",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-05",
+  "logo": "http://www.onlinedishekimi.com/images/n/apple-touch-icon-7a2515.png"
  },
  {
   "ad": "Dis Hekimi Sevket Tunali",
@@ -58015,7 +58050,7 @@
     "deger": "https://instagram.com/dizgeklinik"
    }
   ],
-  "calisma_saatleri": null,
+  "calisma_saatleri": "Mo 09:00-01:00; Tu 09:00-01:00; We 09:00-01:00; Th 09:00-01:00; Fr 09:00-01:00; Sa 09:00-01:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 40.966831,
@@ -58026,7 +58061,8 @@
   "fsq_id": "6aef87771e54105cac189584",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-05",
+  "logo": "https://dizgeklinik.com/images/brand/logo.png"
  },
  {
   "ad": "DiŞ DOKTORUM öZGüR",
@@ -58328,7 +58364,8 @@
   "fsq_id": "4fbf3f1ce4b09d6bb2265da1",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-05",
+  "logo": "https://www.dis212.com/wp-content/uploads/2026/08/dis212-logo-new2.png"
  },
  {
   "ad": "Diş 212 Ağız ve Diş Sağlığı Polikliniği",
@@ -64018,7 +64055,8 @@
   "kaynak": "osm",
   "ilk_gorulme": "2026-11-03",
   "son_gorulme": "2026-11-05",
-  "fsq_id": "5f84838d737d4002ae260044"
+  "fsq_id": "5f84838d737d4002ae260044",
+  "logo": "https://www.dtaliberkman.com/img/favicons/favicon_60x60.png?v=697258ba998a6ccc998559b48d226a2d"
  },
  {
   "ad": "Diş Hekimi Ali Emir Körpeoğlu, Diş Hekimi Onur Çataldaş",
@@ -64033,7 +64071,12 @@
   "mahalle": null,
   "telefon": "(0216) 414 10 18",
   "web": "http://modadishekimi.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/modadishekimi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -64045,7 +64088,8 @@
   "fsq_id": "5661cd44498e7b59732b71cf",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-05",
+  "logo": "https://static.wixstatic.com/media/2296f0_4be08df847f6451cab7a3abe15d265c8%7Emv2.png/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/2296f0_4be08df847f6451cab7a3abe15d265c8%7Emv2.png"
  },
  {
   "ad": "Diş Hekimi Ali Gül",
@@ -67881,7 +67925,8 @@
   "fsq_id": "52289b1d11d2dea3d5c52936",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-05",
+  "logo": "http://www.implaworld.com/9626923/6805446e200ee_LogoIMPLAWORLD.png"
  },
  {
   "ad": "Diş Hekimi Burak Özkan",
@@ -71286,7 +71331,8 @@
   "fsq_id": "572b1c4d498ed02e8e8107ec",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-05",
+  "logo": "https://static.wixstatic.com/media/116969_0846019cfda14caba8eb7339d13bd0b7.png/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/116969_0846019cfda14caba8eb7339d13bd0b7.png"
  },
  {
   "ad": "Diş Hekimi Dr. Filiz",
@@ -72721,7 +72767,8 @@
   "osm_url": "https://www.openstreetmap.org/node/11565252780",
   "kaynak": "osm",
   "ilk_gorulme": "2026-11-03",
-  "son_gorulme": "2026-11-11"
+  "son_gorulme": "2026-11-11",
+  "logo": "https://ercumentaskin.com/wp-content/uploads/2025/08/heading-logo.png"
  },
  {
   "ad": "Diş Hekimi Dt. Erdem AZİM",
@@ -74168,7 +74215,8 @@
   "osm_url": "https://www.openstreetmap.org/node/10198349923",
   "kaynak": "osm",
   "ilk_gorulme": "2026-11-03",
-  "son_gorulme": "2026-11-11"
+  "son_gorulme": "2026-11-11",
+  "logo": "https://www.emrahguvenenler.com.tr/images/apple-touch-icon.png"
  },
  {
   "ad": "Diş Hekimi Emrah Hasdemi̇r",
@@ -83974,7 +84022,7 @@
   "il": "Istanbul",
   "ilce": "Maltepe",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "+90 850 333 0388",
   "web": "http://www.dishekimimehmetmucuk.com/",
   "sosyal": [],
   "calisma_saatleri": null,
@@ -83987,7 +84035,8 @@
   "osm_url": "https://www.openstreetmap.org/node/8505784217",
   "kaynak": "osm",
   "ilk_gorulme": "2026-11-03",
-  "son_gorulme": "2026-11-11"
+  "son_gorulme": "2026-11-11",
+  "logo": "http://www.dishekimimehmetmucuk.com/img/favicons/favicon_60x60.png?v=697258ba998a6ccc998559b48d226a2d"
  },
  {
   "ad": "Diş Hekimi Mehmet Sait Dedeoğulları",
@@ -84787,8 +84836,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.drmertdastan.com",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/dt.mertdastan"
+   }
+  ],
+  "calisma_saatleri": "Mo 00:00-23:59; Tu 00:00-23:59; We 00:00-23:59; Th 00:00-23:59; Fr 00:00-23:59; Sa 00:00-23:59; Su 00:00-23:59",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 41.03425155439609,
@@ -84799,7 +84853,8 @@
   "fsq_id": "6af1dca61e9b717d22f2cc9d",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-05",
+  "logo": "https://drmertdastan.com/icon-512.png"
  },
  {
   "ad": "Diş Hekimi Mertcan Kamalı",
@@ -87444,7 +87499,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://drnazligulecbaca.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/drnazligulec"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -89366,7 +89426,8 @@
   "fsq_id": "52a21153498ed23872e6db4c",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-05",
+  "logo": "https://www.onurkucukkagnici.com/wp-content/uploads/2025/08/hlogo.png"
  },
  {
   "ad": "Diş Hekimi Onur Laçin Muayenehanesi",
@@ -92263,7 +92324,7 @@
   "il": "Istanbul",
   "ilce": "Küçükçekmece",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "+902126616979",
   "web": "https://drsertac.com",
   "sosyal": [
    {
@@ -92282,7 +92343,8 @@
   "kaynak": "osm",
   "ilk_gorulme": "2026-11-03",
   "son_gorulme": "2026-11-05",
-  "fsq_id": "507ed249e4b0b3743540f11f"
+  "fsq_id": "507ed249e4b0b3743540f11f",
+  "logo": "https://drsertac.com/wp-content/themes/kizilkaya/assets/images/drsertac-logo.png"
  },
  {
   "ad": "Diş Hekimi Sevgi Ak Uçar",
@@ -124308,10 +124370,10 @@
   "il": null,
   "ilce": "Esenyurt",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "+902128535341",
   "web": "https://dtaycan.com.tr",
   "sosyal": [],
-  "calisma_saatleri": null,
+  "calisma_saatleri": "Mo 09:00-22:00; Tu 09:00-22:00; We 09:00-22:00; Th 09:00-22:00; Fr 09:00-22:00; Sa 09:00-20:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 41.017478790018004,
@@ -124322,7 +124384,8 @@
   "fsq_id": "6aabed3549d11f513832a081",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-05",
+  "logo": "https://dtaycan.com.tr/favicon.svg"
  },
  {
   "ad": "Dt. Ayhan Sari",
@@ -125749,7 +125812,8 @@
   "fsq_id": "5ee1f507a426d4379d1418ab",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-05",
+  "logo": "https://serpilisilar.com/wp-content/uploads/2022/03/logo-dark.webp"
  },
  {
   "ad": "Dt. Tahsin Erdevir",
@@ -133719,7 +133783,7 @@
     "deger": "https://instagram.com/esnandentalclinics"
    }
   ],
-  "calisma_saatleri": null,
+  "calisma_saatleri": "Mo,Tu,We,Th,Fr,Sa 09:00-20:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 41.10295607387795,
@@ -133730,7 +133794,8 @@
   "fsq_id": "6978834db0e0963f587d0e0b",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-05",
+  "logo": "https://www.esnandentalclinics.com/wp-content/uploads/2026/03/cropped-esnan_favicon.webp"
  },
  {
   "ad": "Esnan Diş Laboratuvarı",
@@ -136130,7 +136195,12 @@
   "mahalle": null,
   "telefon": "(0212) 521 10 10",
   "web": "https://www.hospitadent.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/hospitadent"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -136142,7 +136212,8 @@
   "fsq_id": "4e41352b45dd246ccb753af0",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-05",
+  "logo": "https://www.hospitadent.com/assets/images/logo.webp"
  },
  {
   "ad": "Fatma Nesibe Kömeç Ortodonti Kliniği",
@@ -144239,7 +144310,8 @@
   "fsq_id": "6151b7486f14d67cb1de6bd4",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-05",
+  "logo": "https://www.hospitadent.com/assets/images/logo.webp"
  },
  {
   "ad": "Housdent",
@@ -145804,7 +145876,8 @@
   "osm_url": "https://www.openstreetmap.org/node/11139032791",
   "kaynak": "osm",
   "ilk_gorulme": "2026-11-03",
-  "son_gorulme": "2026-11-11"
+  "son_gorulme": "2026-11-11",
+  "logo": "https://isikdis.com.tr/wp-content/uploads/2025/06/header-1.png"
  },
  {
   "ad": "Işık Diş Polikliniği - Kadıköy Şube",
@@ -147809,7 +147882,8 @@
   "fsq_id": "6963aa4a9d3b6a0fd52f5b2b",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-05",
+  "logo": "https://static.wixstatic.com/media/b31b02_ba2397c1ebcc41048aee1435f7ca36db~mv2.png"
  },
  {
   "ad": "KidsDent İstanbul",
@@ -149239,7 +149313,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.konuralpdis.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/konuralpagizvedissagligi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -149337,7 +149416,8 @@
   "fsq_id": "6005fde01f55a249c99d1a30",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-05",
+  "logo": "https://koraydisklinik.com/upload/logo-11547.png"
  },
  {
   "ad": "Koray Eryılmaz Ortodonti",
@@ -149617,7 +149697,8 @@
   "fsq_id": "53c841cb498e10c40aeb1548",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-05",
+  "logo": "https://www.kristaldis.com.tr/wp-content/uploads/2024/04/cropped-Kristaldis-Logo1-kopya-180x180.png"
  },
  {
   "ad": "Kristaldent Ağız Ve Diş Sağlığı Polikliniği",
@@ -150187,7 +150268,8 @@
   "kaynak": "osm",
   "ilk_gorulme": "2026-11-03",
   "son_gorulme": "2026-11-05",
-  "fsq_id": "66ff868e148ca71a7d3eb6e0"
+  "fsq_id": "66ff868e148ca71a7d3eb6e0",
+  "logo": "https://koyodent.com/wp-content/uploads/2025/12/cropped-cropped-logo.png"
  },
  {
   "ad": "LABİN ART ABOUT DENTAL",
@@ -150965,7 +151047,8 @@
   "fsq_id": "65016c99d00642064ff70b20",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-05",
+  "logo": "https://loyalclinic.com.tr/wp-content/uploads/2025/10/Untitled-7-min.webp"
  },
  {
   "ad": "Luis Bien Esthetic",
@@ -151882,7 +151965,8 @@
   "fsq_id": "4eabbdda4690ef1f6c6b9189",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-05",
+  "logo": "https://www.dishekiminiz.com/wp-content/uploads/2021/07/logo.jpg"
  },
  {
   "ad": "Maltepe Impladent Dis",
@@ -152845,7 +152929,8 @@
   "fsq_id": "64be3e0879f1900ddef00c43",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-05",
+  "logo": "http://mebadent.com/Uploads/favicon/86875e9930044952bcc560d2b942c5fb.png"
  },
  {
   "ad": "Mecidiye Agiz Ve Dis Sagligi Kliinigi",
@@ -153105,7 +153190,12 @@
   "mahalle": null,
   "telefon": "(0212) 274 53 53",
   "web": "https://www.hospitadent.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/hospitadent"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -153117,7 +153207,8 @@
   "fsq_id": "4ec7d8ed4690116a8c873065",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-05",
+  "logo": "https://www.hospitadent.com/assets/images/logo.webp"
  },
  {
   "ad": "Mecidiyeköy Kliniği",
@@ -154603,7 +154694,8 @@
   "fsq_id": "6537a949791379478dc3b3f6",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-05",
+  "logo": "https://mehmetekerdisklinigi.com/wp-content/uploads/2022/11/mehmet-eker-bagcilar.jpg"
  },
  {
   "ad": "Mehmet Eker Diş Kliniği Başakşehir",
@@ -155086,7 +155178,8 @@
   "osm_url": "https://www.openstreetmap.org/node/13074609559",
   "kaynak": "osm",
   "ilk_gorulme": "2026-11-03",
-  "son_gorulme": "2026-11-11"
+  "son_gorulme": "2026-11-11",
+  "logo": "https://static.wixstatic.com/media/1a7780_e38ed00d42f94efd9f8712c4d2155c2e%7Emv2.png/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/1a7780_e38ed00d42f94efd9f8712c4d2155c2e%7Emv2.png"
  },
  {
   "ad": "Melan Clinic",
@@ -155356,7 +155449,8 @@
   "osm_url": "https://www.openstreetmap.org/node/10741956330",
   "kaynak": "osm",
   "ilk_gorulme": "2026-11-03",
-  "son_gorulme": "2026-11-11"
+  "son_gorulme": "2026-11-11",
+  "logo": "https://www.melsadent.com/image/melsafavicon.png"
  },
  {
   "ad": "Meltem Uzun Diş Polikinliği",
@@ -157634,7 +157728,8 @@
   "osm_url": "https://www.openstreetmap.org/node/12794800449",
   "kaynak": "osm",
   "ilk_gorulme": "2026-11-03",
-  "son_gorulme": "2026-11-11"
+  "son_gorulme": "2026-11-11",
+  "logo": "https://musicadent.com/wp-content/uploads/2026/10/musicadent-logo-b-1.webp"
  },
  {
   "ad": "Mustafa & Haluk Dişçi",
@@ -158071,7 +158166,8 @@
   "fsq_id": "538057ff498e31b16461da46",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-05",
+  "logo": "http://www.mutludisler.com.tr/images/favicon.png"
  },
  {
   "ad": "Mutlu Sakarya",
@@ -159214,7 +159310,8 @@
   "fsq_id": "4de0ac7bae605835c4597eae",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-05",
+  "logo": "https://natureldis.com/wp-content/uploads/2026/10/cropped-Turkuaz-Naturel-Dis-Logo-Ikonu-1.png"
  },
  {
   "ad": "Naturel Ağız  Diş Sagligi",
@@ -159273,7 +159370,8 @@
   "fsq_id": "517004bbe4b0cb2ede258e80",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-05",
+  "logo": "https://natureldis.com/wp-content/uploads/2026/10/cropped-Turkuaz-Naturel-Dis-Logo-Ikonu-1.png"
  },
  {
   "ad": "Naturel Porselen Diş Laboratuvar",
@@ -162928,7 +163026,8 @@
   "fsq_id": "4f69ca3abb3dc78e0966d4e1",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-05",
+  "logo": "https://www.oralmed.com.tr/logo.png"
  },
  {
   "ad": "Oralmed Ağız ve Diş Sağligi Polikliniği",
@@ -165400,7 +165499,8 @@
   "fsq_id": "69e9201ff46de655a16633a3",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-05",
+  "logo": "https://2kdisklinik.com/wp-content/uploads/2025/08/cropped-2K_LOGO-04-scaled-1-180x180.png"
  },
  {
   "ad": "Ozel Akdeniz Estetik Agiz Ve Dis Polikilinigi",
@@ -167950,7 +168050,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.pendis.net",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/pendis_pendik"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -168173,7 +168278,12 @@
   "mahalle": null,
   "telefon": "(0212) 563 19 19",
   "web": "http://periodent.net",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/periodent"
+   }
+  ],
   "calisma_saatleri": "Mo-Su 09:00-20:00",
   "randevu": null,
   "engelli_erisimi": null,
@@ -169403,7 +169513,8 @@
   "osm_url": "https://www.openstreetmap.org/node/10591967684",
   "kaynak": "osm",
   "ilk_gorulme": "2026-11-03",
-  "son_gorulme": "2026-11-11"
+  "son_gorulme": "2026-11-11",
+  "logo": "https://static.wixstatic.com/media/4506ea_439715c9f12145ef819e180f49a54ea7%7Emv2.png/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/4506ea_439715c9f12145ef819e180f49a54ea7%7Emv2.png"
  },
  {
   "ad": "Prodental Diş Protez Laboratuvarı",
@@ -169646,7 +169757,8 @@
   "fsq_id": "59e757c3018cbb269f2ca82c",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-05",
+  "logo": "http://www.drortodonti.com/favicon/apple-icon-57x57.png"
  },
  {
   "ad": "Prof. Dr. Ali Murat Kökat",
@@ -169705,7 +169817,8 @@
   "fsq_id": "52c813d7498e695320141af5",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-05",
+  "logo": "https://drozyesil.com/wp-content/uploads/2022/09/drozyesil-logo.png"
  },
  {
   "ad": "Prof. Dr. Ayşegül Apaydın Muayenehane",
@@ -171258,7 +171371,8 @@
   "fsq_id": "6a0438ebb1128a6e2e54c124",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-05",
+  "logo": "https://rbnclinic.com/wp-content/uploads/2024/10/cropped-RBN-CLINIC-LOGO-04-1-180x180.png"
  },
  {
   "ad": "RENİDENT DENTAL KLİNİK",
@@ -171430,7 +171544,8 @@
   "fsq_id": "5b9d1c60db2aeb002c2e7ffb",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-05",
+  "logo": "https://www.radixdent.com.tr/themes/radixden/assets/img/tr-radixdent-10-logo-dark.png"
  },
  {
   "ad": "Rafet Kayserilioglu Dis Kliniği",
@@ -200116,7 +200231,12 @@
   "mahalle": null,
   "telefon": "444 1 692",
   "web": "http://www.estethica.com.tr",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/estethica"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -200349,7 +200469,8 @@
   "fsq_id": "657ffc2e4151357273f8e8ab",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-05",
+  "logo": "https://serenklinik.com/uploads/2026/02/1770966968_Adsiz-tasarim-25.png"
  },
  {
   "ad": "fevzi batur muayenehanesi",
@@ -206603,7 +206724,12 @@
   "mahalle": null,
   "telefon": "(0216) 316 00 16",
   "web": "https://www.hospitadent.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/hospitadent"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -206615,7 +206741,8 @@
   "fsq_id": "4ee204f2003943d6626cc921",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-05",
+  "logo": "https://www.hospitadent.com/assets/images/logo.webp"
  },
  {
   "ad": "Çapa Dişhekimliği Fakültesi",
@@ -211434,7 +211561,8 @@
   "osm_url": "https://www.openstreetmap.org/node/12236271979",
   "kaynak": "osm",
   "ilk_gorulme": "2026-11-03",
-  "son_gorulme": "2026-11-11"
+  "son_gorulme": "2026-11-11",
+  "logo": "https://dentelitium.com.tr/img/dent-elitium-logo.png"
  },
  {
   "ad": "Özel Dent Gardenya Ağız Ve Diş Sağlığı Polikliniği",
@@ -211842,7 +211970,8 @@
   "fsq_id": "511a0c94e4b08a57329451a2",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-05",
+  "logo": "https://ozeldental.com/wp-content/uploads/2023/07/Ozel-Dental-Kare-Logo.jpeg"
  },
  {
   "ad": "Özel Dental Corner Ağız ve Diş Sağlığı Polikliniği",
@@ -213434,7 +213563,8 @@
   "fsq_id": "66ae5589fcbd4f09610ac4b7",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-05",
+  "logo": "https://doredent.com/favicon.png"
  },
  {
   "ad": "Özel Dr. Dent Ağız Ve Diş Sağlığı Polikliniği",
@@ -225320,7 +225450,8 @@
   "fsq_id": "5bafc344cf72a0002da13419",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-05",
+  "logo": "https://www.dentestetik.com.tr/wp-content/uploads/2020/05/Logo.png"
  },
  {
   "ad": "İstanbul Dental Center",
@@ -225600,7 +225731,8 @@
   "fsq_id": "69ce4600b6d7f5648cf8e517",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-05",
+  "logo": "https://galata.edu.tr/assets/apple-touch-icon.png"
  },
  {
   "ad": "İstanbul Klinik Ağız Ve Diş Sağlığı",

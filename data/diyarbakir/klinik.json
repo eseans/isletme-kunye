@@ -2094,8 +2094,13 @@
   "mahalle": null,
   "telefon": "(0412) 229 29 47",
   "web": "http://www.bahceci.com",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/bahcecisaglik"
+   }
+  ],
+  "calisma_saatleri": "Mo,Tu,We,Th,Fr,Sa,Su 09:00-17:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 37.91876382758998,
@@ -2106,7 +2111,8 @@
   "fsq_id": "52664ad711d24cfe792b75f2",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-05",
+  "logo": "https://bahceci.com/wp-content/uploads/2024/08/bahceci_logo-1.png"
  },
  {
   "ad": "Batman Özel Dünya Hastanesi",
@@ -5992,7 +5998,12 @@
   "mahalle": null,
   "telefon": "(0412) 224 21 34",
   "web": "http://www.diyarbakirpsikoterapi.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/personapsikoterapi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -6617,7 +6628,8 @@
   "fsq_id": "6a921ed8cfe41c5e40f9547b",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-05",
+  "logo": "https://doktoremrahyildiz.com/wp-content/uploads/2026/07/E60DA867-F93B-4191-BCFF-F09E08FB437D.png"
  },
  {
   "ad": "Dr M.Ali Bars Estetik Kliniği",
@@ -13000,7 +13012,8 @@
   "fsq_id": "53b1326b498e46c70e5d32b4",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-05",
+  "logo": "http://renaldiyaliz.com/uploads/setting/favicon/1785242124-6a68a20c4dc35.png"
  },
  {
   "ad": "Renova Estetik",
@@ -13069,7 +13082,12 @@
   "mahalle": null,
   "telefon": "(0412) 258 00 60",
   "web": "http://diyarbakireah.saglik.gov.tr",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/diyarbakir_eah"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,

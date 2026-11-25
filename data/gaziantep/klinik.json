@@ -29292,7 +29292,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.drleventkonukoglu.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/levent_konukoglu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -47720,7 +47725,12 @@
   "mahalle": null,
   "telefon": "(0342) 211 77 77",
   "web": "http://duztepeyasamhastanesi.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/duztepeyasamhastanesi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -48469,7 +48479,8 @@
   "fsq_id": "515b195de4b0f68b0135928e",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-05",
+  "logo": "http://mediantep.com/assets/img/favicon.png"
  },
  {
   "ad": "Özel Medina Hastanesi Yenidoğan Yoğun Bakım",

@@ -548,7 +548,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.ofytattoo.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ofytattooeskisehir"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,

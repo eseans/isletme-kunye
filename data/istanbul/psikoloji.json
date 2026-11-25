@@ -312,8 +312,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://basepsikoloji.com",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/basepsikoloji"
+   }
+  ],
+  "calisma_saatleri": "Mo 09:00-17:00; Tu 09:00-17:00; We 09:00-17:00; Th 09:00-17:00; Fr 09:00-17:00; Sa 09:00-17:00; Su 09:00-17:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 40.973914,
@@ -324,7 +329,8 @@
   "fsq_id": "6559d409dcbe296bbb75d26a",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-05",
+  "logo": "https://basepsikoloji.com/#logo"
  },
  {
   "ad": "Basel Psikoloji",
@@ -368,8 +374,13 @@
   "mahalle": "Başak Mahallesi",
   "telefon": null,
   "web": "https://basaksehirpsikologmerkezi.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/psikologselmanoktay"
+   }
+  ],
+  "calisma_saatleri": "Mo,Tu,We,Th,Fr,Sa,Su 08:00-23:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 41.0953786,
@@ -379,7 +390,8 @@
   "osm_url": "https://www.openstreetmap.org/node/8306930762",
   "kaynak": "osm",
   "ilk_gorulme": "2026-11-04",
-  "son_gorulme": "2026-11-11"
+  "son_gorulme": "2026-11-11",
+  "logo": "https://basaksehirpsikologmerkezi.com/wp-content/uploads/2025/12/cropped-Basaksehir-psikolog.webp"
  },
  {
   "ad": "Başakşehir Çam Ve Sakura Şehir Hastanesi - G Blok Ruh Sağlığı Ve Hastalıkları",
@@ -1036,8 +1048,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://psikologmerveyilmaz.com",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/klinikpskmerveyilmaz"
+   }
+  ],
+  "calisma_saatleri": "Mo-Fr 09:00-21:30; Sa-Su 11:00-17:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 40.992137,
@@ -1048,7 +1065,8 @@
   "fsq_id": "6a1c4b3e0151581062e7322b",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-05",
+  "logo": "https://psikologmerveyilmaz.com/apple-touch-icon.png"
  },
  {
   "ad": "Klinik Psikolog Sevda Nur Aslan",
@@ -1788,7 +1806,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.psikohemdem.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/psikohemdem"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -1800,7 +1823,8 @@
   "fsq_id": "68d813e2cc031f5c8ef0a0e0",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-05",
+  "logo": "https://static.parastorage.com/client/pfavico.ico"
  },
  {
   "ad": "Psikohis Psikoloji",
@@ -1842,7 +1866,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://psikolaj.com.tr",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/psikolajbahcesehir"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -1854,7 +1883,8 @@
   "fsq_id": "671fa71b000ad92afc44b155",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-05",
+  "logo": "https://psikolaj.com.tr/wp-content/uploads/2017/10/psikolaj.png"
  },
  {
   "ad": "Psikolog Anıl TOKAT",
@@ -2005,7 +2035,12 @@
   "mahalle": "Teşvikiye Mahallesi",
   "telefon": "+90 212 2318443",
   "web": "https://www.psikonet.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/psikonet"
+   }
+  ],
   "calisma_saatleri": "Mo-Fr 09:00-19:00",
   "randevu": null,
   "engelli_erisimi": null,
@@ -2016,7 +2051,8 @@
   "osm_url": "https://www.openstreetmap.org/node/13369367963",
   "kaynak": "osm",
   "ilk_gorulme": "2026-11-04",
-  "son_gorulme": "2026-11-11"
+  "son_gorulme": "2026-11-11",
+  "logo": "https://psikonet.com/logo.png"
  },
  {
   "ad": "Psikosim Danışmanlık Merkezi",
@@ -2382,7 +2418,12 @@
   "mahalle": "Kartaltepe",
   "telefon": null,
   "web": "https://www.therapiapsikoloji.com/bakirkoy-sube/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/therapiapsikoloji"
+   }
+  ],
   "calisma_saatleri": "Mo,Tu,Th-Su 10:00-20:30",
   "randevu": null,
   "engelli_erisimi": null,
@@ -2393,7 +2434,8 @@
   "osm_url": "https://www.openstreetmap.org/node/14350147207",
   "kaynak": "osm",
   "ilk_gorulme": "2026-11-07",
-  "son_gorulme": "2026-11-11"
+  "son_gorulme": "2026-11-11",
+  "logo": "https://www.therapiapsikoloji.com/wp-content/uploads/2022/04/Adsiz-tasarim-1-1.png"
  },
  {
   "ad": "Therapia Psikoloji",
@@ -2408,7 +2450,12 @@
   "mahalle": "Merkez",
   "telefon": null,
   "web": "https://www.therapiapsikoloji.com/gaziosmanpasa-subesi/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/therapiapsikoloji"
+   }
+  ],
   "calisma_saatleri": "Mo-Sa 10:00-20:30",
   "randevu": null,
   "engelli_erisimi": null,
@@ -2419,7 +2466,8 @@
   "osm_url": "https://www.openstreetmap.org/node/14350147206",
   "kaynak": "osm",
   "ilk_gorulme": "2026-11-07",
-  "son_gorulme": "2026-11-11"
+  "son_gorulme": "2026-11-11",
+  "logo": "https://www.therapiapsikoloji.com/wp-content/uploads/2022/04/Adsiz-tasarim-1-1.png"
  },
  {
   "ad": "Tomurcuk Atölye ve Psikoloji",
@@ -3145,7 +3193,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://idadapsikoloji.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/idada_psikoloji"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -3157,7 +3210,8 @@
   "fsq_id": "672a1fa9d6290a02d5fc7300",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-05",
+  "logo": "https://idadapsikoloji.com/wp-content/uploads/2024/09/Asset-13@4x.png"
  },
  {
   "ad": "İklim Psikolojik Danışmanlık Merkezi",
