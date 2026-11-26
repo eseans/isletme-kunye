@@ -1,0 +1,56 @@
+name: Overture birlestirme
+
+# Overture Maps (aylik yayin) -> kunye: eldeki kayitlari zenginlestirir (kapi
+# numarali adres, sabit telefon, web, alt kategori, cok kaynak dogrulamasi) ve
+# eksik isletmeleri ekler. Elle calistirmada varsayilan KURU: yalniz rapor.
+on:
+  schedule:
+    - cron: "0 6 22 * *" # ayin 22'si (Overture ayin ortasinda yayinlar)
+  workflow_dispatch:
+    inputs:
+      kaydet: { description: "evet = veriyi kaydet ve yayinla", default: "hayir" }
+      surum: { description: "Overture surumu (bos = en yeni)", required: false }
+
+permissions:
+  contents: write
+
+jobs:
+  aktar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - uses: actions/setup-node@v4
+        with: { node-version: 22 }
+      - run: pip install duckdb
+      - name: Overture birlestir
+        run: BUGUN=$(date -u +%F) python3 scripts/overture_suz.py
+        env:
+          OVERTURE_SURUM: ${{ github.event.inputs.surum }}
+      - name: KVKK telefon temizligi
+        run: node scripts/telefon_temizle.mjs
+      - name: Site disari aktar
+        run: node scripts/site_disari.mjs
+      - name: Ozet (once/sonra)
+        run: |
+          git diff --shortstat -- data/ site/
+          node -e "const o=JSON.parse(require('fs').readFileSync('site/_ozet.json','utf8'));const t={};for(const x of o)t[x.sektor]=(t[x.sektor]||0)+x.n;console.log('SONRA sektor toplamlari',JSON.stringify(t))"
+          git show HEAD:site/_ozet.json | node -e "let d='';process.stdin.on('data',c=>d+=c).on('end',()=>{const o=JSON.parse(d);const t={};for(const x of o)t[x.sektor]=(t[x.sektor]||0)+x.n;console.log('ONCE  sektor toplamlari',JSON.stringify(t))})"
+          echo "zengin (index) vitrin: once $(git show HEAD:site/_sitemap-isletmeler.xml | grep -c '<loc>') sonra $(grep -c '<loc>' site/_sitemap-isletmeler.xml)"
+      - name: Kaydet ve yayinla
+        if: github.event_name == 'schedule' || github.event.inputs.kaydet == 'evet'
+        env:
+          INDEXNOW_KEY: ${{ secrets.INDEXNOW_KEY }}
+          HOOK: ${{ secrets.ESEANS_DEPLOY_HOOK }}
+        run: |
+          node scripts/indexnow.mjs || true
+          git config user.name "kunye-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/ site/
+          git diff --cached --quiet && echo "Degisiklik yok" || {
+            git commit -m "veri: Overture birlestirme $(date -u +%F)"
+            for i in 1 2 3; do git pull --rebase origin "$GITHUB_REF_NAME" && git push origin "$GITHUB_REF_NAME" && break; sleep 10; done
+            [ -z "$HOOK" ] || curl -fsS -X POST "$HOOK" -o /dev/null
+          }

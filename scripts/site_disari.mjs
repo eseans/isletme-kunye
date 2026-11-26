@@ -46,10 +46,13 @@ function siteKaydi(k, sehir) {
     adTemiz(k.ad), (k.ilce && slugla(k.ilce) !== sehir ? k.ilce : ''), telefonTemizle(k.telefon) || '', k.web || '',
     k.lat != null ? Number(k.lat.toFixed(4)) : null,
     k.lng != null ? Number(k.lng.toFixed(4)) : null,
-    k.kaynak || 'osm', k.fsq_id || (k.osm_url || '').split('/').pop() || '',
+    k.kaynak || 'osm', k.fsq_id || (k.osm_url || '').split('/').pop() || String(k.overture_id || '').replace(/-/g, ''),
     /^[A-Za-z][A-Za-z0-9._]{1,29}$/.test(igAd) ? igAd : '',
     // Hukuk matrisi #4 (is yeri adresi ✅) ve #9 (saat, "kaynaga gore" damgali).
     k.adres || '', k.calisma_saatleri || '', saatKaynagi(k), k.logo || '',
+    // [13] alt kategori (pilates, berber...) · [14] kac acik kaynakta goruldu
+    // (FSQ/OSM/Overture; 2+ = dogrulanmis, olu kayit olasiligi dusuk).
+    k.alt || '', [k.fsq_id, k.osm_url, k.overture_id].filter(Boolean).length,
   ]
 }
 // Turkce harfte \b calismaz (ş kelime karakteri sayilmaz): kendi kelime siniri.
