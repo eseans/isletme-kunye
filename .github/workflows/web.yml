@@ -53,3 +53,9 @@ jobs:
               echo "push cakismasi, tekrar ($i)"; sleep 10
             done
           fi
+      # site/ artik eseans build'ine gomulu (raw.githubusercontent degil): yeni veri
+      # ancak eseans yeniden derlenince yayina girer. Gizli deger yoksa adim atlanir.
+      - name: eseans'i yeniden yayinla (Workers Builds deploy hook)
+        run: '[ -z "$HOOK" ] || curl -fsS -X POST "$HOOK" -o /dev/null'
+        env:
+          HOOK: ${{ secrets.ESEANS_DEPLOY_HOOK }}
