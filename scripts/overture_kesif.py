@@ -28,7 +28,7 @@ COPY (
 print('tr.parquet hazir', round(time.time() - t0), 'sn', flush=True)
 
 c.sql("CREATE VIEW tr AS SELECT * FROM 'tr.parquet'")
-toplam = c.sql("SELECT count(*) FROM tr").fetchone()[0]
+toplam = c.sql("SELECT count(*) FROM tr").fetchall()[0][0]
 # Sabit hat: +90 sonrasi 5 ile baslamayan (05'li cep KVKK geregi kullanilmaz).
 ozet = c.sql(f"""
 SELECT {kat} AS kategori, count(*) AS n,
