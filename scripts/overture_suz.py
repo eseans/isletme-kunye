@@ -24,7 +24,7 @@ KATEGORI = {
   'doctors_office': ('klinik', 'muayenehane'), 'plastic_and_reconstructive_surgery': ('klinik', 'estetik'),
   'dermatology': ('klinik', 'dermatoloji'),
   'veterinarian': ('veteriner', None), 'pet_groomer': ('veteriner', 'pet-kuafor'),
-  'psychology': ('psikoloji', None), 'psychotherapist': ('psikoloji', None), 'counseling': ('psikoloji', 'danismanlik'),
+  'psychology': ('psikoloji', None), 'psychotherapist': ('psikoloji', None),
   'nutrition_service': ('diyetisyen', None), 'dietitian': ('diyetisyen', None),
   'physical_therapy': ('fizyoterapi', None), 'chiropractor': ('fizyoterapi', 'kiropraktik'),
   'eyewear_store': ('optik', None), 'optometry': ('optik', None),
