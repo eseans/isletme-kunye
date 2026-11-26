@@ -20,6 +20,7 @@ const zenginlik = (k) => (dolgun({ telefon: k[2], web: k[3] }) ? 2 : 0) + (k[9] 
 // Kullanim: node scripts/site_disari.mjs
 import { readFileSync, writeFileSync, mkdirSync, readdirSync, statSync, existsSync } from 'node:fs'
 import { join } from 'node:path'
+import { createHash } from 'node:crypto'
 import { slugla, telefonTemizle } from '../topla.mjs'
 
 // 81 il (iller.json); hangi illerde veri varsa o iller yayina girer.
@@ -27,7 +28,7 @@ const IL_AD = Object.fromEntries(JSON.parse(readFileSync('iller.json', 'utf8')).
 // Saat kaynagi: isletmenin kendi sitesinden mi geldi (web_kunye.mjs kaydi)?
 const webKontrol = existsSync('data/_web_kontrol.json') ? JSON.parse(readFileSync('data/_web_kontrol.json', 'utf8')) : {}
 const kokenOf = (w) => { try { return new URL(/^https?:/.test(w) ? w : 'https://' + w).origin } catch { return '' } }
-const saatKaynagi = (k) => !k.calisma_saatleri ? ''
+const saatKaynagi = (k) => !k.calisma_saatleri ? '' : k.saat_kaynak ? k.saat_kaynak
   : (webKontrol[kokenOf(k.web)]?.alanlar || []).includes('calisma_saatleri') ? 'web' : (k.kaynak || 'osm')
 const SEKTOR_SLUG = ['kuafor', 'guzellik-salonu', 'klinik', 'dis-klinigi', 'spor-salonu',
   'egitim-kurs', 'dovme', 'veteriner', 'spa-masaj', 'diyetisyen', 'optik',
@@ -46,13 +47,15 @@ function siteKaydi(k, sehir) {
     adTemiz(k.ad), (k.ilce && slugla(k.ilce) !== sehir ? k.ilce : ''), telefonTemizle(k.telefon) || '', k.web || '',
     k.lat != null ? Number(k.lat.toFixed(4)) : null,
     k.lng != null ? Number(k.lng.toFixed(4)) : null,
-    k.kaynak || 'osm', k.fsq_id || (k.osm_url || '').split('/').pop() || String(k.overture_id || '').replace(/-/g, ''),
+    k.kaynak || 'osm', k.fsq_id || (k.osm_url || '').split('/').pop() || String(k.overture_id || '').replace(/-/g, '')
+      // Google yer kimligi hex degil; vitrin URL'i hex kimlik ister -> sabit ozet.
+      || (k.google_id ? createHash('md5').update(k.google_id).digest('hex').slice(0, 12) : ''),
     /^[A-Za-z][A-Za-z0-9._]{1,29}$/.test(igAd) ? igAd : '',
     // Hukuk matrisi #4 (is yeri adresi ✅) ve #9 (saat, "kaynaga gore" damgali).
     k.adres || '', k.calisma_saatleri || '', saatKaynagi(k), k.logo || '',
     // [13] alt kategori (pilates, berber...) · [14] kac acik kaynakta goruldu
     // (FSQ/OSM/Overture; 2+ = dogrulanmis, olu kayit olasiligi dusuk).
-    k.alt || '', [k.fsq_id, k.osm_url, k.overture_id].filter(Boolean).length,
+    k.alt || '', [k.fsq_id, k.osm_url, k.overture_id, k.google_id].filter(Boolean).length,
   ]
 }
 // Turkce harfte \b calismaz (ş kelime karakteri sayilmaz): kendi kelime siniri.
@@ -90,7 +93,7 @@ for (const sehir of readdirSync('data')) {
   const kumeler = {}
   for (const f of readdirSync(d)) {
     if (!f.endsWith('.json') || f === '_ozet.json') continue
-    kumeler[f.replace('.json', '')] = JSON.parse(readFileSync(join(d, f), 'utf8')).map((k) => siteKaydi(k, sehir)).filter((k) => adGecerli(k[0]))
+    kumeler[f.replace('.json', '')] = JSON.parse(readFileSync(join(d, f), 'utf8')).filter((k) => !k.kapali).map((k) => siteKaydi(k, sehir)).filter((k) => adGecerli(k[0]))
   }
   // 2) Ada gore sektor duzeltmesi: genis "klinik" kumesinde adi baska sektoru
   //    acikca soyleyenler tasinir ("Formlife Diyetisyen" klinik degil). Eski URL
