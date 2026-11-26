@@ -82,6 +82,122 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Alex’s Beauty Salon Bay Bayan Güzellik Salonu",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "İnönü Caddesi 75, Hopa",
+  "il": null,
+  "ilce": "Hopa",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.39323043823242,
+  "lng": 41.41913986206055,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.39323043823242,41.41913986206055",
+  "yandex_url": "https://yandex.com/maps/?text=Alex’s Beauty Salon Bay Bayan Güzellik Salonu&ll=41.41913986206055%2C41.39323043823242&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "b238ed0d-8833-40ce-84f1-a346251a4d31",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Blackpoint Parfum/lokumcu Parfümeri Kemalpaşa",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Kemalpaşa",
+  "il": null,
+  "ilce": "Kemalpaşa",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.481746673583984,
+  "lng": 41.5256462097168,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.481746673583984,41.5256462097168",
+  "yandex_url": "https://yandex.com/maps/?text=Blackpoint Parfum/lokumcu Parfümeri Kemalpaşa&ll=41.5256462097168%2C41.481746673583984&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "d66c2517-f4b8-40b4-8355-24e1614eacbd",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Buket & Gülcan Kuaför Ve Güzellik Salonu",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Cumhuriyet Sokak 1C, Borçka",
+  "il": null,
+  "ilce": "Borçka",
+  "mahalle": null,
+  "telefon": "(0466) 415 12 26",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.362083435058594,
+  "lng": 41.6766242980957,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.362083435058594,41.6766242980957",
+  "yandex_url": "https://yandex.com/maps/?text=Buket & Gülcan Kuaför Ve Güzellik Salonu&ll=41.6766242980957%2C41.362083435058594&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "43259668-c3fc-492c-83d9-a43895ef679d",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Burak Türk Hairdesign",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Turgay Ciner Cd. No:34, Hopa",
+  "il": null,
+  "ilce": "Hopa",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.39751052856445,
+  "lng": 41.42315673828125,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.39751052856445,41.42315673828125",
+  "yandex_url": "https://yandex.com/maps/?text=Burak Türk Hairdesign&ll=41.42315673828125%2C41.39751052856445&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "264dd5c0-8c9d-405b-85a2-01293a530bbb",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Class Erkek Kuaför",
   "sektor": "guzellik-salonu",
   "kategori": "guzellik-salonu",
@@ -323,7 +439,8 @@
   "fsq_id": "54ad07fb498ef8bcf1228ad7",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "e1133025-580b-4e2e-835c-46a56b01d89d"
  },
  {
   "ad": "Feronia Güzellik Merkezi",
@@ -405,6 +522,64 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "HOPA-Dünyam Saç Tasarım",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Karadeniz Caddesi 16, Hopa",
+  "il": null,
+  "ilce": "Hopa",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.39777374267578,
+  "lng": 41.42293167114258,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.39777374267578,41.42293167114258",
+  "yandex_url": "https://yandex.com/maps/?text=HOPA-Dünyam Saç Tasarım&ll=41.42293167114258%2C41.39777374267578&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "bc031eca-ac47-4c98-a249-14a7f2039126",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Halime Cengiz Güzellik Salonu",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Ahmet Efendi Cd. büyükoğlu apt No:10/A, Arhavi",
+  "il": null,
+  "ilce": "Arhavi",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.34861755371094,
+  "lng": 41.30393981933594,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.34861755371094,41.30393981933594",
+  "yandex_url": "https://yandex.com/maps/?text=Halime Cengiz Güzellik Salonu&ll=41.30393981933594%2C41.34861755371094&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "d020d578-3cac-4902-97e7-6c277e22f228",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Havva Kuafor",
@@ -651,6 +826,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Madam Bella Güzellik Salonu",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Şht. Asteğmen Mehmet Altanlar Cad., Arhavi",
+  "il": null,
+  "ilce": "Arhavi",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.35088348388672,
+  "lng": 41.3095817565918,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.35088348388672,41.3095817565918",
+  "yandex_url": "https://yandex.com/maps/?text=Madam Bella Güzellik Salonu&ll=41.3095817565918%2C41.35088348388672&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "fd6ebe52-a084-4518-8d65-4db9c33fbce9",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Madam Rachida",
   "sektor": "guzellik-salonu",
   "kategori": "guzellik-salonu",
@@ -761,6 +965,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Mustafa Özdemir Hair Artist",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Yurttaş Saraç Caddesi 3A",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.17839813232422,
+  "lng": 41.81752395629883,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.17839813232422,41.81752395629883",
+  "yandex_url": "https://yandex.com/maps/?text=Mustafa Özdemir Hair Artist&ll=41.81752395629883%2C41.17839813232422&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "a1b62de8-4c56-4e73-93b3-129fe21d351e",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Nisa Kuaför Salonu",
   "sektor": "guzellik-salonu",
   "kategori": "guzellik-salonu",
@@ -848,11 +1081,11 @@
   "hizmet_ipuclari": [
    "4f04aa0c2fb6e1c99f3db0b8"
   ],
-  "adres": "Ortahopa Mah",
+  "adres": "sahil caddesi no:154, Hopa",
   "il": null,
   "ilce": "Hopa",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0466) 351 42 87",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -866,7 +1099,8 @@
   "fsq_id": "5c04d65b0d2be7002cec0b19",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "06c1f66c-ca99-4cee-9ad5-fde16ecc0b59"
  },
  {
   "ad": "Petek Kuaför",
@@ -950,13 +1184,42 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Prensesler KuafÖR",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Fevzi Çakmak Cd., Arhavi",
+  "il": null,
+  "ilce": "Arhavi",
+  "mahalle": null,
+  "telefon": "(0466) 312 20 46",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.350791931152344,
+  "lng": 41.30772018432617,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.350791931152344,41.30772018432617",
+  "yandex_url": "https://yandex.com/maps/?text=Prensesler KuafÖR&ll=41.30772018432617%2C41.350791931152344&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "a437d89c-3b3b-4d62-85d5-9a558cdbfe40",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Saray Kuaför ve Güzellik Salonu",
   "sektor": "guzellik-salonu",
   "kategori": "guzellik-salonu",
   "hizmet_ipuclari": [
    "4f04aa0c2fb6e1c99f3db0b8"
   ],
-  "adres": null,
+  "adres": "Halkevi Cd. No:18",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -974,7 +1237,8 @@
   "fsq_id": "57ad85e0498ebf8d56742198",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "dacc2efe-c504-4466-99b6-f66e436244d2"
  },
  {
   "ad": "Saray kuafor & guzellık salonu",
@@ -1010,7 +1274,7 @@
   "hizmet_ipuclari": [
    "4f04aa0c2fb6e1c99f3db0b8"
   ],
-  "adres": null,
+  "adres": "Sakıp Sabancı Cd. No:2, Fındıklı",
   "il": null,
   "ilce": "Findikli-Rize",
   "mahalle": null,
@@ -1028,7 +1292,37 @@
   "fsq_id": "500134d9e4b01f40cdc9f427",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "4647bf89-6486-4c51-bbc2-b6689950dbbe"
+ },
+ {
+  "ad": "Selçuk reisoglu hairartist",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Karadeniz Caddesi 5B, Hopa",
+  "il": null,
+  "ilce": "Hopa",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.39472961425781,
+  "lng": 41.42093276977539,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.39472961425781,41.42093276977539",
+  "yandex_url": "https://yandex.com/maps/?text=Selçuk reisoglu hairartist&ll=41.42093276977539%2C41.39472961425781&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "7f0c97f5-2aca-4c7f-ab89-d5039f81012f",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Sihirli Eller Güzellik Salonu 💇💄💅",
@@ -1056,6 +1350,93 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Taç Bayan Kuaförü",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": null,
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.17923355102539,
+  "lng": 41.81803894042969,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.17923355102539,41.81803894042969",
+  "yandex_url": "https://yandex.com/maps/?text=Taç Bayan Kuaförü&ll=41.81803894042969%2C41.17923355102539&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "bb75eb1d-e6e8-4ff7-a498-406839c1256d",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Varan Kuaför ve Güzellik Salonu",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Çarış Mah. Gülpaşaoğlu İşhanı No:21 Kat:1 08000-ARTVİN",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0466) 212 20 55",
+  "web": "https://varanguzellik.com.tr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.17949295043945,
+  "lng": 41.817832946777344,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.17949295043945,41.817832946777344",
+  "yandex_url": "https://yandex.com/maps/?text=Varan Kuaför ve Güzellik Salonu&ll=41.817832946777344%2C41.17949295043945&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "df218f47-dfc8-4e40-8613-8418d395907d",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Varan Kuaför ve Güzellik Salonu",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Artvin 15",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0466) 212 20 55",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.19027328491211,
+  "lng": 41.8067741394043,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.19027328491211,41.8067741394043",
+  "yandex_url": "https://yandex.com/maps/?text=Varan Kuaför ve Güzellik Salonu&ll=41.8067741394043%2C41.19027328491211&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "79efd872-fd7a-4537-88fd-d07d6e1651a4",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "asmin güzellik salonu",
@@ -1227,7 +1608,7 @@
   "hizmet_ipuclari": [
    "4f04aa0c2fb6e1c99f3db0b8"
   ],
-  "adres": null,
+  "adres": "Turgay Ciner Cd. askar güven plaza kat/3no/11, Hopa",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -1245,7 +1626,8 @@
   "fsq_id": "52caa8cc498efab79879121f",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "afa51de7-fccc-4585-9d05-7928f46eaff4"
  },
  {
   "ad": "kuaför",
@@ -1497,12 +1879,12 @@
   "hizmet_ipuclari": [
    "4f04aa0c2fb6e1c99f3db0b8"
   ],
-  "adres": null,
+  "adres": "İnönü Caddesi 52",
   "il": null,
   "ilce": null,
   "mahalle": null,
   "telefon": null,
-  "web": null,
+  "web": "http://m.facebook/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -1515,7 +1897,8 @@
   "fsq_id": "52c592ae11d246a37f626581",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "9ebbe81d-c914-42cf-a277-01322dce6ffe"
  },
  {
   "ad": "Çağla Güzellik Salonu",

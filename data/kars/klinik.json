@@ -1216,6 +1216,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Gayriresmi: cizre",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "bahçeli evler orta okul",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.60123062133789,
+  "lng": 43.11525344848633,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.60123062133789,43.11525344848633",
+  "yandex_url": "https://yandex.com/maps/?text=Gayriresmi: cizre&ll=43.11525344848633%2C40.60123062133789&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "02754021-7d0a-491e-b2cd-8397540c1f1e",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Genel Cerrahi servisi",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -2122,8 +2151,8 @@
   "il": null,
   "ilce": "Kars Merkez",
   "mahalle": null,
-  "telefon": null,
-  "web": null,
+  "telefon": "(0474) 212 87 74",
+  "web": "http://www.karsdent.com/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -2136,7 +2165,8 @@
   "fsq_id": "5a61deadf427de49f4020f6b",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "f684f94e-eaf3-4de7-99ff-f78fc9277624"
  },
  {
   "ad": "Kars",
@@ -2163,7 +2193,8 @@
   "fsq_id": "6185344f71c3296bd4071141",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "a365640e-8bd9-461c-8268-7deba0bbd4e4"
  },
  {
   "ad": "Kars",
@@ -2434,6 +2465,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Kars Devlet Hastanesi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "\"İnönü Cad, No: 1, Merkez\"",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0474) 212 56 68",
+  "web": "http://www.karsdh.saglik.gov.tr",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.588890075683594,
+  "lng": 43.096675872802734,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.588890075683594,43.096675872802734",
+  "yandex_url": "https://yandex.com/maps/?text=Kars Devlet Hastanesi&ll=43.096675872802734%2C40.588890075683594&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "ff630669-3a4c-4037-8c5d-7949243217af",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Kars Devlet Hastanesi Acil Servis",
@@ -2811,7 +2871,9 @@
   "fsq_id": "52864f6611d20048916865f9",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "9aa847ef-8c1b-42ab-8433-3a9c97c4c11b",
+  "alt": "muayenehane"
  },
  {
   "ad": "Kars Kafkas Hastanesi",
@@ -2868,6 +2930,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Kars Selim Abdulhadi Cihangir Ilce Hastanesi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Selim, Selim",
+  "il": null,
+  "ilce": "Selim",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.462223052978516,
+  "lng": 42.79609298706055,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.462223052978516,42.79609298706055",
+  "yandex_url": "https://yandex.com/maps/?text=Kars Selim Abdulhadi Cihangir Ilce Hastanesi&ll=42.79609298706055%2C40.462223052978516&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "baea7745-d1af-4fb0-82d7-9d334fa6e96b",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Kars Toplum Sağlığı Merkezi",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -2893,6 +2984,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Kars deniz medikal",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "yenişehir mahhallesi",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.58811569213867,
+  "lng": 43.087039947509766,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.58811569213867,43.087039947509766",
+  "yandex_url": "https://yandex.com/maps/?text=Kars deniz medikal&ll=43.087039947509766%2C40.58811569213867&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "260bd874-fcad-480f-a5d1-1698358160d2",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Kars/Sarıkamış 2 Nolu Karakurt ASHİ",
@@ -3247,6 +3367,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "NUR Medikal",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Kağızman Devlet Hastahanesinin yanı, Kağızman",
+  "il": null,
+  "ilce": "Kağızman",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.15583419799805,
+  "lng": 43.11763381958008,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.15583419799805,43.11763381958008",
+  "yandex_url": "https://yandex.com/maps/?text=NUR Medikal&ll=43.11763381958008%2C40.15583419799805&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "9c5a397b-e68c-4e22-9269-ff40061cff03",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Nehir 2 Veteriner Kliniği",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -3272,6 +3421,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Nurgül Barhan Podoloji Ayak Sağlığı Merkezi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Katmer Sokak 25",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.608890533447266,
+  "lng": 43.09976577758789,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.608890533447266,43.09976577758789",
+  "yandex_url": "https://yandex.com/maps/?text=Nurgül Barhan Podoloji Ayak Sağlığı Merkezi&ll=43.09976577758789%2C40.608890533447266&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "76b39265-c902-4434-acef-4dd6acdc5d9c",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Nurse's House 😷",
@@ -3442,12 +3620,12 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d196941735"
   ],
-  "adres": "Yusufpaşa Mah Kazımpaşa Caddedi",
+  "adres": "Kazım Karabekir Caddesi 75",
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
-  "web": null,
+  "telefon": "(0474) 212 02 13",
+  "web": "http://www.profdent.com.tr/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -3460,7 +3638,8 @@
   "fsq_id": "5a87ff9fb1538e141fe7e886",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "e6af2925-249b-421d-a907-f64019e9a5a3"
  },
  {
   "ad": "Psikiyatri Servisi",
@@ -3569,6 +3748,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Sarikamis Diş Klinigi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Belediye Cd., Sarıkamış",
+  "il": null,
+  "ilce": "Sarıkamış",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.333595275878906,
+  "lng": 42.591129302978516,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.333595275878906,42.591129302978516",
+  "yandex_url": "https://yandex.com/maps/?text=Sarikamis Diş Klinigi&ll=42.591129302978516%2C40.333595275878906&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "f46e2458-b3a3-4d43-94df-d3aba507af35",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Sarıkamış 3 Nolu ASHİ",
@@ -4163,6 +4371,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Welltures Kars",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Cumhuriyet Mah. Ordu Cad.",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.6006965637207,
+  "lng": 43.09848403930664,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.6006965637207,43.09848403930664",
+  "yandex_url": "https://yandex.com/maps/?text=Welltures Kars&ll=43.09848403930664%2C40.6006965637207&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "f4c0c6d9-441b-4ba9-bf9f-a7add16a6903",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Yaren Optik",

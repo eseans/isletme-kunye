@@ -324,6 +324,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Agacoren Devlet Hastanesi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "\"Hastane Cad, Ağaçören Merkez, Ağaçören\", Ağaçören",
+  "il": null,
+  "ilce": "Ağaçören",
+  "mahalle": null,
+  "telefon": "(0382) 331 30 76",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.86988067626953,
+  "lng": 33.915035247802734,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.86988067626953,33.915035247802734",
+  "yandex_url": "https://yandex.com/maps/?text=Agacoren Devlet Hastanesi&ll=33.915035247802734%2C38.86988067626953&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "bf77e805-4bea-4f39-8b9b-adba8f35c864",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Ahi Evran Aile Sağlık Merkezi",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -465,7 +494,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d194941735"
   ],
-  "adres": null,
+  "adres": "1334. Sk.",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -483,7 +512,9 @@
   "fsq_id": "50aa8241e4b04d8995bceb10",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "78e16e47-b5fc-416b-b1ee-465d5cc97b1d",
+  "alt": "muayenehane"
  },
  {
   "ad": "Ahi Evran Üniversitesi Hastanesi Gastroenteroloji Polikinliği",
@@ -592,7 +623,9 @@
   "fsq_id": "58b405abbbec661b46fa148c",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "95345fad-3f0e-4d8e-a10f-c29688402c3f",
+  "alt": "muayenehane"
  },
  {
   "ad": "Aile Hekimi",
@@ -1060,7 +1093,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d177941735"
   ],
-  "adres": null,
+  "adres": "Müftülük Cd. No:20",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -1078,7 +1111,9 @@
   "fsq_id": "533bfec0498e4ec59f482308",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "718f9f9c-0fa1-45f0-b44d-585159f044eb",
+  "alt": "muayenehane"
  },
  {
   "ad": "Bahçelievler Aile Sağlığı Merkezi",
@@ -1133,6 +1168,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Beyaz OptİK 2",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "aşık paşa hastanesi yani",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.151649475097656,
+  "lng": 34.16421890258789,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.151649475097656,34.16421890258789",
+  "yandex_url": "https://yandex.com/maps/?text=Beyaz OptİK 2&ll=34.16421890258789%2C39.151649475097656&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "1a7c8670-d041-4117-89bc-d81c82377ed0",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Boztepe Acil Sağlık Hizmetleri İstasyonu",
@@ -1462,6 +1526,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Doç. Dr Mustafa Avcu ",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Ahi Evran Mah. Mehmet Ali Yapıcı Bulv. Üçler Apt. Kat:3 Ankara Caddesi Postane Karşısı",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.14714813232422,
+  "lng": 34.16050720214844,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.14714813232422,34.16050720214844",
+  "yandex_url": "https://yandex.com/maps/?text=Doç. Dr Mustafa Avcu &ll=34.16050720214844%2C39.14714813232422&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "eccf6360-96f8-40b0-a0d8-218a5ff4fd75",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Dr.Deniz Akpınar Ofisi",
@@ -1923,6 +2016,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "HOGGİ Türkiye",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Güldiken Mahallesi Organize Sanayi Bölgesi Aşıkpaşa Caddesi NO:16 Kırşehir/TÜRKİYE",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0386) 272 12 24",
+  "web": "http://www.hoggi.com.tr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.09098815917969,
+  "lng": 34.164546966552734,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.09098815917969,34.164546966552734",
+  "yandex_url": "https://yandex.com/maps/?text=HOGGİ Türkiye&ll=34.164546966552734%2C39.09098815917969&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "fac060f7-1acf-4ce0-9697-7d87c887159a",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Hacettepe Hastane",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -2271,7 +2393,9 @@
   "fsq_id": "5be18f60031320002cfd0350",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "2923ff28-520a-433f-8678-971bbfe42e0e",
+  "alt": "muayenehane"
  },
  {
   "ad": "K>",
@@ -2677,7 +2801,9 @@
   "fsq_id": "579e4278498e7f917bb037e9",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "5c6115c3-a020-404a-8753-225ada98d892",
+  "alt": "muayenehane"
  },
  {
   "ad": "Kayra Medikal",
@@ -3110,6 +3236,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Kırşehir Diş Klinik",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "20. Sk. 4A",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.15022659301758,
+  "lng": 34.16818618774414,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.15022659301758,34.16818618774414",
+  "yandex_url": "https://yandex.com/maps/?text=Kırşehir Diş Klinik&ll=34.16818618774414%2C39.15022659301758&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "77d047bb-a2d9-4d74-8330-e57556e2a744",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Kırşehir Eğitim Merkezi Araştırma Hastanesi",
@@ -3839,6 +3994,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Op.Dr. Salman IŞIK",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Ahievran Mah. Ahievran Bulv. No:27/A",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://drsalmanisik.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.1505126953125,
+  "lng": 34.16465377807617,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.1505126953125,34.16465377807617",
+  "yandex_url": "https://yandex.com/maps/?text=Op.Dr. Salman IŞIK&ll=34.16465377807617%2C39.1505126953125&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "3ec38d45-17de-445b-a594-9e5a4315dcaf",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Ortaköy Devlet Hastanesi Acil Servis",
@@ -4843,6 +5027,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Welltures Kırşehir",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Yenice Mah. Atatürk Cad.",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.138877868652344,
+  "lng": 34.165626525878906,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.138877868652344,34.165626525878906",
+  "yandex_url": "https://yandex.com/maps/?text=Welltures Kırşehir&ll=34.165626525878906%2C39.138877868652344&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "e188b09e-b1c7-41f8-a953-16b924503041",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Yavuz Selim Kemik Hastahanesi Acil Servis",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -5281,12 +5494,12 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d177941735"
   ],
-  "adres": null,
+  "adres": "Ankara Caddesi Türkmenoğlu İş Merkezi K:2 D:7 Merkez Kırşehir",
   "il": null,
   "ilce": null,
   "mahalle": null,
   "telefon": null,
-  "web": null,
+  "web": "http://estelazer.org/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -5299,7 +5512,9 @@
   "fsq_id": "542bf4a0498eeffb1e6afe57",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "28634953-990c-4cfd-bb7b-96ddede5726f",
+  "alt": "muayenehane"
  },
  {
   "ad": "hastane bahcesi",
@@ -5893,7 +6108,9 @@
   "fsq_id": "4ffd2f38e4b0bbe42c5da7f8",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "3be00fe2-a710-4fb4-8126-69b5a4bc1d92",
+  "alt": "muayenehane"
  },
  {
   "ad": "Özel Aşıkpaşa Hastanesi",

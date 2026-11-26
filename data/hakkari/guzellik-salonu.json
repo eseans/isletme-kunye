@@ -1,5 +1,63 @@
 [
  {
+  "ad": "Art Estetik",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Bulvar Cd. Gap Apt Kat : 2 Daire : 6",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.5779914855957,
+  "lng": 43.73531723022461,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.5779914855957,43.73531723022461",
+  "yandex_url": "https://yandex.com/maps/?text=Art Estetik&ll=43.73531723022461%2C37.5779914855957&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "f9869064-c90c-4664-9963-0593ca0b1fe3",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Art Lazer Epilasyon Guzellik Merkezi",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Bajar Plaza, Nedim Zeydan Cd No:6 Kat:2 D:5, Yüksekova",
+  "il": null,
+  "ilce": "Yüksekova",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.artestetik.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.571231842041016,
+  "lng": 44.283233642578125,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.571231842041016,44.283233642578125",
+  "yandex_url": "https://yandex.com/maps/?text=Art Lazer Epilasyon Guzellik Merkezi&ll=44.283233642578125%2C37.571231842041016&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "93c30c27-6011-4ec2-8248-a6f90303458f",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Bartin Kuaför",
   "sektor": "guzellik-salonu",
   "kategori": "guzellik-salonu",
@@ -325,6 +383,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Kuaför Şehnaz",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Şemdinli",
+  "il": null,
+  "ilce": "Şemdinli",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.30841827392578,
+  "lng": 44.57088851928711,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.30841827392578,44.57088851928711",
+  "yandex_url": "https://yandex.com/maps/?text=Kuaför Şehnaz&ll=44.57088851928711%2C37.30841827392578&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "7ca133af-2826-4c5c-a992-c423b654ce01",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Leda Güzellik Salonu",
   "sektor": "guzellik-salonu",
   "kategori": "guzellik-salonu",
@@ -378,7 +465,9 @@
   "fsq_id": "5ac9f1554a7aae67f1b87d7c",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "b23e0ce0-1113-4546-bd7b-c3d7c7764c7b",
+  "alt": "tirnak"
  },
  {
   "ad": "Liva Lazer Ve Güzellik Merkezi",
@@ -519,6 +608,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Pgent hair&makeup stüdyo",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "çevre yolu ",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.57378005981445,
+  "lng": 43.733577728271484,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.57378005981445,43.733577728271484",
+  "yandex_url": "https://yandex.com/maps/?text=Pgent hair&makeup stüdyo&ll=43.733577728271484%2C37.57378005981445&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "d6e44199-85a7-4f3d-beb8-f21b87f3a89f",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Pgent312",
   "sektor": "guzellik-salonu",
   "kategori": "guzellik-salonu",
@@ -571,6 +689,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Purpura Güzellik Salonu",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Yüksekova",
+  "il": null,
+  "ilce": "Yüksekova",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.571590423583984,
+  "lng": 44.28224563598633,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.571590423583984,44.28224563598633",
+  "yandex_url": "https://yandex.com/maps/?text=Purpura Güzellik Salonu&ll=44.28224563598633%2C37.571590423583984&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "0e69bb32-d79f-43c2-bb03-5fc0e79577bc",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Safir Güzellik Merkezi",
@@ -814,7 +961,9 @@
   "fsq_id": "51f167db498e83101d11e9af",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "a067e602-eb4e-4406-9e65-f5ccdf558f0c",
+  "alt": "tirnak"
  },
  {
   "ad": "art lazer epilasyon güzellik merkezi",
@@ -977,7 +1126,8 @@
   "fsq_id": "583acb6d37da1d46fb785d55",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "43d3ef2a-a767-4aba-8e72-eba9729b9bba"
  },
  {
   "ad": "yavuz kuaför",

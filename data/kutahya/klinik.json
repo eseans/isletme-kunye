@@ -782,7 +782,9 @@
   "fsq_id": "5889c36aac13694f6c6207be",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "8f071dd2-1a5b-43c1-b7d3-a52519eb656b",
+  "alt": "muayenehane"
  },
  {
   "ad": "Ahmet Gönen (Gsm) Teknik Servis Hizmetleri",
@@ -1080,6 +1082,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Altıntaş Devlet Hastanesi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "hürriyet mahallesi, Altıntaş",
+  "il": null,
+  "ilce": "Altıntaş",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.05896759033203,
+  "lng": 30.109827041625977,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.05896759033203,30.109827041625977",
+  "yandex_url": "https://yandex.com/maps/?text=Altıntaş Devlet Hastanesi&ll=30.109827041625977%2C39.05896759033203&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "432ec44a-ab6d-4a49-924a-9b270d70ae06",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Altıntaş Devlet Hastanesi Ecza Deposu",
@@ -1466,6 +1497,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Aygece Medikal",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Mehmet Ersoy Caddesi 62/4, Gediz",
+  "il": null,
+  "ilce": "Gediz",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.433502197265625,
+  "lng": 29.942262649536133,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.433502197265625,29.942262649536133",
+  "yandex_url": "https://yandex.com/maps/?text=Aygece Medikal&ll=29.942262649536133%2C39.433502197265625&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "29d7c65d-1e22-477e-968c-f5664cae7604",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Ağız ve Diş Sağlığı Merkezi Protez Laboratuvarı",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -1790,6 +1850,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Bursa Ecza Kooperatifi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "\"Fırat Sok, No: 22\"",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0262) 335 20 10",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.43226623535156,
+  "lng": 29.970474243164062,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.43226623535156,29.970474243164062",
+  "yandex_url": "https://yandex.com/maps/?text=Bursa Ecza Kooperatifi&ll=29.970474243164062%2C39.43226623535156&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "47c49ddc-d9c9-4b9f-b118-2acc288b2a07",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Bölcek Aile Sağlığı Merkezi",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -1898,6 +1987,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Choyang Kaliteli YAŞAM EVİ",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Hasan Polatkan Caddesi 37",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0274) 216 74 14",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.427982330322266,
+  "lng": 29.961545944213867,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.427982330322266,29.961545944213867",
+  "yandex_url": "https://yandex.com/maps/?text=Choyang Kaliteli YAŞAM EVİ&ll=29.961545944213867%2C39.427982330322266&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "42ef0bd6-fe13-4a81-a303-c6f0fc40ac7e",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Cildiye Polikliniği",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -1977,6 +2095,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Cumhuriyet Konak Eczanesi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Okmeydanı Caddesi 13A",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0274) 224 36 36",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.42393112182617,
+  "lng": 29.96413230895996,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.42393112182617,29.96413230895996",
+  "yandex_url": "https://yandex.com/maps/?text=Cumhuriyet Konak Eczanesi&ll=29.96413230895996%2C39.42393112182617&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "8fc1a6f2-160e-4966-a276-a592422fcd83",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "D.P.Ü  Evliya çelebi Eğt.Araş.Ameliyathanesi",
@@ -3304,6 +3451,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Emet Yenice Şifa Hamamı - Kaplıca",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Emet yenice",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.273311614990234,
+  "lng": 30.055648803710938,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.273311614990234,30.055648803710938",
+  "yandex_url": "https://yandex.com/maps/?text=Emet Yenice Şifa Hamamı - Kaplıca&ll=30.055648803710938%2C39.273311614990234&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "3d115ed7-bfc6-4139-8b20-07d27a855ffa",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Emin Rooms ( Bilgi İşlem )",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -4234,7 +4410,7 @@
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0274) 226 26 63",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -4248,7 +4424,9 @@
   "fsq_id": "4f5a134ee4b03005854c2286",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "989e1624-8d65-47ca-bede-8077fa714234",
+  "alt": "muayenehane"
  },
  {
   "ad": "Fethiye'nin Yeri",
@@ -4356,7 +4534,38 @@
   "fsq_id": "51373f9fe4b0759942c3506a",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "f2204138-d838-498d-b4e0-cdea9e1a64ad",
+  "alt": "muayenehane"
+ },
+ {
+  "ad": "Fizyo Ceyhan Sicim",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Ozdılek Perlavısta A, Yavuz Sultan Selim Bulvarı 1, Beylikdüzü",
+  "il": null,
+  "ilce": "Beylikdüzü",
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://fizyoceyhansicim.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.420860290527344,
+  "lng": 29.97793960571289,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.420860290527344,29.97793960571289",
+  "yandex_url": "https://yandex.com/maps/?text=Fizyo Ceyhan Sicim&ll=29.97793960571289%2C39.420860290527344&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "8d88db77-5c4d-4256-98f5-e97c856983fd",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Fizyo Tip",
@@ -4710,6 +4919,64 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Germiyan Ağız ve Diş Sağlığı Polikliniği",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Merkez Sk. No:17",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://germiyandis.com.tr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.422325134277344,
+  "lng": 29.98657989501953,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.422325134277344,29.98657989501953",
+  "yandex_url": "https://yandex.com/maps/?text=Germiyan Ağız ve Diş Sağlığı Polikliniği&ll=29.98657989501953%2C39.422325134277344&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "4fcfb089-45b2-4523-b2a8-06748a85bfaf",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Gobel Termal Turizm",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Cumhuriyet Meydanı No:2 Tavşanlı, Tavşanlı",
+  "il": null,
+  "ilce": "Tavşanlı",
+  "mahalle": null,
+  "telefon": "(0274) 614 15 10",
+  "web": "http://fbf.bz/b/2IM",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.498069763183594,
+  "lng": 29.437564849853516,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.498069763183594,29.437564849853516",
+  "yandex_url": "https://yandex.com/maps/?text=Gobel Termal Turizm&ll=29.437564849853516%2C39.498069763183594&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "5952e8ff-7154-42b0-9f7e-abcfb5cde3d1",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Gögüs Yogun Bakımmm",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -5005,6 +5272,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Hakan OZBAY Veteriner Klinigi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Milli Egemenlik Caddesi 12B, Altıntaş",
+  "il": null,
+  "ilce": "Altıntaş",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.05986404418945,
+  "lng": 30.108226776123047,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.05986404418945,30.108226776123047",
+  "yandex_url": "https://yandex.com/maps/?text=Hakan OZBAY Veteriner Klinigi&ll=30.108226776123047%2C39.05986404418945&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "9f65ac05-aebc-4466-b50e-f4a59ece338b",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Hanımçeşme ASM",
@@ -6250,6 +6546,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Kütahya Akademi Ağız ve Diş Sağlığı Polikliniği",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Fatih Sultan Mehmet Blv. 21/A",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://kutahyaakademidis.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.4150390625,
+  "lng": 29.99503517150879,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.4150390625,29.99503517150879",
+  "yandex_url": "https://yandex.com/maps/?text=Kütahya Akademi Ağız ve Diş Sağlığı Polikliniği&ll=29.99503517150879%2C39.4150390625&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "254f61a4-f5f5-4f18-8e94-ded31603b3c9",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Kütahya Anadolu Hastanasi",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -6275,6 +6600,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Kütahya Anatomi Medikal",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Paşa Sokak 1",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.417720794677734,
+  "lng": 29.985597610473633,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.417720794677734,29.985597610473633",
+  "yandex_url": "https://yandex.com/maps/?text=Kütahya Anatomi Medikal&ll=29.985597610473633%2C39.417720794677734&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "18151318-622a-4458-ab3a-56f19f2744dd",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Kütahya Asker Hastanesi",
@@ -6330,6 +6684,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Kütahya Diş ve Agiz Sagligi Poliklinigi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Bayındır Apartmanı Çevre Şehircilik Müdürlüğü yanı, Gaybi Efendi Mahallesi Akalın Sokak, Atatürk Blv. No:3",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.42738342285156,
+  "lng": 29.991613388061523,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.42738342285156,29.991613388061523",
+  "yandex_url": "https://yandex.com/maps/?text=Kütahya Diş ve Agiz Sagligi Poliklinigi&ll=29.991613388061523%2C39.42738342285156&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "793b4f5d-7fd9-4d27-8254-8f9284c895e4",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Kütahya Dpü Evliya Çelebi Hastanesi Ek Bina",
@@ -6521,6 +6904,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Kütahya Ortodonti Özüm Özkan",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Atatürk Blv. Haydaroğlu iş m D:0543 898 38 64. 1. Daire No:1/2",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.42208480834961,
+  "lng": 29.987293243408203,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.42208480834961,29.987293243408203",
+  "yandex_url": "https://yandex.com/maps/?text=Kütahya Ortodonti Özüm Özkan&ll=29.987293243408203%2C39.42208480834961&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "ae5bd47b-ba21-4ba7-bdf3-e21a69202596",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Kütahya S.b.ü Evliya Çelebi Eğitim Ve Arastirma Hastanesi Ek Bina Acil Servis",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -6654,6 +7066,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Kütahya Özel Deren Diş Polikliniği",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Çapraz Bahçe Sokak 8",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.derendis.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.41722869873047,
+  "lng": 29.98179054260254,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.41722869873047,29.98179054260254",
+  "yandex_url": "https://yandex.com/maps/?text=Kütahya Özel Deren Diş Polikliniği&ll=29.98179054260254%2C39.41722869873047&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "5ba99021-a191-4d87-ae0c-03b9ae6635ac",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Kütahya Özel Medline Hastanesi",
@@ -6791,6 +7232,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Kütahya İşitme Cihazları",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Yokuş Sokak 6",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0274) 216 68 78",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.433082580566406,
+  "lng": 29.970813751220703,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.433082580566406,29.970813751220703",
+  "yandex_url": "https://yandex.com/maps/?text=Kütahya İşitme Cihazları&ll=29.970813751220703%2C39.433082580566406&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "f09b6515-5d4b-4cf6-bc03-599593830e6d",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Kütahya İşitme Merkezi",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -6843,6 +7313,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Kütahya Şehir Hastanesi ",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Lala Paşa Caddesi 15A",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.42478942871094,
+  "lng": 29.963260650634766,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.42478942871094,29.963260650634766",
+  "yandex_url": "https://yandex.com/maps/?text=Kütahya Şehir Hastanesi &ll=29.963260650634766%2C39.42478942871094&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "15901bd8-2830-4817-a376-c14bfa07df1a",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Küçükçalık Ambulans",
@@ -7007,6 +7506,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Kızılay Kan Merkezi Kutahya",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Kızılay Kan Merkezi",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.39631652832031,
+  "lng": 30.03455352783203,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.39631652832031,30.03455352783203",
+  "yandex_url": "https://yandex.com/maps/?text=Kızılay Kan Merkezi Kutahya&ll=30.03455352783203%2C39.39631652832031&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "49862273-dba9-422d-b125-e3c6e8fbc48a",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Kızılcaören ASM",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -7113,6 +7641,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "MNS Oto Bakım Service",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "4. Sokak 40",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.42802047729492,
+  "lng": 29.974105834960938,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.42802047729492,29.974105834960938",
+  "yandex_url": "https://yandex.com/maps/?text=MNS Oto Bakım Service&ll=29.974105834960938%2C39.42802047729492&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "c36f1c16-3b54-4cc4-a371-503ece91a6f8",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Maltepe Aile Sağlığı Merkezi",
@@ -7331,6 +7888,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Metsu - Ekmekciler Emet Bayii",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Pazar Yeri Sokak 21, Emet",
+  "il": null,
+  "ilce": "Emet",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.34602355957031,
+  "lng": 29.256641387939453,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.34602355957031,29.256641387939453",
+  "yandex_url": "https://yandex.com/maps/?text=Metsu - Ekmekciler Emet Bayii&ll=29.256641387939453%2C39.34602355957031&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "4b50554d-9357-47c5-8e7a-7cbad05c6027",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Mikrobiyoloji Laboratuvarı",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -7411,6 +7997,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Moymul Mahallesi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Çarşı Cami Moymul, Balıklı Caddesi 3, Tavşanlı",
+  "il": null,
+  "ilce": "Tavşanlı",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.55050277709961,
+  "lng": 29.477149963378906,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.55050277709961,29.477149963378906",
+  "yandex_url": "https://yandex.com/maps/?text=Moymul Mahallesi&ll=29.477149963378906%2C39.55050277709961&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "d2b780cb-efde-4de5-9e81-08b33a2ab198",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Moymul Sağlık Ocağı",
@@ -7548,6 +8163,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Nihan ve Hatice Diş Kliniği",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Fatih Sultan Mehmet Bulvarı No : 26 Arıoğlu Apartmanı A Blok Daire :1",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.kutahyadishekimi.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.418373107910156,
+  "lng": 29.988693237304688,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.418373107910156,29.988693237304688",
+  "yandex_url": "https://yandex.com/maps/?text=Nihan ve Hatice Diş Kliniği&ll=29.988693237304688%2C39.418373107910156&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "8c9c3483-2f9e-41ed-9227-c6e173d55e48",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Nöroloji Polikliniği",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -7627,6 +8271,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Onco Clinic",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Atatürk Bulvarı 29",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.42137908935547,
+  "lng": 29.986696243286133,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.42137908935547,29.986696243286133",
+  "yandex_url": "https://yandex.com/maps/?text=Onco Clinic&ll=29.986696243286133%2C39.42137908935547&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "13a695f0-e71b-4bb8-b23f-889f2f61bd27",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Op. Dr. Cem Alay",
@@ -8248,7 +8921,8 @@
   "fsq_id": "559d0d8c498e981636389821",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "dd21e115-0eeb-497d-9f74-e19bebf69d02"
  },
  {
   "ad": "Psikiyatri Servisi",
@@ -8762,7 +9436,9 @@
   "fsq_id": "54645941498e12d558926bf2",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "5f605c55-9ce0-4d92-900c-df3eff2d62df",
+  "alt": "muayenehane"
  },
  {
   "ad": "Süt Çocuğu Servisi",
@@ -8816,7 +9492,9 @@
   "fsq_id": "567c7246498e3bcdbbffc154",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "79fbb9ce-6c28-4467-b135-1fa80f84f92c",
+  "alt": "muayenehane"
  },
  {
   "ad": "Sıla Eczanesi",
@@ -9761,7 +10439,8 @@
   "fsq_id": "547432da498efe80cf332d2c",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "9502c4d9-ce97-489b-840d-38ca0a58d747"
  },
  {
   "ad": "Transfüzyon Merkezi",
@@ -9980,6 +10659,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Uzm Dr. Ömer YACI",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Beyaz Sokak 12",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.418582916259766,
+  "lng": 29.978363037109375,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.418582916259766,29.978363037109375",
+  "yandex_url": "https://yandex.com/maps/?text=Uzm Dr. Ömer YACI&ll=29.978363037109375%2C39.418582916259766&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "8b44fca3-2c77-4b81-8ac5-db271b8c8180",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Uzm. Dr. Filiz Halıcı Muayenehanesi",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -10196,6 +10904,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Welltures Kütahya",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Balıklı Mah. Mithatpaşa Cad.",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.42304611206055,
+  "lng": 29.98153305053711,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.42304611206055,29.98153305053711",
+  "yandex_url": "https://yandex.com/maps/?text=Welltures Kütahya&ll=29.98153305053711%2C39.42304611206055&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "8e1745f9-d070-4599-8864-ae2d7e626f82",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Yaşasın Tam Bağımsız Ruh Hastaları",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -10302,6 +11039,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Yenidogan Yunusemre Aile Sagligi Merkezi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Kamer Sk. no:32",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0274) 271 81 11",
+  "web": "http://www.yenidoganyunusemre.asmmiz.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.40272521972656,
+  "lng": 30.021873474121094,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.40272521972656,30.021873474121094",
+  "yandex_url": "https://yandex.com/maps/?text=Yenidogan Yunusemre Aile Sagligi Merkezi&ll=30.021873474121094%2C39.40272521972656&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "adda0157-54b0-4ebf-be3f-08779b95c731",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Yenidoğan Aile Sağlık Merkezi",
@@ -12248,6 +13014,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Özel Arden Ağız ve Diş Sağlığı Polikliniği",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Işıkveren Cd. No:1, Tavşanlı",
+  "il": null,
+  "ilce": "Tavşanlı",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.542816162109375,
+  "lng": 29.486631393432617,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.542816162109375,29.486631393432617",
+  "yandex_url": "https://yandex.com/maps/?text=Özel Arden Ağız ve Diş Sağlığı Polikliniği&ll=29.486631393432617%2C39.542816162109375&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "9fae6f1f-18fd-4b2f-a661-43930c6868e0",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Özel Avrupa Tıp Merkezi",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -12329,6 +13124,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Özel Kütahya Anadolu Hastanesi Koroner Yoğun Bakım Ünitesi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Paşa Sokak 9",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0274) 226 42 42",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.41716766357422,
+  "lng": 30.00605010986328,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.41716766357422,30.00605010986328",
+  "yandex_url": "https://yandex.com/maps/?text=Özel Kütahya Anadolu Hastanesi Koroner Yoğun Bakım Ünitesi&ll=30.00605010986328%2C39.41716766357422&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "d058cae5-3cac-4b78-9006-9f4733ccbe2b",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Özel Kütahya Kent Göz Merkezi",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -12353,7 +13177,8 @@
   "fsq_id": "55d873e4498e561ffb11bfdd",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "80e1492f-a2ba-4e64-b01b-d8d09781cfce"
  },
  {
   "ad": "Özel Park Hayat Hastanesi",
@@ -12383,6 +13208,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Özel Tavşanlı Dumlupınar Ağız ve Diş Sağlığı Polikliniği",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Karaca Sk. No:12, Tavşanlı",
+  "il": null,
+  "ilce": "Tavşanlı",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.54196548461914,
+  "lng": 29.486309051513672,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.54196548461914,29.486309051513672",
+  "yandex_url": "https://yandex.com/maps/?text=Özel Tavşanlı Dumlupınar Ağız ve Diş Sağlığı Polikliniği&ll=29.486309051513672%2C39.54196548461914&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "7a73e393-c6c0-41d5-a1cd-8361d090fca2",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Özel muayenehane",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -12408,6 +13262,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Özel Çini Osgb",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Abdurrahman Karaa Bulv.",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.ciniosgb.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.41950225830078,
+  "lng": 29.98745346069336,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.41950225830078,29.98745346069336",
+  "yandex_url": "https://yandex.com/maps/?text=Özel Çini Osgb&ll=29.98745346069336%2C39.41950225830078&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "95a080a2-867a-4e08-b649-2e8f7c92e5f2",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Özel Öz-İlgi Engelli Bakım Merkezi",
@@ -12488,7 +13371,9 @@
   "fsq_id": "549801d2498ed7d33f5df7eb",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "22529f70-100e-477f-bebd-c77daa8eb231",
+  "alt": "muayenehane"
  },
  {
   "ad": "çınar dialysis center",
@@ -12663,7 +13548,7 @@
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0274) 614 20 43",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -12677,7 +13562,9 @@
   "fsq_id": "56a73acf498eb897267464d8",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "8b2686c3-dc95-4f22-a04b-cff35edd4ae7",
+  "alt": "muayenehane"
  },
  {
   "ad": "İstasyon Asm",

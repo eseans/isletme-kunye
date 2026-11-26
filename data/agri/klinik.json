@@ -1001,6 +1001,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Ağrı Eğitim ve Araştırma Hastanesi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Ağrı Eğitim ve Araştırma Hastanesi",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0472) 215 10 58",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.716800689697266,
+  "lng": 43.01729965209961,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.716800689697266,43.01729965209961",
+  "yandex_url": "https://yandex.com/maps/?text=Ağrı Eğitim ve Araştırma Hastanesi&ll=43.01729965209961%2C39.716800689697266&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "ebcaf0fa-6ed0-437b-b6c3-29983a026485",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Ağrı Halk Sağlığı Laboratuvarı",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -1296,6 +1325,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Ağrı İl Sağlık Müdürlüğü Hamur Devlet Hastanesi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Merkez mah.Yüzbaşı Müfit Özkan Cad. Hamur/Ağrı, Hamur",
+  "il": null,
+  "ilce": "Hamur",
+  "mahalle": null,
+  "telefon": "(0472) 451 25 84",
+  "web": "http://www.hamurdh.saglik.gov.tr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.60954666137695,
+  "lng": 42.98957824707031,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.60954666137695,42.98957824707031",
+  "yandex_url": "https://yandex.com/maps/?text=Ağrı İl Sağlık Müdürlüğü Hamur Devlet Hastanesi&ll=42.98957824707031%2C39.60954666137695&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "650145da-387b-448b-9bb9-212b51e2e6d5",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Ağrı#Devlet#Hastanesi#Kantin",
@@ -1649,6 +1707,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Diyetim Saglikli Yasam Merkezi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Cumhuriyet Caddesi özgül office center no:17 kat:3",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0472) 215 30 20",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.72086715698242,
+  "lng": 43.053550720214844,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.72086715698242,43.053550720214844",
+  "yandex_url": "https://yandex.com/maps/?text=Diyetim Saglikli Yasam Merkezi&ll=43.053550720214844%2C39.72086715698242&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "d91fa488-c934-49d7-b359-d0de22b5f9ed",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Doktor Odası - Ağrı Devlet Hastanesi",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -1727,7 +1814,9 @@
   "fsq_id": "587de268c7ec6b7a1ed10c1b",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "10c80c5a-9413-4fe4-83c7-8c0484b82471",
+  "alt": "muayenehane"
  },
  {
   "ad": "Dr. Cleanse Saglikli Yaşam Ve Güzellik Merkezi",
@@ -1754,7 +1843,9 @@
   "fsq_id": "574d3d39498ec640885f5500",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "fa4aff73-3501-465f-9a61-502b22b0b95b",
+  "alt": "muayenehane"
  },
  {
   "ad": "Dr. Ömer Kocabey Refleksoloji Merkezi",
@@ -2434,6 +2525,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "IŞIK",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "DÖRTYOL KAVŞAĞI IŞIKLAR / PATNOS, Patnos",
+  "il": null,
+  "ilce": "Patnos",
+  "mahalle": null,
+  "telefon": "(0472) 616 24 01",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.24049758911133,
+  "lng": 42.85599899291992,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.24049758911133,42.85599899291992",
+  "yandex_url": "https://yandex.com/maps/?text=IŞIK&ll=42.85599899291992%2C39.24049758911133&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "04b6bd1c-3aaf-47bd-ad4d-2323cae23606",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Kadın Doğum Polklinik",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -2594,6 +2714,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Medemar Görüntüleme Merkezi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Fırat Mah Fakülte Bulvarı Devlet Hastanesi Karşısı Mıihraç Apt Zemin Kat",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0472) 215 19 15",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.71897888183594,
+  "lng": 43.03287887573242,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.71897888183594,43.03287887573242",
+  "yandex_url": "https://yandex.com/maps/?text=Medemar Görüntüleme Merkezi&ll=43.03287887573242%2C39.71897888183594&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "10b43103-9b65-40cf-96e2-e5a7c2e7cb2f",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Medicenter Tıp Merkezi",
@@ -2947,6 +3096,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Patnos Estetik Diş Kliniği",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Yeni Mah. Orhan Doğan Cad. Patnos Ağrı, Patnos",
+  "il": null,
+  "ilce": "Patnos",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.patnosdis.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.24045944213867,
+  "lng": 42.85606384277344,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.24045944213867,42.85606384277344",
+  "yandex_url": "https://yandex.com/maps/?text=Patnos Estetik Diş Kliniği&ll=42.85606384277344%2C39.24045944213867&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "cc156414-7cf5-477f-a8fe-238249f9a5d9",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Patnos Toplum Sağlığı Merkezi",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -2999,6 +3177,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Rubella Aesthetic",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "estetik",
+  "hizmet_ipuclari": [
+   "plastic_and_reconstructive_surgery"
+  ],
+  "adres": "İstanbul ",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.ruebellaozon.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.72168731689453,
+  "lng": 43.053855895996094,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.72168731689453,43.053855895996094",
+  "yandex_url": "https://yandex.com/maps/?text=Rubella Aesthetic&ll=43.053855895996094%2C39.72168731689453&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "80264395-7d3f-4c94-9d8e-373914de06a0",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "SMH.UGRCN",
@@ -3134,6 +3341,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Suphan Ozel Hastanesi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Patnos, Patnos",
+  "il": null,
+  "ilce": "Patnos",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.23538589477539,
+  "lng": 42.860450744628906,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.23538589477539,42.860450744628906",
+  "yandex_url": "https://yandex.com/maps/?text=Suphan Ozel Hastanesi&ll=42.860450744628906%2C39.23538589477539&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "23f57a49-b467-4336-86a0-40389552b74c",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Suçatağı Ağrı Devlet Hastahanesi",
@@ -3297,6 +3533,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Taşlıçay Toplum Sağlığı Merkezi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Hürriyet Mah. PTT karşısı No:11 Taşlıçay/AĞRITaşlıçay Toplum Sağlığı Merkezi, Taşlıçay",
+  "il": null,
+  "ilce": "Taşlıçay",
+  "mahalle": null,
+  "telefon": "(0472) 551 20 22",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.63161849975586,
+  "lng": 43.37630844116211,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.63161849975586,43.37630844116211",
+  "yandex_url": "https://yandex.com/maps/?text=Taşlıçay Toplum Sağlığı Merkezi&ll=43.37630844116211%2C39.63161849975586&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "a3d712aa-5e73-4516-93ba-8abd45f3a882",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Taşlıçay toplum sağlıgı merkezi",

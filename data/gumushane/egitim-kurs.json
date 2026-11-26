@@ -27,6 +27,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Aylin Özyurtlu Sürücü Kursu",
+  "sektor": "egitim-kurs",
+  "kategori": "egitim-kurs",
+  "alt": "surucu-kursu",
+  "hizmet_ipuclari": [
+   "driving_school"
+  ],
+  "adres": null,
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.52815628051758,
+  "lng": 39.9189338684082,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.52815628051758,39.9189338684082",
+  "yandex_url": "https://yandex.com/maps/?text=Aylin Özyurtlu Sürücü Kursu&ll=39.9189338684082%2C40.52815628051758&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "b7321df3-1d8b-4f8b-85f1-afbe3eae4f51",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Dance House",
   "sektor": "egitim-kurs",
   "kategori": "egitim-kurs",
@@ -62,12 +91,12 @@
    "5267e4d9e4b0ec79466e48c8",
    "52e81612bcbc57f1066b7a42"
   ],
-  "adres": "İş Bankası Karşısı",
+  "adres": "Atatürk Cd. No: 43 K.2-3-4",
   "il": null,
   "ilce": null,
   "mahalle": null,
   "telefon": null,
-  "web": null,
+  "web": "http://www.ezbersurucu.com/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -80,7 +109,9 @@
   "fsq_id": "6015730caf791744a1aa4082",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "5907ce7a-544b-4fe5-bac3-414104c589ab",
+  "alt": "surucu-kursu"
  },
  {
   "ad": "Gümüşhane Fen Sürücü Kursu",
@@ -110,6 +141,64 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Ozel Kurtun Arda Surucu Kursu",
+  "sektor": "egitim-kurs",
+  "kategori": "egitim-kurs",
+  "alt": "surucu-kursu",
+  "hizmet_ipuclari": [
+   "driving_school"
+  ],
+  "adres": "belediye caddesi no 24 B, Kürtün",
+  "il": null,
+  "ilce": "Kürtün",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.70112228393555,
+  "lng": 39.08698654174805,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.70112228393555,39.08698654174805",
+  "yandex_url": "https://yandex.com/maps/?text=Ozel Kurtun Arda Surucu Kursu&ll=39.08698654174805%2C40.70112228393555&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "1ccd00c1-7fe2-4b9f-9567-4bc133b98019",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Ozel Oz Kelkit Surucu Kursu",
+  "sektor": "egitim-kurs",
+  "kategori": "egitim-kurs",
+  "alt": "surucu-kursu",
+  "hizmet_ipuclari": [
+   "driving_school"
+  ],
+  "adres": "Karanfil Sk., Kelkit",
+  "il": null,
+  "ilce": "Kelkit",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.1311149597168,
+  "lng": 39.437583923339844,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.1311149597168,39.437583923339844",
+  "yandex_url": "https://yandex.com/maps/?text=Ozel Oz Kelkit Surucu Kursu&ll=39.437583923339844%2C40.1311149597168&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "03844e21-5bba-4994-964e-6833550b6074",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Ritim Eğitimi Ve Dans Salonu",
   "sektor": "egitim-kurs",
   "kategori": "egitim-kurs",
@@ -135,5 +224,34 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Özel Modern Gümüşhane Sürücü Kursu",
+  "sektor": "egitim-kurs",
+  "kategori": "egitim-kurs",
+  "alt": "surucu-kursu",
+  "hizmet_ipuclari": [
+   "driving_school"
+  ],
+  "adres": "İnönü Cd.",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0456) 213 65 66",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.457820892333984,
+  "lng": 39.4791145324707,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.457820892333984,39.4791145324707",
+  "yandex_url": "https://yandex.com/maps/?text=Özel Modern Gümüşhane Sürücü Kursu&ll=39.4791145324707%2C40.457820892333984&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "51c6b953-56da-403d-bb59-c098c12768be",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  }
 ]

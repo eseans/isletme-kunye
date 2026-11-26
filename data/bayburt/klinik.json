@@ -109,6 +109,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Askale Ilce Hastahanesi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Aşkale Merkez, Aşkale",
+  "il": null,
+  "ilce": "Aşkale",
+  "mahalle": null,
+  "telefon": "(0442) 415 19 23",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.918556213378906,
+  "lng": 40.68159866333008,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.918556213378906,40.68159866333008",
+  "yandex_url": "https://yandex.com/maps/?text=Askale Ilce Hastahanesi&ll=40.68159866333008%2C39.918556213378906&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "98acf13e-7f0d-4c21-ba69-e27515d0bbce",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Aydıntepe ASHİ",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -323,6 +352,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Bayburt 200 Yataklı Devlet Hastanesi Şantiyesi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Bayburt Askeri Kışla",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.258670806884766,
+  "lng": 40.209503173828125,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.258670806884766,40.209503173828125",
+  "yandex_url": "https://yandex.com/maps/?text=Bayburt 200 Yataklı Devlet Hastanesi Şantiyesi&ll=40.209503173828125%2C40.258670806884766&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "30e3f8c4-7bcb-4706-9d04-b766a1b6e2ec",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Bayburt Devlet Hastanesi",
@@ -652,6 +710,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Bayburt Toplum Sağlığı Merkezi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Baykent Sk.",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.24991226196289,
+  "lng": 40.235206604003906,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.24991226196289,40.235206604003906",
+  "yandex_url": "https://yandex.com/maps/?text=Bayburt Toplum Sağlığı Merkezi&ll=40.235206604003906%2C40.24991226196289&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "27bc7ac1-3477-492d-b154-de7ee23f1f4d",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Bayburt UMKE (ulusal medikal kurtarma ekibi) istasyonu",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -731,7 +818,9 @@
   "fsq_id": "574804f8498efe130342cd61",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "b0298734-ca39-4ba4-9adf-ed53ab174c2e",
+  "alt": "muayenehane"
  },
  {
   "ad": "Demirözü Aile Sağlığı Merkezi",
@@ -1110,6 +1199,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Modern Dent Ağız ve Diş Sağlığı Polikliniği",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Şeyhhayran mah. Cumhuriyet cad. Kadirkalkan işhanı no:17/24",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0458) 250 10 10",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.25957107543945,
+  "lng": 40.227012634277344,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.25957107543945,40.227012634277344",
+  "yandex_url": "https://yandex.com/maps/?text=Modern Dent Ağız ve Diş Sağlığı Polikliniği&ll=40.227012634277344%2C40.25957107543945&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "1502d8a2-01b4-4695-ba52-2baaacf9b27a",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Neon",

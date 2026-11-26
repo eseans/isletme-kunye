@@ -25,7 +25,8 @@
   "fsq_id": "5dc9811f29544b0007077a02",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "81dda1da-603b-44b9-a9e8-8be0e81991f3"
  },
  {
   "ad": "2n’s Beauty Center",
@@ -164,6 +165,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "ADA Güzellik Eskişehir",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Bayramyeri Sk. No:10, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.77960968017578,
+  "lng": 30.5148868560791,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.77960968017578,30.5148868560791",
+  "yandex_url": "https://yandex.com/maps/?text=ADA Güzellik Eskişehir&ll=30.5148868560791%2C39.77960968017578&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "8d5691fc-01c3-45e8-9d15-861a9f257c7e",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "AFRA GÜZELLİK SALONU",
   "sektor": "guzellik-salonu",
   "kategori": "guzellik-salonu",
@@ -193,7 +223,9 @@
   "fsq_id": "6476538821f4c95b8b768f30",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "67db611a-7d2b-44b4-993b-d717d619f3cb",
+  "alt": "tirnak"
  },
  {
   "ad": "AIDA GÜZELLİK SALONU",
@@ -248,6 +280,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Abundia Park Eylem Akgün Kuaför & Güzellik Merkezi",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Hamam Yolu Cd. No:85/A,Deliklitaş Mahallesi,26090 Odunpazarı/Eskişehir, Odunpazarı",
+  "il": null,
+  "ilce": "Odunpazarı",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.77003860473633,
+  "lng": 30.52179527282715,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.77003860473633,30.52179527282715",
+  "yandex_url": "https://yandex.com/maps/?text=Abundia Park Eylem Akgün Kuaför & Güzellik Merkezi&ll=30.52179527282715%2C39.77003860473633&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "ba057752-ad12-47f2-bcc2-9e87d8b86d87",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Adem Yıldız Hair Studio",
@@ -410,7 +471,37 @@
   "fsq_id": "4fc8c3b4e4b067bcc4a34695",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "06790718-d72d-464f-8875-9e4fd4e61793"
+ },
+ {
+  "ad": "Akin Kocekci Hair Lounge",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Martı Sk. No: 19/B, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.78820037841797,
+  "lng": 30.508264541625977,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.78820037841797,30.508264541625977",
+  "yandex_url": "https://yandex.com/maps/?text=Akin Kocekci Hair Lounge&ll=30.508264541625977%2C39.78820037841797&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "c4b231b9-dde6-4598-9ee6-a97a1f86c8f2",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Aksesuar Dünyası",
@@ -459,6 +550,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Aleyna Koku Make up Studio/Abbasoğlu By Look",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Dorya Recidence, Ayşen Sk. D:48, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.783626556396484,
+  "lng": 30.492504119873047,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.783626556396484,30.492504119873047",
+  "yandex_url": "https://yandex.com/maps/?text=Aleyna Koku Make up Studio/Abbasoğlu By Look&ll=30.492504119873047%2C39.783626556396484&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "a8a976c2-aeae-4c7e-a8ca-72419719e471",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Ali Bulut Bayan Kuaförü",
@@ -593,7 +713,9 @@
   "fsq_id": "5b40801eb9b37b00399f6e42",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "06ba07c9-39c7-4ac4-94c7-54315b46dbea",
+  "alt": "epilasyon"
  },
  {
   "ad": "An Aesthetic Beauty",
@@ -620,7 +742,8 @@
   "fsq_id": "67f2ccd3a5dd324a45e348b2",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "7154cdda-5dc3-4046-bd45-96062518011a"
  },
  {
   "ad": "Anatolia Güzellik",
@@ -648,6 +771,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Anatolia Güzellik Hizmetleri Eskişehir",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "ARİFİYE MAHALLESİ HAMAMYOLU CADDESİ İSMET YASİN PASAJI NO 76 KAT 2, Odunpazarı",
+  "il": null,
+  "ilce": "Odunpazarı",
+  "mahalle": null,
+  "telefon": "(0222) 255 55 55",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.77897644042969,
+  "lng": 30.514909744262695,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.77897644042969,30.514909744262695",
+  "yandex_url": "https://yandex.com/maps/?text=Anatolia Güzellik Hizmetleri Eskişehir&ll=30.514909744262695%2C39.77897644042969&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "2bb27d09-b2fd-4e72-b6f9-e70386dc3a5e",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Anatolıa Güzellik Merkezi",
@@ -785,6 +937,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Aris Eskişehir Estetik & Güzellik",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Hoşnudiye Mah. 746. Sokak No:13 Soho İş Merkezi Kat:1 No: 11 Tepebaşı Eskişehir , Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": "(0222) 320 27 47",
+  "web": "https://instagram.com/aris.eskisehirvip",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.783058166503906,
+  "lng": 30.497060775756836,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.783058166503906,30.497060775756836",
+  "yandex_url": "https://yandex.com/maps/?text=Aris Eskişehir Estetik & Güzellik&ll=30.497060775756836%2C39.783058166503906&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "752c28cb-d7b3-4f0f-8f1c-c41af2487de6",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Arslan Bayan Kuaförü",
   "sektor": "guzellik-salonu",
   "kategori": "guzellik-salonu",
@@ -839,6 +1020,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Asena Güzellik Salonu",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Bayrak Sokak 8, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": "(0222) 233 51 50",
+  "web": "http://eskisehirguzelliksalonu.net/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.778343200683594,
+  "lng": 30.51638412475586,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.778343200683594,30.51638412475586",
+  "yandex_url": "https://yandex.com/maps/?text=Asena Güzellik Salonu&ll=30.51638412475586%2C39.778343200683594&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "3176724d-c753-48f9-ab34-ca7592039a46",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Asiye Güzellik Salonu",
   "sektor": "guzellik-salonu",
   "kategori": "guzellik-salonu",
@@ -864,6 +1074,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Aslı Keskin Beauty Studio",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "732. Sk N:20/32 NOFFİCE Kat:3, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.783058166503906,
+  "lng": 30.504032135009766,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.783058166503906,30.504032135009766",
+  "yandex_url": "https://yandex.com/maps/?text=Aslı Keskin Beauty Studio&ll=30.504032135009766%2C39.783058166503906&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "e749eff9-ef6d-4d3d-a94c-bccabe76719f",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Atasoy Beauty Center",
@@ -898,6 +1137,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Atasoy Guzel Yasam Merkezi",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": "tirnak",
+  "hizmet_ipuclari": [
+   "nail_salon"
+  ],
+  "adres": "Hks Plaza, Çiftkurt Sokak 1, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.77939987182617,
+  "lng": 30.509023666381836,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.77939987182617,30.509023666381836",
+  "yandex_url": "https://yandex.com/maps/?text=Atasoy Guzel Yasam Merkezi&ll=30.509023666381836%2C39.77939987182617&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "42cba2a1-103b-405a-af9b-9bb3d83cfda3",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Atasoy Güzel Yaşam Merkezi",
   "sektor": "guzellik-salonu",
   "kategori": "guzellik-salonu",
@@ -923,6 +1191,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Ati Beauty Center",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Hoşnudiye Mahallesi, Mahmut Pehlivan Sk. No: 14, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://atiguzelliksalon.shop/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.778324127197266,
+  "lng": 30.51272964477539,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.778324127197266,30.51272964477539",
+  "yandex_url": "https://yandex.com/maps/?text=Ati Beauty Center&ll=30.51272964477539%2C39.778324127197266&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "bf3b726c-396b-4f8f-a770-cb0493c97c66",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Aura Güzellik",
@@ -979,6 +1276,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Aurora Nail & Hair Beauty",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Yenibağlar Mh Eti Caddesi, Kocatürkler Sk. 4/A, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": "(0222) 335 43 44",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.78606033325195,
+  "lng": 30.504243850708008,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.78606033325195,30.504243850708008",
+  "yandex_url": "https://yandex.com/maps/?text=Aurora Nail & Hair Beauty&ll=30.504243850708008%2C39.78606033325195&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "fdeee7a5-50bb-408e-88e7-faadd8df75ea",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Ay Işığı Bayan Kuaförü",
   "sektor": "guzellik-salonu",
   "kategori": "guzellik-salonu",
@@ -1031,6 +1357,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Ay'Estetik Güzellik",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Teknosa, İsmetinönü-1. Cadde 17, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://fbf.bz/b/bhR",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.77722930908203,
+  "lng": 30.51735496520996,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.77722930908203,30.51735496520996",
+  "yandex_url": "https://yandex.com/maps/?text=Ay'Estetik Güzellik&ll=30.51735496520996%2C39.77722930908203&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "107ffc6a-9773-4290-9ed1-d9ecf49ed8db",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Ay-Fu Güzellik Merkezi",
@@ -1114,6 +1469,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Ayfer Güzellik Salonu",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Tuğba Kuruyemiş yanı, Hoşnudiye İsmet İnönü 1 Caddesi No:20. D:aire 19, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": "(0222) 234 24 54",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.77777862548828,
+  "lng": 30.51698112487793,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.77777862548828,30.51698112487793",
+  "yandex_url": "https://yandex.com/maps/?text=Ayfer Güzellik Salonu&ll=30.51698112487793%2C39.77777862548828&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "5d0ae89e-12e9-48df-a1d9-d767e6354539",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Ayfer Çetin Güzellik Salonu",
   "sektor": "guzellik-salonu",
   "kategori": "guzellik-salonu",
@@ -1170,7 +1554,8 @@
   "fsq_id": "64b54620b1b9557b07584987",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "0104ec37-1247-4c22-89e3-b2e64e56ffdd"
  },
  {
   "ad": "Ayla Epilasyon Ve Güzellik Salonu",
@@ -1224,7 +1609,8 @@
   "fsq_id": "5550ac71498ea1262eda4efc",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "1a142d1a-bd1f-4a06-8e07-5947ca0a9445"
  },
  {
   "ad": "Ayna Güzellik Salonu",
@@ -1310,7 +1696,9 @@
   "fsq_id": "5aaa36734c954c4434e07a3c",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "a7bf1273-9e72-44f6-a33c-b940db194807",
+  "alt": "tirnak"
  },
  {
   "ad": "Aysun Güzellik Merkezi",
@@ -1319,7 +1707,7 @@
   "hizmet_ipuclari": [
    "4f04aa0c2fb6e1c99f3db0b8"
   ],
-  "adres": null,
+  "adres": "İsmet İnönü 1 Cd. Yalçın Kılıçoğlu Plaza D:13/62, Tepebaşı",
   "il": null,
   "ilce": "Tepebaşı",
   "mahalle": null,
@@ -1337,7 +1725,8 @@
   "fsq_id": "53f6109e498e2a5450efa129",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "5fc37fdb-9079-4d56-905d-5a2ca39c9573"
  },
  {
   "ad": "Aysun Güzellik Salonu",
@@ -1379,7 +1768,7 @@
   "ilce": "Tepebaşı",
   "mahalle": null,
   "telefon": null,
-  "web": null,
+  "web": "http://rande.vu/aytug-mercan",
   "sosyal": [
    {
     "tur": "instagram",
@@ -1397,7 +1786,37 @@
   "fsq_id": "5dfb6532342ab10008c61d75",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "b3d5b8d3-750a-446a-99ac-89d067be20b8"
+ },
+ {
+  "ad": "Ayşe Bayan Kuaförü - Ayşe Akkaya",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Dilek Caddesi 30A, Odunpazarı",
+  "il": null,
+  "ilce": "Odunpazarı",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://instagram.com/ayseakkayakuafor",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.74783706665039,
+  "lng": 30.56309700012207,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.74783706665039,30.56309700012207",
+  "yandex_url": "https://yandex.com/maps/?text=Ayşe Bayan Kuaförü - Ayşe Akkaya&ll=30.56309700012207%2C39.74783706665039&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "09bc70d7-8c2b-4a69-a42b-ab269f1af157",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Ayşe Güzellik Salonu",
@@ -1406,7 +1825,7 @@
   "hizmet_ipuclari": [
    "4f04aa0c2fb6e1c99f3db0b8"
   ],
-  "adres": "Arifiye Mh.",
+  "adres": "Yurt Pasajı, İki Eylül Cd. No:92, Odunpazarı",
   "il": null,
   "ilce": "Odunpazarı",
   "mahalle": null,
@@ -1424,7 +1843,8 @@
   "fsq_id": "50cda30de4b0e6c84419c762",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "c7f08f50-b34a-420f-9081-4264a364dd38"
  },
  {
   "ad": "Ayşegül Ayaz Güzellik Merkezi",
@@ -1565,7 +1985,9 @@
   "fsq_id": "54522be8498e59da3cef3ae8",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "4be3850d-eeaa-49f9-a412-28f096277a4d",
+  "alt": "tirnak"
  },
  {
   "ad": "B'Estetik Güzellik Salonu",
@@ -1621,6 +2043,64 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "B.H.S",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "İki Eylül Caddesi 3, Odunpazarı",
+  "il": null,
+  "ilce": "Odunpazarı",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.7755012512207,
+  "lng": 30.51799774169922,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.7755012512207,30.51799774169922",
+  "yandex_url": "https://yandex.com/maps/?text=B.H.S&ll=30.51799774169922%2C39.7755012512207&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "3e518bbd-2293-4b98-8ecd-b8610fff5003",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "BK Beauty Health",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Şahin Cd. No:78 D:a, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.78193664550781,
+  "lng": 30.499225616455078,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.78193664550781,30.499225616455078",
+  "yandex_url": "https://yandex.com/maps/?text=BK Beauty Health&ll=30.499225616455078%2C39.78193664550781&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "c252cf22-116c-4c25-b7fd-04fe1b2f634a",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "BPA Güzellik Yağmur Diri",
@@ -1752,6 +2232,35 @@
   "son_gorulme": "2026-11-03"
  },
  {
+  "ad": "Bayan Kuaförü Erhan  eskişehir",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Kızılcıklı Mahmut Pehlivan Caddesi 18A, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": "(0222) 220 74 50",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.77895736694336,
+  "lng": 30.514522552490234,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.77895736694336,30.514522552490234",
+  "yandex_url": "https://yandex.com/maps/?text=Bayan Kuaförü Erhan  eskişehir&ll=30.514522552490234%2C39.77895736694336&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "62b1e121-b053-475f-b437-eeb99d8ca08d",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Bayan Kuaförü Hayal",
   "sektor": "guzellik-salonu",
   "kategori": "guzellik-salonu",
@@ -1804,6 +2313,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Beauty Shop",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "İsmet İnönü Cad. 65/A, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": "(0222) 220 10 17",
+  "web": "http://beautyshopeskisehir.com.tr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.78993225097656,
+  "lng": 30.489103317260742,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.78993225097656,30.489103317260742",
+  "yandex_url": "https://yandex.com/maps/?text=Beauty Shop&ll=30.489103317260742%2C39.78993225097656&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "46571cce-7930-443b-9226-46ed9478420d",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Beauty Shop Güzellik Merkezi",
@@ -2050,6 +2588,64 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Bermuda Güzellik Salonu",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Hks Plaza, Çiftkurt Sokak 1, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://www.instagram.com/bermudaguzelliksalonu/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.55281066894531,
+  "lng": 30.368331909179688,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.55281066894531,30.368331909179688",
+  "yandex_url": "https://yandex.com/maps/?text=Bermuda Güzellik Salonu&ll=30.368331909179688%2C39.55281066894531&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "092746ce-d04c-4402-b859-1f4190d21a1c",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Berna Gürcan Güzellik Salonu",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "HKS PLAZA, Çiftkurt Sk. no:1/9, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.77947998046875,
+  "lng": 30.50892448425293,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.77947998046875,30.50892448425293",
+  "yandex_url": "https://yandex.com/maps/?text=Berna Gürcan Güzellik Salonu&ll=30.50892448425293%2C39.77947998046875&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "24c15c11-78cc-4478-ad1d-0fc3b740ba29",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Bilge Güzellik Merkezi",
   "sektor": "guzellik-salonu",
   "kategori": "guzellik-salonu",
@@ -2222,13 +2818,42 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Buket Çoban Beauty",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Kütahya Yolu Bulvarı 68, Odunpazarı",
+  "il": null,
+  "ilce": "Odunpazarı",
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://www.instagram.com/buketcobanbeauty/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.75461959838867,
+  "lng": 30.471576690673828,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.75461959838867,30.471576690673828",
+  "yandex_url": "https://yandex.com/maps/?text=Buket Çoban Beauty&ll=30.471576690673828%2C39.75461959838867&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "a54077dd-ce13-4c04-9af0-bc88067e2785",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Bulvar Bayan Kuaförü Demet Özkan",
   "sektor": "guzellik-salonu",
   "kategori": "guzellik-salonu",
   "hizmet_ipuclari": [
    "4f04aa0c2fb6e1c99f3db0b8"
   ],
-  "adres": null,
+  "adres": "Sivrihisar-1. Cadde 16, Tepebaşı",
   "il": null,
   "ilce": "Tepebaşı",
   "mahalle": null,
@@ -2246,7 +2871,9 @@
   "fsq_id": "573c564c498e4a7a02c1c6d7",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "cfda1ad4-c8eb-4fb4-9a41-0c6e0d41a90e",
+  "alt": "tirnak"
  },
  {
   "ad": "Bulvar Bayan Kuaförü Demet Özkan",
@@ -2466,6 +3093,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "CNY Beauty",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Hoşnudiye mah.732.sok. No:20 Kat:1 Daire:14 N Ofiice, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://www.instagram.com/cnybeauty?igsh=MWd1aXNsbG10Y3dsMg%3D%3D",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.78306579589844,
+  "lng": 30.5040340423584,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.78306579589844,30.5040340423584",
+  "yandex_url": "https://yandex.com/maps/?text=CNY Beauty&ll=30.5040340423584%2C39.78306579589844&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "e8e27132-9470-41dd-88d4-53ad01cc433b",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "CR Kuafor",
   "sektor": "guzellik-salonu",
   "kategori": "guzellik-salonu",
@@ -2558,7 +3214,7 @@
   "ilce": "Odunpazarı",
   "mahalle": null,
   "telefon": null,
-  "web": null,
+  "web": "http://www.sehrimiz.com/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -2571,7 +3227,8 @@
   "fsq_id": "5770f58a498e2794c34bb511",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "c62c1b30-48d3-46b3-ba14-5753e44b1f77"
  },
  {
   "ad": "Cariye Kuafor",
@@ -2666,7 +3323,7 @@
   "il": null,
   "ilce": "Odunpazarı",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0222) 218 06 61",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -2680,7 +3337,8 @@
   "fsq_id": "52287a6311d2c19d62c199f5",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "10b286f1-f435-4fed-9007-94b59f362a0a"
  },
  {
   "ad": "Cenk Kuaför",
@@ -2739,7 +3397,8 @@
   "fsq_id": "54046e4f498e46786b4d60b1",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "a3c52bc9-5246-4859-bdd8-821cfc16016d"
  },
  {
   "ad": "Ceylin Bayan Kuaförü",
@@ -2767,6 +3426,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Ciler Tuna",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Hoşnudiye Mahallesi İsmet İnönü 1 Cd Ungan, İsmet İnönü 1 Cd. No:9 apt 39, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": "(0222) 234 72 11",
+  "web": "http://www.cilertuna.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.77816390991211,
+  "lng": 30.51575469970703,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.77816390991211,30.51575469970703",
+  "yandex_url": "https://yandex.com/maps/?text=Ciler Tuna&ll=30.51575469970703%2C39.77816390991211&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "d4ecc67e-9e35-4263-a6f7-2611314df806",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Cinli Hamam",
@@ -2802,12 +3490,12 @@
   "hizmet_ipuclari": [
    "4f04aa0c2fb6e1c99f3db0b8"
   ],
-  "adres": null,
+  "adres": "Hoşnudiye Mah. İstasyon Cad. No:5/A",
   "il": null,
   "ilce": "Tepebaşı",
   "mahalle": null,
-  "telefon": null,
-  "web": null,
+  "telefon": "(0222) 234 34 91",
+  "web": "http://crkuafor.com",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -2820,7 +3508,8 @@
   "fsq_id": "56768f11498eed25e51425ce",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "60488a08-721b-4447-ad31-33c9aada3a45"
  },
  {
   "ad": "D' Club Güzellik Merkezi",
@@ -2955,7 +3644,38 @@
   "fsq_id": "527cc44011d263884a4581fc",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "8350996c-d807-45bb-92cc-af36898f7282",
+  "alt": "tirnak"
+ },
+ {
+  "ad": "DK Güzellik Merkezi",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Aydoğanlar plaza, Sakarya-1 Cd. 18/22, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.776981353759766,
+  "lng": 30.519893646240234,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.776981353759766,30.519893646240234",
+  "yandex_url": "https://yandex.com/maps/?text=DK Güzellik Merkezi&ll=30.519893646240234%2C39.776981353759766&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "8adc9e69-56b7-4779-9854-ef145bcb963e",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Daisy Güzellik",
@@ -3090,7 +3810,8 @@
   "fsq_id": "4fc7885de4b0ab1440dfb616",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "a789bad9-1e84-4cbd-9272-2f7b878315c6"
  },
  {
   "ad": "Demet Kuaför",
@@ -3287,6 +4008,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Dila Beauty Center",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Aybey Sk. No:13, Odunpazarı",
+  "il": null,
+  "ilce": "Odunpazarı",
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://www.instagram.com/aurviahair?igsh=MXE5ZzI0NW51aG9sMg%3D%3D",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.77141189575195,
+  "lng": 30.521989822387695,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.77141189575195,30.521989822387695",
+  "yandex_url": "https://yandex.com/maps/?text=Dila Beauty Center&ll=30.521989822387695%2C39.77141189575195&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "8158fa86-38f9-4487-983e-eac9a7674e1d",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Diva Life",
   "sektor": "guzellik-salonu",
   "kategori": "guzellik-salonu",
@@ -3348,12 +4098,12 @@
   "hizmet_ipuclari": [
    "4f04aa0c2fb6e1c99f3db0b8"
   ],
-  "adres": "İki Eylül Cad Yalbı Sok",
+  "adres": "Burak Dijital, İki Eylül Caddesi 2/A, Odunpazarı",
   "il": null,
   "ilce": "Odunpazarı",
   "mahalle": null,
   "telefon": null,
-  "web": null,
+  "web": "http://www.doreguzellikeskisehir.com/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -3366,7 +4116,8 @@
   "fsq_id": "5071a8b8e4b09145cd5f3fe9",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "6eb9d00d-00e5-4a4e-951f-b8e087136876"
  },
  {
   "ad": "Dr. Belda Yurtseven Tüner",
@@ -3398,7 +4149,8 @@
   "fsq_id": "5b3f45a92b274a002ccf7666",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "7c0c5323-b3cf-4fc7-b974-e7c971b214d7"
  },
  {
   "ad": "Dr. Hamdi Turhan",
@@ -3407,12 +4159,12 @@
   "hizmet_ipuclari": [
    "4f04aa0c2fb6e1c99f3db0b8"
   ],
-  "adres": null,
+  "adres": "Call Shop, Kızılcıklı Mahmut Pehlivan Caddesi 5, Tepebaşı",
   "il": null,
   "ilce": "Tepebaşı",
   "mahalle": null,
   "telefon": null,
-  "web": null,
+  "web": "http://www.drhamditurhan.com/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -3425,7 +4177,8 @@
   "fsq_id": "5b095ae2ca18ea002c4a279e",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "aa845112-01df-4056-982e-a683fe46e945"
  },
  {
   "ad": "Dreambyebruutku",
@@ -3538,7 +4291,8 @@
   "fsq_id": "50df08eee4b07dd5d80ed418",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "8fdfb8f4-794d-4d9c-a9e7-d3d47c67286e"
  },
  {
   "ad": "ECEM Güzellik Merkezi (Eskişehir, Türkiye)",
@@ -3770,6 +4524,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Eda Bağcı Saloon Hira Güzellik ve Kuaför Salonu",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Cengiz Topel Cd. 39/B, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": "(0222) 315 13 19",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.77941131591797,
+  "lng": 30.51579475402832,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.77941131591797,30.51579475402832",
+  "yandex_url": "https://yandex.com/maps/?text=Eda Bağcı Saloon Hira Güzellik ve Kuaför Salonu&ll=30.51579475402832%2C39.77941131591797&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "ec658b0f-bab0-4353-9925-e4c90a815f1d",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Eda Tümkaya Beauty Spa",
   "sektor": "guzellik-salonu",
   "kategori": "guzellik-salonu",
@@ -3797,6 +4580,93 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Elalem hair garage",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Öğretmenler Caddesi 96, Odunpazarı",
+  "il": null,
+  "ilce": "Odunpazarı",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.76796340942383,
+  "lng": 30.51820945739746,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.76796340942383,30.51820945739746",
+  "yandex_url": "https://yandex.com/maps/?text=Elalem hair garage&ll=30.51820945739746%2C39.76796340942383&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "5093b695-dd5a-4707-9fed-a989818bd7e2",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Elfida BAYAN Kuaförü elif gundogmus",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "emek mah ertas cd tarih bulvari (binis durağı) 242/1, Odunpazarı",
+  "il": null,
+  "ilce": "Odunpazarı",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.752376556396484,
+  "lng": 30.566890716552734,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.752376556396484,30.566890716552734",
+  "yandex_url": "https://yandex.com/maps/?text=Elfida BAYAN Kuaförü elif gundogmus&ll=30.566890716552734%2C39.752376556396484&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "f18679b9-bdde-46b1-8e59-657f2f20b9e9",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Elif Can Kaş Tasarım & Beauty Salon",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "1587 Sok 13/C, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.819908142089844,
+  "lng": 30.43975830078125,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.819908142089844,30.43975830078125",
+  "yandex_url": "https://yandex.com/maps/?text=Elif Can Kaş Tasarım & Beauty Salon&ll=30.43975830078125%2C39.819908142089844&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "03654631-b4c3-4230-9ff7-b3e7fbc7158a",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Elit Kuaför",
   "sektor": "guzellik-salonu",
   "kategori": "guzellik-salonu",
@@ -3822,6 +4692,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Elmira Beauty Center",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Yılmaz Büyükerşen Blv No:4, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.78140640258789,
+  "lng": 30.513811111450195,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.78140640258789,30.513811111450195",
+  "yandex_url": "https://yandex.com/maps/?text=Elmira Beauty Center&ll=30.513811111450195%2C39.78140640258789&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "8e4867f7-d2d5-4be4-b63d-03e804e157b9",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Elçin Eke Beauty",
@@ -3934,7 +4833,9 @@
   "fsq_id": "59dcd2666fa81f461677de88",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "b1c041b2-81c4-44a6-882d-cb33f5a59869",
+  "alt": "tirnak"
  },
  {
   "ad": "Erden Bayan Kuaförü",
@@ -3997,7 +4898,7 @@
   "hizmet_ipuclari": [
    "4f04aa0c2fb6e1c99f3db0b8"
   ],
-  "adres": "Dilek Caddedi",
+  "adres": "Dilek Cd. No:87, Odunpazarı",
   "il": null,
   "ilce": "Odunpazarı",
   "mahalle": null,
@@ -4015,7 +4916,8 @@
   "fsq_id": "575bdfa4498e8d2b55e3c257",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "bdaea3f3-fc3f-4651-9779-c1ef4e96d707"
  },
  {
   "ad": "Erdil Erkek Kuaförü",
@@ -4070,7 +4972,38 @@
   "fsq_id": "514dc9c4e4b02a09b838a19f",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "fe27b402-4505-4f7e-9a21-564c28c20cf9",
+  "alt": "epilasyon"
+ },
+ {
+  "ad": "Erhan bayan kuaförü",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": "epilasyon",
+  "hizmet_ipuclari": [
+   "hair_removal"
+  ],
+  "adres": "ismet inönü 1caddesi gül apartmanı 58/4, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": "(0222) 232 02 23",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.77669906616211,
+  "lng": 30.520599365234375,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.77669906616211,30.520599365234375",
+  "yandex_url": "https://yandex.com/maps/?text=Erhan bayan kuaförü&ll=30.520599365234375%2C39.77669906616211&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "6b542a5e-ee2b-4e84-bb68-3ef9af80c31f",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Erkek Kuaförü İsmail",
@@ -4213,6 +5146,64 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Eskisehir Dermo-World Guzellik Salonu",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Hoşnudiye Mah. Kızılcıklı Mahmut Pehlivan cad. No.18 d.2 kat 1, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.77808380126953,
+  "lng": 30.51226043701172,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.77808380126953,30.51226043701172",
+  "yandex_url": "https://yandex.com/maps/?text=Eskisehir Dermo-World Guzellik Salonu&ll=30.51226043701172%2C39.77808380126953&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "c4a6549d-adc6-414e-b1f3-e8039403f9a3",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Eskisehir Hande Güzellik Merkezi",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Necdet Çelik İş Hanı, İsmet İnönü Caddesi, Vardar Sk. No:2/7, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": "(0222) 233 64 99",
+  "web": "http://www.handeguzellik.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.77771759033203,
+  "lng": 30.517139434814453,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.77771759033203,30.517139434814453",
+  "yandex_url": "https://yandex.com/maps/?text=Eskisehir Hande Güzellik Merkezi&ll=30.517139434814453%2C39.77771759033203&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "40d6ebb8-b91c-4b2d-b3fa-a7e0233fa828",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Eskisehir Ilkem Güzellik Merkezi",
   "sektor": "guzellik-salonu",
   "kategori": "guzellik-salonu",
@@ -4291,7 +5282,8 @@
   "fsq_id": "528d2b5c498e91354c2763c3",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "9db868d3-3d70-4701-a25a-a4e9d9c98e3f"
  },
  {
   "ad": "Eskişehir Salon NN",
@@ -4325,6 +5317,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Eskişehir protez tırnak ebru - EBRU UYGUN",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": "tirnak",
+  "hizmet_ipuclari": [
+   "nail_salon"
+  ],
+  "adres": "İşkur sırası - acil tantuni üzeri, Selçuker Sk. No:1 D:1. Kat, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.77969741821289,
+  "lng": 30.51570701599121,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.77969741821289,30.51570701599121",
+  "yandex_url": "https://yandex.com/maps/?text=Eskişehir protez tırnak ebru - EBRU UYGUN&ll=30.51570701599121%2C39.77969741821289&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "772eea95-5b01-4d42-97de-3701c79c2872",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Eslina Estetik & Güzellik Merkezi",
@@ -4405,7 +5426,9 @@
   "fsq_id": "53725170498e8b4ebf5434fa",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "a4fe03a7-44f1-4da0-95aa-533cfe3265df",
+  "alt": "tirnak"
  },
  {
   "ad": "Esra Güzellik Salonu",
@@ -4546,7 +5569,38 @@
   "fsq_id": "5d3b1a152f79240009b6d2e1",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "8a2cb81a-e763-42b3-877b-224b157dc86f",
+  "alt": "tirnak"
+ },
+ {
+  "ad": "Este Muka Sağlık ve Güzellik",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "İsmet İnönü 1 Cd. huzur apartmanı no 53 kat 2 daire 8, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://estemuka.eskisehir/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.778629302978516,
+  "lng": 30.514698028564453,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.778629302978516,30.514698028564453",
+  "yandex_url": "https://yandex.com/maps/?text=Este Muka Sağlık ve Güzellik&ll=30.514698028564453%2C39.778629302978516&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "c7a2ac3d-6378-429d-913b-59306d79d9aa",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Estelorien",
@@ -4740,6 +5794,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Esvalentina Güzellik Merkezi",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Hoşnudiye Mahallesi İsmet İnönü 1 Caddesi Huzur Apt No:53 Kat:2 D:8, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.77860641479492,
+  "lng": 30.514835357666016,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.77860641479492,30.514835357666016",
+  "yandex_url": "https://yandex.com/maps/?text=Esvalentina Güzellik Merkezi&ll=30.514835357666016%2C39.77860641479492&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "e8d6a5f8-8463-4938-a253-ae3584fd2ed2",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Eva Derma Clinic",
   "sektor": "guzellik-salonu",
   "kategori": "guzellik-salonu",
@@ -4865,7 +5948,8 @@
   "fsq_id": "508e5366e4b06f6d1a74b287",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "19f754b0-4d38-442e-8cc9-babd83fc15ea"
  },
  {
   "ad": "Eylem bayan kuaför",
@@ -5098,12 +6182,12 @@
   "hizmet_ipuclari": [
    "4f04aa0c2fb6e1c99f3db0b8"
   ],
-  "adres": null,
+  "adres": "İsmetinönü-1. Cadde 62, Tepebaşı",
   "il": null,
   "ilce": "Tepebaşı",
   "mahalle": null,
-  "telefon": null,
-  "web": null,
+  "telefon": "(0222) 220 44 04",
+  "web": "http://fibellaguzellik.com/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -5116,7 +6200,8 @@
   "fsq_id": "5a5ba0265c683868097a6abd",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "02279607-75ae-44e9-9b06-9d1e9c8bf805"
  },
  {
   "ad": "Filiz Kuaför",
@@ -5229,7 +6314,8 @@
   "fsq_id": "5d1a101967226600304a7f9f",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "6e094c03-4323-4b37-9c25-d6b5f88bfcc5"
  },
  {
   "ad": "Furtin Güzellik Salonu",
@@ -5257,6 +6343,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Füsun Yaldız Kuaför",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Vardar Sk. Çiğdem Apt Kat:2 Daire:5, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.777225494384766,
+  "lng": 30.51768684387207,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.777225494384766,30.51768684387207",
+  "yandex_url": "https://yandex.com/maps/?text=Füsun Yaldız Kuaför&ll=30.51768684387207%2C39.777225494384766&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "d038244d-694a-4723-9113-ba03a103a194",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Fısıltı kuaför",
@@ -5496,6 +6611,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Gökhan Bayan Kuaförü",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Yenigün Sokak 1, Odunpazarı",
+  "il": null,
+  "ilce": "Odunpazarı",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.77372360229492,
+  "lng": 30.513742446899414,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.77372360229492,30.513742446899414",
+  "yandex_url": "https://yandex.com/maps/?text=Gökhan Bayan Kuaförü&ll=30.513742446899414%2C39.77372360229492&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "566ae535-3133-42f4-a5f0-5a8286aeb06c",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Gökkuşağı Erkek Kuaförü",
   "sektor": "guzellik-salonu",
   "kategori": "guzellik-salonu",
@@ -5682,7 +6826,8 @@
   "fsq_id": "56c89245498e6709eee4bb83",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "bd8183a6-d3dd-427d-ae90-288d4ed36423"
  },
  {
   "ad": "Gülten Gülfer Bayan Kuaförü",
@@ -5764,7 +6909,8 @@
   "fsq_id": "4fcd072de4b093c385c1aa69",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "1cd520cc-1438-485c-b90a-3cb0e212cc60"
  },
  {
   "ad": "Gülümser cilt bakımı ve güzellik salonu",
@@ -5926,7 +7072,66 @@
   "fsq_id": "5b93d0be471d6e002c13cced",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "cd1f3e0e-150b-4ba3-afad-6471d4208fa1"
+ },
+ {
+  "ad": "HD Saç Merkezi",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Harmanyolu Sokak 8A, Odunpazarı",
+  "il": null,
+  "ilce": "Odunpazarı",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.hdsacmerkezi.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.765899658203125,
+  "lng": 30.518129348754883,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.765899658203125,30.518129348754883",
+  "yandex_url": "https://yandex.com/maps/?text=HD Saç Merkezi&ll=30.518129348754883%2C39.765899658203125&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "276a9439-e7b6-48ea-bd4b-ed47aa196496",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "HT Vip Estetik Ve Güzellik Merkezi",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Sena işhanı, üniversitesi caddesi no:24 kat:3 D:aire:3, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.78265380859375,
+  "lng": 30.5126895904541,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.78265380859375,30.5126895904541",
+  "yandex_url": "https://yandex.com/maps/?text=HT Vip Estetik Ve Güzellik Merkezi&ll=30.5126895904541%2C39.78265380859375&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "b68088f9-9e4b-454c-8605-b07069a8e2a0",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Hafize Güzellik Salonu",
@@ -5940,7 +7145,7 @@
   "il": null,
   "ilce": "Tepebaşı",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0222) 220 00 12",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -5954,7 +7159,8 @@
   "fsq_id": "5644ceea498ed7e63c93aed4",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "894694da-5b8b-4123-9799-a42c61869ab4"
  },
  {
   "ad": "Hande Güzellik Salonu",
@@ -6070,6 +7276,93 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Hicran Beyazkan Diamond Beauty Center",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Hoşnudiye Mah, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.77683639526367,
+  "lng": 30.516870498657227,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.77683639526367,30.516870498657227",
+  "yandex_url": "https://yandex.com/maps/?text=Hicran Beyazkan Diamond Beauty Center&ll=30.516870498657227%2C39.77683639526367&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "8fd841e4-377c-4ff9-9bb2-865c56da8e80",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "High Care Center",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Hoşnudiye Mahallesi İsmet İnönü 1 Caddesi No:44 Çolpan İşhanı Kat:2 d:3, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://www.highcare-eskisehir.com.tr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.77836608886719,
+  "lng": 30.51563835144043,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.77836608886719,30.51563835144043",
+  "yandex_url": "https://yandex.com/maps/?text=High Care Center&ll=30.51563835144043%2C39.77836608886719&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "c1820a27-8318-49ad-8a62-58bc5f10890b",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "HighCare Eskişehir",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "İsmetinönü-1. Cadde 71D, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": "(0222) 224 16 18",
+  "web": "https://www.highcare-eskisehir.com.tr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.77775573730469,
+  "lng": 30.516618728637695,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.77775573730469,30.516618728637695",
+  "yandex_url": "https://yandex.com/maps/?text=HighCare Eskişehir&ll=30.516618728637695%2C39.77775573730469&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "238abd0e-400b-4e02-9b4f-78b404c2d05e",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Hilal Güzellik Salonu",
   "sektor": "guzellik-salonu",
   "kategori": "guzellik-salonu",
@@ -6121,7 +7414,9 @@
   "fsq_id": "62c5c222977e6f689addc551",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "42dfb99d-e99b-4f3b-9fa0-21c01277bafe",
+  "alt": "tirnak"
  },
  {
   "ad": "Hilal Işık Hair Beauty",
@@ -6151,6 +7446,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Hulita makeup guzellik",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "İsmet İnönü 1 caddesi Başkurt iş merkezi No 42 kat 1 daire 8, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.7783203125,
+  "lng": 30.51565170288086,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.7783203125,30.51565170288086",
+  "yandex_url": "https://yandex.com/maps/?text=Hulita makeup guzellik&ll=30.51565170288086%2C39.7783203125&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "1a07d235-61f7-4cd8-acf9-99659c1bc6af",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Hülya Bayan Kuaförü",
   "sektor": "guzellik-salonu",
   "kategori": "guzellik-salonu",
@@ -6175,7 +7499,37 @@
   "fsq_id": "56a8be34498e81ce07bda22b",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "64f4f66d-0d41-4532-b50c-f4080777763c"
+ },
+ {
+  "ad": "Hülya Sayın Beauty Güzellik Merkezi Eskişehir",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "N OFfice, 732. Sk No:20 K:3 D:31, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://hulyasayinbeauty.com.tr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.78322219848633,
+  "lng": 30.50418472290039,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.78322219848633,30.50418472290039",
+  "yandex_url": "https://yandex.com/maps/?text=Hülya Sayın Beauty Güzellik Merkezi Eskişehir&ll=30.50418472290039%2C39.78322219848633&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "7431898c-d431-45ec-b7b0-5d28ee6a2de4",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Hülyam Güzellik Salonu",
@@ -6391,7 +7745,37 @@
   "fsq_id": "535e685c498ecf19c898bc3a",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "b5cf5d20-797b-4085-97fa-8d635e669d0b"
+ },
+ {
+  "ad": "Kader Bayan Kuaförü",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Odunpazarı",
+  "il": null,
+  "ilce": "Odunpazarı",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.755165100097656,
+  "lng": 30.5087890625,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.755165100097656,30.5087890625",
+  "yandex_url": "https://yandex.com/maps/?text=Kader Bayan Kuaförü&ll=30.5087890625%2C39.755165100097656&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "fff1df4b-f99a-4dc0-8507-98c9adf30962",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Kader Güzellik Salonu",
@@ -6402,7 +7786,7 @@
    "4f04aa0c2fb6e1c99f3db0b8",
    "54541900498ea6ccd0202697"
   ],
-  "adres": null,
+  "adres": "Cengiz Topel Cd. No:3, Tepebaşı",
   "il": null,
   "ilce": "Tepebaşı",
   "mahalle": null,
@@ -6420,7 +7804,8 @@
   "fsq_id": "52c2ef68498e73f2b5908ae6",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "ec753b79-b9ff-4504-a71a-7c2a59de9310"
  },
  {
   "ad": "Kader Kuaför",
@@ -6502,6 +7887,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Kali Bay ve Bayan Kuaförü",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Samimiyet Sk., Odunpazarı",
+  "il": null,
+  "ilce": "Odunpazarı",
+  "mahalle": null,
+  "telefon": "(0222) 225 45 55",
+  "web": "http://www.kalikuafor.com",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.7689323425293,
+  "lng": 30.485931396484375,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.7689323425293,30.485931396484375",
+  "yandex_url": "https://yandex.com/maps/?text=Kali Bay ve Bayan Kuaförü&ll=30.485931396484375%2C39.7689323425293&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "741ae2c2-3c65-4db6-8938-ff2cd7ffc980",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Kemal&Songül Güzellik Salonu",
@@ -6645,12 +8059,12 @@
   "hizmet_ipuclari": [
    "4f04aa0c2fb6e1c99f3db0b8"
   ],
-  "adres": null,
+  "adres": "Tacin Sokak 20A, Tepebaşı",
   "il": null,
   "ilce": "Tepebaşı",
   "mahalle": null,
-  "telefon": null,
-  "web": null,
+  "telefon": "(0222) 231 25 29",
+  "web": "http://www.kuaforbu.com",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -6663,7 +8077,8 @@
   "fsq_id": "55b0eee8498eba54138e7fe5",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "6a7abed7-739e-425e-97bc-b4b54d644bf1"
  },
  {
   "ad": "Kuafor",
@@ -6970,12 +8385,12 @@
   "hizmet_ipuclari": [
    "4f04aa0c2fb6e1c99f3db0b8"
   ],
-  "adres": null,
+  "adres": "Dilekli Sk. No:7, Odunpazarı",
   "il": null,
   "ilce": "Odunpazarı",
   "mahalle": null,
   "telefon": null,
-  "web": null,
+  "web": "https://instagram.com/ahmetugursehir?igshid=YmMyMTA2M2Y%3D",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -6988,7 +8403,8 @@
   "fsq_id": "51c57d4c498e570eb8b19a70",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "3cf52aaa-7b40-48ca-b4ea-8cc27f34b52c"
  },
  {
   "ad": "Kuaför Ahmet Uğur Şehir",
@@ -7053,7 +8469,7 @@
   "hizmet_ipuclari": [
    "4f04aa0c2fb6e1c99f3db0b8"
   ],
-  "adres": null,
+  "adres": "Sivrihisar-1 Cd. No:105, Tepebaşı",
   "il": null,
   "ilce": "Tepebaşı",
   "mahalle": null,
@@ -7071,7 +8487,9 @@
   "fsq_id": "50e00b16e4b0a2ae252208d1",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "b48f2ec5-9839-4c5c-bb6b-a2f9949ab9ad",
+  "alt": "tirnak"
  },
  {
   "ad": "Kuaför BY HÜSEYİN",
@@ -7099,7 +8517,8 @@
   "fsq_id": "51226190e4b0ed97fab577d2",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "bc55547c-1358-4403-9066-49997fbc5f6e"
  },
  {
   "ad": "Kuaför Cansu",
@@ -7108,7 +8527,7 @@
   "hizmet_ipuclari": [
    "4f04aa0c2fb6e1c99f3db0b8"
   ],
-  "adres": null,
+  "adres": "Gazi Yakup Satar Cd. No:30, Tepebaşı",
   "il": null,
   "ilce": "Tepebaşı",
   "mahalle": null,
@@ -7126,7 +8545,8 @@
   "fsq_id": "591837c62b98441e611a88b2",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "b831d507-6609-4c47-bd5e-bd57c921b64a"
  },
  {
   "ad": "Kuaför Cenk",
@@ -7216,11 +8636,11 @@
   "hizmet_ipuclari": [
    "4f04aa0c2fb6e1c99f3db0b8"
   ],
-  "adres": null,
+  "adres": "Gürman Sokak 6, Odunpazarı",
   "il": null,
   "ilce": "Odunpazarı",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0222) 230 65 18",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -7234,7 +8654,8 @@
   "fsq_id": "504cad4ee4b086b598f14736",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "dd886b89-4173-4141-bf19-1224e677f217"
  },
  {
   "ad": "Kuaför Doğanay",
@@ -7726,6 +9147,64 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Kuaför Yasemin",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Yenikent Mah. Şehit Yüzbaşı Tuncer Güngör Cad., Odunpazarı",
+  "il": null,
+  "ilce": "Odunpazarı",
+  "mahalle": null,
+  "telefon": "(0222) 239 39 41",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.74863052368164,
+  "lng": 30.511817932128906,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.74863052368164,30.511817932128906",
+  "yandex_url": "https://yandex.com/maps/?text=Kuaför Yasemin&ll=30.511817932128906%2C39.74863052368164&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "47dfcd37-71ca-4b83-b9f6-1bcefafd6be0",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Kuaför cenk",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "batıkent mah. bülent ecevit bulvarı beren sitesi a3, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://twitter.com/26Orm",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.794254302978516,
+  "lng": 30.4508113861084,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.794254302978516,30.4508113861084",
+  "yandex_url": "https://yandex.com/maps/?text=Kuaför cenk&ll=30.4508113861084%2C39.794254302978516&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "60a0530c-6793-4d3d-a1ab-d359895c7bbd",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Kuaför Özlem",
   "sektor": "guzellik-salonu",
   "kategori": "guzellik-salonu",
@@ -7863,6 +9342,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Kuas KuafÖR",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Başak Sk. Aydınlar Apt no 27/2, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.77836227416992,
+  "lng": 30.511457443237305,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.77836227416992,30.511457443237305",
+  "yandex_url": "https://yandex.com/maps/?text=Kuas KuafÖR&ll=30.511457443237305%2C39.77836227416992&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "8cc6d91d-3330-4b66-96ca-96fbe102186b",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Kübra Güzellik Salonu",
   "sektor": "guzellik-salonu",
   "kategori": "guzellik-salonu",
@@ -7888,6 +9396,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Kırmızı Salon",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Odunpazarı",
+  "il": null,
+  "ilce": "Odunpazarı",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.77223587036133,
+  "lng": 30.518325805664062,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.77223587036133,30.518325805664062",
+  "yandex_url": "https://yandex.com/maps/?text=Kırmızı Salon&ll=30.518325805664062%2C39.77223587036133&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "26b1e943-a90b-4892-8c66-3d7ce07c3bcb",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Kırım CAR WASH",
@@ -8115,6 +9652,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Lidya Kuaför ve Güzellik salonu",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Şair Fuzuli Caddesi 28, Odunpazarı",
+  "il": null,
+  "ilce": "Odunpazarı",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.77546691894531,
+  "lng": 30.51569938659668,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.77546691894531,30.51569938659668",
+  "yandex_url": "https://yandex.com/maps/?text=Lidya Kuaför ve Güzellik salonu&ll=30.51569938659668%2C39.77546691894531&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "f8051892-192e-4026-84f2-a1c5f709379e",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Lila Kuaför",
   "sektor": "guzellik-salonu",
   "kategori": "guzellik-salonu",
@@ -8234,8 +9800,8 @@
   "il": null,
   "ilce": "Tepebaşı",
   "mahalle": null,
-  "telefon": null,
-  "web": null,
+  "telefon": "(0222) 222 08 07",
+  "web": "http://fbf.bz/b/13g",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -8248,7 +9814,37 @@
   "fsq_id": "59958f2f491be767ea203033",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "a7401b18-642c-450e-9816-273df859670f"
+ },
+ {
+  "ad": "Lotus Beauty",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Selka apt, Nayman Sk. No:1 Daire:9, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": "(0222) 231 60 50",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.778995513916016,
+  "lng": 30.51498794555664,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.778995513916016,30.51498794555664",
+  "yandex_url": "https://yandex.com/maps/?text=Lotus Beauty&ll=30.51498794555664%2C39.778995513916016&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "e23a4c5c-1fb6-4072-aded-9357d0eba3a0",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Lotus Güzellik Merkezi",
@@ -8276,6 +9872,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Lucinda Beauty | Eskişehir Lazer Epilasyon & Protez Tırnak",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Behiç Erkin Caddesi No:4, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://www.instagram.com/lucinda.beauty/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.78084945678711,
+  "lng": 30.507976531982422,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.78084945678711,30.507976531982422",
+  "yandex_url": "https://yandex.com/maps/?text=Lucinda Beauty | Eskişehir Lazer Epilasyon & Protez Tırnak&ll=30.507976531982422%2C39.78084945678711&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "887f2539-6151-44fe-a322-245d4a4ced8d",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Lyubov Protez Tırnak",
@@ -8330,6 +9955,64 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "MG Beauty & Hair Studio",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Ungan Apartmanı, İsmet İnönü 1 Cd. No : 39 / 3, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://instagram.com/birguldoganhairstudio",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.77811050415039,
+  "lng": 30.51546287536621,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.77811050415039,30.51546287536621",
+  "yandex_url": "https://yandex.com/maps/?text=MG Beauty & Hair Studio&ll=30.51546287536621%2C39.77811050415039&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "d3d57ed5-af34-4446-b880-c57f1d0899dc",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "MR Güzellik Salonu Merve Gül Eskişehir",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Sakarya Cad, Saldan Plaza, Şen Sk. No:2 Kat:5 Daire:22, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.77663040161133,
+  "lng": 30.51957893371582,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.77663040161133,30.51957893371582",
+  "yandex_url": "https://yandex.com/maps/?text=MR Güzellik Salonu Merve Gül Eskişehir&ll=30.51957893371582%2C39.77663040161133&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "c9d0a3b6-45f9-4ba2-ba3b-610172bc55b1",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Madam Lina Sir Ve Ağda Salonu",
@@ -8602,6 +10285,64 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Mb Beauty Studio EskİŞEhİR",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "verem savaş işhanı, Reşadiye Cd. kat:6 no:41, Odunpazarı",
+  "il": null,
+  "ilce": "Odunpazarı",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.771728515625,
+  "lng": 30.516767501831055,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.771728515625,30.516767501831055",
+  "yandex_url": "https://yandex.com/maps/?text=Mb Beauty Studio EskİŞEhİR&ll=30.516767501831055%2C39.771728515625&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "55857538-c39e-4c45-9173-9016a2a76c04",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Medusa Güzellik ve Solaryum Merkezi",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Cengiz Topel Cd. 39/B, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": "(0222) 315 13 19",
+  "web": "http://www.grapeguzellikmerkezi.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.779415130615234,
+  "lng": 30.515792846679688,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.779415130615234,30.515792846679688",
+  "yandex_url": "https://yandex.com/maps/?text=Medusa Güzellik ve Solaryum Merkezi&ll=30.515792846679688%2C39.779415130615234&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "f8020477-54aa-48d8-b37a-7d6420df2471",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Melda",
   "sektor": "guzellik-salonu",
   "kategori": "guzellik-salonu",
@@ -8683,6 +10424,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Melike Esthetic Clinic Güzellik Merkezi",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Yılmaz Büyükerşen Blv No:148, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.788360595703125,
+  "lng": 30.507511138916016,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.788360595703125,30.507511138916016",
+  "yandex_url": "https://yandex.com/maps/?text=Melike Esthetic Clinic Güzellik Merkezi&ll=30.507511138916016%2C39.788360595703125&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "4529e958-485b-4a5c-acca-de40c69d1ca4",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Melike Güzellik Salonu",
   "sektor": "guzellik-salonu",
   "kategori": "guzellik-salonu",
@@ -8708,6 +10478,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Melike Yüksel Güzellik Merkezi",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Uzun Sk No:8 K:7 D:13, Odunpazarı",
+  "il": null,
+  "ilce": "Odunpazarı",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.767189025878906,
+  "lng": 30.531503677368164,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.767189025878906,30.531503677368164",
+  "yandex_url": "https://yandex.com/maps/?text=Melike Yüksel Güzellik Merkezi&ll=30.531503677368164%2C39.767189025878906&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "7836ec64-cc28-47e5-bd62-6f240d645a82",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Melis Kuaför",
@@ -8844,6 +10643,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Mercan Deniz Güzellik Merkezi",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "İki Eylül Cd. İki Eylül İş Merkezi Kat:3 Daire:7, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://g.page/r/CQpT9fYRWmatEBM/review",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.775516510009766,
+  "lng": 30.51799964904785,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.775516510009766,30.51799964904785",
+  "yandex_url": "https://yandex.com/maps/?text=Mercan Deniz Güzellik Merkezi&ll=30.51799964904785%2C39.775516510009766&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "7a10a6e2-9b5f-45d9-8fe4-70c96c657196",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Mercansu",
@@ -9279,6 +11107,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Muhammed Karagöz",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.77615737915039,
+  "lng": 30.514387130737305,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.77615737915039,30.514387130737305",
+  "yandex_url": "https://yandex.com/maps/?text=Muhammed Karagöz&ll=30.514387130737305%2C39.77615737915039&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "b73140bf-3551-4e91-bfc4-e29037f66f20",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Murat Erkek Kuaförü",
   "sektor": "guzellik-salonu",
   "kategori": "guzellik-salonu",
@@ -9361,6 +11218,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "N&G Güzellik Salonu",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "İki Eylül Cd. Erkara İş Merkezi No 60 Kat 6 Daire 30, Odunpazarı",
+  "il": null,
+  "ilce": "Odunpazarı",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.77217483520508,
+  "lng": 30.517072677612305,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.77217483520508,30.517072677612305",
+  "yandex_url": "https://yandex.com/maps/?text=N&G Güzellik Salonu&ll=30.517072677612305%2C39.77217483520508&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "b65af0ff-a0d8-4afa-8603-8c8f1966d409",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "N&N Bayan Kuaförü ve Güzellik Salonu",
   "sektor": "guzellik-salonu",
   "kategori": "guzellik-salonu",
@@ -9413,6 +11299,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "NC Bayan Kuaförü",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Ada güzellik zayıflama , Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.78230667114258,
+  "lng": 30.49934959411621,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.78230667114258,30.49934959411621",
+  "yandex_url": "https://yandex.com/maps/?text=NC Bayan Kuaförü&ll=30.49934959411621%2C39.78230667114258&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "c0a7cbdb-9d92-4f95-9a90-a7c24a5f19dd",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "NCL VIP ESTETİK",
@@ -9502,7 +11417,7 @@
   "hizmet_ipuclari": [
    "4f04aa0c2fb6e1c99f3db0b8"
   ],
-  "adres": null,
+  "adres": "Şahin Cd. No:76/B, Tepebaşı",
   "il": null,
   "ilce": "Tepebaşı",
   "mahalle": null,
@@ -9520,7 +11435,8 @@
   "fsq_id": "5f3d548c1b43707337a6fcbb",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "ff0b52aa-ea05-4295-8ee5-73746d94a722"
  },
  {
   "ad": "Nas Bayan Kuaförü",
@@ -9547,7 +11463,8 @@
   "fsq_id": "5231b14f11d22b63c8d5305d",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "31c7f0a7-fe8c-4215-8f92-31be54c7c8b7"
  },
  {
   "ad": "Naz Bayan Kuaförü",
@@ -9631,6 +11548,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Necla Dilman Beauty Centre",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Kaplanlı Cd no:13/A, Odunpazarı",
+  "il": null,
+  "ilce": "Odunpazarı",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.75459671020508,
+  "lng": 30.50104522705078,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.75459671020508,30.50104522705078",
+  "yandex_url": "https://yandex.com/maps/?text=Necla Dilman Beauty Centre&ll=30.50104522705078%2C39.75459671020508&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "0988f3a0-acd8-4c35-bd36-da58862a470c",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Nehar Köroğlu Güzellik Merkezi",
   "sektor": "guzellik-salonu",
   "kategori": "guzellik-salonu",
@@ -9656,6 +11602,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Nergis Engulec Güzellik Salonu",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Gözde Eczanesi üstü, İsmet İnönü 1 Cd. Kazım Önal iş merkezi No:43 Kat.3 Daire:21, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.77763748168945,
+  "lng": 30.516931533813477,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.77763748168945,30.516931533813477",
+  "yandex_url": "https://yandex.com/maps/?text=Nergis Engulec Güzellik Salonu&ll=30.516931533813477%2C39.77763748168945&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "a523827e-7edc-4204-80e1-4ea0c0aa2e5e",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Nergis Güzellik Salonu",
@@ -9848,13 +11823,42 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Nilgün Demir Güzellik Merkezi",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "DEFAKTO UST KAT, Hamam Yolu Cd NO:59 KAT:3, Odunpazarı",
+  "il": null,
+  "ilce": "Odunpazarı",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.77155303955078,
+  "lng": 30.520824432373047,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.77155303955078,30.520824432373047",
+  "yandex_url": "https://yandex.com/maps/?text=Nilgün Demir Güzellik Merkezi&ll=30.520824432373047%2C39.77155303955078&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "8157c1b4-06ce-4cbe-bf70-2f8d79f37fb2",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Nilgün Özkan Makeup Studio",
   "sektor": "guzellik-salonu",
   "kategori": "guzellik-salonu",
   "hizmet_ipuclari": [
    "4f04aa0c2fb6e1c99f3db0b8"
   ],
-  "adres": null,
+  "adres": "69 Bulvar, 732. Sk No:28 no 28, Tepebaşı",
   "il": null,
   "ilce": "Tepebaşı",
   "mahalle": null,
@@ -9872,7 +11876,8 @@
   "fsq_id": "5a9589a3491be72e4a5c82f3",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "c00b1ccb-d48a-4b1c-868e-8d0b190de028"
  },
  {
   "ad": "Nira Estetik ve Güzellik Merkezi",
@@ -10115,7 +12120,8 @@
   "fsq_id": "53f200a1498e7cdbf2163411",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "0b142a93-61ee-4083-bf41-31e78bdf5ec0"
  },
  {
   "ad": "Odammm 👑",
@@ -10363,6 +12369,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Piel Güzellik Merkezi",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Odunpazarı",
+  "il": null,
+  "ilce": "Odunpazarı",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.757755279541016,
+  "lng": 30.496244430541992,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.757755279541016,30.496244430541992",
+  "yandex_url": "https://yandex.com/maps/?text=Piel Güzellik Merkezi&ll=30.496244430541992%2C39.757755279541016&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "a14a5645-0c02-4885-a900-1c44ebb4448a",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Polen Güzellik Merkezi",
   "sektor": "guzellik-salonu",
   "kategori": "guzellik-salonu",
@@ -10444,6 +12479,64 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "RODOS AĞDA  LAZER ve Güzellik merkezi",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": "tirnak",
+  "hizmet_ipuclari": [
+   "nail_salon"
+  ],
+  "adres": "Üniversite Cd, Odunpazarı",
+  "il": null,
+  "ilce": "Odunpazarı",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.78668975830078,
+  "lng": 30.50890350341797,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.78668975830078,30.50890350341797",
+  "yandex_url": "https://yandex.com/maps/?text=RODOS AĞDA  LAZER ve Güzellik merkezi&ll=30.50890350341797%2C39.78668975830078&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "3976c7e4-4dd1-4730-bab5-d1a1368baa5b",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Ra & Es Güzellik Salonu",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Meriç Nehri Sokak 4C, Odunpazarı",
+  "il": null,
+  "ilce": "Odunpazarı",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.76854705810547,
+  "lng": 30.52597999572754,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.76854705810547,30.52597999572754",
+  "yandex_url": "https://yandex.com/maps/?text=Ra & Es Güzellik Salonu&ll=30.52597999572754%2C39.76854705810547&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "2df9c73c-20f8-44f4-aca7-ae9fa0f18879",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Ra-Es Estetik ve Güzellik Merkezi",
   "sektor": "guzellik-salonu",
   "kategori": "guzellik-salonu",
@@ -10469,6 +12562,93 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Raca Beauty Center",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": "tirnak",
+  "hizmet_ipuclari": [
+   "nail_salon"
+  ],
+  "adres": "Çiftkurt Sk. No:1, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://instagram.com/atasoybeautycenter?igshid=10if6z7z8lv1z",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.77936553955078,
+  "lng": 30.509084701538086,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.77936553955078,30.509084701538086",
+  "yandex_url": "https://yandex.com/maps/?text=Raca Beauty Center&ll=30.509084701538086%2C39.77936553955078&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "ebef4664-b39f-466f-a136-c6df22e04bf8",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "ReSkin Beauty Studio",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Başak Pakun Plaza, 732. Sk No:14, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.78246307373047,
+  "lng": 30.50531005859375,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.78246307373047,30.50531005859375",
+  "yandex_url": "https://yandex.com/maps/?text=ReSkin Beauty Studio&ll=30.50531005859375%2C39.78246307373047&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "b00b2f06-7ec6-434f-909e-00e5a07b65eb",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Resul çam hair ART",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Mustafa Kemal Atatürk Cd no:24/d, Odunpazarı",
+  "il": null,
+  "ilce": "Odunpazarı",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.76723861694336,
+  "lng": 30.51927947998047,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.76723861694336,30.51927947998047",
+  "yandex_url": "https://yandex.com/maps/?text=Resul çam hair ART&ll=30.51927947998047%2C39.76723861694336&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "47bc17ca-060d-43ff-b5a9-dfd01b74ade6",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Rky Güzellik Salonu",
@@ -10577,6 +12757,64 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Rodos Saç Tasarım ve Güzellik Salonu",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Güllük mah baci sokak no : 10/s, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.78196716308594,
+  "lng": 30.51554298400879,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.78196716308594,30.51554298400879",
+  "yandex_url": "https://yandex.com/maps/?text=Rodos Saç Tasarım ve Güzellik Salonu&ll=30.51554298400879%2C39.78196716308594&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "5220586b-eeff-4864-bf50-58e742a69771",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Roselina güzellik merkezi",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Nayman Sk. no:2 D:2, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.778785705566406,
+  "lng": 30.514827728271484,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.778785705566406,30.514827728271484",
+  "yandex_url": "https://yandex.com/maps/?text=Roselina güzellik merkezi&ll=30.514827728271484%2C39.778785705566406&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "1862fb17-f39f-4324-919b-5d87ab91ae81",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Rüya Kuaför",
@@ -10771,6 +13009,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "SIRMA Güzellik salonu",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": "tirnak",
+  "hizmet_ipuclari": [
+   "nail_salon"
+  ],
+  "adres": "Teknosa, İsmetinönü-1. Cadde 17, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": "(0222) 233 55 77",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.778221130371094,
+  "lng": 30.515682220458984,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.778221130371094,30.515682220458984",
+  "yandex_url": "https://yandex.com/maps/?text=SIRMA Güzellik salonu&ll=30.515682220458984%2C39.778221130371094&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "1057a89c-c9b7-4f0b-bb6b-8ddfcbe086a8",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "STİLİST BAYAN KUAFÖRÜ (Eyüp Demir)",
   "sektor": "guzellik-salonu",
   "kategori": "guzellik-salonu",
@@ -10852,6 +13119,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Salon Ahmet Aydin",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.79022216796875,
+  "lng": 30.449817657470703,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.79022216796875,30.449817657470703",
+  "yandex_url": "https://yandex.com/maps/?text=Salon Ahmet Aydin&ll=30.449817657470703%2C39.79022216796875&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "7313be32-6eee-47d9-b437-250ddfcc2f11",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Salon Akın",
   "sektor": "guzellik-salonu",
   "kategori": "guzellik-salonu",
@@ -10879,6 +13175,64 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Salon Buzz Ateşi",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Yenibağlar Mah. İsmet İnönü  Cad. No:130, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.eskisehirdugunsalonu.com/twentysix.php?bolum=ket-twentysix-26-saloon-buzzatesi-balo-davet-dugun-saloon",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.77669906616211,
+  "lng": 30.520599365234375,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.77669906616211,30.520599365234375",
+  "yandex_url": "https://yandex.com/maps/?text=Salon Buzz Ateşi&ll=30.520599365234375%2C39.77669906616211&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "c6bc2e6c-38d4-4933-b8f1-4a82bc876dc3",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Salon Buzz Ateşi",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Yenibağlar Mah. İsmet İnönü  Cad. No:130, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.eskisehirdugunsalonu.com/twentysix.php?bolum=ket-twentysix-26-saloon-buzzatesi-balo-davet-dugun-saloon",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.78456115722656,
+  "lng": 30.502790451049805,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.78456115722656,30.502790451049805",
+  "yandex_url": "https://yandex.com/maps/?text=Salon Buzz Ateşi&ll=30.502790451049805%2C39.78456115722656&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "c276a090-9a36-4a30-8a7b-95e25115d09f",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Salon Canan",
   "sektor": "guzellik-salonu",
   "kategori": "guzellik-salonu",
@@ -10904,6 +13258,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Salon DIVA Life Eskişehir",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Ülgen Sokak 2C, Odunpazarı",
+  "il": null,
+  "ilce": "Odunpazarı",
+  "mahalle": null,
+  "telefon": "(0222) 225 55 10",
+  "web": "http://www.divakuafor.net/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.76180648803711,
+  "lng": 30.50149917602539,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.76180648803711,30.50149917602539",
+  "yandex_url": "https://yandex.com/maps/?text=Salon DIVA Life Eskişehir&ll=30.50149917602539%2C39.76180648803711&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "4d6b0bfc-120a-4c76-9132-7a68035f530b",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Salon De Coiffure",
@@ -11066,6 +13449,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Salon Imaj Istanbul",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Doğu Sk. No:5, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.77828598022461,
+  "lng": 30.521474838256836,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.77828598022461,30.521474838256836",
+  "yandex_url": "https://yandex.com/maps/?text=Salon Imaj Istanbul&ll=30.521474838256836%2C39.77828598022461&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "e98ae771-121c-40f4-a6ed-f0401529e470",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Salon Mercan",
@@ -11255,6 +13667,64 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Salon Turgay",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Cumhuriye Mahallesi, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": "(0222) 233 07 48",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.7786979675293,
+  "lng": 30.518310546875,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.7786979675293,30.518310546875",
+  "yandex_url": "https://yandex.com/maps/?text=Salon Turgay&ll=30.518310546875%2C39.7786979675293&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "f329fc72-849f-4edf-a65f-17a456f62181",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Salon bella",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.77669906616211,
+  "lng": 30.520599365234375,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.77669906616211,30.520599365234375",
+  "yandex_url": "https://yandex.com/maps/?text=Salon bella&ll=30.520599365234375%2C39.77669906616211&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "aa7c4d4b-d7ae-4832-8282-e1602f5a0733",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Salon stil",
@@ -11473,6 +13943,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Saloon A BAYAN Kuaförü",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Eğitimciler Caddesi 40A, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.78251266479492,
+  "lng": 30.50672149658203,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.78251266479492,30.50672149658203",
+  "yandex_url": "https://yandex.com/maps/?text=Saloon A BAYAN Kuaförü&ll=30.50672149658203%2C39.78251266479492&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "549372fe-91f0-4cf2-b565-f6ca390e549d",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Saloon Ali",
   "sektor": "guzellik-salonu",
   "kategori": "guzellik-salonu",
@@ -11506,7 +14005,7 @@
   "hizmet_ipuclari": [
    "4f04aa0c2fb6e1c99f3db0b8"
   ],
-  "adres": "Vişnelik",
+  "adres": "Öğretmenler Blv No:59, Odunpazarı",
   "il": null,
   "ilce": "Odunpazarı",
   "mahalle": null,
@@ -11524,7 +14023,8 @@
   "fsq_id": "54fb1588498e33a869e00b64",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "8bf77b0e-be31-4880-84f1-7349c1b019df"
  },
  {
   "ad": "Saloon Burcu",
@@ -11832,6 +14332,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Saloon Tuana",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Kayacı Sk., Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.79722213745117,
+  "lng": 30.48843765258789,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.79722213745117,30.48843765258789",
+  "yandex_url": "https://yandex.com/maps/?text=Saloon Tuana&ll=30.48843765258789%2C39.79722213745117&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "eea65123-852b-4ff9-a4a5-23574c8ad1f0",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Saloon Yusuf Özdemir",
   "sektor": "guzellik-salonu",
   "kategori": "guzellik-salonu",
@@ -11938,6 +14467,64 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Saloon\"Tuncay",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": null,
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.854278564453125,
+  "lng": 30.632699966430664,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.854278564453125,30.632699966430664",
+  "yandex_url": "https://yandex.com/maps/?text=Saloon\"Tuncay&ll=30.632699966430664%2C39.854278564453125&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "da66c8ed-7f3f-455e-857f-8ada979f5b19",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Saniye Gökçe Güzellik Salonu",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Hoşnudiye, No:16, İsmet İnönü-1 Blv No:26130, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.782981872558594,
+  "lng": 30.50511932373047,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.782981872558594,30.50511932373047",
+  "yandex_url": "https://yandex.com/maps/?text=Saniye Gökçe Güzellik Salonu&ll=30.50511932373047%2C39.782981872558594&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "2341f37c-0133-4df4-8ae8-a78c49ea0624",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Sbderm Güzellik Ve Estetik",
@@ -12048,6 +14635,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Selcen Lazer ve Güzellik Salonu",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Deliklitaş Cd. No:74/2, Odunpazarı",
+  "il": null,
+  "ilce": "Odunpazarı",
+  "mahalle": null,
+  "telefon": "(0222) 230 57 87",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.77165603637695,
+  "lng": 30.523223876953125,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.77165603637695,30.523223876953125",
+  "yandex_url": "https://yandex.com/maps/?text=Selcen Lazer ve Güzellik Salonu&ll=30.523223876953125%2C39.77165603637695&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "65daab11-b2ab-46a4-9efe-487aa05cc3a2",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Selda Kuaför",
   "sektor": "guzellik-salonu",
   "kategori": "guzellik-salonu",
@@ -12099,7 +14715,8 @@
   "fsq_id": "52ecef05498edcb1f8055402",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "5a4d3d8e-f352-412b-b45b-aea41e51d306"
  },
  {
   "ad": "Selin Güzellik Salonu",
@@ -12162,7 +14779,7 @@
   "hizmet_ipuclari": [
    "4f04aa0c2fb6e1c99f3db0b8"
   ],
-  "adres": "Eskilehir",
+  "adres": "Kazim onal is merkezi, İsmet İnönü-1 Blv no:43/26, Tepebaşı",
   "il": null,
   "ilce": "Tepebaşı",
   "mahalle": null,
@@ -12180,7 +14797,37 @@
   "fsq_id": "5e07156053f54200087ebbfe",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "a0bed44c-0cd6-43a7-8710-46d9d2b38b32"
+ },
+ {
+  "ad": "Selçuk YAVUZ HAİR Stylst",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "İstasyon caddesi, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://wa.me/message/O72LFSPQ5QK4O1",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.78409957885742,
+  "lng": 30.49691390991211,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.78409957885742,30.49691390991211",
+  "yandex_url": "https://yandex.com/maps/?text=Selçuk YAVUZ HAİR Stylst&ll=30.49691390991211%2C39.78409957885742&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "43b72847-f1c5-4761-8ab1-2612562f0e89",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Sema Günal Güzellik Merkezi",
@@ -12507,6 +15154,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Sf beauty Studio",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Istiklal mah.2 eylul cad.erkara is merkezi no:60 kat:6 daire:31, Odunpazarı",
+  "il": null,
+  "ilce": "Odunpazarı",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.77229309082031,
+  "lng": 30.517101287841797,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.77229309082031,30.517101287841797",
+  "yandex_url": "https://yandex.com/maps/?text=Sf beauty Studio&ll=30.517101287841797%2C39.77229309082031&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "629b8e7b-8585-41a7-a001-76a76e840daa",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Shine Beauty",
   "sektor": "guzellik-salonu",
   "kategori": "guzellik-salonu",
@@ -12642,6 +15318,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Simya epilasyon ve güzellik salonu",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": "tirnak",
+  "hizmet_ipuclari": [
+   "nail_salon"
+  ],
+  "adres": "Vardar Sokak 4, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.77814483642578,
+  "lng": 30.51569938659668,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.77814483642578,30.51569938659668",
+  "yandex_url": "https://yandex.com/maps/?text=Simya epilasyon ve güzellik salonu&ll=30.51569938659668%2C39.77814483642578&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "1159bcb1-9efc-46f1-8235-cd53ebd2bac5",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "SmS Bayan Kuaförü",
   "sektor": "guzellik-salonu",
   "kategori": "guzellik-salonu",
@@ -12667,6 +15372,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Smokin Eskişehir",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "SELKA APT, Nayman Sk. BİNA NO 1 DAİRE 8 KAT 5, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.77885437011719,
+  "lng": 30.514699935913086,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.77885437011719,30.514699935913086",
+  "yandex_url": "https://yandex.com/maps/?text=Smokin Eskişehir&ll=30.514699935913086%2C39.77885437011719&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "76fff83f-bf03-45e9-8db8-8d157f158144",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Solar",
@@ -12998,6 +15732,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "SÜLeyman ÇEtİN",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Bilir Sokak 17F, Odunpazarı",
+  "il": null,
+  "ilce": "Odunpazarı",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.76885986328125,
+  "lng": 30.51885986328125,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.76885986328125,30.51885986328125",
+  "yandex_url": "https://yandex.com/maps/?text=SÜLeyman ÇEtİN&ll=30.51885986328125%2C39.76885986328125&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "f9efdcf7-935f-44a1-a5c9-b64ece8aa44e",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Süreyya Güzellik Salonu",
   "sektor": "guzellik-salonu",
   "kategori": "guzellik-salonu",
@@ -13049,7 +15812,8 @@
   "fsq_id": "55ffd9f6498efeb0556168b2",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "bffec1bc-6566-4b54-8349-79a2457230bd"
  },
  {
   "ad": "Sırma Güzellik & Kozmetik",
@@ -13109,6 +15873,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Taba Bay ve Bayan Kuaförü",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Üniversiteler Cad. Maliyeciler Sitesi No:152/B, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": "(0222) 321 16 16",
+  "web": "http://www.tabakuafor.com",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.788455963134766,
+  "lng": 30.507280349731445,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.788455963134766,30.507280349731445",
+  "yandex_url": "https://yandex.com/maps/?text=Taba Bay ve Bayan Kuaförü&ll=30.507280349731445%2C39.788455963134766&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "d63c6dbb-c454-4a4a-a9ff-bc4e63b3e9d2",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Tanyeli Bijuteri",
@@ -13240,6 +16033,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Trend nail",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "732. Sk No:28 kat 8 daire 72, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.783206939697266,
+  "lng": 30.50435447692871,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.783206939697266,30.50435447692871",
+  "yandex_url": "https://yandex.com/maps/?text=Trend nail&ll=30.50435447692871%2C39.783206939697266&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "581327c9-2c49-4b59-964a-ec41dc3ecdd4",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Turkmen Peugeot Garage",
   "sektor": "guzellik-salonu",
   "kategori": "guzellik-salonu",
@@ -13300,7 +16122,7 @@
   "hizmet_ipuclari": [
    "4f04aa0c2fb6e1c99f3db0b8"
   ],
-  "adres": null,
+  "adres": "Seylap Cd. 7A, Tepebaşı",
   "il": null,
   "ilce": "Tepebaşı",
   "mahalle": null,
@@ -13318,7 +16140,8 @@
   "fsq_id": "5fc9080112bc2f09b69e94ff",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "1899f844-9108-43a2-b2dc-84b9b4e77d31"
  },
  {
   "ad": "Tuğçe Güçlü Güzellik Merkezi",
@@ -13372,7 +16195,37 @@
   "fsq_id": "5284d89711d2f7c92655dceb",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "c512d27b-4117-4f28-9da9-34fb2086854d"
+ },
+ {
+  "ad": "Tırnak Fabrikası Eskişehir",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": "tirnak",
+  "hizmet_ipuclari": [
+   "nail_salon"
+  ],
+  "adres": "Cengiz Topel Cd. No:28/3, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://instagram.com/tirnakfabrikasi",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.778099060058594,
+  "lng": 30.517520904541016,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.778099060058594,30.517520904541016",
+  "yandex_url": "https://yandex.com/maps/?text=Tırnak Fabrikası Eskişehir&ll=30.517520904541016%2C39.778099060058594&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "4d00a26c-61ea-43de-ab39-7e3b6c319b7f",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "U.b.t Protez Tırnak",
@@ -13400,6 +16253,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Ulgen Beauty",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Kızılcıklı Mahmut Pehlivan Caddesi No:39/D, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.77737808227539,
+  "lng": 30.510295867919922,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.77737808227539,30.510295867919922",
+  "yandex_url": "https://yandex.com/maps/?text=Ulgen Beauty&ll=30.510295867919922%2C39.77737808227539&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "042bdaf0-ea24-4bbb-a79d-041e95d45db6",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "UltraSun",
@@ -13453,7 +16335,8 @@
   "fsq_id": "50472fece4b004ecf0f76980",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "3cdda7ff-113d-45aa-8762-5ce52657e2d1"
  },
  {
   "ad": "Umitce Hair Stile",
@@ -13600,7 +16483,8 @@
   "fsq_id": "5cd6b7bd6fd626002ce97e17",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "0e91552c-de5b-4cdc-b89f-b5ca2a73702d"
  },
  {
   "ad": "Venüs Güzellik Merkezi",
@@ -13682,6 +16566,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Viktoriya Ozkan Nail Art Studio",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Hoşnudiye mahallesi, Sk.732, Bulvar No:28 No:28, daire:52, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.78297805786133,
+  "lng": 30.504222869873047,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.78297805786133,30.504222869873047",
+  "yandex_url": "https://yandex.com/maps/?text=Viktoriya Ozkan Nail Art Studio&ll=30.504222869873047%2C39.78297805786133&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "5893467d-69cf-41b4-85a6-6e98fab03d82",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Viktorya Özkan Saloon • Protez Tirnak Ve Kalici Oje",
@@ -13855,6 +16768,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "YD Clinic",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "İki Eylül Cd. Ticaret Sarayı Gökdemir İş Hanı no28 daire53, Odunpazarı",
+  "il": null,
+  "ilce": "Odunpazarı",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.77348709106445,
+  "lng": 30.517343521118164,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.77348709106445,30.517343521118164",
+  "yandex_url": "https://yandex.com/maps/?text=YD Clinic&ll=30.517343521118164%2C39.77348709106445&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "e548fd7d-1fbf-4e34-ac17-3997fa0c9c5d",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "YEMYO Güzellik Salonu",
@@ -14315,7 +17257,8 @@
   "fsq_id": "4fc794eae4b012a19d84f600",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "e2ce56e0-f49d-4136-9187-72fd107f4e9e"
  },
  {
   "ad": "Yuxcel Kozmetik",
@@ -14436,6 +17379,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Zaria güzellik salonu",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Cengiz Topel Cd. no:24 /10 kat: 2, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.777862548828125,
+  "lng": 30.51754379272461,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.777862548828125,30.51754379272461",
+  "yandex_url": "https://yandex.com/maps/?text=Zaria güzellik salonu&ll=30.51754379272461%2C39.777862548828125&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "6f7048c2-ea7a-4cb7-bcf4-452c29690f2e",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Zeta Güzellik ve Estetik Merkezi",
   "sektor": "guzellik-salonu",
   "kategori": "guzellik-salonu",
@@ -14460,7 +17432,8 @@
   "fsq_id": "59d672936bd36b7e018d4055",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "60e18529-d658-4aad-a9df-f0b748f0bc7c"
  },
  {
   "ad": "Zeynep Bayan Kuaförü",
@@ -14554,7 +17527,7 @@
   "il": null,
   "ilce": "Tepebaşı",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0222) 220 76 66",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -14568,7 +17541,9 @@
   "fsq_id": "5a31bfb38173cb2382ccf5e8",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "a90b1f06-e60b-4197-989a-62c0a775a6b1",
+  "alt": "tirnak"
  },
  {
   "ad": "Zeynepsoydanbeautycenter",
@@ -14577,7 +17552,7 @@
   "hizmet_ipuclari": [
    "4f04aa0c2fb6e1c99f3db0b8"
   ],
-  "adres": "Hoşnudiye Mahallesi",
+  "adres": "İsmet İnönü 1 Cd. Başkurt İs Merkezi kat 3 Daire 21, Tepebaşı",
   "il": null,
   "ilce": "Tepebaşı",
   "mahalle": null,
@@ -14595,7 +17570,8 @@
   "fsq_id": "5d00d1a82f97ec002c934247",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "35e85b47-43c9-4e63-9f8b-52feb37a9987"
  },
  {
   "ad": "Zulal Kuafor",
@@ -15254,7 +18230,7 @@
   "hizmet_ipuclari": [
    "4f04aa0c2fb6e1c99f3db0b8"
   ],
-  "adres": null,
+  "adres": "Seylap Caddesi 21C, Tepebaşı",
   "il": null,
   "ilce": "Tepebaşı",
   "mahalle": null,
@@ -15272,7 +18248,9 @@
   "fsq_id": "53c9530e498e0cb5e5e610b2",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "81f63bb5-7473-4a8b-aa55-7051ddc592b0",
+  "alt": "tirnak"
  },
  {
   "ad": "grand hair saç uygulama ve bakım merkezi",
@@ -15812,7 +18790,8 @@
   "fsq_id": "54034770498eccd89601138f",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "453a9f33-3db2-4081-a6c9-7a9811e95c89"
  },
  {
   "ad": "kuaföre meral",
@@ -16065,11 +19044,11 @@
   "hizmet_ipuclari": [
    "4f04aa0c2fb6e1c99f3db0b8"
   ],
-  "adres": null,
+  "adres": "Millet Caddesi 4E, Odunpazarı",
   "il": null,
   "ilce": "Odunpazarı",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0222) 229 19 09",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -16083,7 +19062,8 @@
   "fsq_id": "51d6ef75498e048f6b7f967b",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "ca843f74-7941-4b1e-a662-59d124d01b1b"
  },
  {
   "ad": "orkide güzellik salonu",
@@ -16165,7 +19145,8 @@
   "fsq_id": "534ffb0b498e8696570d0d9c",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "2c28bc93-423e-4d7e-86e7-2e285d1c555a"
  },
  {
   "ad": "salon esila",
@@ -16228,7 +19209,7 @@
   "hizmet_ipuclari": [
    "4f04aa0c2fb6e1c99f3db0b8"
   ],
-  "adres": "Kırmızı toprak Mah",
+  "adres": "Ercan Sk. No:33, Odunpazarı",
   "il": null,
   "ilce": "Odunpazarı",
   "mahalle": null,
@@ -16246,7 +19227,8 @@
   "fsq_id": "571cde4a498ec5b7a88a7a99",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "16d7fc13-52a4-4e28-9441-7f07741f33a7"
  },
  {
   "ad": "salon nuray",
@@ -16491,6 +19473,93 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "tosbik_erman_eskisehir",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Odunpazarı",
+  "il": null,
+  "ilce": "Odunpazarı",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.7714958190918,
+  "lng": 30.506515502929688,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.7714958190918,30.506515502929688",
+  "yandex_url": "https://yandex.com/maps/?text=tosbik_erman_eskisehir&ll=30.506515502929688%2C39.7714958190918&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "53add952-a62d-4371-b0d7-2c6013729440",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "tosbik_erman_eskisehir",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Odunpazarı",
+  "il": null,
+  "ilce": "Odunpazarı",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.76896667480469,
+  "lng": 30.504514694213867,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.76896667480469,30.504514694213867",
+  "yandex_url": "https://yandex.com/maps/?text=tosbik_erman_eskisehir&ll=30.504514694213867%2C39.76896667480469&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "b2cb1197-1feb-4175-b30a-26931b43b9b3",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "tosbik_erman_eskisehir",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Odunpazarı",
+  "il": null,
+  "ilce": "Odunpazarı",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.777408599853516,
+  "lng": 30.445995330810547,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.777408599853516,30.445995330810547",
+  "yandex_url": "https://yandex.com/maps/?text=tosbik_erman_eskisehir&ll=30.445995330810547%2C39.777408599853516&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "480278aa-75c5-4ae4-aa00-0ed768fe7ff3",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "tuba  spa salonu",
@@ -16790,6 +19859,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Çiğdem Güzellik Salonu | Cilt Bakımı, Lazer Epilasyon & Profesyonel Bakımlar",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "İsmet İnönü 1 Cd. yalçın kılıçoğlu plaza kat 7 daire 77, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.7772331237793,
+  "lng": 30.51734161376953,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.7772331237793,30.51734161376953",
+  "yandex_url": "https://yandex.com/maps/?text=Çiğdem Güzellik Salonu | Cilt Bakımı, Lazer Epilasyon & Profesyonel Bakımlar&ll=30.51734161376953%2C39.7772331237793&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "34f49a70-8942-4216-a02c-0806624fb7e4",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Çığ bayan kuaför",
   "sektor": "guzellik-salonu",
   "kategori": "guzellik-salonu",
@@ -16927,7 +20025,8 @@
   "fsq_id": "5ce1330edd8442002c481226",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "d84f5d74-50d8-48fb-a7ac-7181f2b2a4ca"
  },
  {
   "ad": "Öznur Bayan Kuaförü",
@@ -16982,6 +20081,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Ümit SAc Tasarım Merkezi",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Birlik Caddesi 19B, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.77597427368164,
+  "lng": 30.469911575317383,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.77597427368164,30.469911575317383",
+  "yandex_url": "https://yandex.com/maps/?text=Ümit SAc Tasarım Merkezi&ll=30.469911575317383%2C39.77597427368164&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "11f1d811-fa64-4b1f-83b6-0a583ca9fd92",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Ümran Bayan Kuaförü",
@@ -17152,12 +20280,12 @@
   "hizmet_ipuclari": [
    "4f04aa0c2fb6e1c99f3db0b8"
   ],
-  "adres": null,
+  "adres": "Sağın Sk. No:14 A, Tepebaşı",
   "il": null,
   "ilce": "Tepebaşı",
   "mahalle": null,
-  "telefon": null,
-  "web": null,
+  "telefon": "(0222) 234 03 03",
+  "web": "http://www.kuaforilkerarslan.com.tr/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -17170,7 +20298,8 @@
   "fsq_id": "59d8f756a6fe4d20a2039b17",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "e948d892-f691-4569-b0af-a109b02ea5ba"
  },
  {
   "ad": "İlknur Bayan Kuaförü&Güzellik Saloonu",
@@ -17198,6 +20327,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "İlknur Güneş Beauty",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "İki Eylül Cd. No:60 D:32 Kat 6, Odunpazarı",
+  "il": null,
+  "ilce": "Odunpazarı",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.ilknurgunes.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.772342681884766,
+  "lng": 30.517057418823242,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.772342681884766,30.517057418823242",
+  "yandex_url": "https://yandex.com/maps/?text=İlknur Güneş Beauty&ll=30.517057418823242%2C39.772342681884766&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "56e5c785-d920-4f73-bfd5-8459bab71971",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "İmage Güzellik Salonu",
@@ -17260,7 +20418,7 @@
   "hizmet_ipuclari": [
    "4f04aa0c2fb6e1c99f3db0b8"
   ],
-  "adres": null,
+  "adres": "Akyıl Sk. No:30, Odunpazarı",
   "il": null,
   "ilce": "Odunpazarı",
   "mahalle": null,
@@ -17278,7 +20436,8 @@
   "fsq_id": "512cb2f5e4b0d87b07ba8f7b",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "9ce404e6-60ee-4781-80d4-a27960e9c6bc"
  },
  {
   "ad": "İsimsiz Berber",

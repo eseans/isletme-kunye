@@ -840,6 +840,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Bala Ilce Hastanesi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Atatürk Bulvarı, Bala",
+  "il": null,
+  "ilce": "Bala",
+  "mahalle": null,
+  "telefon": "(0312) 876 18 00",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.55765914916992,
+  "lng": 33.117637634277344,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.55765914916992,33.117637634277344",
+  "yandex_url": "https://yandex.com/maps/?text=Bala Ilce Hastanesi&ll=33.117637634277344%2C39.55765914916992&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "e724997c-075a-47ec-b9b1-e35679ff2f92",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Bala İlçe Entegre Hastanesi",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -975,6 +1004,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Calilioz Seyrantepe Aile Sagligi Merkezi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "528. Sk. no:1",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0318) 212 77 78",
+  "web": "https://seyrantepeasm.tr.gg/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.850650787353516,
+  "lng": 33.49418640136719,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.850650787353516,33.49418640136719",
+  "yandex_url": "https://yandex.com/maps/?text=Calilioz Seyrantepe Aile Sagligi Merkezi&ll=33.49418640136719%2C39.850650787353516&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "076876c0-855c-45d7-85d8-b64969dbdf52",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Cengiz Optik",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -1002,17 +1060,46 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Clinique318 Ağız ve Diş Sağlığı Polikliniği",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Samsun Bulvarı 59/a",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0318) 233 03 33",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.8522834777832,
+  "lng": 33.49397659301758,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.8522834777832,33.49397659301758",
+  "yandex_url": "https://yandex.com/maps/?text=Clinique318 Ağız ve Diş Sağlığı Polikliniği&ll=33.49397659301758%2C39.8522834777832&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "00f60062-2780-4ce5-8372-770feff2d097",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "DR.TEKİN KALE",
   "sektor": "klinik",
   "kategori": "klinik",
   "hizmet_ipuclari": [
    "4bf58dd8d48988d177941735"
   ],
-  "adres": null,
+  "adres": "592. Sk. No:8/A",
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0318) 212 12 12",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -1026,7 +1113,9 @@
   "fsq_id": "549ecaad498e29e8a68b0d46",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "fba9bbbd-c202-40ff-88db-c4dd4f269b0e",
+  "alt": "muayenehane"
  },
  {
   "ad": "Dahiliye Servisi",
@@ -1081,6 +1170,93 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Delice Devlet Hastanesi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Çorum Yol, Delice",
+  "il": null,
+  "ilce": "Delice",
+  "mahalle": null,
+  "telefon": "(0318) 618 61 41",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.94002151489258,
+  "lng": 34.031986236572266,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.94002151489258,34.031986236572266",
+  "yandex_url": "https://yandex.com/maps/?text=Delice Devlet Hastanesi&ll=34.031986236572266%2C39.94002151489258&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "0f74a665-3cc4-4040-b007-25be11ca3f52",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Delice İlçe Hastanesi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Delice, Delice",
+  "il": null,
+  "ilce": "Delice",
+  "mahalle": null,
+  "telefon": "(0318) 618 61 41",
+  "web": "http://delicedh.saglik.gov.tr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.944602966308594,
+  "lng": 34.031707763671875,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.944602966308594,34.031707763671875",
+  "yandex_url": "https://yandex.com/maps/?text=Delice İlçe Hastanesi&ll=34.031707763671875%2C39.944602966308594&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "3b0a60f7-c5a5-4e7d-b988-16c6c602fe3a",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Dentists Group Elmadağ",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Yahya Kemal Sk. 3 B, Elmadağ",
+  "il": null,
+  "ilce": "Elmadağ",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.92158889770508,
+  "lng": 33.228572845458984,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.92158889770508,33.228572845458984",
+  "yandex_url": "https://yandex.com/maps/?text=Dentists Group Elmadağ&ll=33.228572845458984%2C39.92158889770508&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "26f47743-b590-437b-90f6-bf3d4d4e78ef",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Derm-an",
@@ -2112,6 +2288,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Etiler AİLE Sağliği Merkezi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "ETİLER MAH. KARACALI CADDESİ ",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0318) 234 04 88",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.85432052612305,
+  "lng": 33.5175895690918,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.85432052612305,33.5175895690918",
+  "yandex_url": "https://yandex.com/maps/?text=Etiler AİLE Sağliği Merkezi&ll=33.5175895690918%2C39.85432052612305&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "e138edb3-7c6e-4c15-9b46-ab1d2296580c",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Etiler Sanayi Aile Sağlığı Merkezi",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -2308,12 +2513,12 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d177941735"
   ],
-  "adres": "Kaletepe Mahallesi Cengiz Topel Caddesi Ulutaş Apartmanı",
+  "adres": "Cengiz Topel Cd. No: 2",
   "il": null,
   "ilce": null,
   "mahalle": null,
   "telefon": null,
-  "web": null,
+  "web": "http://www.fztburakpekdogan.com/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -2326,7 +2531,8 @@
   "fsq_id": "5b6219d82d2fd90039fc6eae",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "7b1dfc29-6939-43c1-822a-d3f6b58c226b"
  },
  {
   "ad": "Gastroenteroloji",
@@ -2407,7 +2613,9 @@
   "fsq_id": "56b9af50498e829175cebef4",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "e6c3255e-fdd2-4d24-9f19-012acf3f723a",
+  "alt": "muayenehane"
  },
  {
   "ad": "Göz Hastalıkları Polikliniği",
@@ -2786,6 +2994,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Hilal Hastanesi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "AMSUN YOLU",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0318) 233 71 01",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.84328842163086,
+  "lng": 33.50647735595703,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.84328842163086,33.50647735595703",
+  "yandex_url": "https://yandex.com/maps/?text=Hilal Hastanesi&ll=33.50647735595703%2C39.84328842163086&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "f29ca1c5-764b-4256-91d5-0805489d4078",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Hilal Hastanesi Radyoloji",
@@ -3491,6 +3728,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Kale MedİKal",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "KALE MEDİKAL, Hürriyet Cd. 56/B",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.emremedikal.net/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.84431457519531,
+  "lng": 33.50324630737305,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.84431457519531,33.50324630737305",
+  "yandex_url": "https://yandex.com/maps/?text=Kale MedİKal&ll=33.50324630737305%2C39.84431457519531&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "9c5a8ec6-1e45-40f4-a824-b5071dee6b7d",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Kalecik 75.yil ADSM Poliklinigi",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -4029,6 +4295,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Kirikkale Universitesi Tıp Fakultesi Hastanesi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Hürriyet Caddesi",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.8475227355957,
+  "lng": 33.502986907958984,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.8475227355957,33.502986907958984",
+  "yandex_url": "https://yandex.com/maps/?text=Kirikkale Universitesi Tıp Fakultesi Hastanesi&ll=33.502986907958984%2C39.8475227355957&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "33fb32c6-5c86-4877-b27f-9710e5a3b32c",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Kku Lazer Ve Estetik Merkezi",
@@ -4735,6 +5030,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Kırıkkale Ozel Derm An Cildiye",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Zafer Caddesi̇",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.84248733520508,
+  "lng": 33.50565719604492,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.84248733520508,33.50565719604492",
+  "yandex_url": "https://yandex.com/maps/?text=Kırıkkale Ozel Derm An Cildiye&ll=33.50565719604492%2C39.84248733520508&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "0f7cc1a0-59d9-40f4-bd5c-087881604db8",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Kırıkkale Tıp YDYB",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -5120,12 +5444,12 @@
    "4bf58dd8d48988d12a941735",
    "4bf58dd8d48988d196941735"
   ],
-  "adres": null,
+  "adres": "Ahılı Caddesi 29",
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
-  "web": null,
+  "telefon": "(0318) 225 18 18",
+  "web": "http://www.kirikkaleadsm.gov.tr",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -5138,7 +5462,9 @@
   "fsq_id": "56b30534498edc4084f9f541",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "cbcc0bb7-78a7-4478-9591-617e21b1ec6a",
+  "alt": "muayenehane"
  },
  {
   "ad": "Kırıkkale hacı hidayet doğruer sağlık ocağı",
@@ -6008,6 +6334,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Pars Dental Ağız ve Diş Sağlığı Polikliniği",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "muhtarlık çaprazı, Menderes Blv. no:87, Elmadağ",
+  "il": null,
+  "ilce": "Elmadağ",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.97947311401367,
+  "lng": 33.16636657714844,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.97947311401367,33.16636657714844",
+  "yandex_url": "https://yandex.com/maps/?text=Pars Dental Ağız ve Diş Sağlığı Polikliniği&ll=33.16636657714844%2C39.97947311401367&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "d144fdda-6a9d-4ee9-8fd9-4a73f7bfbd0e",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Pediatri Toplantı Odası",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -6386,6 +6741,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Serap Meriç Kılıçcı",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Zafer Caddesi 1",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.840187072753906,
+  "lng": 33.50566864013672,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.840187072753906,33.50566864013672",
+  "yandex_url": "https://yandex.com/maps/?text=Serap Meriç Kılıçcı&ll=33.50566864013672%2C39.840187072753906&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "0457e67f-0625-46e6-a917-ff81abd60cdd",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Sigara bırakma polikliniği",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -6494,6 +6878,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Tataroğulları",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Osmangazi Caddesi 24, Yahşihan",
+  "il": null,
+  "ilce": "Yahşihan",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.tatarogullari.gen.tr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.868385314941406,
+  "lng": 33.46293258666992,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.868385314941406,33.46293258666992",
+  "yandex_url": "https://yandex.com/maps/?text=Tataroğulları&ll=33.46293258666992%2C39.868385314941406&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "feae0d69-6ca8-4360-bf36-fda575be3404",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Tepebaşı Aile Sağlığı Merkezi",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -6600,6 +7013,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Welltures Kırıkkale",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Kurtuluş Mah. Menderes Cad. ",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.839393615722656,
+  "lng": 33.518619537353516,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.839393615722656,33.518619537353516",
+  "yandex_url": "https://yandex.com/maps/?text=Welltures Kırıkkale&ll=33.518619537353516%2C39.839393615722656&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "6eed1481-659f-4ab5-ba5b-f86457932538",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Y.İ Koroner Yoğun Bakım",
@@ -7412,6 +7854,64 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Zaferdent Agiz ve Dis Sagligi Poliklinigi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Zafer Cd. No:27 Kat:2",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0318) 333 33 13",
+  "web": "http://www.zaferdent.com.tr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.841468811035156,
+  "lng": 33.50566482543945,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.841468811035156,33.50566482543945",
+  "yandex_url": "https://yandex.com/maps/?text=Zaferdent Agiz ve Dis Sagligi Poliklinigi&ll=33.50566482543945%2C39.841468811035156&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "6e3fe5f4-2d1a-49b6-868d-a230b45ca247",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Zkr Nurse Call",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Ümit mah. Okullar Sk. No: 16 , Elmadağ",
+  "il": null,
+  "ilce": "Elmadağ",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.zkr.com.tr/en/contact-us",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.991390228271484,
+  "lng": 33.25082778930664,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.991390228271484,33.25082778930664",
+  "yandex_url": "https://yandex.com/maps/?text=Zkr Nurse Call&ll=33.25082778930664%2C39.991390228271484&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "6cb7b07b-07a5-47cc-a7fd-365a3e516453",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "ada tıbbi cihazlar",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -7653,6 +8153,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "elif işitme merkezi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Zafer Caddesi 7",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0318) 218 36 37",
+  "web": "http://www.elifisitme.com",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.85054397583008,
+  "lng": 33.51823043823242,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.85054397583008,33.51823043823242",
+  "yandex_url": "https://yandex.com/maps/?text=elif işitme merkezi&ll=33.51823043823242%2C39.85054397583008&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "210288b5-e7ef-49a3-a08a-677e86fb13a4",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "emir optik",
@@ -8555,11 +9084,11 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d177941735"
   ],
-  "adres": null,
+  "adres": "Zafer Cd. 4/A",
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0318) 210 02 22",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -8573,7 +9102,8 @@
   "fsq_id": "53874749498ec79056408e9c",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "92b62bb6-a04a-40a4-a0bf-a7b66eac1bce"
  },
  {
   "ad": "yurtkur revir",
@@ -8819,6 +9349,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Çelebi Toplum Sağlığı Merkezi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Fatih Mahallesi, Çelebi",
+  "il": null,
+  "ilce": "Çelebi",
+  "mahalle": null,
+  "telefon": "(0318) 414 50 50",
+  "web": "http://www.celebi.tsm.saglik.gov.tr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.46437454223633,
+  "lng": 33.52695083618164,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.46437454223633,33.52695083618164",
+  "yandex_url": "https://yandex.com/maps/?text=Çelebi Toplum Sağlığı Merkezi&ll=33.52695083618164%2C39.46437454223633&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "88761d62-d7c8-4893-ac1a-47e697dbf4fc",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Çerikli ASM",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -8927,6 +9486,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "ÖMÜR İŞİTme CİHazlari Merkezİ",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "DR. AHMET AY CD NO:7/C",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0318) 233 21 21",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.86127853393555,
+  "lng": 33.480979919433594,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.86127853393555,33.480979919433594",
+  "yandex_url": "https://yandex.com/maps/?text=ÖMÜR İŞİTme CİHazlari Merkezİ&ll=33.480979919433594%2C39.86127853393555&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "ebb34043-33e1-4055-ab94-3791074448ee",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Ömer Öztüç'ün Malikanesi",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -9006,6 +9594,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Özel Kırıkkale Yaşam Hastanesi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Merkez, Kırıkkale, Turkey, 71500",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0318) 212 50 00",
+  "web": "http://www.kirikkaleyasam.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.84056854248047,
+  "lng": 33.51199722290039,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.84056854248047,33.51199722290039",
+  "yandex_url": "https://yandex.com/maps/?text=Özel Kırıkkale Yaşam Hastanesi&ll=33.51199722290039%2C39.84056854248047&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "d76b0a5b-4838-4c56-9ba7-e86fd876400d",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Özel Yavuz Şimşek kadın doğum kliniği",
@@ -9411,5 +10028,34 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Şifa Ocağı",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Ulubatlı Hasan Caddesi 80",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.83759689331055,
+  "lng": 33.49502944946289,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.83759689331055,33.49502944946289",
+  "yandex_url": "https://yandex.com/maps/?text=Şifa Ocağı&ll=33.49502944946289%2C39.83759689331055&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "1e4a950c-d65f-4a00-82b6-16964d4c07ea",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  }
 ]

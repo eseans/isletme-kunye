@@ -24,7 +24,37 @@
   "fsq_id": "53423c25498edc433ad20f93",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "d9a01554-cda8-4c08-9eb3-481c69b1340b"
+ },
+ {
+  "ad": "3K Dental",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Taksim Cd. Uğur apt no:80/2, Ortahisar",
+  "il": null,
+  "ilce": "Ortahisar",
+  "mahalle": null,
+  "telefon": "(0462) 333 35 55",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.00087356567383,
+  "lng": 39.72968673706055,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.00087356567383,39.72968673706055",
+  "yandex_url": "https://yandex.com/maps/?text=3K Dental&ll=39.72968673706055%2C41.00087356567383&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "0a04a28e-bb81-4df3-8b83-263e6dbe8330",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Adnan Günnar Ortodonti Uzmanı",
@@ -162,18 +192,76 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Araklı Diş Polikliniği",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Çınar Sk. No:2, Araklı",
+  "il": null,
+  "ilce": "Araklı",
+  "mahalle": null,
+  "telefon": "(0462) 721 31 15",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.938568115234375,
+  "lng": 40.05390548706055,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.938568115234375,40.05390548706055",
+  "yandex_url": "https://yandex.com/maps/?text=Araklı Diş Polikliniği&ll=40.05390548706055%2C40.938568115234375&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "1cd8387e-1ec0-4dfd-a571-e19b1370d3cf",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Arem DentaL",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Milli Egemenlik Caddesi 15, Akçaabat",
+  "il": null,
+  "ilce": "Akçaabat",
+  "mahalle": null,
+  "telefon": "(0462) 228 07 61",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.02044677734375,
+  "lng": 39.5735969543457,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.02044677734375,39.5735969543457",
+  "yandex_url": "https://yandex.com/maps/?text=Arem DentaL&ll=39.5735969543457%2C41.02044677734375&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "85815af7-511d-4417-ab9a-297baf335c1f",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Armutcu Dis Klinigi",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
   "hizmet_ipuclari": [
    "4bf58dd8d48988d178941735"
   ],
-  "adres": null,
+  "adres": "Gazi Caddesi 18, Sur",
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
-  "web": null,
+  "telefon": "(0462) 322 41 76",
+  "web": "http://www.armutcudisklinigi.com/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -186,7 +274,8 @@
   "fsq_id": "4f3a8630e4b03d7831c8e6c4",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "d6fbbb23-99f0-4d15-a921-442777f10027"
  },
  {
   "ad": "Atasoy Diş Kliniği",
@@ -241,6 +330,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Aydent Beşirli Ağız ve Diş Sağlığı Polikliniği",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "D. Sahil yolu Cad No: 489/A, Ortahisar",
+  "il": null,
+  "ilce": "Ortahisar",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.994083404541016,
+  "lng": 39.665771484375,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.994083404541016,39.665771484375",
+  "yandex_url": "https://yandex.com/maps/?text=Aydent Beşirli Ağız ve Diş Sağlığı Polikliniği&ll=39.665771484375%2C40.994083404541016&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "a4eca1f7-fcff-45ca-b8c6-f3a3f68a6b24",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Ağız Ve Diş Sağlığı",
@@ -324,6 +442,64 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Cetinkaya Dis Deposu",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Balıkpazarı Sk. Birlik Apt No:14 D:7, Ortahisar",
+  "il": null,
+  "ilce": "Ortahisar",
+  "mahalle": null,
+  "telefon": "(0462) 323 11 55",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.00693130493164,
+  "lng": 39.72933578491211,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.00693130493164,39.72933578491211",
+  "yandex_url": "https://yandex.com/maps/?text=Cetinkaya Dis Deposu&ll=39.72933578491211%2C41.00693130493164&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "c050f277-c709-43c6-aec9-4140c7f730bb",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "DEKODENT AĞIZ ve DİŞ SAĞLIĞI POLİKLİNİĞİ - Trabzon Diş Kliniği",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Yavuz Selim Blv. No:336 /A, Ortahisar",
+  "il": null,
+  "ilce": "Ortahisar",
+  "mahalle": null,
+  "telefon": "(0462) 333 44 00",
+  "web": "https://www.doktortakvimi.com/klinikler/ozel-dekodent-ozel-agiz-ve-dis-sagligi-poliklinigi",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.99885559082031,
+  "lng": 39.69670867919922,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.99885559082031,39.69670867919922",
+  "yandex_url": "https://yandex.com/maps/?text=DEKODENT AĞIZ ve DİŞ SAĞLIĞI POLİKLİNİĞİ - Trabzon Diş Kliniği&ll=39.69670867919922%2C40.99885559082031&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "ea2ad136-780b-42a3-bcab-3eba51014147",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "DT.METİN ALİ DEMİREL",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -405,6 +581,64 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Dekodentrabzon",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Yavuz Selim Bulvarı 336A, Ortahisar",
+  "il": null,
+  "ilce": "Ortahisar",
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://dekodenttrabzon.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.998653411865234,
+  "lng": 39.69828414916992,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.998653411865234,39.69828414916992",
+  "yandex_url": "https://yandex.com/maps/?text=Dekodentrabzon&ll=39.69828414916992%2C40.998653411865234&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "ce69a936-a215-47ed-8778-2efb2e3fc5d5",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Dent Beşirli Ağız ve Diş Sağlığı Polikliniği",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Devlet Sahil Yolu Cd. No:249/B, Ortahisar",
+  "il": null,
+  "ilce": "Ortahisar",
+  "mahalle": null,
+  "telefon": "(0462) 411 11 11",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.99663543701172,
+  "lng": 39.6758918762207,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.99663543701172,39.6758918762207",
+  "yandex_url": "https://yandex.com/maps/?text=Dent Beşirli Ağız ve Diş Sağlığı Polikliniği&ll=39.6758918762207%2C40.99663543701172&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "6297566f-bdc8-4b87-998a-8cc82729a121",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Dent Mavi Ağız ve Diş Sağlığı Polikliniği",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -432,6 +666,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Dent Trabzon Ağız ve Diş Sağlığı Merkezi",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Gazipaşa Mah. Zeytinlik Caddesi Zeytin Sk Zeytinlik Apt, Kilpa Üstü, Yavuz Selim Blv. No:3/A, Ortahisar",
+  "il": null,
+  "ilce": "Ortahisar",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.dentrabzon.com/iletisim",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.004173278808594,
+  "lng": 39.728057861328125,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.004173278808594,39.728057861328125",
+  "yandex_url": "https://yandex.com/maps/?text=Dent Trabzon Ağız ve Diş Sağlığı Merkezi&ll=39.728057861328125%2C41.004173278808594&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "edb5aa86-2be1-42a5-9c1d-fae9b80a15f7",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Dentakademi",
@@ -494,11 +757,11 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d178941735"
   ],
-  "adres": null,
+  "adres": "Kahramanmaraş Cd. No:35, Ortahisar",
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0462) 322 37 91",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -512,7 +775,8 @@
   "fsq_id": "501f8610e4b07240374834d3",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "51a38f43-2a9f-4fb9-a079-4bfc578618e5"
  },
  {
   "ad": "Dental House Ağız Ve Diş Sağlığı Polikliniği",
@@ -602,12 +866,12 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d178941735"
   ],
-  "adres": null,
+  "adres": "Gazipaşa Mahallesi Yavuzhan Sokak Aksu İş Merkezi No:2, İç Sk. no:22 Kat:2, Ortahisar",
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
-  "web": null,
+  "telefon": "(0462) 500 00 61",
+  "web": "http://www.dentelittrabzon.com/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -620,7 +884,8 @@
   "fsq_id": "65af8209b6db577db30c63da",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "c29522ce-8fe8-4348-b8fb-7153273c088a"
  },
  {
   "ad": "Dentis Özgür",
@@ -683,12 +948,12 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d178941735"
   ],
-  "adres": null,
+  "adres": "Kurşunoğlu Apt, Kahramanmaraş Cad, Ticaret Mektep Sk. No:8, Ortahisar",
   "il": null,
   "ilce": null,
   "mahalle": null,
   "telefon": "(0462) 322 40 78",
-  "web": null,
+  "web": "http://www.dentomed.com.tr/en",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -701,7 +966,8 @@
   "fsq_id": "4f5482d8e4b0d3a8f6f4fce2",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "1a4c5a06-4480-480e-8799-c9c16edd4abe"
  },
  {
   "ad": "Dentomed Diş Kliniği",
@@ -742,7 +1008,7 @@
   "ilce": "Yomra",
   "mahalle": null,
   "telefon": "0850 554 5454",
-  "web": null,
+  "web": "http://www.trabzondental.com/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -755,7 +1021,8 @@
   "fsq_id": "626bf0ae9c74067f1e2b3468",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "efc81e5e-eb75-4664-8ebe-0c761d06dd4a"
  },
  {
   "ad": "Dentrabzon Ağız ve Diş Sağlığı Merkezi",
@@ -899,7 +1166,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d178941735"
   ],
-  "adres": "Maraş Caddesi",
+  "adres": "Kemerkaya Mah. Maraş Cad. Halkevi Sokak Günaydın İşhanı Kat:2, Ortahisar",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -917,7 +1184,8 @@
   "fsq_id": "50991edee4b070c733bbf79c",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "d524b648-50fe-4b9a-9de8-16c740716d63"
  },
  {
   "ad": "Diş  Hekimi Cevdet",
@@ -1034,11 +1302,11 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d178941735"
   ],
-  "adres": null,
+  "adres": "Kemerkaya mah. Meydan hamam sok. Doktorlar işhanı Kat:4 No:40, Ortahisar",
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0462) 323 35 92",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -1052,7 +1320,8 @@
   "fsq_id": "562610ec498ec54f40678f15",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "5f902ddc-f4fc-42a2-9526-79bd1f21cd2e"
  },
  {
   "ad": "Diş Hekimi Adnan Günnar",
@@ -1514,6 +1783,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Diş Hekimi Dr. Gizem Ömeroğlu Demir",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Öztürkler Apartmanı, Yavuz Selim Blv. A Blok 365B, Ortahisar",
+  "il": null,
+  "ilce": "Ortahisar",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://gizemomeroglu.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.999637603759766,
+  "lng": 39.702396392822266,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.999637603759766,39.702396392822266",
+  "yandex_url": "https://yandex.com/maps/?text=Diş Hekimi Dr. Gizem Ömeroğlu Demir&ll=39.702396392822266%2C40.999637603759766&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "494172d4-2406-4216-9032-ab6397f8fa53",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Diş Hekimi Erdal Lermioğlu",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -1786,7 +2084,8 @@
   "fsq_id": "588f3467dc332914bcd7dd88",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "568169e5-1428-41c8-8d1b-54c99dd7d524"
  },
  {
   "ad": "Diş Hekimi Mecit Özaydın",
@@ -1922,7 +2221,8 @@
   "fsq_id": "6274c412e322e92643ad2812",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "276c2495-93d5-4bdf-8936-d40d03f39c57"
  },
  {
   "ad": "Diş Hekimi Miraç Koç",
@@ -1935,7 +2235,7 @@
   "il": null,
   "ilce": "Ortahisar",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0462) 322 13 43",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -1949,7 +2249,8 @@
   "fsq_id": "63db9c1e0ec0843dc8bd8b88",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "c0f47e78-62f9-4738-88fb-8e5b1f55b04f"
  },
  {
   "ad": "Diş Hekimi Muhammet Akturk",
@@ -1979,6 +2280,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Diş Hekimi Muhammet Aktürk",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Millî Piyango İdaresi Üstü, Gazipaşa Cd. Gazipaşa Sitesi Kat:3 No:16, Ortahisar",
+  "il": null,
+  "ilce": "Ortahisar",
+  "mahalle": null,
+  "telefon": "(0462) 277 77 77",
+  "web": "https://www.drakturk.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.00707244873047,
+  "lng": 39.730342864990234,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.00707244873047,39.730342864990234",
+  "yandex_url": "https://yandex.com/maps/?text=Diş Hekimi Muhammet Aktürk&ll=39.730342864990234%2C41.00707244873047&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "a8534916-5a7e-472e-ab53-3201d1956e0e",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Diş Hekimi Oktay Çavuşoğlu",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -1989,7 +2319,7 @@
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0462) 321 55 15",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -2003,7 +2333,8 @@
   "fsq_id": "51793e30e4b05b2326e4022a",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "8eae0d99-7927-4f89-9471-c5cee18c9ddd"
  },
  {
   "ad": "Diş Hekimi Rasim Aktürk",
@@ -2660,11 +2991,11 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d178941735"
   ],
-  "adres": null,
+  "adres": "Kasımoğlu Çk. No:11, Ortahisar",
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0462) 323 60 00",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -2678,7 +3009,8 @@
   "fsq_id": "55dc2df7498e4afd6349085a",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "0c689547-afa8-43b4-9c3d-e75c54814177"
  },
  {
   "ad": "Dişhekimi İsmail KARKAÇ&Rıdvan ÇELİK",
@@ -3059,6 +3391,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Doğa Dental",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "KEMERKAYA MAH. AHMET SELİM TEYMUR SOK. DORUK İŞHANI, KAT:4 NO:28, Ortahisar",
+  "il": null,
+  "ilce": "Ortahisar",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.005733489990234,
+  "lng": 39.7295036315918,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.005733489990234,39.7295036315918",
+  "yandex_url": "https://yandex.com/maps/?text=Doğa Dental&ll=39.7295036315918%2C41.005733489990234&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "993874c1-675f-45e2-9bf9-b8ca9e8734f2",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Dr Cemil Bulak",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -3146,11 +3507,11 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d178941735"
   ],
-  "adres": null,
+  "adres": "Sulu Han, Kahramanmaraş Caddesi 2, Ortahisar",
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0462) 321 08 27",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -3164,7 +3525,8 @@
   "fsq_id": "584958b2ec980f64de9b3c5d",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "2db983a0-a736-4e48-8434-c57d6533508d"
  },
  {
   "ad": "Dr. Berna Özel",
@@ -3173,12 +3535,12 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d178941735"
   ],
-  "adres": "Atatürk Alanı",
+  "adres": "Gazipaşa Mh. Atatürk Alanı Halis Çebi İş Merk. No:25 Kat:3 Daire:6, Ortahisar",
   "il": null,
   "ilce": null,
   "mahalle": null,
   "telefon": "(0462) 321 29 29",
-  "web": null,
+  "web": "http://www.bernaozel.com/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -3191,7 +3553,8 @@
   "fsq_id": "50168ae4e4b07f20b4410590",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "48401af0-85fb-4f3d-a0ef-dd6a69158191"
  },
  {
   "ad": "Dr. Berna Özel Ortodonti Uzmanı",
@@ -3272,7 +3635,37 @@
   "fsq_id": "5a994f13065ef5259cc975c5",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "3190be01-a27d-4d73-aab6-f82775fa6713"
+ },
+ {
+  "ad": "Dr. Dt. Bilge Beşir Kalaycı",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Ziyad Nemli Sanat Sk. No:513, Ortahisar",
+  "il": null,
+  "ilce": "Ortahisar",
+  "mahalle": null,
+  "telefon": "(0462) 321 23 45",
+  "web": "http://www.drbilgebesirkalayci.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.005863189697266,
+  "lng": 39.72824478149414,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.005863189697266,39.72824478149414",
+  "yandex_url": "https://yandex.com/maps/?text=Dr. Dt. Bilge Beşir Kalaycı&ll=39.72824478149414%2C41.005863189697266&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "c983f72d-da43-4cbb-9b16-cebb3efdbb70",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Dr. Göksun Işıl",
@@ -3357,6 +3750,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Dr. Omer Kazanci",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Gazipaşa mahallesi Uzun sok. Zafer Çarşısı Kat:2 Uzun Sok. Zafer Çarşısı D:Kat:2 No:201, Ortahisar",
+  "il": null,
+  "ilce": "Ortahisar",
+  "mahalle": null,
+  "telefon": "(0462) 321 76 51",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.005043029785156,
+  "lng": 39.729774475097656,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.005043029785156,39.729774475097656",
+  "yandex_url": "https://yandex.com/maps/?text=Dr. Omer Kazanci&ll=39.729774475097656%2C41.005043029785156&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "07899888-6b72-4f7e-b90d-efe8f240c7ac",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Dr. Ozgur Pasaoglu Muayenesi",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -3381,7 +3803,37 @@
   "fsq_id": "51e50bf1498e3c12ddfd2260",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "55a15ade-6867-4c8d-ab18-34475bd1bf5c"
+ },
+ {
+  "ad": "Dr. Selcan Tugcugil Uzun",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Kemerkaya Mah. Maraş Cad Bordo İş Hanı Kat:1, Ortahisar",
+  "il": null,
+  "ilce": "Ortahisar",
+  "mahalle": null,
+  "telefon": "(0462) 322 10 08",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.00558090209961,
+  "lng": 39.729408264160156,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.00558090209961,39.729408264160156",
+  "yandex_url": "https://yandex.com/maps/?text=Dr. Selcan Tugcugil Uzun&ll=39.729408264160156%2C41.00558090209961&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "45411a68-d08e-41d3-b053-c51e0ad833e0",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Dr. Tekin Özlü",
@@ -3571,7 +4023,8 @@
   "fsq_id": "56ae6066498e8d1d1dd64332",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "d2d2f7b2-de59-43b0-9599-029fb16bb733"
  },
  {
   "ad": "Dt . Bilge Beşir Kalaycı",
@@ -3626,6 +4079,64 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Dt. Erhan Kalay",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Ahmet Yardım Cd. NO: 13/2, Beşikdüzü",
+  "il": null,
+  "ilce": "Beşikdüzü",
+  "mahalle": null,
+  "telefon": "(0462) 871 32 80",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.05185317993164,
+  "lng": 39.23038101196289,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.05185317993164,39.23038101196289",
+  "yandex_url": "https://yandex.com/maps/?text=Dt. Erhan Kalay&ll=39.23038101196289%2C41.05185317993164&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "279d53de-654e-4f48-ba9a-fcab52a683e6",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Dt. Ertan Yıldız",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Gazipaşa Cd. No:9, Ortahisar",
+  "il": null,
+  "ilce": "Ortahisar",
+  "mahalle": null,
+  "telefon": "(0462) 321 03 97",
+  "web": "http://www.handebasoglu.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.0067024230957,
+  "lng": 39.73021697998047,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.0067024230957,39.73021697998047",
+  "yandex_url": "https://yandex.com/maps/?text=Dt. Ertan Yıldız&ll=39.73021697998047%2C41.0067024230957&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "1b42dd7e-a48e-4db0-b3c6-b021fb9948b1",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Dt. M. Atahan Turgut Dis Kliniği",
@@ -3733,7 +4244,8 @@
   "fsq_id": "66d59a17cd58d633fba79d10",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "4f2e79e8-4c9b-414b-99f6-3ced84eb5958"
  },
  {
   "ad": "Dt.Muhammed Aktürk",
@@ -3909,7 +4421,7 @@
   "ilce": null,
   "mahalle": null,
   "telefon": "(0462) 321 37 27",
-  "web": null,
+  "web": "http://www.essedisklinigi.com/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -3922,7 +4434,8 @@
   "fsq_id": "53bbeb3d498ee0e8a7ab6e84",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "17d73fb4-7a76-4036-ad0c-14524fa3bfa9"
  },
  {
   "ad": "Es&Se İmplant ve Estetik Diş Kliniği",
@@ -3977,6 +4490,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Esse Dental Clinic",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Ticaret Mektep Sk. No:9, Ortahisar",
+  "il": null,
+  "ilce": "Ortahisar",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.00567626953125,
+  "lng": 39.728004455566406,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.00567626953125,39.728004455566406",
+  "yandex_url": "https://yandex.com/maps/?text=Esse Dental Clinic&ll=39.728004455566406%2C41.00567626953125&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "41f65ea3-a282-4df9-9464-b4a8c51a6700",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Esse Klinik",
@@ -4087,6 +4629,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Gökhan ÇEBİ",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Merkez Cami, Avni Akkan Cad, Karşısı, Çarşıbaşı",
+  "il": null,
+  "ilce": "Çarşıbaşı",
+  "mahalle": null,
+  "telefon": "(0462) 821 38 44",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.08210754394531,
+  "lng": 39.37791442871094,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.08210754394531,39.37791442871094",
+  "yandex_url": "https://yandex.com/maps/?text=Gökhan ÇEBİ&ll=39.37791442871094%2C41.08210754394531&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "9a15dad1-cb7d-4d3f-960a-d2d2465644ae",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Hüseyin Semra Cezairli Diş Kliniği",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -4151,8 +4722,8 @@
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
-  "web": null,
+  "telefon": "(0462) 323 30 30",
+  "web": "http://www.kandazdental.com/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -4165,7 +4736,8 @@
   "fsq_id": "4fa39018e4b0d905243ef35a",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "07437944-eb7c-4886-8c58-02620573982d"
  },
  {
   "ad": "Kaşüstü Dent",
@@ -4174,7 +4746,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d178941735"
   ],
-  "adres": null,
+  "adres": "ŞEHRİ NAZ EVLERİ, Okullar Cd. A BLOK KAT:2, Yomra",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -4192,7 +4764,37 @@
   "fsq_id": "62261f55e48f0741316d38bb",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "c630f4d1-8285-4fea-92d5-667c5f28e709"
+ },
+ {
+  "ad": "Keskinklinik",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Kunduracılar Caddesi 57, Ortahisar",
+  "il": null,
+  "ilce": "Ortahisar",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://keskinmehmet.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.00600814819336,
+  "lng": 39.72902297973633,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.00600814819336,39.72902297973633",
+  "yandex_url": "https://yandex.com/maps/?text=Keskinklinik&ll=39.72902297973633%2C41.00600814819336&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "6544825f-88ac-4967-a454-6cb0e2ef1e16",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Kivanc Dulger restoratif dis merkezi",
@@ -5164,7 +5766,8 @@
   "fsq_id": "53dc7c3e498eaf4cc22e2684",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "65e6bcd6-6b1e-490f-97b5-9f5b23d28f97"
  },
  {
   "ad": "Tekin Ozlu",
@@ -5248,6 +5851,93 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Trabzon Diş Hekimi Serdar Turan",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Kahraman Maraş Caddesi ahmet Selim Teymur Sokak Bordo İşhanı, Kat:4 No:44, Ortahisar",
+  "il": null,
+  "ilce": "Ortahisar",
+  "mahalle": null,
+  "telefon": "(0462) 323 22 60",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.005592346191406,
+  "lng": 39.72940444946289,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.005592346191406,39.72940444946289",
+  "yandex_url": "https://yandex.com/maps/?text=Trabzon Diş Hekimi Serdar Turan&ll=39.72940444946289%2C41.005592346191406&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "55090b02-e9a7-413d-9e34-0e21fe60dc08",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Trabzon Implant Ve Estetik Dis Klinigi",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Trabzon Caddesi deniz sk no 2/1 Seyitoglu iş merkezi, Araklı",
+  "il": null,
+  "ilce": "Araklı",
+  "mahalle": null,
+  "telefon": "(0462) 721 78 87",
+  "web": "http://www.laserestetikdis.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.93977355957031,
+  "lng": 40.05548095703125,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.93977355957031,40.05548095703125",
+  "yandex_url": "https://yandex.com/maps/?text=Trabzon Implant Ve Estetik Dis Klinigi&ll=40.05548095703125%2C40.93977355957031&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "701b16b3-da84-4d3b-8c63-dd8610421eb0",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Trabzon Merkez Ağız ve Diş Sağlığı Polikliniği",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Yavuz Selim Blv. No:96/8, Ortahisar",
+  "il": null,
+  "ilce": "Ortahisar",
+  "mahalle": null,
+  "telefon": "(0462) 300 33 68",
+  "web": "https://www.trabzonmerkezdis.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.00334548950195,
+  "lng": 39.72343826293945,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.00334548950195,39.72343826293945",
+  "yandex_url": "https://yandex.com/maps/?text=Trabzon Merkez Ağız ve Diş Sağlığı Polikliniği&ll=39.72343826293945%2C41.00334548950195&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "2186ddf2-f027-4147-9c72-38800d3f25e4",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Trabzon Pedodonti",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -5273,6 +5963,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Uzm Dt Elham Rahmaty",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Gazipaşa Mahallesi Yavuzhan Sokak Aksu İş Merkezi No:2, İç Sk. no:22 Kat:2, 61030 Ortahisar/Trabzon, Ortahisar",
+  "il": null,
+  "ilce": "Ortahisar",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.ortodontistelham.com.tr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.00746154785156,
+  "lng": 39.73190689086914,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.00746154785156,39.73190689086914",
+  "yandex_url": "https://yandex.com/maps/?text=Uzm Dt Elham Rahmaty&ll=39.73190689086914%2C41.00746154785156&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "9b33ba12-f2f1-43f1-a898-1cc2d448c2eb",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Uzm. Dt. Malike Aslan Kehribar, Periodontoloji, Diş Hekimi",
@@ -5327,6 +6046,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Yıldızlı Diş Kliniği ( Dt. Aliye KARAKAŞ)",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "1304. Sok Bulvar Rezidans D:2 A blok no:4AA, Akçaabat",
+  "il": null,
+  "ilce": "Akçaabat",
+  "mahalle": null,
+  "telefon": "(0462) 502 40 92",
+  "web": "https://goo.gl/maps/e5oCLZfDtDvRNRDi6",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.00491714477539,
+  "lng": 39.62324523925781,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.00491714477539,39.62324523925781",
+  "yandex_url": "https://yandex.com/maps/?text=Yıldızlı Diş Kliniği ( Dt. Aliye KARAKAŞ)&ll=39.62324523925781%2C41.00491714477539&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "d590a2fb-1f58-4396-ab3c-29020c7e62a3",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Zeki Özçelik Muayenehanesi",
@@ -5489,6 +6237,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "dentrabzon kaşüstü",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Kaşüstü Mahallesi Devlet Karayolu Caddesi 31/B Köleoğlu iş merkezi, Yomra",
+  "il": null,
+  "ilce": "Yomra",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.96407699584961,
+  "lng": 39.83903503417969,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.96407699584961,39.83903503417969",
+  "yandex_url": "https://yandex.com/maps/?text=dentrabzon kaşüstü&ll=39.83903503417969%2C40.96407699584961&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "a42c1cea-e88b-467c-9a89-790de9743102",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "dis hekimi mehmet taflan",
@@ -5867,6 +6644,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "dtipekkal",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Gazipaşa Caddesi 4A, Ortahisar",
+  "il": null,
+  "ilce": "Ortahisar",
+  "mahalle": null,
+  "telefon": "(0462) 322 23 64",
+  "web": "http://www.dishekimiipekkal.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.005794525146484,
+  "lng": 39.73031997680664,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.005794525146484,39.73031997680664",
+  "yandex_url": "https://yandex.com/maps/?text=dtipekkal&ll=39.73031997680664%2C41.005794525146484&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "9ab87387-d999-4f6f-b91f-9058dfb8e601",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "es&se Ağız Ve Diş Sağlığı Kliniği",
@@ -6434,5 +7240,34 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Şahindiş Deposu",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Yusufhan İş Merkezi, Yavuz Selim Blv. No:96, Ortahisar",
+  "il": null,
+  "ilce": "Ortahisar",
+  "mahalle": null,
+  "telefon": "(0462) 321 11 47",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.00324249267578,
+  "lng": 39.72323226928711,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.00324249267578,39.72323226928711",
+  "yandex_url": "https://yandex.com/maps/?text=Şahindiş Deposu&ll=39.72323226928711%2C41.00324249267578&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "6e892dd1-dd05-4423-86b4-7fa5594b7565",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  }
 ]

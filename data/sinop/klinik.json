@@ -456,7 +456,9 @@
   "fsq_id": "517e2429498e0b5232b09f9e",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "e414b107-dd8c-49e2-9fe8-33938ded1878",
+  "alt": "muayenehane"
  },
  {
   "ad": "Atatürk Devlet Hastanesi Acil Servis",
@@ -1079,7 +1081,8 @@
   "fsq_id": "5822e829f294fc555492aeb7",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "bdaea3c2-986c-4786-810e-cbac65f5a884"
  },
  {
   "ad": "Centro De Especialidades Médicas",
@@ -1115,12 +1118,12 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d196941735"
   ],
-  "adres": null,
+  "adres": "Kademci Sk. No:11/A",
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
-  "web": null,
+  "telefon": "(0368) 220 01 20",
+  "web": "https://www.dentapremium.com/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -1133,7 +1136,8 @@
   "fsq_id": "5e01fb0c66d0380008fc9bb2",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "9207dd67-72a2-4fbe-8acd-93f0340c87b3"
  },
  {
   "ad": "Derman ASM",
@@ -1298,6 +1302,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Dr. Akif Durmuş – Medikal Estetik Muayenehanesi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Aşağı Hamam Ykş. no:1/1",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.drakifdurmus.com.tr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 42.025901794433594,
+  "lng": 35.14676284790039,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=42.025901794433594,35.14676284790039",
+  "yandex_url": "https://yandex.com/maps/?text=Dr. Akif Durmuş – Medikal Estetik Muayenehanesi&ll=35.14676284790039%2C42.025901794433594&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "27f59b65-7501-4af2-87b1-12d9da0b2d0d",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Dr. Burhan ŞENDİL Dahiliye Polikliniği.",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -1350,6 +1383,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Dr. Nurten Cakici",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Hakan Ünsal Cd. 19a, Ayancık",
+  "il": null,
+  "ilce": "Ayancık",
+  "mahalle": null,
+  "telefon": "(0368) 613 57 01",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.94813537597656,
+  "lng": 34.58466339111328,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.94813537597656,34.58466339111328",
+  "yandex_url": "https://yandex.com/maps/?text=Dr. Nurten Cakici&ll=34.58466339111328%2C41.94813537597656&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "9cabb26d-df99-4ee0-b191-8de7a1d5f9fd",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Duragan Devlet Hastanesi",
@@ -1568,6 +1630,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Durağan hemodiyaliz merkezi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Durağan devlet hastanesi hemodiyaliz merkezi, Durağan",
+  "il": null,
+  "ilce": "Durağan",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.419189453125,
+  "lng": 35.0530891418457,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.419189453125,35.0530891418457",
+  "yandex_url": "https://yandex.com/maps/?text=Durağan hemodiyaliz merkezi&ll=35.0530891418457%2C41.419189453125&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "696d98e4-2f56-4d73-b2b1-13c06b8f3421",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Durqgan Devlet Hastanesi Diyaliz Servisi",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -1620,6 +1711,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Espera Bütüncül Yaşam Merkezi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "İnönü Caddesi 3",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 42.025814056396484,
+  "lng": 35.14387893676758,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=42.025814056396484,35.14387893676758",
+  "yandex_url": "https://yandex.com/maps/?text=Espera Bütüncül Yaşam Merkezi&ll=35.14387893676758%2C42.025814056396484&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "65276ffa-cb1b-419a-b7d5-5916cf0dc8c0",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Evde Bakım Hizmetleri",
@@ -1782,6 +1902,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Gerze AİLe SaĞLiĞI Merkezİ",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "HAMİDİYE MAHALLESİ VATAN BULVARI NO: 42, Gerze",
+  "il": null,
+  "ilce": "Gerze",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.806358337402344,
+  "lng": 35.190128326416016,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.806358337402344,35.190128326416016",
+  "yandex_url": "https://yandex.com/maps/?text=Gerze AİLe SaĞLiĞI Merkezİ&ll=35.190128326416016%2C41.806358337402344&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "6b1083f7-c63f-453c-9442-9c2894db1d82",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Gerze Devlet Hastanesi",
@@ -1973,6 +2122,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Hanonu Saglık Ocagı",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "İstanbul Samsun Yolu Hanönü, Hanönü",
+  "il": null,
+  "ilce": "Hanönü",
+  "mahalle": null,
+  "telefon": "(0366) 497 52 33",
+  "web": "http://fbf.bz/b/58f",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.62640380859375,
+  "lng": 34.45258331298828,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.62640380859375,34.45258331298828",
+  "yandex_url": "https://yandex.com/maps/?text=Hanonu Saglık Ocagı&ll=34.45258331298828%2C41.62640380859375&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "8cc7294a-d339-47f4-832d-38b29ebdcf16",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Hanönü 29 Nolu Aile Sağlığı Merkezi",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -2133,6 +2311,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Hospitall Clinic",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Pancar Sokak 8, Boyabat",
+  "il": null,
+  "ilce": "Boyabat",
+  "mahalle": null,
+  "telefon": "(0368) 502 00 57",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.46453857421875,
+  "lng": 34.772098541259766,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.46453857421875,34.772098541259766",
+  "yandex_url": "https://yandex.com/maps/?text=Hospitall Clinic&ll=34.772098541259766%2C41.46453857421875&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "02ba90bf-f191-453a-8ac9-aee25fe7f157",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "KBB Servisi",
@@ -2403,7 +2610,9 @@
   "fsq_id": "55bb249d498efa06139739b2",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "02b658a5-9b8a-4b7d-b87a-1874d4b003be",
+  "alt": "muayenehane"
  },
  {
   "ad": "Medilab Tıbbi Ürünler Ltd Şti",
@@ -2431,6 +2640,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Mutlu veteriner klinigi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Yeni Çarşı Sokak 16, Gerze",
+  "il": null,
+  "ilce": "Gerze",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.801429748535156,
+  "lng": 35.19560623168945,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.801429748535156,35.19560623168945",
+  "yandex_url": "https://yandex.com/maps/?text=Mutlu veteriner klinigi&ll=35.19560623168945%2C41.801429748535156&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "dd1b5b11-4d66-4df5-b215-9d05a29e8567",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "NAR Ağız Ve Diş Sağlığı",
@@ -2899,7 +3137,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d104941735"
   ],
-  "adres": null,
+  "adres": "1. Sokak",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -2917,7 +3155,8 @@
   "fsq_id": "505c43eee4b03a3839a534f8",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "be74981c-ccfe-4366-ae3a-01a751640e4f"
  },
  {
   "ad": "Sinop Ataturk Devlet Hastanesi Tahakkuk Birimi",
@@ -3080,6 +3319,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Sinop Atatürk Devlet Hastanesi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Sinop-Osmaniye Yolu 75",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0368) 271 55 70",
+  "web": "https://sinopataturkdh.saglik.gov.tr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.98993682861328,
+  "lng": 35.0607795715332,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.98993682861328,35.0607795715332",
+  "yandex_url": "https://yandex.com/maps/?text=Sinop Atatürk Devlet Hastanesi&ll=35.0607795715332%2C41.98993682861328&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "e6cbffbe-fe4a-4de7-bfbb-e5c0d5af6c3c",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Sinop Atatürk Devlet Hastanesi Biyokimya Laboratuvarı",
@@ -3463,6 +3731,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Sinop Toplum Ruh Sağlığı Merkezi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Trafo Mahallesi 32",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0368) 271 44 85",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 42.00555419921875,
+  "lng": 35.08674621582031,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=42.00555419921875,35.08674621582031",
+  "yandex_url": "https://yandex.com/maps/?text=Sinop Toplum Ruh Sağlığı Merkezi&ll=35.08674621582031%2C42.00555419921875&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "5ddf7340-6424-4303-8ee0-7246770e73aa",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Sinop Yaşam ASM",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -3734,6 +4031,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Welltures Sinop",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Camikebir Mah. Kurtuluş Cad.",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 42.02440643310547,
+  "lng": 35.14796829223633,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=42.02440643310547,35.14796829223633",
+  "yandex_url": "https://yandex.com/maps/?text=Welltures Sinop&ll=35.14796829223633%2C42.02440643310547&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "9e494c13-7c20-4c92-9ee2-1915d7293c35",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "YENİKENT SAĞLIK OCAĞI",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -3759,6 +4085,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Yakamoz Aile Saglik Merkezi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "İncedayı Sk. No:10",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0368) 250 57 00",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 42.026588439941406,
+  "lng": 35.14884948730469,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=42.026588439941406,35.14884948730469",
+  "yandex_url": "https://yandex.com/maps/?text=Yakamoz Aile Saglik Merkezi&ll=35.14884948730469%2C42.026588439941406&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "2d328c70-15c3-41e3-9817-4462521b4d63",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Yeni Ayancık Devlet Hastahanesi",
@@ -4868,6 +5223,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Özel Elit Ağız ve Diş Sağlığı Polikliniği",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "meral apartmanı, Yokuşbaşı Sk.",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 42.02557373046875,
+  "lng": 35.14949035644531,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=42.02557373046875,35.14949035644531",
+  "yandex_url": "https://yandex.com/maps/?text=Özel Elit Ağız ve Diş Sağlığı Polikliniği&ll=35.14949035644531%2C42.02557373046875&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "3d87c799-28d8-4072-9cc4-c14046850345",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Özel Medi Bafra Hastanesi",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -4920,6 +5304,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Özel Sinop Diyaliz Merkezi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Fatih Caddesi 150",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0368) 260 55 24",
+  "web": "http://www.sinopdiyaliz.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 42.02065658569336,
+  "lng": 35.13097381591797,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=42.02065658569336,35.13097381591797",
+  "yandex_url": "https://yandex.com/maps/?text=Özel Sinop Diyaliz Merkezi&ll=35.13097381591797%2C42.02065658569336&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "8cb8370f-5d07-4c98-8e25-d591ed89024e",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Özel Şar Hastanesi",

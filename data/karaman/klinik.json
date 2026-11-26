@@ -754,7 +754,9 @@
   "fsq_id": "5310b889498ed0b342ba5d43",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "ec597219-2f9e-4f64-ab37-df8f8a6c2ec1",
+  "alt": "muayenehane"
  },
  {
   "ad": "Ayrancı 1 Nolu Acil Sağlık Hizmetleri İstasyonu",
@@ -998,6 +1000,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Bademli Asm",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Hadim",
+  "il": null,
+  "ilce": "Hadim",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.0226936340332,
+  "lng": 32.66728591918945,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.0226936340332,32.66728591918945",
+  "yandex_url": "https://yandex.com/maps/?text=Bademli Asm&ll=32.66728591918945%2C37.0226936340332&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "ce70722f-9cdf-41e4-a946-b1e26d4e1538",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Baskent Hospital",
@@ -1351,6 +1382,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Diş Hekimi Halil İbrahim Gür",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "1984. Sk. No:39 D:41A",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://linktr.ee/dishekimiibrahimgur",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.15886688232422,
+  "lng": 33.25804138183594,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.15886688232422,33.25804138183594",
+  "yandex_url": "https://yandex.com/maps/?text=Diş Hekimi Halil İbrahim Gür&ll=33.25804138183594%2C37.15886688232422&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "bd45dbbe-247c-402c-9ed9-17288fe9e1d2",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Diş Hekimi Mehmet Yıldırım",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -1674,6 +1734,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Eczane Altay",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Şamkapı Caddesi",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0338) 213 57 51",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.18069839477539,
+  "lng": 33.223697662353516,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.18069839477539,33.223697662353516",
+  "yandex_url": "https://yandex.com/maps/?text=Eczane Altay&ll=33.223697662353516%2C37.18069839477539&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "de9384a3-7e61-47b5-8e16-7345c59ab7d9",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Eczane Nazmiye Kaya",
@@ -2699,7 +2788,9 @@
   "fsq_id": "5942261dfe37404a281c4d2b",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "34204332-4fc1-4529-90d8-43ccd4ec058d",
+  "alt": "muayenehane"
  },
  {
   "ad": "Kadın Doğum Servisi",
@@ -3169,7 +3260,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d196941735"
   ],
-  "adres": null,
+  "adres": "İsmet Paşa Cd. No:4",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -3187,7 +3278,9 @@
   "fsq_id": "5226fae0498e9475f0f05d35",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "41bf4dac-e951-423d-86b5-bb87d822389e",
+  "alt": "muayenehane"
  },
  {
   "ad": "Karaman Belediyesi Poliklinikligi",
@@ -3350,6 +3443,64 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Karaman Devlet Hastanesi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Emar",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.karamandh.saglik.gov.tr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.18069839477539,
+  "lng": 33.223697662353516,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.18069839477539,33.223697662353516",
+  "yandex_url": "https://yandex.com/maps/?text=Karaman Devlet Hastanesi&ll=33.223697662353516%2C37.18069839477539&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "6b0ec856-316d-4268-9148-2bd14bbdde1d",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Karaman Devlet Hastanesi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Emar",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.karamandh.saglik.gov.tr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.18400192260742,
+  "lng": 33.21976089477539,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.18400192260742,33.21976089477539",
+  "yandex_url": "https://yandex.com/maps/?text=Karaman Devlet Hastanesi&ll=33.21976089477539%2C37.18400192260742&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "2100a6c4-7985-4234-99a8-4ade002461fd",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Karaman Devlet Hastanesi Acil Servisi",
@@ -4027,6 +4178,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Karaman Hacamat Suluk Sifa Merkezi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "82. Sokak 5",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": "www.karamanhacamat.com",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.184810638427734,
+  "lng": 33.22065353393555,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.184810638427734,33.22065353393555",
+  "yandex_url": "https://yandex.com/maps/?text=Karaman Hacamat Suluk Sifa Merkezi&ll=33.22065353393555%2C37.184810638427734&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "d33cb555-d82b-4fdb-b0f0-40862deffd54",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Karaman Halk Sağlığı Laboratuvarı",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -4594,6 +4774,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Karman",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "hamdiye mah.388sok",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.174766540527344,
+  "lng": 33.20677947998047,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.174766540527344,33.20677947998047",
+  "yandex_url": "https://yandex.com/maps/?text=Karman&ll=33.20677947998047%2C37.174766540527344&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "cbb3ae74-8ab4-4f97-9ac6-6104f2a30700",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Kazalpa Sağlık Ocağı",
@@ -5628,6 +5837,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Pirmax Sağlık Hizmetleri",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "1. Cadde 19",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0342) 360 63 52",
+  "web": "https://tekerleklisandalyebul.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.7312126159668,
+  "lng": 37.20619201660156,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.7312126159668,37.20619201660156",
+  "yandex_url": "https://yandex.com/maps/?text=Pirmax Sağlık Hizmetleri&ll=37.20619201660156%2C36.7312126159668&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "e25afb25-a7fd-407b-86de-5fc375b419c9",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Piskolog Ayşe Yilmaz",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -6141,6 +6379,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Uzm.Dr. Gültekin AKKÜÇÜK",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "2. İstasyon Cd. No:16",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0338) 212 25 34",
+  "web": "http://www.gultekinakkucuk.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.18453598022461,
+  "lng": 33.21467971801758,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.18453598022461,33.21467971801758",
+  "yandex_url": "https://yandex.com/maps/?text=Uzm.Dr. Gültekin AKKÜÇÜK&ll=33.21467971801758%2C37.18453598022461&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "6ebbf96d-e7e8-46d1-93b0-fb25fe448f25",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Yaşam Eczanesi",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -6580,7 +6847,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d194941735"
   ],
-  "adres": null,
+  "adres": "Mehmetbey Etliekmek Salonu, Yeni Minare Caddesi 33",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -6598,7 +6865,9 @@
   "fsq_id": "52d2984a11d2c20821eb41bb",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "7d70f0c3-a298-4ca5-8ddb-1a61083e2959",
+  "alt": "muayenehane"
  },
  {
   "ad": "karaman devlet hastanesi genel yoğum bakım",
@@ -6990,12 +7259,12 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d104941735"
   ],
-  "adres": null,
+  "adres": "860. Sokak 4",
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
-  "web": null,
+  "telefon": "(0338) 212 93 00",
+  "web": "http://selcukluhastanesi.com/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -7008,7 +7277,9 @@
   "fsq_id": "58bb24782b04f876661acd68",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "dba63d6d-9a58-4b35-af01-a5203064a82c",
+  "alt": "muayenehane"
  },
  {
   "ad": "Özel Karaman Tıp Hastanesi",
@@ -7531,7 +7802,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d177941735"
   ],
-  "adres": null,
+  "adres": "18. Cd. no:16/1",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -7549,6 +7820,37 @@
   "fsq_id": "50b9dc8be4b0f3b79496e940",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "8cee791a-7120-4901-9da3-a11fbe11ba28",
+  "alt": "muayenehane"
+ },
+ {
+  "ad": "Şifa Diyarı",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "564. Sokak",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.yasinbuyukeken.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.197452545166016,
+  "lng": 33.214622497558594,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.197452545166016,33.214622497558594",
+  "yandex_url": "https://yandex.com/maps/?text=Şifa Diyarı&ll=33.214622497558594%2C37.197452545166016&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "b03a7b50-2d71-4bdb-879c-4e055514376e",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  }
 ]

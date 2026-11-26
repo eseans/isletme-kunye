@@ -1,5 +1,34 @@
 [
  {
+  "ad": "Diyetisyen Ali CAN",
+  "sektor": "diyetisyen",
+  "kategori": "diyetisyen",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "nutrition_service"
+  ],
+  "adres": "Fatih Ahmet Baba Blv. No:8 Kat5/15",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.668941497802734,
+  "lng": 39.176124572753906,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.668941497802734,39.176124572753906",
+  "yandex_url": "https://yandex.com/maps/?text=Diyetisyen Ali CAN&ll=39.176124572753906%2C38.668941497802734&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "96e7d2ed-7d1d-4efc-89e9-05c6c4148c74",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Diyetisyen Ali Can",
   "sektor": "diyetisyen",
   "kategori": "diyetisyen",
@@ -27,6 +56,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Diyetisyen Büşra Kılınç Dilmen",
+  "sektor": "diyetisyen",
+  "kategori": "diyetisyen",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "nutrition_service"
+  ],
+  "adres": "Çakmak Plaza, Yenice Sk. D:3",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.67451095581055,
+  "lng": 39.21819305419922,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.67451095581055,39.21819305419922",
+  "yandex_url": "https://yandex.com/maps/?text=Diyetisyen Büşra Kılınç Dilmen&ll=39.21819305419922%2C38.67451095581055&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "635065f0-5706-48fc-87c4-c1bb2efe284d",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Diyetisyen Fatih Süleyman Kaya",
   "sektor": "diyetisyen",
   "kategori": "diyetisyen",
@@ -52,6 +110,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Diyetisyen Kardelen Açıkel",
+  "sektor": "diyetisyen",
+  "kategori": "diyetisyen",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "nutrition_service"
+  ],
+  "adres": "Cumhuriyet mahallesi 2610.sokak bina no:1 kat:2 iç kapı:9",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.67097854614258,
+  "lng": 39.18489456176758,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.67097854614258,39.18489456176758",
+  "yandex_url": "https://yandex.com/maps/?text=Diyetisyen Kardelen Açıkel&ll=39.18489456176758%2C38.67097854614258&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "db78c7a3-e867-4fbc-a5aa-3558bafd2c3a",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Diyetisyen Merve Tan Beslenme Ve Diyet Danışmalığı",
@@ -87,12 +174,12 @@
   "hizmet_ipuclari": [
    "58daa1558bbb0b01f18ec1d0"
   ],
-  "adres": "Nail Bey Mahallesi Akın Sokak",
+  "adres": "157. Sokak 2",
   "il": null,
   "ilce": null,
   "mahalle": null,
   "telefon": null,
-  "web": null,
+  "web": "http://instagram.com/diyetisyennucube",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -105,7 +192,8 @@
   "fsq_id": "591d8306851de54a3d753913",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "87f012e1-010b-4683-a8a8-1ce494c46ca4"
  },
  {
   "ad": "Dyt. Berna Karaca (Beslenme ve Diyet Danışmanlık Merkezi)",
@@ -141,7 +229,7 @@
   "hizmet_ipuclari": [
    "58daa1558bbb0b01f18ec1d0"
   ],
-  "adres": "Elazığ Atasehir mahallesi Gakkoşlar sok",
+  "adres": "Zeybekler Sokak 77",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -159,7 +247,8 @@
   "fsq_id": "598585cc9411f219a99a172e",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "1a6166b3-8aba-474a-91a1-3102c7e8f81d"
  },
  {
   "ad": "Herbalife",
@@ -251,7 +340,37 @@
   "fsq_id": "65e1e1c6fac2e9436afc88e3",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "8cad323b-ad50-4114-b6cb-e4dc41b7f692"
+ },
+ {
+  "ad": "Uzman Diyetisyen Fatih Süleyman Kaya",
+  "sektor": "diyetisyen",
+  "kategori": "diyetisyen",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "nutrition_service"
+  ],
+  "adres": "Hazardağlı Plaza, Malatya Cd. No:58 K:4 D:406",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.66693115234375,
+  "lng": 39.178688049316406,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.66693115234375,39.178688049316406",
+  "yandex_url": "https://yandex.com/maps/?text=Uzman Diyetisyen Fatih Süleyman Kaya&ll=39.178688049316406%2C38.66693115234375&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "50b01303-2fd0-4602-abe2-556d41d48007",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Zerrin Beslenme Kulübü",
@@ -279,5 +398,34 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Üç Yaprak Beslenme Kulübü",
+  "sektor": "diyetisyen",
+  "kategori": "diyetisyen",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "nutrition_service"
+  ],
+  "adres": "Gergef Sk. No:5",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.67289352416992,
+  "lng": 39.171810150146484,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.67289352416992,39.171810150146484",
+  "yandex_url": "https://yandex.com/maps/?text=Üç Yaprak Beslenme Kulübü&ll=39.171810150146484%2C38.67289352416992&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "491a069a-3e94-4df0-b945-435e107bcacb",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  }
 ]

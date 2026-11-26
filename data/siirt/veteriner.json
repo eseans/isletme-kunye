@@ -6,7 +6,7 @@
   "hizmet_ipuclari": [
    "4d954af4a243a5684765b473"
   ],
-  "adres": null,
+  "adres": "Ahmet Yılmaz caddesi 6B",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -24,7 +24,8 @@
   "fsq_id": "6283acc44ac50a776d04459a",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "12f8e7b8-ab1c-4783-a8a8-345f34123964"
  },
  {
   "ad": "Merkez Veteriner Kliniği",
@@ -52,6 +53,93 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Petpark Akvaryum Siirt",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Hastane Caddesi 1",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.93459701538086,
+  "lng": 41.94135284423828,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.93459701538086,41.94135284423828",
+  "yandex_url": "https://yandex.com/maps/?text=Petpark Akvaryum Siirt&ll=41.94135284423828%2C37.93459701538086&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "210a5af8-549e-4c4c-bd71-326d10679028",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Sihirli Kanatlar Petshop",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "1410. Sk.",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.935359954833984,
+  "lng": 41.93556213378906,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.935359954833984,41.93556213378906",
+  "yandex_url": "https://yandex.com/maps/?text=Sihirli Kanatlar Petshop&ll=41.93556213378906%2C37.935359954833984&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "a1f2931c-a2a1-47fd-9933-b36d9fbce646",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Siirt Üniversitesi Veterinerlik Fakültesi",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": null,
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.93606185913086,
+  "lng": 41.94012451171875,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.93606185913086,41.94012451171875",
+  "yandex_url": "https://yandex.com/maps/?text=Siirt Üniversitesi Veterinerlik Fakültesi&ll=41.94012451171875%2C37.93606185913086&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "861dbeb3-2858-4fe9-acac-9352a0bbd30e",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Özel Sadak Veteriner",

@@ -411,11 +411,11 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d178941735"
   ],
-  "adres": "Çarşı Mahallesi",
+  "adres": "Çarşı Mh. Amiral Şükrü Okan Cd. Pk:28500 Tirebolu/giresun, Tirebolu",
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0454) 411 44 17",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -429,7 +429,8 @@
   "fsq_id": "54c79329498e8105a78aab24",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "aef57f8b-4f1d-4a50-9355-8e2e5ed993c7"
  },
  {
   "ad": "Diş Hekimi Murat Yılmaz",
@@ -484,6 +485,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Diş Hekimi Safa AYAR",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Hacısiyam, Hacısiyam, İnönü Cd. No:1/10, Kat:4, İnönü Cd.",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.913883209228516,
+  "lng": 38.38249969482422,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.913883209228516,38.38249969482422",
+  "yandex_url": "https://yandex.com/maps/?text=Diş Hekimi Safa AYAR&ll=38.38249969482422%2C40.913883209228516&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "7dfc29a3-6c37-452d-b9f2-c397c1bffdfc",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Diş Hekimi Sema Güvem",
@@ -727,7 +757,8 @@
   "fsq_id": "53b79c7a498e8768028e29aa",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "76d41bb3-bf55-4f7a-bcd5-ec2271ce54fb"
  },
  {
   "ad": "Dişçi Kadiroğlu",
@@ -893,6 +924,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Dr. Şükrü Kılıç",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Bekirpaşa Cd. No:2-1",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0454) 212 70 60",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.91702651977539,
+  "lng": 38.387489318847656,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.91702651977539,38.387489318847656",
+  "yandex_url": "https://yandex.com/maps/?text=Dr. Şükrü Kılıç&ll=38.387489318847656%2C40.91702651977539&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "b7464df5-38ad-406b-941d-fa52af648edc",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Dr.Erol İskenderoğlu",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -999,6 +1059,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Dt. Osman Özsoy Diş Hekimi Muayenehanesi",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Gazi Cd. No:113 kat:1",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0454) 216 24 01",
+  "web": "http://dtosmanozsoy.bussiness.site/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.91631317138672,
+  "lng": 38.389808654785156,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.91631317138672,38.389808654785156",
+  "yandex_url": "https://yandex.com/maps/?text=Dt. Osman Özsoy Diş Hekimi Muayenehanesi&ll=38.389808654785156%2C40.91631317138672&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "3163dd22-784f-4e0b-8673-675b8ac62995",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "DİŞ HEKİMLİĞİ FAKÜLTESİ",
@@ -1737,6 +1826,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "diş hekimi murat hakan gür",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Başöğretmen Ali Osman, Kapu mahallesi Gazi caddesi, Sönmez Sk. no 4 kat 2",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.917057037353516,
+  "lng": 38.38704299926758,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.917057037353516,38.38704299926758",
+  "yandex_url": "https://yandex.com/maps/?text=diş hekimi murat hakan gür&ll=38.38704299926758%2C40.917057037353516&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "790722dd-9f60-4cb6-81d5-c91c04067b84",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "dişci kenan paltun",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -1762,6 +1880,93 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "dt.farukaydindemir",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Gazi Caddesi 1",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.91773986816406,
+  "lng": 38.38450622558594,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.91773986816406,38.38450622558594",
+  "yandex_url": "https://yandex.com/maps/?text=dt.farukaydindemir&ll=38.38450622558594%2C40.91773986816406&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "cfe19d9d-78c7-4b3d-922f-00cb826e4737",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "dtsafaayarklinik",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "İnönü Caddesi 1",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.913856506347656,
+  "lng": 38.382476806640625,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.913856506347656,38.382476806640625",
+  "yandex_url": "https://yandex.com/maps/?text=dtsafaayarklinik&ll=38.382476806640625%2C40.913856506347656&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "67cc9f3f-62f4-48f3-9c10-619ef7f6fb5d",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "eydentalclinic",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Şeyh keramettin mah.İncedayı sokak",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.91670227050781,
+  "lng": 38.385009765625,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.91670227050781,38.385009765625",
+  "yandex_url": "https://yandex.com/maps/?text=eydentalclinic&ll=38.385009765625%2C40.91670227050781&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "01486733-0669-4a48-9532-b284c9a55829",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "klinik 8",
@@ -1842,7 +2047,8 @@
   "fsq_id": "55acc02b498e4517494b0e89",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "5f20ce95-df2d-4ef6-9b35-70963626578b"
  },
  {
   "ad": "Özel Giresun Diş Polikliniği",

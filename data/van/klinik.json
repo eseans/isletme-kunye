@@ -891,6 +891,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Acil Saglık Hizmetleri Istasyonu",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Et Balık Cami, 4044. Sokak 2, Tuşba",
+  "il": null,
+  "ilce": "Tuşba",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.517730712890625,
+  "lng": 43.36741638183594,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.517730712890625,43.36741638183594",
+  "yandex_url": "https://yandex.com/maps/?text=Acil Saglık Hizmetleri Istasyonu&ll=43.36741638183594%2C38.517730712890625&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "00c9ec72-98e7-4fa8-8f4b-275e99ef56eb",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Acil Servis",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -1213,6 +1242,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Akdamar Hospital",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "İpek Yolu",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.48460006713867,
+  "lng": 43.36398696899414,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.48460006713867,43.36398696899414",
+  "yandex_url": "https://yandex.com/maps/?text=Akdamar Hospital&ll=43.36398696899414%2C38.48460006713867&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "c25e7a73-4944-485e-9b96-85fe0d7125d7",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Akdamar hospital",
@@ -1564,6 +1622,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Art Estetik",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Bahçıvan Mahallesi, İpekyolu",
+  "il": null,
+  "ilce": "İpekyolu",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://ArtEstetik.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.49647521972656,
+  "lng": 43.39335632324219,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.49647521972656,43.39335632324219",
+  "yandex_url": "https://yandex.com/maps/?text=Art Estetik&ll=43.39335632324219%2C38.49647521972656&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "bcefb5b0-2ebe-47b7-a441-f6f92998d897",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Asemya Güzellik Ve Sağlıklı Yaşam Kliniği",
@@ -2240,7 +2327,9 @@
   "fsq_id": "5968a64916fa0474b2300514",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "e93439a7-992d-4b09-af0e-0f7a3a08f85e",
+  "alt": "muayenehane"
  },
  {
   "ad": "Bölge Hastanesi (İskele Yerleşkesi)",
@@ -2296,6 +2385,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "CLİNİQ",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "İki Nisan Bulvarı 28I, İpekyolu",
+  "il": null,
+  "ilce": "İpekyolu",
+  "mahalle": null,
+  "telefon": "(0432) 502 72 22",
+  "web": "http://www.cliniq.com.tr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.492767333984375,
+  "lng": 43.38808822631836,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.492767333984375,43.38808822631836",
+  "yandex_url": "https://yandex.com/maps/?text=CLİNİQ&ll=43.38808822631836%2C38.492767333984375&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "92297ebe-03fb-4e7e-83cd-e21842016da3",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Cerrahi Yoğun Bakım Ünitesi",
@@ -2495,11 +2613,11 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d104941735"
   ],
-  "adres": "artos iş merkezi",
+  "adres": "Yüzbaşıoğlu 1. Sk. No:1, İpekyolu",
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0432) 216 08 09",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -2513,7 +2631,8 @@
   "fsq_id": "57e67094498e93c74f0112e2",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "da791ddc-8b0b-4e4c-bd06-54e97f62899c"
  },
  {
   "ad": "Devlet Hastanesi",
@@ -2793,6 +2912,93 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Dr. Adem Canan",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Halilağa Mah. 2 Nisan Caddesi No: 117 A-D, İpekyolu",
+  "il": null,
+  "ilce": "İpekyolu",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://drademcanan.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.498470306396484,
+  "lng": 43.36827850341797,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.498470306396484,43.36827850341797",
+  "yandex_url": "https://yandex.com/maps/?text=Dr. Adem Canan&ll=43.36827850341797%2C38.498470306396484&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "89c4a263-468a-4f75-909c-0bc4f979052d",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Dr. Rojin Alpergin",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Serhat Mah. Cumhuriyet Bulv, Caddesi No: 129/1 No:129, 65100, İpekyolu",
+  "il": null,
+  "ilce": "İpekyolu",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.49448776245117,
+  "lng": 43.39331817626953,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.49448776245117,43.39331817626953",
+  "yandex_url": "https://yandex.com/maps/?text=Dr. Rojin Alpergin&ll=43.39331817626953%2C38.49448776245117&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "a39099c2-ed87-4541-8bfd-3c9566c7014a",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Dr.Adem ÇAkir",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Hafiziye Mahallesi Kazım Karabekir Caddesi Fergül İş Merkezi, D:124/2, İpekyolu",
+  "il": null,
+  "ilce": "İpekyolu",
+  "mahalle": null,
+  "telefon": "(0432) 503 84 84",
+  "web": "http://www.drademcakir.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.5006217956543,
+  "lng": 43.378883361816406,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.5006217956543,43.378883361816406",
+  "yandex_url": "https://yandex.com/maps/?text=Dr.Adem ÇAkir&ll=43.378883361816406%2C38.5006217956543&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "cbeea149-b21d-4254-8d56-3aec2251d7f2",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Dr.cleanse",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -2820,6 +3026,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Dt Fatma Geyik Baştürk",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Hafiziye, Kazım karabekir bulvarı eski cezaevi cad. kaya kent maraş ofis bina no 50 kat1 no, D:1-2, İpekyolu",
+  "il": null,
+  "ilce": "İpekyolu",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.dtfatmageyikbasturk.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.499881744384766,
+  "lng": 43.38356018066406,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.499881744384766,43.38356018066406",
+  "yandex_url": "https://yandex.com/maps/?text=Dt Fatma Geyik Baştürk&ll=43.38356018066406%2C38.499881744384766&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "6ee5d6b3-a2f1-417e-93ee-c7cad73b9c8a",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Dursun Odabasi Tip Merkezi Gogus Hastaliklari Servisi",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -2845,6 +3080,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Dursun Odabaş TIP Merkezi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Yüzüncü Yıl Üniversitesi Zeve Yerleşkesi, 65080, İpekyolu",
+  "il": null,
+  "ilce": "İpekyolu",
+  "mahalle": null,
+  "telefon": "(0432) 216 47 09",
+  "web": "http://hastane.yyu.edu.tr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.4941520690918,
+  "lng": 43.37999725341797,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.4941520690918,43.37999725341797",
+  "yandex_url": "https://yandex.com/maps/?text=Dursun Odabaş TIP Merkezi&ll=43.37999725341797%2C38.4941520690918&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "2051f25b-d5e7-472b-b2dd-594dc20cd7be",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Dursun Odabaş Tıp Merkezi",
@@ -3763,7 +4027,8 @@
   "fsq_id": "551d4362498e1778ec592416",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "9354f9ec-0cf4-404a-a0d9-4a68d3b5ada7"
  },
  {
   "ad": "Erciş Fizik Tedavi Ünitesi",
@@ -3955,6 +4220,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Etik Psikoteknik",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Çağdaş Sokak 14J, İpekyolu",
+  "il": null,
+  "ilce": "İpekyolu",
+  "mahalle": null,
+  "telefon": "(0432) 503 33 33",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.500038146972656,
+  "lng": 43.390323638916016,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.500038146972656,43.390323638916016",
+  "yandex_url": "https://yandex.com/maps/?text=Etik Psikoteknik&ll=43.390323638916016%2C38.500038146972656&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "2b9944ec-6c3e-44e3-ad28-22fd14b03b55",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Fizik Tedavi",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -4006,7 +4300,9 @@
   "fsq_id": "5aac2a7479f6c75cd41a14bc",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "835818d0-aacf-40e1-b354-8e236a1a262d",
+  "alt": "muayenehane"
  },
  {
   "ad": "Fizik Tedavi Ünitesi",
@@ -4738,6 +5034,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Gürpınar Devlet Hastanesi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Akpınar Mah. Devlet Yolu Caddesi  No:77\\1 Gürpınar / Van, Gürpınar",
+  "il": null,
+  "ilce": "Gürpınar",
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://gurpinardh.saglik.gov.tr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.32576370239258,
+  "lng": 43.41111755371094,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.32576370239258,43.41111755371094",
+  "yandex_url": "https://yandex.com/maps/?text=Gürpınar Devlet Hastanesi&ll=43.41111755371094%2C38.32576370239258&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "e5148500-64d3-4e16-a5cb-2155896afc74",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Güvener Baharat Van",
@@ -6307,7 +6632,9 @@
   "fsq_id": "522b4dcb11d2b2eed5600555",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "9e794b35-52d9-4562-b365-b0c49bd9f79f",
+  "alt": "muayenehane"
  },
  {
   "ad": "Medisina Hastanesi",
@@ -6361,7 +6688,9 @@
   "fsq_id": "5c99de64603d2a002cfe972d",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "c6ef0dcb-ddd1-40f0-8e80-f809e9473224",
+  "alt": "muayenehane"
  },
  {
   "ad": "Merkez 16 Nolu Asm",
@@ -6631,7 +6960,9 @@
   "fsq_id": "56e65660498e612797eff702",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "a67a7612-9772-46f9-88f0-fb49e894f346",
+  "alt": "muayenehane"
  },
  {
   "ad": "NST (nonstres test) Odası",
@@ -6742,6 +7073,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Olcay Eczanesi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "hastane caddesi, İpekyolu",
+  "il": null,
+  "ilce": "İpekyolu",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.50210952758789,
+  "lng": 43.397544860839844,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.50210952758789,43.397544860839844",
+  "yandex_url": "https://yandex.com/maps/?text=Olcay Eczanesi&ll=43.397544860839844%2C38.50210952758789&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "9bfc0158-7059-4786-9a07-0e9903d390b2",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Onepark Medikal",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -6850,6 +7210,64 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Op. Dr. Şakir Aydoğdu",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Stad Karşısı 2. Sokak 24, İpekyolu",
+  "il": null,
+  "ilce": "İpekyolu",
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://youtube.com/user/DarkRayTr",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.49609375,
+  "lng": 43.371490478515625,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.49609375,43.371490478515625",
+  "yandex_url": "https://yandex.com/maps/?text=Op. Dr. Şakir Aydoğdu&ll=43.371490478515625%2C38.49609375&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "cad21616-ea96-4fc9-b093-15f76460c89e",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Op.Dr. Kasım TURAN Kadın-Doğum kliniği VAN 05548745757",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Halilağa Mah. İkinisan Bulvarı No:101/A-D\\nİpekyolu - VAN , İpekyolu",
+  "il": null,
+  "ilce": "İpekyolu",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://drkasimturan.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.497379302978516,
+  "lng": 43.37178039550781,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.497379302978516,43.37178039550781",
+  "yandex_url": "https://yandex.com/maps/?text=Op.Dr. Kasım TURAN Kadın-Doğum kliniği VAN 05548745757&ll=43.37178039550781%2C38.497379302978516&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "7c527c15-b7fb-4653-bcb3-32025ad3c7eb",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Ortopedi",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -6875,6 +7293,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Ortovan Ağız ve Diş Sağlığı Polikliniği",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Hafıziye mahallesi Kazım Karabekir bulvarı may ofisleri no:3 daire:4 Maraş caddesi ipekyolu belediyesinin çaprazı Türkiye finans Bankasının üstü kat bir daire dört, İpekyolu",
+  "il": null,
+  "ilce": "İpekyolu",
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://ortovan.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.50029754638672,
+  "lng": 43.380775451660156,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.50029754638672,43.380775451660156",
+  "yandex_url": "https://yandex.com/maps/?text=Ortovan Ağız ve Diş Sağlığı Polikliniği&ll=43.380775451660156%2C38.50029754638672&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "c7b215b8-6130-4353-a230-e81b5c4a123b",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Ovadent Ağız Ve Diş Sağlığı Merkezi",
@@ -6986,6 +7433,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Perhiz Diyett",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Vanyolu Caddesi Gül Apartmanı Çiğköfteci Ömer Usta Üzeri Kat:1  No:2, Erciş",
+  "il": null,
+  "ilce": "Erciş",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.026145935058594,
+  "lng": 43.365196228027344,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.026145935058594,43.365196228027344",
+  "yandex_url": "https://yandex.com/maps/?text=Perhiz Diyett&ll=43.365196228027344%2C39.026145935058594&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "f90dbb79-8673-49a6-bfa8-ef234723a4d0",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Podovan",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -7065,6 +7541,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Prof.Dr. Remzi Kiziltan",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Yüzüncü Yıl Üniversitesi Tıp Fakültesi Genel Cerrahi Anabilim Dalı Dursun Odabaş Tıp Merkezi, Tuşba",
+  "il": null,
+  "ilce": "Tuşba",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.57529830932617,
+  "lng": 43.297977447509766,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.57529830932617,43.297977447509766",
+  "yandex_url": "https://yandex.com/maps/?text=Prof.Dr. Remzi Kiziltan&ll=43.297977447509766%2C38.57529830932617&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "fcbf1b37-942f-4e15-81d1-70bcf200695f",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Psikoterapi Evi",
@@ -7199,7 +7704,9 @@
   "fsq_id": "59dc86b8625a6653a003aacd",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "0fcd0cb8-d61a-47d4-983b-38434bf1916f",
+  "alt": "muayenehane"
  },
  {
   "ad": "Reanimasyon Yoğun Bakım",
@@ -7254,6 +7761,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Rıdvan Töre",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Kazım Karabekir Blv. No: 113 Kat:1, İpekyolu",
+  "il": null,
+  "ilce": "İpekyolu",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.vandishekimi.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.500152587890625,
+  "lng": 43.38084411621094,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.500152587890625,43.38084411621094",
+  "yandex_url": "https://yandex.com/maps/?text=Rıdvan Töre&ll=43.38084411621094%2C38.500152587890625&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "4d00cb71-994d-4f4a-bd4a-8df95053da8b",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Rızgari Hospital",
@@ -7417,6 +7953,64 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Saygın İşitme Cihazları Merkezi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Vanyolu Caddesi, Erciş",
+  "il": null,
+  "ilce": "Erciş",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.sayginisitme.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.02389907836914,
+  "lng": 43.361698150634766,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.02389907836914,43.361698150634766",
+  "yandex_url": "https://yandex.com/maps/?text=Saygın İşitme Cihazları Merkezi&ll=43.361698150634766%2C39.02389907836914&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "ab2d4c67-2710-4138-a6bb-f9032d9874dc",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Sağlık Bilimleri Üniversitesi Van Eğitim ve Araştırma Hastanesi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Eski Edremit Yolu Sokak 1, Edremit",
+  "il": null,
+  "ilce": "Edremit",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://vaneah.saglik.gov.tr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.46071243286133,
+  "lng": 43.341922760009766,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.46071243286133,43.341922760009766",
+  "yandex_url": "https://yandex.com/maps/?text=Sağlık Bilimleri Üniversitesi Van Eğitim ve Araştırma Hastanesi&ll=43.341922760009766%2C38.46071243286133&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "85a29768-4c00-420b-8e44-21db1ebc0bd1",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Sağlık Eczanesi",
@@ -7659,7 +8253,8 @@
   "fsq_id": "55a2dccc498e9e8de54ce44a",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "fa077d67-5f36-46af-b80b-649ea9608438"
  },
  {
   "ad": "Sterilizasyon",
@@ -7713,7 +8308,9 @@
   "fsq_id": "52f9d50211d2ce2ae21f0160",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "14382e10-e980-46f5-b022-ef8c43f7b8e0",
+  "alt": "muayenehane"
  },
  {
   "ad": "Tarihi Gevaş Eczanesi",
@@ -7741,6 +8338,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Thulium Lazer",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Milli Egemenlik Caddesi 38, İpekyolu",
+  "il": null,
+  "ilce": "İpekyolu",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.494022369384766,
+  "lng": 43.40253448486328,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.494022369384766,43.40253448486328",
+  "yandex_url": "https://yandex.com/maps/?text=Thulium Lazer&ll=43.40253448486328%2C38.494022369384766&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "66ec00dc-c179-44d4-ad34-c372f9d13f0b",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Toplum Sağlık Merkezi",
@@ -8014,6 +8640,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Tuşba Özel Eğitim ve Rehabilitasyon Merkezi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Mehmet Paşa Caddesi 1, Tuşba",
+  "il": null,
+  "ilce": "Tuşba",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.5239143371582,
+  "lng": 43.371826171875,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.5239143371582,43.371826171875",
+  "yandex_url": "https://yandex.com/maps/?text=Tuşba Özel Eğitim ve Rehabilitasyon Merkezi&ll=43.371826171875%2C38.5239143371582&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "a1c7cd45-5d89-4d3f-ae7b-a90171259986",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Tımarhanede",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -8149,6 +8804,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Uzm. Dr. Can Ebiri",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "İpekyolu Bulvar 24, İpekyolu",
+  "il": null,
+  "ilce": "İpekyolu",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.canebiri.com/index.php/tr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.497554779052734,
+  "lng": 43.37181091308594,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.497554779052734,43.37181091308594",
+  "yandex_url": "https://yandex.com/maps/?text=Uzm. Dr. Can Ebiri&ll=43.37181091308594%2C38.497554779052734&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "0e8b7daf-709b-4bbf-b462-5ad6fbe7f606",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Uzm. Dr. Semra Yavuz | Van Getat Uzmanı - Botoks - Dolgu - Ozon Terapi",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -8214,7 +8898,7 @@
   "ilce": null,
   "mahalle": null,
   "telefon": null,
-  "web": null,
+  "web": "http://Www.vanuzmanpsikolog.com/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -8227,7 +8911,8 @@
   "fsq_id": "5b8e5181f62e090039fecc76",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "5ded02fd-cb30-4d1d-886a-1a2f871761e9"
  },
  {
   "ad": "VAN 112",
@@ -8282,6 +8967,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "VAN AİLEM Saglik Kabini",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Erek Dağı Caddesi 18B, İpekyolu",
+  "il": null,
+  "ilce": "İpekyolu",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.49234390258789,
+  "lng": 43.39554977416992,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.49234390258789,43.39554977416992",
+  "yandex_url": "https://yandex.com/maps/?text=VAN AİLEM Saglik Kabini&ll=43.39554977416992%2C38.49234390258789&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "76dc7351-1554-4b25-b557-6b758891c6b0",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "VAN HALK SAGLIGI ICME VE KULLANMA SUYU KONTROL IZLEME ANALIZ LABORATUVARI",
@@ -8390,7 +9104,9 @@
   "fsq_id": "51fb5947498e8e6876e9cb5f",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "bb2d398e-1b3a-485a-a21a-636a04ef8348",
+  "alt": "muayenehane"
  },
  {
   "ad": "VBEAH RADYASYON ONKOLOJİSİ CT",
@@ -9446,6 +10162,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Van Dil Konuşma Merkezi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Cumhuriyet Bulvarı 15, İpekyolu",
+  "il": null,
+  "ilce": "İpekyolu",
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://www.dktmelihsahin.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.50187683105469,
+  "lng": 43.39518356323242,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.50187683105469,43.39518356323242",
+  "yandex_url": "https://yandex.com/maps/?text=Van Dil Konuşma Merkezi&ll=43.39518356323242%2C38.50187683105469&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "6161898a-8cd1-466f-b823-1839e5844b39",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Van Diyaliz Merkezi",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -9797,6 +10542,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Van Is Gelistirme Merkezi isgem",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Kundura Fabrikası Yol, Edremit",
+  "il": null,
+  "ilce": "Edremit",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.4700813293457,
+  "lng": 43.36448287963867,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.4700813293457,43.36448287963867",
+  "yandex_url": "https://yandex.com/maps/?text=Van Is Gelistirme Merkezi isgem&ll=43.36448287963867%2C38.4700813293457&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "ceebad21-b3e9-4509-86e4-f29fc4b7153a",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Van Kadın Dogum Hastanesi",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -9849,6 +10623,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Van Lokman Hekim Hayat Hastanesi Acil Servis",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Diş Hekimi, Hastane 2. Sokak 4, İpekyolu",
+  "il": null,
+  "ilce": "İpekyolu",
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://www.lokmanhekim.com.tr/page/lokman-hekim-hayat-hastanesi",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.494197845458984,
+  "lng": 43.39707946777344,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.494197845458984,43.39707946777344",
+  "yandex_url": "https://yandex.com/maps/?text=Van Lokman Hekim Hayat Hastanesi Acil Servis&ll=43.39707946777344%2C38.494197845458984&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "802e7e3f-e419-4dd8-9d61-96b0f42ce583",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Van Medikalpark",
@@ -10202,6 +11005,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Van kupa tedavi merkezi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "sıhke cad beşyol, İpekyolu",
+  "il": null,
+  "ilce": "İpekyolu",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://erkatinsaatvan.jimdo.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.51655197143555,
+  "lng": 43.423343658447266,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.51655197143555,43.423343658447266",
+  "yandex_url": "https://yandex.com/maps/?text=Van kupa tedavi merkezi&ll=43.423343658447266%2C38.51655197143555&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "98e6cb9e-2c66-4f9a-98bb-89cc8ef8aedd",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Van Özel lokman Hekim Hastanesi Koroner Yogun Bakim Ünitesi",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -10417,6 +11249,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "YAKAN psikoteknik",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Kışla Yolu 56, İpekyolu",
+  "il": null,
+  "ilce": "İpekyolu",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.yakanpsikoteknik.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.503631591796875,
+  "lng": 43.39976119995117,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.503631591796875,43.39976119995117",
+  "yandex_url": "https://yandex.com/maps/?text=YAKAN psikoteknik&ll=43.39976119995117%2C38.503631591796875&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "8bad5874-516c-45a1-9d77-a58f2edc3535",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "YYÜ Araştırma Hastahanesi",
@@ -12745,6 +13606,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "odyovan",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "İrfan Baştuğ Caddesi 18, İpekyolu",
+  "il": null,
+  "ilce": "İpekyolu",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.502525329589844,
+  "lng": 43.397682189941406,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.502525329589844,43.397682189941406",
+  "yandex_url": "https://yandex.com/maps/?text=odyovan&ll=43.397682189941406%2C38.502525329589844&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "aff291c7-1898-4984-974a-5eb8aa586b1e",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "onur Tıbbi tahliller Laboratuvarı",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -12877,7 +13767,9 @@
   "fsq_id": "57ff340c38fa1a8b5659c588",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "6deca308-2539-4be1-8ff6-128c0784ba66",
+  "alt": "muayenehane"
  },
  {
   "ad": "toplum ruh sağlığı merkezi",
@@ -13339,6 +14231,64 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "van.dahiliye.endokrinoloji",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Stad Karşısı Sokak 7, İpekyolu",
+  "il": null,
+  "ilce": "İpekyolu",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.4964485168457,
+  "lng": 43.371036529541016,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.4964485168457,43.371036529541016",
+  "yandex_url": "https://yandex.com/maps/?text=van.dahiliye.endokrinoloji&ll=43.371036529541016%2C38.4964485168457&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "b68319b1-18da-4e3b-a836-371de2344f0b",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "van.dahiliye.endokrinoloji",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "İpekyolu Belediyesi Karşısı, Goldvan İş Merkezi Kat 2 No 7, İpekyolu",
+  "il": null,
+  "ilce": "İpekyolu",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://van-dahiliye-endokrinoloji.business.site/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.500518798828125,
+  "lng": 43.379276275634766,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.500518798828125,43.379276275634766",
+  "yandex_url": "https://yandex.com/maps/?text=van.dahiliye.endokrinoloji&ll=43.379276275634766%2C38.500518798828125&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "d5c3de14-51b6-4df1-83ea-8b61fcf7b087",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "veah yenidoğan yoğunbakım servisi",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -13526,6 +14476,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "ÖZEL VAN Sağlik Kabini",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Sıhke Caddesi 56, İpekyolu",
+  "il": null,
+  "ilce": "İpekyolu",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.50520324707031,
+  "lng": 43.4277458190918,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.50520324707031,43.4277458190918",
+  "yandex_url": "https://yandex.com/maps/?text=ÖZEL VAN Sağlik Kabini&ll=43.4277458190918%2C38.50520324707031&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "ddde7680-d8ad-4434-befa-6b75127e665c",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Özalp 112 İstasyonu",
@@ -14012,7 +14991,9 @@
   "fsq_id": "56d414eb498e3a0cbd58a6d0",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "2fc2ef4f-8ad0-4c8e-b243-6176fda8f114",
+  "alt": "muayenehane"
  },
  {
   "ad": "Özel Med Hastanesi",
@@ -14121,6 +15102,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Özel Vangölü Hastanesi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Eminpaşa Mah., İpekyolu",
+  "il": null,
+  "ilce": "İpekyolu",
+  "mahalle": null,
+  "telefon": "(0432) 444 30 65",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.483768463134766,
+  "lng": 43.349769592285156,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.483768463134766,43.349769592285156",
+  "yandex_url": "https://yandex.com/maps/?text=Özel Vangölü Hastanesi&ll=43.349769592285156%2C38.483768463134766&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "bdd22a8f-5a0b-4e8a-b00a-d9395c3f41e9",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Özel Yaşam Çok Amaçlı Diş Protez Laboratuvarı",

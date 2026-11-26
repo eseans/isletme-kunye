@@ -60,11 +60,11 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d178941735"
   ],
-  "adres": "İşgören caddesi",
+  "adres": "İşgören Cd. Topuz İş Hanı D:1, Akçakoca",
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0380) 611 69 59",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -78,7 +78,8 @@
   "fsq_id": "4fb76ca2e4b085b06ea0ff92",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "d41018d1-1c80-4312-8a62-9edb480b4f6a"
  },
  {
   "ad": "Beyaz Diş Ağız ve Diş Sağlığı Polikliniği",
@@ -106,6 +107,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Burhan Demirel",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Kiremitocağı İstanbul Caddesi No:119 D:A",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.burhandemirel.com.tr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.84024429321289,
+  "lng": 31.14423370361328,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.84024429321289,31.14423370361328",
+  "yandex_url": "https://yandex.com/maps/?text=Burhan Demirel&ll=31.14423370361328%2C40.84024429321289&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "333e7c56-a469-48c3-8721-d3dd4a7f2e9e",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Dentist Fulya Ordu Kap",
@@ -357,11 +387,11 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d178941735"
   ],
-  "adres": null,
+  "adres": "Konuralp Sk. No:3 D:23",
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0380) 512 39 29",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -375,7 +405,66 @@
   "fsq_id": "5072c804e4b025893d64c501",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "a07635ef-0ca5-4563-a39a-25b8e0acfce4"
+ },
+ {
+  "ad": "Diş Hekimi Burak Sud",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "İstanbul Cd. no:87/A",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.840213775634766,
+  "lng": 31.149227142333984,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.840213775634766,31.149227142333984",
+  "yandex_url": "https://yandex.com/maps/?text=Diş Hekimi Burak Sud&ll=31.149227142333984%2C40.840213775634766&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "3df99878-052a-4c68-a73e-ceab6e7ab732",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Diş Hekimi Elif Kılıçoğlu",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Rasim Betir Paşa Blv. No:32/11",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0380) 524 66 88",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.84489440917969,
+  "lng": 31.159687042236328,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.84489440917969,31.159687042236328",
+  "yandex_url": "https://yandex.com/maps/?text=Diş Hekimi Elif Kılıçoğlu&ll=31.159687042236328%2C40.84489440917969&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "25baa58e-fc83-4c21-aa78-b699420148cd",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Diş Hekimi Elif Yılmaz",
@@ -384,7 +473,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d178941735"
   ],
-  "adres": null,
+  "adres": "KÜLTÜR MAHALLESİ İSTANBUL CD NO :144 A BLOK KAT 1 D:1",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -402,7 +491,8 @@
   "fsq_id": "52a2fc7f498e1cb2d0e24f61",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "8b390997-b988-4d88-a85f-cddcec1152ef"
  },
  {
   "ad": "Diş Hekimi Ersan Demir",
@@ -457,6 +547,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Diş Hekimi Fatma Selcan Karabayır",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "350. Sk. No:29/A, Karasu",
+  "il": null,
+  "ilce": "Karasu",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.08938217163086,
+  "lng": 30.739259719848633,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.08938217163086,30.739259719848633",
+  "yandex_url": "https://yandex.com/maps/?text=Diş Hekimi Fatma Selcan Karabayır&ll=30.739259719848633%2C41.08938217163086&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "ad98d0d5-8ab0-459a-ac00-8e41e11d4516",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Diş Hekimi Fikret Can",
@@ -1131,7 +1250,8 @@
   "fsq_id": "4f880cbbe4b055d22e9ec23a",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "9729b4fa-2f31-46d3-a0e7-5ab54d7add54"
  },
  {
   "ad": "Düzce Ağız ve Diş Sağlığı Merkezi",
@@ -1212,7 +1332,8 @@
   "fsq_id": "645101ddf2c4a97c1f74ef85",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "32d0b666-8843-4e11-9982-d6d8fa187b43"
  },
  {
   "ad": "DİŞ HEKİMİ Nazlı Bahar Mert",
@@ -1221,11 +1342,11 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d178941735"
   ],
-  "adres": null,
+  "adres": "Camikebir mahallesi İstanbul caddesi No:35 Kat :2 Daire: 3 Merkez Düzce",
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0380) 524 50 24",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -1239,7 +1360,8 @@
   "fsq_id": "6144772339b764244369cb97",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "b3403a88-153f-4cdc-a2ca-55a87f8e08b0"
  },
  {
   "ad": "DİŞ HEKİMİ YUSUF KURBAN",
@@ -1348,6 +1470,64 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "HİLal DİŞ DÜZce",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Kuyumcuzade Bulvarı 68",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.8428840637207,
+  "lng": 31.15114974975586,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.8428840637207,31.15114974975586",
+  "yandex_url": "https://yandex.com/maps/?text=HİLal DİŞ DÜZce&ll=31.15114974975586%2C40.8428840637207&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "19c5dea4-7498-4bab-9824-fd1914b70e84",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Kocaali Diş Kliniği",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Kocaali",
+  "il": null,
+  "ilce": "Kocaali",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.054569244384766,
+  "lng": 30.850576400756836,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.054569244384766,30.850576400756836",
+  "yandex_url": "https://yandex.com/maps/?text=Kocaali Diş Kliniği&ll=30.850576400756836%2C41.054569244384766&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "0f0a8d5c-2122-446e-bdfe-054879486090",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Kuzey Diş",
@@ -1484,6 +1664,64 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Ozel Akcakoca Akdent Agiz ve Dis Sagligi Poliklinigi",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "İnönü Cd. 33/A, Akçakoca",
+  "il": null,
+  "ilce": "Akçakoca",
+  "mahalle": null,
+  "telefon": "(0380) 611 20 50",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.088645935058594,
+  "lng": 31.11996078491211,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.088645935058594,31.11996078491211",
+  "yandex_url": "https://yandex.com/maps/?text=Ozel Akcakoca Akdent Agiz ve Dis Sagligi Poliklinigi&ll=31.11996078491211%2C41.088645935058594&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "fdced44c-054a-4340-8070-60104c39e0f0",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Sümeyye Albayrak Diş Kliniği",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Alparslan Türkeş Bulvarı 50A",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.845340728759766,
+  "lng": 31.157058715820312,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.845340728759766,31.157058715820312",
+  "yandex_url": "https://yandex.com/maps/?text=Sümeyye Albayrak Diş Kliniği&ll=31.157058715820312%2C40.845340728759766&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "ca604a68-81d6-4a3a-8d2a-321be20c4fcc",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Tolga Cekic Ozel Dis Muayenehanesi",
@@ -1835,6 +2073,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Özel Düzce Kültür Ağız ve Diş Sağlığı Polikliniği",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Mehmet Akif Cd. No:14 B Blok",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.84273910522461,
+  "lng": 31.1556339263916,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.84273910522461,31.1556339263916",
+  "yandex_url": "https://yandex.com/maps/?text=Özel Düzce Kültür Ağız ve Diş Sağlığı Polikliniği&ll=31.1556339263916%2C40.84273910522461&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "f7cf5053-c8cf-48ab-9c71-536517b6c4ef",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Özel Ustaoğlu Diş Kliniği",

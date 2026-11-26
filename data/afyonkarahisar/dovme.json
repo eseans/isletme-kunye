@@ -33,7 +33,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d1de931735"
   ],
-  "adres": "Dumlupınar mahallesi",
+  "adres": "Dumlupınar 2. Cd. No:27/1",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -51,7 +51,8 @@
   "fsq_id": "5c2370455d891b002c4a310c",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "27848eb7-70b3-4f65-990e-d881944582f7"
  },
  {
   "ad": "Antika Dükkanı",
@@ -115,7 +116,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d1de931735"
   ],
-  "adres": null,
+  "adres": "Murat Çelebi Cd. No:19 D:1",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -133,7 +134,8 @@
   "fsq_id": "5b6331ebe17910002c90cb7f",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "2d4b514c-02b2-441c-9372-20c4efe0f3ce"
  },
  {
   "ad": "Deniz Tattoo ve bujiteri",
@@ -404,6 +406,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Tattoo Lab",
+  "sektor": "dovme",
+  "kategori": "dovme",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "tattoo_and_piercing"
+  ],
+  "adres": "Toprak Apartmanı, Karagözoğlu Cd. D:21",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://tattoolab.net/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.75802993774414,
+  "lng": 30.542964935302734,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.75802993774414,30.542964935302734",
+  "yandex_url": "https://yandex.com/maps/?text=Tattoo Lab&ll=30.542964935302734%2C38.75802993774414&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "7d54b7fc-011e-45f3-a796-fbcfb823de9a",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Terass Tatto Stüdyosu",

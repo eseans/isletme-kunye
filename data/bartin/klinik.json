@@ -648,6 +648,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Aktıp Hastanesi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Merkez Sokak 28",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.aktip.com.tr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.6219367980957,
+  "lng": 32.34135437011719,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.6219367980957,32.34135437011719",
+  "yandex_url": "https://yandex.com/maps/?text=Aktıp Hastanesi&ll=32.34135437011719%2C41.6219367980957&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "b24ac2e4-e76b-495f-9d00-4a9ab5e72171",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Aktıp Hospital",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -1276,6 +1305,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Bartin Halk Saglıgı Laboratuvarı",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Kanlı Türbe Caddesi",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0378) 222 73 18",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.62880325317383,
+  "lng": 32.31884765625,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.62880325317383,32.31884765625",
+  "yandex_url": "https://yandex.com/maps/?text=Bartin Halk Saglıgı Laboratuvarı&ll=32.31884765625%2C41.62880325317383&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "8f6aba4b-f5f2-4b8d-8856-72a3d303b1c2",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Bartin Kadin Dogum Hastanesi Acil Servis",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -1840,7 +1898,8 @@
   "fsq_id": "567fc3bd498ec945a01bc02f",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "449b53cb-e11f-46d4-bfec-96095a34e991"
  },
  {
   "ad": "Bartın Devlet hastanesi",
@@ -2192,6 +2251,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Bartın Toplum RUH Sağliği Merkezi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "TUNA MAH.",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0378) 228 36 45",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.62664794921875,
+  "lng": 32.34815216064453,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.62664794921875,32.34815216064453",
+  "yandex_url": "https://yandex.com/maps/?text=Bartın Toplum RUH Sağliği Merkezi&ll=32.34815216064453%2C41.62664794921875&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "77b8ea86-9c99-444e-bb65-49f63b2068b4",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Bartın Toplum ve Ruh Sağlığı Merkezi",
@@ -2572,6 +2660,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Dent67 Ağız ve Diş Sağlığı Polikliniği",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Ömer Kalaycı Cd. no:21/A, Çaycuma",
+  "il": null,
+  "ilce": "Çaycuma",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.42899703979492,
+  "lng": 32.07636642456055,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.42899703979492,32.07636642456055",
+  "yandex_url": "https://yandex.com/maps/?text=Dent67 Ağız ve Diş Sağlığı Polikliniği&ll=32.07636642456055%2C41.42899703979492&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "d2abb00e-e88e-4849-be91-914d006cc491",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Devlet Hastanesi",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -2680,6 +2797,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Doctoruro",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "155. Cadde 26",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.63056945800781,
+  "lng": 32.337486267089844,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.63056945800781,32.337486267089844",
+  "yandex_url": "https://yandex.com/maps/?text=Doctoruro&ll=32.337486267089844%2C41.63056945800781&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "8429bf3a-7392-4ec7-89d3-0066ebc305bc",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Dr. Adem Aykanat Üroloji Uzmanı",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -2732,7 +2878,9 @@
   "fsq_id": "5a7b2dc52bf9a962f989b706",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "afa50206-4d7b-419e-a1a6-e20333cde555",
+  "alt": "muayenehane"
  },
  {
   "ad": "Dt.Ertuğrul Coşkun Ağız ve Diş Sağlığı Kliniği",
@@ -2991,7 +3139,7 @@
   "ilce": "Bartın Merkez",
   "mahalle": null,
   "telefon": null,
-  "web": null,
+  "web": "https://fizyolady.com/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -3004,7 +3152,8 @@
   "fsq_id": "5df137eeecb0ba00086fd5b4",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "0ec4d299-9416-473c-9c72-64f55ccf0d20"
  },
  {
   "ad": "Fizyoterapist Orkun Mekeç",
@@ -3018,7 +3167,7 @@
   "ilce": null,
   "mahalle": null,
   "telefon": null,
-  "web": null,
+  "web": "https://orkunmekec.com/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -3031,7 +3180,8 @@
   "fsq_id": "654ce7f4058a1c174998c576",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "bd9e7d10-dd1e-4749-a5fe-a358e23bcb95"
  },
  {
   "ad": "Furkan Medikal",
@@ -3140,6 +3290,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "GlikoFit Beslenme Danışmanlığı Merkezi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Orta Sokak 21",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://glikofit.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.63418960571289,
+  "lng": 32.33755874633789,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.63418960571289,32.33755874633789",
+  "yandex_url": "https://yandex.com/maps/?text=GlikoFit Beslenme Danışmanlığı Merkezi&ll=32.33755874633789%2C41.63418960571289&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "dd9cc1b7-30fe-49ae-aca4-2c18c884de26",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Gökçebey Karapınar ASM",
@@ -3302,6 +3481,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Gülçin Aykanat",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Davut Fırıncıoğlu Cd. No:73 D:4",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0378) 228 00 14",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.62978744506836,
+  "lng": 32.3371696472168,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.62978744506836,32.3371696472168",
+  "yandex_url": "https://yandex.com/maps/?text=Gülçin Aykanat&ll=32.3371696472168%2C41.62978744506836&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "3c57c690-219d-4856-8ecf-ea0aff2d7a7c",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "GürgenpInarı ASM",
@@ -4146,6 +4354,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Kurucaşile Toplum Sağlığı Merkezi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Çakmak Cd. No:55, Kurucaşile",
+  "il": null,
+  "ilce": "Kurucaşile",
+  "mahalle": null,
+  "telefon": "(0378) 518 10 04",
+  "web": "http://www.bartinhalksagligi.gov.tr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.84696578979492,
+  "lng": 32.7324104309082,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.84696578979492,32.7324104309082",
+  "yandex_url": "https://yandex.com/maps/?text=Kurucaşile Toplum Sağlığı Merkezi&ll=32.7324104309082%2C41.84696578979492&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "e085368e-1880-4147-bde1-9ad053f6b0b9",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Kırtepe Aile Sağlık Ocağı",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -4170,7 +4407,9 @@
   "fsq_id": "5294a8bf498e19fe9f36a366",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "9b3899bb-3445-47dc-ba5c-d30a95c75798",
+  "alt": "muayenehane"
  },
  {
   "ad": "Kızılelma ASM",
@@ -4663,6 +4902,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Profizyo",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Bülent Ecevit Bulvarı 22",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.630096435546875,
+  "lng": 32.335411071777344,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.630096435546875,32.335411071777344",
+  "yandex_url": "https://yandex.com/maps/?text=Profizyo&ll=32.335411071777344%2C41.630096435546875&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "cee682d1-c649-47ec-9813-9f4ea71e5f66",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Saglik Ocagi",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -4822,7 +5090,8 @@
   "fsq_id": "55d985ea498e1ee2d3dae349",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "00592c47-7481-4bc1-b166-2fa3d3462f53"
  },
  {
   "ad": "Suat Oto Garage",
@@ -5101,6 +5370,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Ulus Devlet Hastanesi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Hastane Sok, Ulus",
+  "il": null,
+  "ilce": "Ulus",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.584774017333984,
+  "lng": 32.636253356933594,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.584774017333984,32.636253356933594",
+  "yandex_url": "https://yandex.com/maps/?text=Ulus Devlet Hastanesi&ll=32.636253356933594%2C41.584774017333984&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "d6627999-8d05-48ba-82d2-9a6172713833",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Ulus Devlet Hastanesi Acil Servisi",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -5153,6 +5451,93 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Welltures Bartın",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Gölbucağı Mah. Aladağ Cad.",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.6279182434082,
+  "lng": 32.34901809692383,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.6279182434082,32.34901809692383",
+  "yandex_url": "https://yandex.com/maps/?text=Welltures Bartın&ll=32.34901809692383%2C41.6279182434082&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "6b905320-6b56-40c4-8c1a-3656968e3bb1",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Welltures Bartın",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Gölbucağı Mah. Aladağ Cad.",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.627159118652344,
+  "lng": 32.3227653503418,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.627159118652344,32.3227653503418",
+  "yandex_url": "https://yandex.com/maps/?text=Welltures Bartın&ll=32.3227653503418%2C41.627159118652344&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "b7b61030-ac1e-45e4-830a-ec9d26ad4040",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Yalniz Degilsin",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Yayla Caddesi 11",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://instagram.com/yalnizdegilsinbartin?igshid=YmMyMTA2M2Y%3D",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.62469482421875,
+  "lng": 32.33283615112305,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.62469482421875,32.33283615112305",
+  "yandex_url": "https://yandex.com/maps/?text=Yalniz Degilsin&ll=32.33283615112305%2C41.62469482421875&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "493c535e-f1f1-4283-812c-ca8a51c87941",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Yaşam Cafe",
@@ -6154,6 +6539,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Çaycuma Duyum İşitme Cihazları",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Atatürk Bulvarı 32, Çaycuma",
+  "il": null,
+  "ilce": "Çaycuma",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.426544189453125,
+  "lng": 32.07877731323242,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.426544189453125,32.07877731323242",
+  "yandex_url": "https://yandex.com/maps/?text=Çaycuma Duyum İşitme Cihazları&ll=32.07877731323242%2C41.426544189453125&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "8c4f352c-8f9a-4e17-99b1-9c891efe391e",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Öfke Terapisi",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -6206,6 +6620,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Özbakan Eczanesi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Kemer köprü mahallesi şadırvan caddesi No:8/2",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.622928619384766,
+  "lng": 32.336158752441406,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.622928619384766,32.336158752441406",
+  "yandex_url": "https://yandex.com/maps/?text=Özbakan Eczanesi&ll=32.336158752441406%2C41.622928619384766&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "834de9c4-b6e5-4d4d-b800-41756fb24199",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Özel Aktıp Hastanesi",

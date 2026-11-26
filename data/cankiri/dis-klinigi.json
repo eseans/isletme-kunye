@@ -351,6 +351,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "DİŞÇİ Aydin",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": null,
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.599246978759766,
+  "lng": 33.62100601196289,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.599246978759766,33.62100601196289",
+  "yandex_url": "https://yandex.com/maps/?text=DİŞÇİ Aydin&ll=33.62100601196289%2C40.599246978759766&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "5e361e29-eca8-4489-9f99-f734da27b1d9",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Suzzzyyy",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -510,6 +539,7 @@
   "fsq_id": "50efbe3ae4b0d6592e582988",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "d0e0cff2-f785-4576-981b-a7d3bf6fa36a"
  }
 ]

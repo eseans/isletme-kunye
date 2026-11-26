@@ -270,6 +270,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "2 Nolu Asm Merzifon",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Mehmetçik Bulvarı 18A, Merzifon",
+  "il": null,
+  "ilce": "Merzifon",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.87228012084961,
+  "lng": 35.45486068725586,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.87228012084961,35.45486068725586",
+  "yandex_url": "https://yandex.com/maps/?text=2 Nolu Asm Merzifon&ll=35.45486068725586%2C40.87228012084961&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "06d82cef-adf5-41ae-9c97-ad75789fb11f",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "2'Nolu Sağlık Ocağı",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -546,7 +575,7 @@
   "hizmet_ipuclari": [
    "52e81612bcbc57f1066b7a3c"
   ],
-  "adres": null,
+  "adres": "Torumtay Sk. 60/A",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -564,7 +593,9 @@
   "fsq_id": "586a4242469aef424c0e5d91",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "e311f17b-03be-4fdd-9d22-c6cca5acbf57",
+  "alt": "muayenehane"
  },
  {
   "ad": "75. Yıl Sağlık Ocağı",
@@ -1325,6 +1356,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Amasya Goynucek Ilce Devlat Hastanesi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Göynücek, Göynücek",
+  "il": null,
+  "ilce": "Göynücek",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.3919563293457,
+  "lng": 35.52110290527344,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.3919563293457,35.52110290527344",
+  "yandex_url": "https://yandex.com/maps/?text=Amasya Goynucek Ilce Devlat Hastanesi&ll=35.52110290527344%2C40.3919563293457&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "16e8e2b5-7a54-44f4-91fc-bf278b1b522c",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Amasya Halk Sagligi Laboratuvari",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -1622,6 +1682,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Amasya Tekin Engelli Bakım Merkezi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Türkistan Caddesi 114",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0358) 252 93 93",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.661033630371094,
+  "lng": 35.80026626586914,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.661033630371094,35.80026626586914",
+  "yandex_url": "https://yandex.com/maps/?text=Amasya Tekin Engelli Bakım Merkezi&ll=35.80026626586914%2C40.661033630371094&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "731f32c0-37df-4c45-a30b-6cc27ffa8688",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Amasya Toplum Sağlığı Merkezi",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -1632,7 +1721,7 @@
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0358) 218 99 93",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -1646,7 +1735,9 @@
   "fsq_id": "53294366498ee00378c994b0",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "f0594b7c-621b-4138-8d3f-09e5135ad7dc",
+  "alt": "muayenehane"
  },
  {
   "ad": "Amasya toplum ruh sağlığı merkezi",
@@ -1701,6 +1792,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Amasya Özel Psikiyatri Merkezi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Ellibeşevler Mah",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://uzdralifaikkaya.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.66097640991211,
+  "lng": 35.84075927734375,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.66097640991211,35.84075927734375",
+  "yandex_url": "https://yandex.com/maps/?text=Amasya Özel Psikiyatri Merkezi&ll=35.84075927734375%2C40.66097640991211&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "8f85bbc3-3384-4dd0-b196-cd14e260eb2a",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Amasya Özel Şifa Hastahanesi",
@@ -2108,6 +2228,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Ayşegül Bolat saç ekimi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Hüsamettin Olgun Caddesi 29B",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.65071487426758,
+  "lng": 35.82393264770508,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.65071487426758,35.82393264770508",
+  "yandex_url": "https://yandex.com/maps/?text=Ayşegül Bolat saç ekimi&ll=35.82393264770508%2C40.65071487426758&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "f8ad156a-c3bf-41c4-abe9-21185ac5572d",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Bayburtlu Sarayı",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -2297,6 +2446,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Büşra Doğan Diş Kliniği",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Dolu Sk. No:18 D:1, Merzifon",
+  "il": null,
+  "ilce": "Merzifon",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.8739013671875,
+  "lng": 35.45448684692383,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.8739013671875,35.45448684692383",
+  "yandex_url": "https://yandex.com/maps/?text=Büşra Doğan Diş Kliniği&ll=35.45448684692383%2C40.8739013671875&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "af14d96f-c149-4e41-af2a-28f5233227c6",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Canelim Özel Eğitim ve Rehabilitasyon Merkezi",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -2348,7 +2526,9 @@
   "fsq_id": "5285ebf5498ee0482d20f41a",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "6aabc462-5c7d-4216-9c81-536bec469d65",
+  "alt": "muayenehane"
  },
  {
   "ad": "Cerrahpaşa Adli Tıp",
@@ -2627,7 +2807,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d177941735"
   ],
-  "adres": null,
+  "adres": "İstiklal Cd. No:38, Vezirköprü",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -2645,7 +2825,9 @@
   "fsq_id": "58738d6c1d21ba0f14314377",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "d854f7eb-3d11-4b12-b09b-b5fa0067bd0d",
+  "alt": "muayenehane"
  },
  {
   "ad": "Devlet Hastanesi Acil",
@@ -2726,7 +2908,8 @@
   "fsq_id": "6a50ba99f4f6fe79a59a463d",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "8cf1df61-e83d-4a59-a4d5-f6d1b1bc54ca"
  },
  {
   "ad": "Diyetisyen Rabia Çetin",
@@ -2735,7 +2918,7 @@
   "hizmet_ipuclari": [
    "590a0744340a5803fd8508c3"
   ],
-  "adres": "Hacılar Meydanı Mahallesi",
+  "adres": "Sefa Cd Hitit Sitesi A Blok 9/B",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -2753,7 +2936,8 @@
   "fsq_id": "65d3ac60b4bfe50d876114b5",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "b115be7e-1a70-4992-829b-4cb1fa62cfc1"
  },
  {
   "ad": "Diş Hekimi",
@@ -2946,6 +3130,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Dr Ercan Yilmaz Este Life Güzellik Merkezi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Hacırahat Caddesi 2, Merzifon",
+  "il": null,
+  "ilce": "Merzifon",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.872657775878906,
+  "lng": 35.46337890625,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.872657775878906,35.46337890625",
+  "yandex_url": "https://yandex.com/maps/?text=Dr Ercan Yilmaz Este Life Güzellik Merkezi&ll=35.46337890625%2C40.872657775878906&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "4f097f5e-659e-44c5-9469-337a6259bf1a",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Dr Gülbin YILDIRAN MUAYENESİ",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -3136,6 +3349,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Eczanem Dörtyol Havza",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Kazım Paşa Caddesi 4/a, Havza",
+  "il": null,
+  "ilce": "Havza",
+  "mahalle": null,
+  "telefon": "(0362) 714 32 41",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.96931838989258,
+  "lng": 35.66282653808594,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.96931838989258,35.66282653808594",
+  "yandex_url": "https://yandex.com/maps/?text=Eczanem Dörtyol Havza&ll=35.66282653808594%2C40.96931838989258&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "ed750629-67b0-4af3-8bd1-467f70f243ee",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Egzostcu Kada",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -3268,7 +3510,9 @@
   "fsq_id": "5513a94f498e46e261e12bf7",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "5df6cebc-8190-4ce4-8d39-9eb913666a69",
+  "alt": "muayenehane"
  },
  {
   "ad": "Este Lıfe",
@@ -3566,6 +3810,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Fizyoes Merzifon Ağrısız Yaşam",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Hafız Mustafa Caddesi 37, Merzifon",
+  "il": null,
+  "ilce": "Merzifon",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.87217330932617,
+  "lng": 35.444908142089844,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.87217330932617,35.444908142089844",
+  "yandex_url": "https://yandex.com/maps/?text=Fizyoes Merzifon Ağrısız Yaşam&ll=35.444908142089844%2C40.87217330932617&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "1e87f2b3-c3f7-4e46-a715-796aeb3aacb5",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Fizyoterapist Alperen Sezer Keleş",
@@ -4737,7 +5010,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d177941735"
   ],
-  "adres": null,
+  "adres": "Org. Faruk Cömert Cd. No:14, Vezirköprü",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -4755,7 +5028,9 @@
   "fsq_id": "58529db0158b964b61cfa9e9",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "78d3ed6b-f0c4-415d-90b8-c676234205b2",
+  "alt": "muayenehane"
  },
  {
   "ad": "Kan Alma - EKG",
@@ -5196,11 +5471,11 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d177941735"
   ],
-  "adres": null,
+  "adres": "Bahşi Mh. Gaziler Cd. Pk:55760 Ladik/samsun, Ladik",
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0362) 771 31 97",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -5214,7 +5489,9 @@
   "fsq_id": "510bf77be4b09bd9ed23cae5",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "34d5a06a-324b-47b7-9403-83824eacbec0",
+  "alt": "muayenehane"
  },
  {
   "ad": "Ladik Elif Eczanesi",
@@ -5755,6 +6032,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Merzifon 5 Nolu Aile Saglık Ocagı",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Mahmut Sürmeli Caddesi, Merzifon",
+  "il": null,
+  "ilce": "Merzifon",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.879573822021484,
+  "lng": 35.452701568603516,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.879573822021484,35.452701568603516",
+  "yandex_url": "https://yandex.com/maps/?text=Merzifon 5 Nolu Aile Saglık Ocagı&ll=35.452701568603516%2C40.879573822021484&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "3d5d793d-8bb1-4316-b23f-9fa33ad62f9d",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Merzifon Asker Hastanesi",
@@ -6353,6 +6659,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Onur Auto Merz",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Gazi Bulvarı 35, Merzifon",
+  "il": null,
+  "ilce": "Merzifon",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.88043975830078,
+  "lng": 35.44742965698242,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.88043975830078,35.44742965698242",
+  "yandex_url": "https://yandex.com/maps/?text=Onur Auto Merz&ll=35.44742965698242%2C40.88043975830078&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "0709ef8d-37ba-4b79-938e-e30ac4231b90",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Onur TIP Merkezi",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -6621,7 +6956,9 @@
   "fsq_id": "56791c6b498ec25d87e53545",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "da0c168f-1bcf-4a29-a750-88eff72be786",
+  "alt": "muayenehane"
  },
  {
   "ad": "Psikiyatri Servisi",
@@ -6684,12 +7021,12 @@
   "hizmet_ipuclari": [
    "52e81612bcbc57f1066b7a39"
   ],
-  "adres": null,
+  "adres": "Dere Mahallesi Ziya Paşa Blv. Özkök İş Merkezi 17/A (Burger King Üzeri 4., kat)",
   "il": null,
   "ilce": null,
   "mahalle": null,
   "telefon": null,
-  "web": null,
+  "web": "https://676226.site123.me/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -6702,7 +7039,8 @@
   "fsq_id": "59c9047c3d479165769de821",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "e3df5742-61cf-420a-8e17-39072c4bbde5"
  },
  {
   "ad": "Puva Ünitesi",
@@ -7769,6 +8107,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Suşehri Devlet Hastanesi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Suşehri Devlet Hastanesi, Suşehri",
+  "il": null,
+  "ilce": "Suşehri",
+  "mahalle": null,
+  "telefon": "(0346) 311 40 08",
+  "web": "http://www.susehridh.saglik.gov.tr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.44694519042969,
+  "lng": 35.859375,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.44694519042969,35.859375",
+  "yandex_url": "https://yandex.com/maps/?text=Suşehri Devlet Hastanesi&ll=35.859375%2C40.44694519042969&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "78f29b80-fc4c-4763-9e59-3d4e4b42132d",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Süha Yalçın'ın Muayenehanesi",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -7856,7 +8223,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d104941735"
   ],
-  "adres": "Merzifon",
+  "adres": "Hacırahat Caddesi 2, Merzifon",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -7874,7 +8241,8 @@
   "fsq_id": "55d59723498e869a7ce51423",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "e825b597-9e64-40f2-8f76-16a4f67b41ba"
  },
  {
   "ad": "Uzmanlar Polikinliği",
@@ -8009,7 +8377,9 @@
   "fsq_id": "519b20ca498ee9bffff9610b",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "56ac44cb-0277-4fd7-b659-1b59938b027b",
+  "alt": "muayenehane"
  },
  {
   "ad": "Vezirkopru 112",
@@ -8147,6 +8517,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Vezirköprü Cumhuriyet Aile Sağlık Merkezi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "525. Sk., Vezirköprü",
+  "il": null,
+  "ilce": "Vezirköprü",
+  "mahalle": null,
+  "telefon": "(0362) 647 13 18",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.14229965209961,
+  "lng": 35.467830657958984,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.14229965209961,35.467830657958984",
+  "yandex_url": "https://yandex.com/maps/?text=Vezirköprü Cumhuriyet Aile Sağlık Merkezi&ll=35.467830657958984%2C41.14229965209961&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "3da09566-38b2-4fbe-88b6-096c76a50805",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Vezirköprü Devlet Hastanesi",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -8280,6 +8679,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Welltures Amasya",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": " Sofular Mah. Saraydüzü Cad.",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.65182876586914,
+  "lng": 35.83552932739258,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.65182876586914,35.83552932739258",
+  "yandex_url": "https://yandex.com/maps/?text=Welltures Amasya&ll=35.83552932739258%2C40.65182876586914&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "9c79ece6-5e3c-42a2-96cd-084b67a52d25",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Yedam (Yesilay Danismanlik Merkezi)",

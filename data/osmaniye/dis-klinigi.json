@@ -244,18 +244,47 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Bulut Dental Diş Polikliniği Kozan Şubesi",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Üstün Sk. No:95, Kozan",
+  "il": null,
+  "ilce": "Kozan",
+  "mahalle": null,
+  "telefon": "(0322) 515 02 02",
+  "web": "http://www.bulutdental.com.tr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.4549674987793,
+  "lng": 35.81611633300781,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.4549674987793,35.81611633300781",
+  "yandex_url": "https://yandex.com/maps/?text=Bulut Dental Diş Polikliniği Kozan Şubesi&ll=35.81611633300781%2C37.4549674987793&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "e9075d28-22d3-4f5d-b7f4-15c5d20c2881",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Bülent Aksak Ağız Ve Diş Sağlığı Polikliniği",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
   "hizmet_ipuclari": [
    "4bf58dd8d48988d178941735"
   ],
-  "adres": null,
+  "adres": "Acar Isı Sitesi, 1562. Sk. A/Blok Zemin Kat, Kadirli",
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
-  "web": null,
+  "telefon": "(0328) 718 10 15",
+  "web": "http://www.ozelbulentaksakdis.com/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -268,7 +297,37 @@
   "fsq_id": "52147cb311d2d1b2b0cb6395",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "14ccdb4d-a22f-457f-8d55-00bdc91720ea"
+ },
+ {
+  "ad": "Can Dent",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "9547. Sk. No:15",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.06446838378906,
+  "lng": 36.23674011230469,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.06446838378906,36.23674011230469",
+  "yandex_url": "https://yandex.com/maps/?text=Can Dent&ll=36.23674011230469%2C37.06446838378906&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "4a82c959-6a42-4a63-b812-78aea2891547",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Ceyhan Ağız ve Diş Sağlığı Merkezi",
@@ -461,6 +520,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Dent-i Eker Ağız ve Diş Sağlığı Kliniği",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Begonya Sk. starlife sitesi no1 No:1 Kat:1, Kozan",
+  "il": null,
+  "ilce": "Kozan",
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://dentiekerkozan.com.tr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.453125,
+  "lng": 35.8182258605957,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.453125,35.8182258605957",
+  "yandex_url": "https://yandex.com/maps/?text=Dent-i Eker Ağız ve Diş Sağlığı Kliniği&ll=35.8182258605957%2C37.453125&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "644ca8c8-674b-40cc-9b8b-519471bae309",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "DentER PORSELEN DİŞ MERKEZİ",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -567,7 +655,8 @@
   "fsq_id": "6032b23bb0f8102849cbfe46",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "31acd58a-1dac-4771-bc8d-7d808545de7b"
  },
  {
   "ad": "Dental Klinik Osmaniye",
@@ -576,7 +665,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d178941735"
   ],
-  "adres": "Yeni belediye yanı deveci iş merkezi zemin kat",
+  "adres": "Rahime Hatun, Rahime Hatun, Mahallesi, dr sadık alkan cad. deveci iş merkezi zemin kat 13, D:C",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -594,7 +683,8 @@
   "fsq_id": "5ce0361ba5a315002c1c2599",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "61f24276-596a-4a4f-b866-badadb0c5f3c"
  },
  {
   "ad": "Dentestetik Ağız ve Diş Sağlığı Merkezi",
@@ -684,7 +774,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d178941735"
   ],
-  "adres": null,
+  "adres": "Mahallesi, Kamil Kara Blv. 372/A No:1, Kadirli",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -702,7 +792,8 @@
   "fsq_id": "5e5e755e6e4c9500072b5841",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "205137e2-f3ba-4c97-814a-e838d4a5e818"
  },
  {
   "ad": "Dentpark Diş Hekimliği",
@@ -840,6 +931,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Dis Hekimi Yusuf Derin",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Çayli Cd no:52/9 D:4.kat, Dörtyol",
+  "il": null,
+  "ilce": "Dörtyol",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.837013244628906,
+  "lng": 36.225589752197266,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.837013244628906,36.225589752197266",
+  "yandex_url": "https://yandex.com/maps/?text=Dis Hekimi Yusuf Derin&ll=36.225589752197266%2C36.837013244628906&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "4380f11b-62e6-446f-8a98-c308bea06d00",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Diş Doktoru Emir Bozkurt",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -891,7 +1011,8 @@
   "fsq_id": "4e533a41ae606f57379c9790",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "f89a667b-8547-44ef-8f13-210499b027b1"
  },
  {
   "ad": "Diş Hekimi",
@@ -1027,6 +1148,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Diş Hekimi Deha Başar Bozkurt",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Cevdet Sunay Cd. No:65",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.07197570800781,
+  "lng": 36.251590728759766,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.07197570800781,36.251590728759766",
+  "yandex_url": "https://yandex.com/maps/?text=Diş Hekimi Deha Başar Bozkurt&ll=36.251590728759766%2C37.07197570800781&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "b9249cf6-6096-4341-a7ea-a3b760e41917",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Diş Hekimi Deniz İlhan",
@@ -1270,6 +1420,64 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Diş Hekimi Ertuğrul Avan",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Dörtyol",
+  "il": null,
+  "ilce": "Dörtyol",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.83732986450195,
+  "lng": 36.22651290893555,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.83732986450195,36.22651290893555",
+  "yandex_url": "https://yandex.com/maps/?text=Diş Hekimi Ertuğrul Avan&ll=36.22651290893555%2C36.83732986450195&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "d8965e97-4bbe-4197-9c0b-785ad132005a",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Diş Hekimi Erşan Efeoğulları",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Tufanpaşa Mah. G.Rahmi Enişte sk. Mert Yiğit Apt. Kat:1, Kozan",
+  "il": null,
+  "ilce": "Kozan",
+  "mahalle": null,
+  "telefon": "(0322) 515 15 05",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.45075607299805,
+  "lng": 35.816650390625,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.45075607299805,35.816650390625",
+  "yandex_url": "https://yandex.com/maps/?text=Diş Hekimi Erşan Efeoğulları&ll=35.816650390625%2C37.45075607299805&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "bc550743-d5f1-4a92-8def-e2996607cfe9",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Diş Hekimi Fahrettin Demir",
@@ -1542,6 +1750,64 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Diş Hekimi Harun Manga",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Ebülfeyz Elçibey Cd. no:32, Ceyhan",
+  "il": null,
+  "ilce": "Ceyhan",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.harunmanga.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.01759719848633,
+  "lng": 35.817073822021484,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.01759719848633,35.817073822021484",
+  "yandex_url": "https://yandex.com/maps/?text=Diş Hekimi Harun Manga&ll=35.817073822021484%2C37.01759719848633&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "ac682982-af4f-43ef-8ce6-60aac5fbf210",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Diş Hekimi Hasan Hatipoğlu",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "ziraat bankası karşısı, Park 328 civarı lider plaza No:4 kat.1",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.064056396484375,
+  "lng": 36.23704147338867,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.064056396484375,36.23704147338867",
+  "yandex_url": "https://yandex.com/maps/?text=Diş Hekimi Hasan Hatipoğlu&ll=36.23704147338867%2C37.064056396484375&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "c5183c4f-18c0-438d-8144-aabb77ea30e8",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Diş Hekimi Hasan Sahi",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -1567,6 +1833,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Diş Hekimi Hüseyin IŞIK",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "5020. Sk no:2",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://www.instagram.com/dishekimihuseyinisk/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.0731201171875,
+  "lng": 36.25448226928711,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.0731201171875,36.25448226928711",
+  "yandex_url": "https://yandex.com/maps/?text=Diş Hekimi Hüseyin IŞIK&ll=36.25448226928711%2C37.0731201171875&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "3771685d-3673-442b-82de-104cc71763ca",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Diş Hekimi Hüseyin Polat",
@@ -1677,6 +1972,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Diş Hekimi Muhammet Fatih Erkilinç",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Orhan Ekinci Blv. 78 2/5, Ceyhan",
+  "il": null,
+  "ilce": "Ceyhan",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.011112213134766,
+  "lng": 35.829925537109375,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.011112213134766,35.829925537109375",
+  "yandex_url": "https://yandex.com/maps/?text=Diş Hekimi Muhammet Fatih Erkilinç&ll=35.829925537109375%2C37.011112213134766&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "0adf90fc-55b3-467c-9663-905ea52323a3",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Diş Hekimi Mustafa Berk",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -1731,6 +2055,64 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Diş Hekimi Ruveyda Ağca",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Adalet Sokak 2, Kozan",
+  "il": null,
+  "ilce": "Kozan",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.45148468017578,
+  "lng": 35.811614990234375,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.45148468017578,35.811614990234375",
+  "yandex_url": "https://yandex.com/maps/?text=Diş Hekimi Ruveyda Ağca&ll=35.811614990234375%2C37.45148468017578&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "2ca90736-5929-4d9c-8846-59782842c2b2",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Diş Hekimi Semire Sağaltıcı",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Kaymak Sk. No:5, Payas",
+  "il": null,
+  "ilce": "Payas",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.75639343261719,
+  "lng": 36.216773986816406,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.75639343261719,36.216773986816406",
+  "yandex_url": "https://yandex.com/maps/?text=Diş Hekimi Semire Sağaltıcı&ll=36.216773986816406%2C36.75639343261719&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "4fc0cfd9-e309-4e5f-87d3-612a92bc22d0",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Diş Hekimi Serkan Can",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -1764,11 +2146,11 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d178941735"
   ],
-  "adres": null,
+  "adres": "Numune Evler Mah. Çaylı Cad. Sena Giyim üstü, Nokta Plaza Kat:1 Hatay, Dörtyol",
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0326) 713 03 13",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -1782,7 +2164,8 @@
   "fsq_id": "526e302a11d29a5f98073944",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "0488b5cb-e14a-4e46-a37a-66af58d01669"
  },
  {
   "ad": "Diş Hekimi Soner Kırlangıç",
@@ -1947,6 +2330,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Diş Hekimi Çağrı Yavuz",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": null,
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.06454086303711,
+  "lng": 36.2360725402832,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.06454086303711,36.2360725402832",
+  "yandex_url": "https://yandex.com/maps/?text=Diş Hekimi Çağrı Yavuz&ll=36.2360725402832%2C37.06454086303711&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "b128bdc1-f3f8-4310-aeb3-b55ffede4e8c",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Diş Hekimi Özlem İskender",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -2080,6 +2492,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Diş hekimi berna bolat",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "İnönü Blv. No:83, Ceyhan",
+  "il": null,
+  "ilce": "Ceyhan",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.028297424316406,
+  "lng": 35.81770324707031,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.028297424316406,35.81770324707031",
+  "yandex_url": "https://yandex.com/maps/?text=Diş hekimi berna bolat&ll=35.81770324707031%2C37.028297424316406&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "2704d49b-f9a2-41a7-9566-9e95a7fbb292",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Dişci",
@@ -2295,7 +2736,37 @@
   "fsq_id": "63f9070ec00d9e128bb32859",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "1b36aac6-bda5-4c23-a8a0-fb0e36a489a7"
+ },
+ {
+  "ad": "Dnz dental ağız ve diş",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Mezbahane Cd. No:12, 27800, İslahiye",
+  "il": null,
+  "ilce": "İslahiye",
+  "mahalle": null,
+  "telefon": "(0342) 862 22 22",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.02444076538086,
+  "lng": 36.63469314575195,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.02444076538086,36.63469314575195",
+  "yandex_url": "https://yandex.com/maps/?text=Dnz dental ağız ve diş&ll=36.63469314575195%2C37.02444076538086&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "b14052f0-6d6c-4ffa-b35f-cc889e9ea71d",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Doktor Hanifi Yıldırım Ortodonti Kliniği",
@@ -2568,6 +3039,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Durmuş Sucak",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Üstün Sk. No:121, Kozan",
+  "il": null,
+  "ilce": "Kozan",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.45792007446289,
+  "lng": 35.81638717651367,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.45792007446289,35.81638717651367",
+  "yandex_url": "https://yandex.com/maps/?text=Durmuş Sucak&ll=35.81638717651367%2C37.45792007446289&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "2a1e23be-8bab-481d-9a11-9ca2350f888d",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "DÜZİÇİ DEVLET HASTANESİ DİŞ HEKİMLİĞİ",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -2601,11 +3101,11 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d178941735"
   ],
-  "adres": null,
+  "adres": "Numune Evler Mahallesi Tahsin Katipoğlu Cad No:26, Dörtyol",
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0326) 712 31 09",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -2619,7 +3119,8 @@
   "fsq_id": "5062b33ce4b0b51b649e0966",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "92987703-cfab-4d21-8968-bc46225bc7bd"
  },
  {
   "ad": "Dış Hekimi Ilyas Mukannasgil",
@@ -2701,6 +3202,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Erzin Diş Hekimi Aykan Yuzal",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Sağlam Sk. No:7, Erzin",
+  "il": null,
+  "ilce": "Erzin",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.95486068725586,
+  "lng": 36.20034408569336,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.95486068725586,36.20034408569336",
+  "yandex_url": "https://yandex.com/maps/?text=Erzin Diş Hekimi Aykan Yuzal&ll=36.20034408569336%2C36.95486068725586&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "7236748a-d3c5-4aee-82ed-96f3dbfd5b4f",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Erşan Efeoğulları Diş Polikliniği",
@@ -2862,7 +3392,8 @@
   "fsq_id": "56fcb977cd10306c3334e4cc",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "8f21c93a-2dbc-4ec4-a1ee-1a5b5e79cca5"
  },
  {
   "ad": "Gökalp Akın Agız ve Diş Sağlığı Merkezi",
@@ -2916,7 +3447,8 @@
   "fsq_id": "509a4080e4b057245df09c32",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "a2acc3d7-89aa-45a1-8cdf-23c210677006"
  },
  {
   "ad": "Hakan TÜRKER & Serdar HASOĞLU Diş Merkezi",
@@ -2998,6 +3530,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Hasan Hatipoğlu  Diş kliniğinde",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Adnan Menderes Bulvarı",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.066646575927734,
+  "lng": 36.23769760131836,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.066646575927734,36.23769760131836",
+  "yandex_url": "https://yandex.com/maps/?text=Hasan Hatipoğlu  Diş kliniğinde&ll=36.23769760131836%2C37.066646575927734&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "231c4f43-3d42-4231-a8fb-c21a01943f44",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Hastane",
@@ -3105,7 +3666,37 @@
   "fsq_id": "57e8ca20498e881410b8fec5",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "32d65fcd-2159-4649-b1ca-2903680c8dc4"
+ },
+ {
+  "ad": "Kadirli Turkuaz Dental",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "cemal paşa ramazan keser sok, Hacer Keser Apt No:1, Kadirli",
+  "il": null,
+  "ilce": "Kadirli",
+  "mahalle": null,
+  "telefon": "(0328) 717 67 67",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.368385314941406,
+  "lng": 36.09212875366211,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.368385314941406,36.09212875366211",
+  "yandex_url": "https://yandex.com/maps/?text=Kadirli Turkuaz Dental&ll=36.09212875366211%2C37.368385314941406&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "136e0f03-1701-4889-b77a-5dd286975be3",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Kobaner Ağız ve Diş Sağlığı Polikliniği",
@@ -3145,8 +3736,8 @@
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
-  "web": null,
+  "telefon": "(0322) 516 17 57",
+  "web": "https://kozandental.com.tr/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -3159,7 +3750,8 @@
   "fsq_id": "61ebe36fa879a5399271f751",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "d10d66b7-6d57-428f-b4b3-d8e7d65f58b1"
  },
  {
   "ad": "Koçak Dent Ağız ve Diş Sağlığı Kliniği",
@@ -3243,6 +3835,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Lider Dis Laboratuvarı",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "15540. Sokak 9",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0328) 812 87 54",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.076934814453125,
+  "lng": 36.245052337646484,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.076934814453125,36.245052337646484",
+  "yandex_url": "https://yandex.com/maps/?text=Lider Dis Laboratuvarı&ll=36.245052337646484%2C37.076934814453125&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "c761ae20-4d07-407f-bc40-25179b5df437",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "M. Nuri Özsoy Diş Hekimi",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -3295,6 +3916,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Merkez Diş Kliniği",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Özel Park Hastanesi Karşısı",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.07269287109375,
+  "lng": 36.2454948425293,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.07269287109375,36.2454948425293",
+  "yandex_url": "https://yandex.com/maps/?text=Merkez Diş Kliniği&ll=36.2454948425293%2C37.07269287109375&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "b708abc2-6307-4491-a476-8f1de3a42958",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Mesut Soylu özel diş polikliniği",
@@ -3357,7 +4007,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d178941735"
   ],
-  "adres": "yediocak mahallesi",
+  "adres": "Yediocak mahallesi Devlet Bahçeli Bulvarı 3. Etap Karataş konakları B blok No:10",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -3375,7 +4025,8 @@
   "fsq_id": "61b9b97e0c4fea2fd68339b8",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "8ce8f719-31f4-4270-83a4-9d0d97c98806"
  },
  {
   "ad": "Necati saygılı",
@@ -3430,6 +4081,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Nurhani Selçuk Dental Klinik",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Emniyet Müdürlüğü, Turgut Özal Bulvarı, Karşısı, Kozan",
+  "il": null,
+  "ilce": "Kozan",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.460636138916016,
+  "lng": 35.820159912109375,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.460636138916016,35.820159912109375",
+  "yandex_url": "https://yandex.com/maps/?text=Nurhani Selçuk Dental Klinik&ll=35.820159912109375%2C37.460636138916016&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "125a402f-a22c-4da0-8c1c-55ea96c886cc",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Or-Dent Diş Kliniği",
@@ -3546,7 +4226,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d178941735"
   ],
-  "adres": null,
+  "adres": "İskender Türkmen Cd. No:102",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -3564,7 +4244,37 @@
   "fsq_id": "558a7d2a498eda1b4f03a343",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "cc0085d1-ce0c-4d70-95af-75fb9dc5eb02"
+ },
+ {
+  "ad": "Osmaniye Beyaz Diş",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Dr. Devlet Bahçeli Blv. No:1",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0328) 814 47 47",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.072715759277344,
+  "lng": 36.243324279785156,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.072715759277344,36.243324279785156",
+  "yandex_url": "https://yandex.com/maps/?text=Osmaniye Beyaz Diş&ll=36.243324279785156%2C37.072715759277344&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "8244d932-cd13-46f1-9880-2c99902240b8",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Osmaniye Ortodonti Kliniği",
@@ -3648,6 +4358,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Osmaniye İs Kobaner Oral and Dental Health Center",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Alibeyli Mh. Atatürk Cad. Kobaner Pasajı No:10",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0328) 813 81 33",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.07299041748047,
+  "lng": 36.25010299682617,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.07299041748047,36.25010299682617",
+  "yandex_url": "https://yandex.com/maps/?text=Osmaniye İs Kobaner Oral and Dental Health Center&ll=36.25010299682617%2C37.07299041748047&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "d7c2e692-70f5-44d7-8cca-ad089895dfcb",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Oğlak holding",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -3681,7 +4420,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d178941735"
   ],
-  "adres": null,
+  "adres": "Arif Nihat Asya Sokak 45, Ceyhan",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -3699,7 +4438,8 @@
   "fsq_id": "5668003b498ee71d3c6beff5",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "fac6ea93-67ac-47ee-9964-935ec09a4033"
  },
  {
   "ad": "Polat DİŞ POLİNİĞİ 💺🚑💉💉",
@@ -3758,7 +4498,37 @@
   "fsq_id": "5cb866d6916bc1002c5f107b",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "1a496ae1-b8fb-42d5-8461-c70dc3ff24a9"
+ },
+ {
+  "ad": "S M G Dental",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Özel Caddesi 40, Dörtyol",
+  "il": null,
+  "ilce": "Dörtyol",
+  "mahalle": null,
+  "telefon": "(0326) 712 22 20",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.838096618652344,
+  "lng": 36.222869873046875,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.838096618652344,36.222869873046875",
+  "yandex_url": "https://yandex.com/maps/?text=S M G Dental&ll=36.222869873046875%2C36.838096618652344&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "130450ee-6b08-4482-af19-e94c4b868d7b",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "SAMİ AKYIGIT DİS HEKİMİ",
@@ -3896,17 +4666,75 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Sevde Diş Polikliniği",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Andırın Cd No:17, Kadirli",
+  "il": null,
+  "ilce": "Kadirli",
+  "mahalle": null,
+  "telefon": "(0328) 718 03 47",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.37126541137695,
+  "lng": 36.100830078125,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.37126541137695,36.100830078125",
+  "yandex_url": "https://yandex.com/maps/?text=Sevde Diş Polikliniği&ll=36.100830078125%2C37.37126541137695&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "5a6398d7-47e0-492a-8a80-8eace32d6825",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Sezai Arama Diş Kliniği",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Devlet Hastanesi Karşısı ( Lokman Hekim Eczanesi Yanı, Devlet Bahçeli Blv. no:37, Bahçe",
+  "il": null,
+  "ilce": "Bahçe",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.19794845581055,
+  "lng": 36.5743293762207,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.19794845581055,36.5743293762207",
+  "yandex_url": "https://yandex.com/maps/?text=Sezai Arama Diş Kliniği&ll=36.5743293762207%2C37.19794845581055&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "f413027b-b285-453a-8306-f692da3773c2",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Sezgin Klinik",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
   "hizmet_ipuclari": [
    "4bf58dd8d48988d178941735"
   ],
-  "adres": null,
+  "adres": "Atatürk Caddesi 209",
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0328) 814 34 12",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -3920,7 +4748,8 @@
   "fsq_id": "521b285c498efa4abc9857c1",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "16d2bb33-8181-4d46-b100-fda7953fafef"
  },
  {
   "ad": "Sistem Diş Poliklinigi",
@@ -4221,6 +5050,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Uzman Diş Hekimi Ural Karaduman Diş Kliniği",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Mahallesi, Akyar Cd. No:99 D:101",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.uralkaraduman.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.07115936279297,
+  "lng": 36.25279235839844,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.07115936279297,36.25279235839844",
+  "yandex_url": "https://yandex.com/maps/?text=Uzman Diş Hekimi Ural Karaduman Diş Kliniği&ll=36.25279235839844%2C37.07115936279297&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "8cbc2330-1c34-48d3-8f56-9524c876c7f2",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Uğur Yağcı",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -4300,6 +5158,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "bulutdentaldispol",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Ali Bozdoğanoğlu Bulvarı 38, Seyhan",
+  "il": null,
+  "ilce": "Seyhan",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.bulutdental.com.tr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.45172882080078,
+  "lng": 35.8159065246582,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.45172882080078,35.8159065246582",
+  "yandex_url": "https://yandex.com/maps/?text=bulutdentaldispol&ll=35.8159065246582%2C37.45172882080078&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "50f4b303-8ef4-4383-9c0c-6d4becdc2a38",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "dentahouse ağız ve diş sağlığı polikliniği",
@@ -5010,7 +5897,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d178941735"
   ],
-  "adres": null,
+  "adres": "Banı Cd. No:10, Düziçi",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -5028,7 +5915,8 @@
   "fsq_id": "508f989ce4b021bb212de8b1",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "256bd1e4-464a-4670-a503-9fe141aef5cb"
  },
  {
   "ad": "Özdent Ağız Ve Diş Sağlığı",
@@ -5139,6 +6027,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Özel Aura Ağız ve Diş Sağlığı Polikliniği",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Garagız Apartmanı, Sanayi Mahallesi Şehit, S. Emin Bayırlı Sk. No: 16/B, Dörtyol",
+  "il": null,
+  "ilce": "Dörtyol",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.dentahouse.net/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.839195251464844,
+  "lng": 36.228179931640625,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.839195251464844,36.228179931640625",
+  "yandex_url": "https://yandex.com/maps/?text=Özel Aura Ağız ve Diş Sağlığı Polikliniği&ll=36.228179931640625%2C36.839195251464844&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "aa38a485-f26d-46d4-ac72-62d65e9154b7",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Özel Beyazdüş Diş Polikliniği",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -5163,7 +6080,8 @@
   "fsq_id": "53b6616b498e874bf34f7071",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "5c51b89f-d4c3-4bc8-8d2d-c2a87accc0b2"
  },
  {
   "ad": "Özel Bindal Dental Ağız Ve Diş Sağlığı Polikliniği",
@@ -5274,6 +6192,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Özel Ceyhan Sistem Ağız ve Diş Sağlığı Polikliniği",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "İnönü Bulvarı 2, Ceyhan",
+  "il": null,
+  "ilce": "Ceyhan",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.02014923095703,
+  "lng": 35.82115173339844,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.02014923095703,35.82115173339844",
+  "yandex_url": "https://yandex.com/maps/?text=Özel Ceyhan Sistem Ağız ve Diş Sağlığı Polikliniği&ll=35.82115173339844%2C37.02014923095703&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "0448c555-1c13-4392-8c5e-ca7832fae096",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Özel Dent Park Ağız ve Diş Sağlığı Polikliniği",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -5299,7 +6246,37 @@
   "fsq_id": "69b469c23b24f162760130b2",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "cdf3e2b7-45ee-4d63-ab76-0d746548ffff"
+ },
+ {
+  "ad": "Özel Dental 328 Diş Laboratuvarı",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "9078. Sk. No:6/D",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.07698059082031,
+  "lng": 36.24918746948242,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.07698059082031,36.24918746948242",
+  "yandex_url": "https://yandex.com/maps/?text=Özel Dental 328 Diş Laboratuvarı&ll=36.24918746948242%2C37.07698059082031&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "f03d581d-b67e-45ca-8339-e8d6d18f5cdf",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Özel Diş Hekimliğinde",
@@ -5327,6 +6304,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Özel Dörtyol Ağız ve Diş Sağlığı Polikliniği",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Mehmet Ocak Cd. No:5, Dörtyol",
+  "il": null,
+  "ilce": "Dörtyol",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.836570739746094,
+  "lng": 36.225616455078125,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.836570739746094,36.225616455078125",
+  "yandex_url": "https://yandex.com/maps/?text=Özel Dörtyol Ağız ve Diş Sağlığı Polikliniği&ll=36.225616455078125%2C36.836570739746094&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "d27702eb-b041-4329-b9bc-fcc7e8bf392c",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Özel Düziçi Dental Ağız ve Diş Sağlığı Polikliniği",

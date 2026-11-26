@@ -24,7 +24,9 @@
   "fsq_id": "52c988ba11d2265065d480bb",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "9412a26c-ba56-4dd3-84a4-5d6971d3f89d",
+  "alt": "spa"
  },
  {
   "ad": "Alya Bebek Spa& Doğuma Hazırlık Merkezi",
@@ -78,7 +80,9 @@
   "fsq_id": "55fd2378498ea821bae6b990",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "4da3a1a5-2382-4378-9dbf-0bafde0a0e5b",
+  "alt": "spa"
  },
  {
   "ad": "Asya Sauna",
@@ -135,6 +139,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Bebek Spa",
+  "sektor": "spa-masaj",
+  "kategori": "spa-masaj",
+  "alt": "spa",
+  "hizmet_ipuclari": [
+   "spa"
+  ],
+  "adres": "Gökaslan Cd. No:44B, Altıeylül",
+  "il": null,
+  "ilce": "Altıeylül",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.618682861328125,
+  "lng": 27.88749885559082,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.618682861328125,27.88749885559082",
+  "yandex_url": "https://yandex.com/maps/?text=Bebek Spa&ll=27.88749885559082%2C39.618682861328125&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "c382277d-1fd1-4c95-a796-837365c4f0c4",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Berber Cengiz",
   "sektor": "spa-masaj",
   "kategori": "spa-masaj",
@@ -162,6 +195,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Bigadiç Hisarköy Termal Tesisleri",
+  "sektor": "spa-masaj",
+  "kategori": "spa-masaj",
+  "alt": "spa",
+  "hizmet_ipuclari": [
+   "spa"
+  ],
+  "adres": "hisarköy, Bigadiç",
+  "il": null,
+  "ilce": "Bigadiç",
+  "mahalle": null,
+  "telefon": "(0266) 652 89 94",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.4294319152832,
+  "lng": 28.287574768066406,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.4294319152832,28.287574768066406",
+  "yandex_url": "https://yandex.com/maps/?text=Bigadiç Hisarköy Termal Tesisleri&ll=28.287574768066406%2C39.4294319152832&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "888e9fea-5922-4cd0-b356-d2b7fbba0522",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Carsi Hamami",
   "sektor": "spa-masaj",
   "kategori": "spa-masaj",
@@ -186,7 +248,9 @@
   "fsq_id": "4eb58999d3e3644ca6441d21",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "d0fd8957-7f8a-4922-974e-97a742c2ea72",
+  "alt": "spa"
  },
  {
   "ad": "Duşçu Banyo Sistemleri",
@@ -326,6 +390,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Gönen Kapalı Havuz & Hamam",
+  "sektor": "spa-masaj",
+  "kategori": "spa-masaj",
+  "alt": "spa",
+  "hizmet_ipuclari": [
+   "spa"
+  ],
+  "adres": "Gönen",
+  "il": null,
+  "ilce": "Gönen",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.11085510253906,
+  "lng": 27.651138305664062,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.11085510253906,27.651138305664062",
+  "yandex_url": "https://yandex.com/maps/?text=Gönen Kapalı Havuz & Hamam&ll=27.651138305664062%2C40.11085510253906&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "fcead128-fe72-4ece-933b-06179479cfbb",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Gönen Termal Havuzları",
@@ -519,6 +612,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Hermes Spa, Hamam, and Massage",
+  "sektor": "spa-masaj",
+  "kategori": "spa-masaj",
+  "alt": "masaj",
+  "hizmet_ipuclari": [
+   "massage_therapy"
+  ],
+  "adres": "Dağ Sk. No:13/A, Karesi",
+  "il": null,
+  "ilce": "Karesi",
+  "mahalle": null,
+  "telefon": "(0266) 243 80 10",
+  "web": "http://www.hermesspawellness.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.665462493896484,
+  "lng": 27.8955020904541,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.665462493896484,27.8955020904541",
+  "yandex_url": "https://yandex.com/maps/?text=Hermes Spa, Hamam, and Massage&ll=27.8955020904541%2C39.665462493896484&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "f9fbc863-d311-4f7f-8478-9364aab9f695",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "KENDİ ODAM",
   "sektor": "spa-masaj",
   "kategori": "spa-masaj",
@@ -637,8 +759,8 @@
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
-  "web": null,
+  "telefon": "(0236) 635 11 59",
+  "web": "http://mentesetermal.com/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -651,7 +773,9 @@
   "fsq_id": "54d371c0498e5d745083eaca",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "3358d422-079a-4a9e-be2a-baabc89c8d3d",
+  "alt": "spa"
  },
  {
   "ad": "Miss Sedef & Angelo Güzellik Salonu",
@@ -706,6 +830,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "SPA & Wellness Academy   HSC10",
+  "sektor": "spa-masaj",
+  "kategori": "spa-masaj",
+  "alt": "spa",
+  "hizmet_ipuclari": [
+   "spa"
+  ],
+  "adres": "520. Sokak 2B, Edremit",
+  "il": null,
+  "ilce": "Edremit",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.ryoto.com.tr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.58942794799805,
+  "lng": 27.017019271850586,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.58942794799805,27.017019271850586",
+  "yandex_url": "https://yandex.com/maps/?text=SPA & Wellness Academy   HSC10&ll=27.017019271850586%2C39.58942794799805&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "1690c6fb-5403-4113-9c27-916a38e033ae",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Sauna Türkiye",
@@ -816,6 +969,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Tarihi Lazlar Hamamı",
+  "sektor": "spa-masaj",
+  "kategori": "spa-masaj",
+  "alt": "spa",
+  "hizmet_ipuclari": [
+   "spa"
+  ],
+  "adres": "Bozkurt Sk., Karesi",
+  "il": null,
+  "ilce": "Karesi",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.649105072021484,
+  "lng": 27.881868362426758,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.649105072021484,27.881868362426758",
+  "yandex_url": "https://yandex.com/maps/?text=Tarihi Lazlar Hamamı&ll=27.881868362426758%2C39.649105072021484&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "7fae928d-01a6-416d-9819-d4c3fe06ba8a",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Termal Yıldız Spa",
   "sektor": "spa-masaj",
   "kategori": "spa-masaj",
@@ -841,6 +1023,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Touch Baby Spa",
+  "sektor": "spa-masaj",
+  "kategori": "spa-masaj",
+  "alt": "spa",
+  "hizmet_ipuclari": [
+   "spa"
+  ],
+  "adres": "Plevne Mah. 12109. Sokak 1/1 Altıeylül/BALIKESİR, Altıeylül",
+  "il": null,
+  "ilce": "Altıeylül",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.6214714050293,
+  "lng": 27.879623413085938,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.6214714050293,27.879623413085938",
+  "yandex_url": "https://yandex.com/maps/?text=Touch Baby Spa&ll=27.879623413085938%2C39.6214714050293&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "e9da893d-be79-4313-b9b3-a6d9cbe6ae9f",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Touchbabyspa",
@@ -924,6 +1135,93 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Willmont Hotel Spa",
+  "sektor": "spa-masaj",
+  "kategori": "spa-masaj",
+  "alt": "masaj",
+  "hizmet_ipuclari": [
+   "massage_therapy"
+  ],
+  "adres": "Wilmont Hotel\\nAyfit spa\\n0266 224 1734, Altıeylül",
+  "il": null,
+  "ilce": "Altıeylül",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.620338439941406,
+  "lng": 27.880279541015625,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.620338439941406,27.880279541015625",
+  "yandex_url": "https://yandex.com/maps/?text=Willmont Hotel Spa&ll=27.880279541015625%2C39.620338439941406&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "66309462-ec6d-49d0-9186-3857f952d75f",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Yakamoz SPA",
+  "sektor": "spa-masaj",
+  "kategori": "spa-masaj",
+  "alt": "spa",
+  "hizmet_ipuclari": [
+   "spa"
+  ],
+  "adres": "Atatürk Caddesi 12, Bandırma",
+  "il": null,
+  "ilce": "Bandırma",
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://www.instagram.com/yakamoz.spa/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.63676071166992,
+  "lng": 27.875102996826172,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.63676071166992,27.875102996826172",
+  "yandex_url": "https://yandex.com/maps/?text=Yakamoz SPA&ll=27.875102996826172%2C39.63676071166992&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "56f72d34-cfc4-4851-941f-2d8d55413e00",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Yeşil Baby Spa & Oyun Terapisi",
+  "sektor": "spa-masaj",
+  "kategori": "spa-masaj",
+  "alt": "spa",
+  "hizmet_ipuclari": [
+   "spa"
+  ],
+  "adres": "Kurtuluş Mahallesi Şehit Ercan Coşkun Caddesi, Gönen",
+  "il": null,
+  "ilce": "Gönen",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.10817337036133,
+  "lng": 27.65326690673828,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.10817337036133,27.65326690673828",
+  "yandex_url": "https://yandex.com/maps/?text=Yeşil Baby Spa & Oyun Terapisi&ll=27.65326690673828%2C40.10817337036133&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "24ce6ff2-4c32-46c9-8d33-9682aa91bdb2",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Yeşilli Hamamı",
   "sektor": "spa-masaj",
   "kategori": "spa-masaj",
@@ -976,6 +1274,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Zağnos Paşa Hamamı",
+  "sektor": "spa-masaj",
+  "kategori": "spa-masaj",
+  "alt": "spa",
+  "hizmet_ipuclari": [
+   "spa"
+  ],
+  "adres": "Karesi",
+  "il": null,
+  "ilce": "Karesi",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.64875411987305,
+  "lng": 27.879247665405273,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.64875411987305,27.879247665405273",
+  "yandex_url": "https://yandex.com/maps/?text=Zağnos Paşa Hamamı&ll=27.879247665405273%2C39.64875411987305&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "fdfaec36-46df-43a7-a5aa-9b3fb6f3ad1d",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Zumba Fitness Studio",
@@ -1061,7 +1388,9 @@
   "fsq_id": "4f9e9dfc0039f866d54e8f30",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "de577368-dcf8-46dd-b961-9a46ebb76d4c",
+  "alt": "masaj"
  },
  {
   "ad": "yildiz otel fizik tedavi merkezi",
@@ -1089,5 +1418,63 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "İrem Masaj Salonu Edremit",
+  "sektor": "spa-masaj",
+  "kategori": "spa-masaj",
+  "alt": "spa",
+  "hizmet_ipuclari": [
+   "spa"
+  ],
+  "adres": "Yücenmak, 17. Sokak 11/a, Edremit",
+  "il": null,
+  "ilce": "Edremit",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.59690856933594,
+  "lng": 27.02242660522461,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.59690856933594,27.02242660522461",
+  "yandex_url": "https://yandex.com/maps/?text=İrem Masaj Salonu Edremit&ll=27.02242660522461%2C39.59690856933594&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "b4724c23-d873-404f-be64-e5aa3ed9cd65",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Şifa Masaj Salonu",
+  "sektor": "spa-masaj",
+  "kategori": "spa-masaj",
+  "alt": "spa",
+  "hizmet_ipuclari": [
+   "spa"
+  ],
+  "adres": "Soğan Yemez Mah. 509. Sok. Aydınoğlu İş Merkezi, Belediye Karşı Sokağı Orta Plus Kafe Üstü No:3/12 Kat:4, Edremit",
+  "il": null,
+  "ilce": "Edremit",
+  "mahalle": null,
+  "telefon": "(0266) 373 75 15",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.59385681152344,
+  "lng": 27.01835060119629,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.59385681152344,27.01835060119629",
+  "yandex_url": "https://yandex.com/maps/?text=Şifa Masaj Salonu&ll=27.01835060119629%2C39.59385681152344&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "3a160724-bf4f-4a31-93cb-91b004428e88",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  }
 ]

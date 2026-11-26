@@ -81,6 +81,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "AS Erkek Kuaför",
+  "sektor": "kuafor",
+  "kategori": "kuafor",
+  "alt": "berber",
+  "hizmet_ipuclari": [
+   "barber"
+  ],
+  "adres": "Yeşil, Bahçeler Sk. 1/A, İnegöl",
+  "il": null,
+  "ilce": "İnegöl",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.08184051513672,
+  "lng": 29.513166427612305,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.08184051513672,29.513166427612305",
+  "yandex_url": "https://yandex.com/maps/?text=AS Erkek Kuaför&ll=29.513166427612305%2C40.08184051513672&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "2e6bf4ce-7b01-4071-bf57-e6573dd5a84a",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Abonem Coiffeur #Aziz",
   "sektor": "kuafor",
   "kategori": "kuafor",
@@ -105,7 +134,8 @@
   "fsq_id": "5581ba48498e091a77315e01",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "582ef2c5-cebc-440f-8038-e4ac4c183893"
  },
  {
   "ad": "Abonem Erkek Kuaförü",
@@ -159,7 +189,8 @@
   "fsq_id": "4fd8623ee4b073285b96b676",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "1a408dcb-e02b-4be4-97c6-8d5a75098bbc"
  },
  {
   "ad": "Acar Kuaför",
@@ -295,7 +326,8 @@
   "fsq_id": "5234928d11d21573c120dacc",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "2456f79a-dce5-48fc-8c4c-dbbc9aa86aa0"
  },
  {
   "ad": "Altın Makas Hair Style",
@@ -514,6 +546,64 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Ayşe Şen Hair Style",
+  "sektor": "kuafor",
+  "kategori": "kuafor",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "hair_salon"
+  ],
+  "adres": "Şeyh Edebali Sk., Gölpazarı",
+  "il": null,
+  "ilce": "Gölpazarı",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.28291702270508,
+  "lng": 30.315122604370117,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.28291702270508,30.315122604370117",
+  "yandex_url": "https://yandex.com/maps/?text=Ayşe Şen Hair Style&ll=30.315122604370117%2C40.28291702270508&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "f8e48e35-bcca-4d4d-b963-69d17b33ae28",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Aşina Erkek Koaförü",
+  "sektor": "kuafor",
+  "kategori": "kuafor",
+  "alt": "berber",
+  "hizmet_ipuclari": [
+   "barber"
+  ],
+  "adres": "İnegöl",
+  "il": null,
+  "ilce": "İnegöl",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.07545852661133,
+  "lng": 29.51056671142578,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.07545852661133,29.51056671142578",
+  "yandex_url": "https://yandex.com/maps/?text=Aşina Erkek Koaförü&ll=29.51056671142578%2C40.07545852661133&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "9835230c-671f-43de-abf5-74b1089a079c",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "BD Erkek Kuaforu",
   "sektor": "kuafor",
   "kategori": "kuafor",
@@ -565,7 +655,8 @@
   "fsq_id": "536e0820498e080bd9a950df",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "c699921e-d37d-4684-a151-14617cf1aa44"
  },
  {
   "ad": "BELLA BAYAN SAÇ TASARIMI",
@@ -593,6 +684,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Bahar BetÜL HaİR Studio",
+  "sektor": "kuafor",
+  "kategori": "kuafor",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "hair_salon"
+  ],
+  "adres": "Emirgan Sk. NO:6 D:A, İnegöl",
+  "il": null,
+  "ilce": "İnegöl",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.baharbetul.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.06589889526367,
+  "lng": 29.51752281188965,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.06589889526367,29.51752281188965",
+  "yandex_url": "https://yandex.com/maps/?text=Bahar BetÜL HaİR Studio&ll=29.51752281188965%2C40.06589889526367&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "3c3824f9-2378-4908-ac7a-ae6c40de6b69",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Barber Shop",
@@ -701,6 +821,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Belbo Kuaför",
+  "sektor": "kuafor",
+  "kategori": "kuafor",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "hair_salon"
+  ],
+  "adres": "Atatürk Cd. no:2/A1, Bozüyük",
+  "il": null,
+  "ilce": "Bozüyük",
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://belbo.com.tr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.90691375732422,
+  "lng": 30.034847259521484,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.90691375732422,30.034847259521484",
+  "yandex_url": "https://yandex.com/maps/?text=Belbo Kuaför&ll=30.034847259521484%2C39.90691375732422&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "87253654-b1b6-49ba-a280-e72e5789955c",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Belbo kuaför",
@@ -864,6 +1013,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Berber",
+  "sektor": "kuafor",
+  "kategori": "kuafor",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "hair_salon"
+  ],
+  "adres": "Sanayi Cd. No:43 D:45, İnegöl",
+  "il": null,
+  "ilce": "İnegöl",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.071231842041016,
+  "lng": 29.520872116088867,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.071231842041016,29.520872116088867",
+  "yandex_url": "https://yandex.com/maps/?text=Berber&ll=29.520872116088867%2C40.071231842041016&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "634f331d-0d6c-4701-b484-e64922565736",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Berber Ahmet",
@@ -1136,6 +1314,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Berber tahir",
+  "sektor": "kuafor",
+  "kategori": "kuafor",
+  "alt": "berber",
+  "hizmet_ipuclari": [
+   "barber"
+  ],
+  "adres": "Kayıboyu Sk. No:10",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.15688705444336,
+  "lng": 29.980791091918945,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.15688705444336,29.980791091918945",
+  "yandex_url": "https://yandex.com/maps/?text=Berber tahir&ll=29.980791091918945%2C40.15688705444336&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "9d1ab203-4ee1-4182-8a39-f993e1713a85",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Berber Özkan",
   "sektor": "kuafor",
   "kategori": "kuafor",
@@ -1406,6 +1613,64 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Burak Erkek Kuaförü",
+  "sektor": "kuafor",
+  "kategori": "kuafor",
+  "alt": "berber",
+  "hizmet_ipuclari": [
+   "barber"
+  ],
+  "adres": "Yenişehir Cd. No:28, İnegöl",
+  "il": null,
+  "ilce": "İnegöl",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.081573486328125,
+  "lng": 29.514963150024414,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.081573486328125,29.514963150024414",
+  "yandex_url": "https://yandex.com/maps/?text=Burak Erkek Kuaförü&ll=29.514963150024414%2C40.081573486328125&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "4529e9dd-3248-4290-a63a-0b11f7fce703",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Burcu Bayan Kuaför Salonu",
+  "sektor": "kuafor",
+  "kategori": "kuafor",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "hair_salon"
+  ],
+  "adres": "Halit Tufan Sk. No:12, İnegöl",
+  "il": null,
+  "ilce": "İnegöl",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.07719421386719,
+  "lng": 29.508800506591797,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.07719421386719,29.508800506591797",
+  "yandex_url": "https://yandex.com/maps/?text=Burcu Bayan Kuaför Salonu&ll=29.508800506591797%2C40.07719421386719&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "701e66c5-16ee-4c6b-98b6-df1b17e45204",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Bursa Bayan Kuaförü",
   "sektor": "kuafor",
   "kategori": "kuafor",
@@ -1458,6 +1723,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "By Kuaförüm Kadir",
+  "sektor": "kuafor",
+  "kategori": "kuafor",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "hair_salon"
+  ],
+  "adres": "Adnan Menderes Blv. No:68, İnegöl",
+  "il": null,
+  "ilce": "İnegöl",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.073570251464844,
+  "lng": 29.503435134887695,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.073570251464844,29.503435134887695",
+  "yandex_url": "https://yandex.com/maps/?text=By Kuaförüm Kadir&ll=29.503435134887695%2C40.073570251464844&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "388915a5-077f-45ed-9aad-d46dc816310f",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "By Tuncay Şen",
@@ -1547,7 +1841,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d110951735"
   ],
-  "adres": null,
+  "adres": "Alican Cd. 6a, Yenişehir",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -1565,7 +1859,8 @@
   "fsq_id": "5329c9e5498e2333409f05fd",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "9ca7b0cb-1c6c-411c-a51f-5bf52eceeb9d"
  },
  {
   "ad": "Cadde Erkek Kuaförü :D",
@@ -1730,6 +2025,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Cem Erkek Kuaförü",
+  "sektor": "kuafor",
+  "kategori": "kuafor",
+  "alt": "berber",
+  "hizmet_ipuclari": [
+   "barber"
+  ],
+  "adres": "Zübeyde Hanm Cd., Bozüyük",
+  "il": null,
+  "ilce": "Bozüyük",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.90505599975586,
+  "lng": 30.0373477935791,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.90505599975586,30.0373477935791",
+  "yandex_url": "https://yandex.com/maps/?text=Cem Erkek Kuaförü&ll=30.0373477935791%2C39.90505599975586&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "45efdae3-2185-48db-a65d-140bd5d1f931",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Cihad erkek kuaförü",
   "sektor": "kuafor",
   "kategori": "kuafor",
@@ -1754,7 +2078,9 @@
   "fsq_id": "57796d6c498e605ee368e1cd",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "823d889b-b0b9-4f11-9af6-ed7a2109a845",
+  "alt": "berber"
  },
  {
   "ad": "Class Kuaför Domaniç",
@@ -1836,6 +2162,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Değişim erkek kuaför",
+  "sektor": "kuafor",
+  "kategori": "kuafor",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "hair_salon"
+  ],
+  "adres": "Murat Cd. No:30, İnegöl",
+  "il": null,
+  "ilce": "İnegöl",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.08329391479492,
+  "lng": 29.51219367980957,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.08329391479492,29.51219367980957",
+  "yandex_url": "https://yandex.com/maps/?text=Değişim erkek kuaför&ll=29.51219367980957%2C40.08329391479492&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "a4854889-c7f9-41c1-9df9-c60e78994052",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Dilay bayan kuaför",
@@ -1973,6 +2328,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "EA7 Barber Shop",
+  "sektor": "kuafor",
+  "kategori": "kuafor",
+  "alt": "berber",
+  "hizmet_ipuclari": [
+   "barber"
+  ],
+  "adres": "Yenişehir",
+  "il": null,
+  "ilce": "Yenişehir",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.26750183105469,
+  "lng": 29.651994705200195,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.26750183105469,29.651994705200195",
+  "yandex_url": "https://yandex.com/maps/?text=EA7 Barber Shop&ll=29.651994705200195%2C40.26750183105469&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "ea40cb55-3923-4817-9385-67160af831f5",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "ES ES ERKEK KUAFÖRÜ",
   "sektor": "kuafor",
   "kategori": "kuafor",
@@ -1997,7 +2381,9 @@
   "fsq_id": "54e75761498eedd95fcc2f3c",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "19fb8c19-5f56-45eb-9f96-69095cf41e7b",
+  "alt": "berber"
  },
  {
   "ad": "Ece Kuaför ve Güzellik Salonu",
@@ -2168,7 +2554,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d110951735"
   ],
-  "adres": null,
+  "adres": "İstiklal Caddesi 10, Söğüt",
   "il": null,
   "ilce": "Söğüt",
   "mahalle": null,
@@ -2186,7 +2572,8 @@
   "fsq_id": "5231be9e11d2be69f02cb4ae",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "e093f528-3fb9-4a92-9664-b9c98036c4da"
  },
  {
   "ad": "Ekin Kuaför",
@@ -2541,6 +2928,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "En&Es Erkek Kuoförü",
+  "sektor": "kuafor",
+  "kategori": "kuafor",
+  "alt": "berber",
+  "hizmet_ipuclari": [
+   "barber"
+  ],
+  "adres": "İnegöl",
+  "il": null,
+  "ilce": "İnegöl",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.08101272583008,
+  "lng": 29.518781661987305,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.08101272583008,29.518781661987305",
+  "yandex_url": "https://yandex.com/maps/?text=En&Es Erkek Kuoförü&ll=29.518781661987305%2C40.08101272583008&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "8074aeed-f426-4156-b433-1ddf1099f19d",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Engin Maden Kuaför",
   "sektor": "kuafor",
   "kategori": "kuafor",
@@ -2809,6 +3225,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Eser Kuaför",
+  "sektor": "kuafor",
+  "kategori": "kuafor",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "hair_salon"
+  ],
+  "adres": "Hekimzade Sk. No:3, İnegöl",
+  "il": null,
+  "ilce": "İnegöl",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://eserkuafor.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.08032989501953,
+  "lng": 29.510629653930664,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.08032989501953,29.510629653930664",
+  "yandex_url": "https://yandex.com/maps/?text=Eser Kuaför&ll=29.510629653930664%2C40.08032989501953&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "bba55452-6577-4ce1-b0ee-54d5527f6c42",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Eses Kuaför",
@@ -3081,6 +3526,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Eyüphan Şahin Hair Designer",
+  "sektor": "kuafor",
+  "kategori": "kuafor",
+  "alt": "berber",
+  "hizmet_ipuclari": [
+   "barber"
+  ],
+  "adres": "Sarıgül Sk. No:17/A, İnegöl",
+  "il": null,
+  "ilce": "İnegöl",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.07474899291992,
+  "lng": 29.511852264404297,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.07474899291992,29.511852264404297",
+  "yandex_url": "https://yandex.com/maps/?text=Eyüphan Şahin Hair Designer&ll=29.511852264404297%2C40.07474899291992&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "ef3c5509-06d6-491b-aea1-5c2fa1015e98",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Fahri Abinin Yeri",
   "sektor": "kuafor",
   "kategori": "kuafor",
@@ -3348,7 +3822,9 @@
   "fsq_id": "5811bd9f38fad7983e48b6fc",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "5041c40a-76b7-41a7-8dd6-9d36dcaf4d71",
+  "alt": "berber"
  },
  {
   "ad": "Fenomen Erkek Kuaförü",
@@ -3459,6 +3935,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Genclik Erkek Kuaforu",
+  "sektor": "kuafor",
+  "kategori": "kuafor",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "hair_salon"
+  ],
+  "adres": "Cami Cad./molla Yusuf Sok. No:2, Bozüyük",
+  "il": null,
+  "ilce": "Bozüyük",
+  "mahalle": null,
+  "telefon": "(0228) 315 42 32",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.90668869018555,
+  "lng": 30.040695190429688,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.90668869018555,30.040695190429688",
+  "yandex_url": "https://yandex.com/maps/?text=Genclik Erkek Kuaforu&ll=30.040695190429688%2C39.90668869018555&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "e3d1ea11-9003-430f-88ec-4c968e2b5a5f",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Gençlik Berber Salonu",
   "sektor": "kuafor",
   "kategori": "kuafor",
@@ -3565,6 +4070,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Gönül Berber Salonu",
+  "sektor": "kuafor",
+  "kategori": "kuafor",
+  "alt": "berber",
+  "hizmet_ipuclari": [
+   "barber"
+  ],
+  "adres": "Köteşliler Cd., Bozüyük",
+  "il": null,
+  "ilce": "Bozüyük",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.906124114990234,
+  "lng": 30.034482955932617,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.906124114990234,30.034482955932617",
+  "yandex_url": "https://yandex.com/maps/?text=Gönül Berber Salonu&ll=30.034482955932617%2C39.906124114990234&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "6548cccd-8da4-431a-826f-ae6d8c093aad",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Gözde Erkek Kuaförü",
@@ -3681,7 +4215,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d110951735"
   ],
-  "adres": null,
+  "adres": "Gazipaşa Gülistan Sokak No 9/A Z-02",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -3699,7 +4233,8 @@
   "fsq_id": "522d7fc2498edcff6e9e9e0e",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "ff7ea29a-4051-4ef8-ba07-0b748392f2d3"
  },
  {
   "ad": "Güven Erkek Kuaför",
@@ -3727,6 +4262,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "H2O Hair Studio",
+  "sektor": "kuafor",
+  "kategori": "kuafor",
+  "alt": "berber",
+  "hizmet_ipuclari": [
+   "barber"
+  ],
+  "adres": "Kasım Efendi Cd. No:43/A, İnegöl",
+  "il": null,
+  "ilce": "İnegöl",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.075504302978516,
+  "lng": 29.51310157775879,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.075504302978516,29.51310157775879",
+  "yandex_url": "https://yandex.com/maps/?text=H2O Hair Studio&ll=29.51310157775879%2C40.075504302978516&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "cf6c8f31-c8b5-4c45-8475-a00ef1dc2333",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Hair Desing",
@@ -3781,6 +4345,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Haliloğlu Erkek Kuaförü",
+  "sektor": "kuafor",
+  "kategori": "kuafor",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "hair_salon"
+  ],
+  "adres": "Yeşil Bursa Cd. No:81, İnegöl",
+  "il": null,
+  "ilce": "İnegöl",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.085723876953125,
+  "lng": 29.503084182739258,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.085723876953125,29.503084182739258",
+  "yandex_url": "https://yandex.com/maps/?text=Haliloğlu Erkek Kuaförü&ll=29.503084182739258%2C40.085723876953125&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "97dd8385-c5b3-4de8-83ec-7d6f17db47f2",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Halis Kuaför 🙎",
@@ -3915,7 +4508,8 @@
   "fsq_id": "5631f0f3498e780fca7aad09",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "ac3c7af4-82cb-4c65-8d4f-3f9157d91e1c"
  },
  {
   "ad": "Hera Kuaför",
@@ -3969,7 +4563,9 @@
   "fsq_id": "56a23a96498e01d061894d37",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "4b212835-22b3-4ff4-8434-a0328643d645",
+  "alt": "berber"
  },
  {
   "ad": "Hülya Bayan Kuaförü",
@@ -4215,6 +4811,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Kadincaa Saç Tasari",
+  "sektor": "kuafor",
+  "kategori": "kuafor",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "hair_salon"
+  ],
+  "adres": "Kaptan Sk., İnegöl",
+  "il": null,
+  "ilce": "İnegöl",
+  "mahalle": null,
+  "telefon": "(0224) 715 61 69",
+  "web": "http://www.kadincasactasarim.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.07724380493164,
+  "lng": 29.509138107299805,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.07724380493164,29.509138107299805",
+  "yandex_url": "https://yandex.com/maps/?text=Kadincaa Saç Tasari&ll=29.509138107299805%2C40.07724380493164&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "1c7e452c-4112-4faf-bc91-30d60ec1eb60",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Kardelen Bayan Kuaförü",
   "sektor": "kuafor",
   "kategori": "kuafor",
@@ -4347,7 +4972,9 @@
   "fsq_id": "50b50d4fe4b0f808c7689de6",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "d9eba235-dd59-4260-9146-b09467197999",
+  "alt": "berber"
  },
  {
   "ad": "Kaya Erkek Kuaför'ü",
@@ -4431,6 +5058,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Kleopatra Bayan Güzellik Salonu",
+  "sektor": "kuafor",
+  "kategori": "kuafor",
+  "alt": "berber",
+  "hizmet_ipuclari": [
+   "barber"
+  ],
+  "adres": "İnegöl",
+  "il": null,
+  "ilce": "İnegöl",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.06644821166992,
+  "lng": 29.514253616333008,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.06644821166992,29.514253616333008",
+  "yandex_url": "https://yandex.com/maps/?text=Kleopatra Bayan Güzellik Salonu&ll=29.514253616333008%2C40.06644821166992&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "35b336a0-7423-4012-975f-08dfb57498ea",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Kokoş Bayan Kuaförü",
   "sektor": "kuafor",
   "kategori": "kuafor",
@@ -4441,7 +5097,7 @@
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0228) 362 00 24",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -4455,7 +5111,8 @@
   "fsq_id": "5502f5d7498e0bf8d8c5f979",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "b349833c-3b03-4e42-9fda-967d0253f609"
  },
  {
   "ad": "Kuafor Filiz",
@@ -4509,7 +5166,8 @@
   "fsq_id": "5109234ae4b0c40973d9bf04",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "15da6397-c593-4539-ab83-d66df64e86d6"
  },
  {
   "ad": "Kuaför",
@@ -4599,7 +5257,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d110951735"
   ],
-  "adres": null,
+  "adres": "İstiklal Caddesi 23, Yenişehir",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -4617,7 +5275,8 @@
   "fsq_id": "54cb86d8498efd6b75138795",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "c5063932-b735-4374-9a81-a1f908450418"
  },
  {
   "ad": "Kuaför Cengiz",
@@ -4644,7 +5303,38 @@
   "fsq_id": "57d3c63d498e4b5844df702e",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "2765b2f7-6880-4bca-ae7f-cb69921e526a",
+  "alt": "berber"
+ },
+ {
+  "ad": "Kuaför Emira",
+  "sektor": "kuafor",
+  "kategori": "kuafor",
+  "alt": "berber",
+  "hizmet_ipuclari": [
+   "barber"
+  ],
+  "adres": "Plevne Sokak 3, İnegöl",
+  "il": null,
+  "ilce": "İnegöl",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.0768928527832,
+  "lng": 29.49897003173828,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.0768928527832,29.49897003173828",
+  "yandex_url": "https://yandex.com/maps/?text=Kuaför Emira&ll=29.49897003173828%2C40.0768928527832&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "3a198ad6-43f9-4d99-be46-9742f6d3f95c",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Kuaför Feyza",
@@ -4761,7 +5451,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d110951735"
   ],
-  "adres": "Kurtuluş Mahallesi",
+  "adres": "Öncü Caddesi 16/a, Yenişehir",
   "il": null,
   "ilce": "Bursa / Yenişehir",
   "mahalle": null,
@@ -4779,7 +5469,8 @@
   "fsq_id": "528e2d7d498ea7bdc6599d00",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "16f66f79-8353-4271-a32a-e5853e608dcf"
  },
  {
   "ad": "Kuaför Zeliha",
@@ -4891,6 +5582,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Kuaför ümit",
+  "sektor": "kuafor",
+  "kategori": "kuafor",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "hair_salon"
+  ],
+  "adres": "Şekerci Sk. No:10, Bozüyük",
+  "il": null,
+  "ilce": "Bozüyük",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.90507888793945,
+  "lng": 30.03898811340332,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.90507888793945,30.03898811340332",
+  "yandex_url": "https://yandex.com/maps/?text=Kuaför ümit&ll=30.03898811340332%2C39.90507888793945&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "8b433916-1547-4767-a569-23c302ef5091",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Kuaför İbrahim",
   "sektor": "kuafor",
   "kategori": "kuafor",
@@ -4943,6 +5663,93 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Kuaför Şükran",
+  "sektor": "kuafor",
+  "kategori": "kuafor",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "hair_salon"
+  ],
+  "adres": "İnegöl",
+  "il": null,
+  "ilce": "İnegöl",
+  "mahalle": null,
+  "telefon": "(0224) 713 70 90",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.0772819519043,
+  "lng": 29.509098052978516,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.0772819519043,29.509098052978516",
+  "yandex_url": "https://yandex.com/maps/?text=Kuaför Şükran&ll=29.509098052978516%2C40.0772819519043&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "0d099ee9-9560-4937-960c-76a59b783f23",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Kuaförüm Gökmen",
+  "sektor": "kuafor",
+  "kategori": "kuafor",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "hair_salon"
+  ],
+  "adres": "Şebboy Cd. No:77, İnegöl",
+  "il": null,
+  "ilce": "İnegöl",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.08633804321289,
+  "lng": 29.508930206298828,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.08633804321289,29.508930206298828",
+  "yandex_url": "https://yandex.com/maps/?text=Kuaförüm Gökmen&ll=29.508930206298828%2C40.08633804321289&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "32a8b6c9-936f-45a4-a643-3b1fa1e0e9a5",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Kuaförüm resul",
+  "sektor": "kuafor",
+  "kategori": "kuafor",
+  "alt": "berber",
+  "hizmet_ipuclari": [
+   "barber"
+  ],
+  "adres": "Kemalettin Sami Paşa Cd. No:6, İnegöl",
+  "il": null,
+  "ilce": "İnegöl",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.080440521240234,
+  "lng": 29.508251190185547,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.080440521240234,29.508251190185547",
+  "yandex_url": "https://yandex.com/maps/?text=Kuaförüm resul&ll=29.508251190185547%2C40.080440521240234&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "c9011113-42ef-4e45-b7ec-c1f548e1223a",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Kılıç Erkek Kuaförü",
@@ -5032,7 +5839,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d110951735"
   ],
-  "adres": null,
+  "adres": "İstiklal Cd. No:25/B, Söğüt",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -5050,7 +5857,8 @@
   "fsq_id": "534eb5c1498e016372bf20f6",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "2a414e60-d1b2-471c-bda6-f9a42104b592"
  },
  {
   "ad": "Leader Saç Tasarım Merkezi",
@@ -5106,6 +5914,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Leyla Güzellik Salonu",
+  "sektor": "kuafor",
+  "kategori": "kuafor",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "hair_salon"
+  ],
+  "adres": "Cangül Sk. No:14, İnegöl",
+  "il": null,
+  "ilce": "İnegöl",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.07651138305664,
+  "lng": 29.508893966674805,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.07651138305664,29.508893966674805",
+  "yandex_url": "https://yandex.com/maps/?text=Leyla Güzellik Salonu&ll=29.508893966674805%2C40.07651138305664&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "a8bd4eaa-5f03-4f36-8ec5-384542da4762",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Lider Erkek Kuaförü",
@@ -5189,6 +6026,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Madame Zen Bayan Kuaförü",
+  "sektor": "kuafor",
+  "kategori": "kuafor",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "hair_salon"
+  ],
+  "adres": "Adnan Menderes Blv. No:89, İnegöl",
+  "il": null,
+  "ilce": "İnegöl",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.075809478759766,
+  "lng": 29.497573852539062,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.075809478759766,29.497573852539062",
+  "yandex_url": "https://yandex.com/maps/?text=Madame Zen Bayan Kuaförü&ll=29.497573852539062%2C40.075809478759766&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "287af7d4-a248-48c4-8c20-b583e0ce91d2",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Makass Erkek Kuaförü",
   "sektor": "kuafor",
   "kategori": "kuafor",
@@ -5216,6 +6082,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Makkas Show",
+  "sektor": "kuafor",
+  "kategori": "kuafor",
+  "alt": "berber",
+  "hizmet_ipuclari": [
+   "barber"
+  ],
+  "adres": "Hastane Meydanı Sokak 13, İnegöl",
+  "il": null,
+  "ilce": "İnegöl",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.07435607910156,
+  "lng": 29.510488510131836,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.07435607910156,29.510488510131836",
+  "yandex_url": "https://yandex.com/maps/?text=Makkas Show&ll=29.510488510131836%2C40.07435607910156&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "8261cefe-268c-4c4e-ab2c-425cf6a967a8",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Manolya Bayan Kuaförü",
   "sektor": "kuafor",
   "kategori": "kuafor",
@@ -5241,6 +6136,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Manolya Bayan Kuaförü söğüt",
+  "sektor": "kuafor",
+  "kategori": "kuafor",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "hair_salon"
+  ],
+  "adres": "Erenler Sk. No:6, Söğüt",
+  "il": null,
+  "ilce": "Söğüt",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.02137756347656,
+  "lng": 30.18140983581543,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.02137756347656,30.18140983581543",
+  "yandex_url": "https://yandex.com/maps/?text=Manolya Bayan Kuaförü söğüt&ll=30.18140983581543%2C40.02137756347656&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "92f82ca2-d8cc-4d62-a34e-86695882bfab",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Manolya Kuaför",
@@ -5295,6 +6219,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Mehmet Ali Denel Kuaför Ve Güzellik Merkezi",
+  "sektor": "kuafor",
+  "kategori": "kuafor",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "hair_salon"
+  ],
+  "adres": "Semihzade Sk. 03A, İnegöl",
+  "il": null,
+  "ilce": "İnegöl",
+  "mahalle": null,
+  "telefon": "(0224) 711 31 31",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.0784797668457,
+  "lng": 29.509796142578125,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.0784797668457,29.509796142578125",
+  "yandex_url": "https://yandex.com/maps/?text=Mehmet Ali Denel Kuaför Ve Güzellik Merkezi&ll=29.509796142578125%2C40.0784797668457&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "706bb70f-c297-48cc-b259-1e34661ebd11",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Meral Kuaför",
@@ -5458,6 +6411,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Moda Erkek Kuaforu",
+  "sektor": "kuafor",
+  "kategori": "kuafor",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "hair_salon"
+  ],
+  "adres": "Cami Sk. No:38, İnegöl",
+  "il": null,
+  "ilce": "İnegöl",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.moda.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.06917190551758,
+  "lng": 29.510143280029297,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.06917190551758,29.510143280029297",
+  "yandex_url": "https://yandex.com/maps/?text=Moda Erkek Kuaforu&ll=29.510143280029297%2C40.06917190551758&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "ba01882d-664c-42dc-bb8c-51dde5e7f1a0",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Moda Erkek Kuaförü",
@@ -5632,7 +6614,7 @@
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0228) 314 76 43",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -5646,7 +6628,8 @@
   "fsq_id": "55dd81e8498e666de09e57b6",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "4af16739-0e8d-4ade-a8a3-19748933ab31"
  },
  {
   "ad": "Nefertiti Kuaför Ve Güzellik Salonu",
@@ -5709,7 +6692,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d110951735"
   ],
-  "adres": null,
+  "adres": "Saraycık Cd. No:148, Bozüyük",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -5727,7 +6710,8 @@
   "fsq_id": "56229b4b498ed7b186de0a18",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "03a96252-b7b7-4e6b-b363-f8b335dda491"
  },
  {
   "ad": "Nurcan Bayan Kuaförü",
@@ -6055,6 +7039,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Polat Erkek Kuaförü",
+  "sektor": "kuafor",
+  "kategori": "kuafor",
+  "alt": "berber",
+  "hizmet_ipuclari": [
+   "barber"
+  ],
+  "adres": "Ali Rıza Özkay Cd. No:70, 11000",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.143089294433594,
+  "lng": 29.98196792602539,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.143089294433594,29.98196792602539",
+  "yandex_url": "https://yandex.com/maps/?text=Polat Erkek Kuaförü&ll=29.98196792602539%2C40.143089294433594&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "10827433-d7d5-4ebe-ac0b-2821bdcce0dc",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Pınar Özcan Türban Tasarım",
   "sektor": "kuafor",
   "kategori": "kuafor",
@@ -6115,7 +7128,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d110951735"
   ],
-  "adres": null,
+  "adres": "Karamürsel Sk. No:1, Söğüt",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -6133,7 +7146,8 @@
   "fsq_id": "51d3f5ad498ed9708123fa0b",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "13725d19-754b-4e36-95a5-6dcf40549bda"
  },
  {
   "ad": "Rauf Abinin Berber",
@@ -6188,6 +7202,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Ridvan Goc Hair Artist",
+  "sektor": "kuafor",
+  "kategori": "kuafor",
+  "alt": "berber",
+  "hizmet_ipuclari": [
+   "barber"
+  ],
+  "adres": "Türkocağı Sk. No:2 D:A",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0228) 212 77 87",
+  "web": "https://goo.gl/maps/i143GUG9puGPBZBk7",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.1417236328125,
+  "lng": 29.98104476928711,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.1417236328125,29.98104476928711",
+  "yandex_url": "https://yandex.com/maps/?text=Ridvan Goc Hair Artist&ll=29.98104476928711%2C40.1417236328125&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "fc41f4ff-c2b1-4d44-8352-607060fc9159",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "SALON ERKAN",
@@ -6379,6 +7422,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Salon Arya",
+  "sektor": "kuafor",
+  "kategori": "kuafor",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "hair_salon"
+  ],
+  "adres": "Büyükdere Sk. No:18, İnegöl",
+  "il": null,
+  "ilce": "İnegöl",
+  "mahalle": null,
+  "telefon": "(0224) 715 60 04",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.0797004699707,
+  "lng": 29.50625991821289,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.0797004699707,29.50625991821289",
+  "yandex_url": "https://yandex.com/maps/?text=Salon Arya&ll=29.50625991821289%2C40.0797004699707&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "96da84e4-ff81-4a22-a0f1-371b5995abe6",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Salon Dedikodu",
   "sektor": "kuafor",
   "kategori": "kuafor",
@@ -6389,7 +7461,7 @@
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0228) 315 21 11",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -6403,7 +7475,8 @@
   "fsq_id": "53e0ee15498ef1cb7e761037",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "edb0c547-4cda-4fb3-b8ad-af4250212544"
  },
  {
   "ad": "Salon Favori Erkek Kuaför Salonu",
@@ -6412,7 +7485,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d110951735"
   ],
-  "adres": "Osmangazi Karşısı",
+  "adres": "Atatürk Cd. 12-1, Yenişehir",
   "il": null,
   "ilce": "Yenişehir",
   "mahalle": null,
@@ -6430,7 +7503,8 @@
   "fsq_id": "554613b7498e6f518bee8f97",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "9bd0f56b-478f-4f2f-bb26-4ecb13eeecf8"
  },
  {
   "ad": "Salon Kadınca",
@@ -6569,6 +7643,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Salon Çağatay",
+  "sektor": "kuafor",
+  "kategori": "kuafor",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "hair_salon"
+  ],
+  "adres": "Mahmut Esat Bey Cd. No:168, İnegöl",
+  "il": null,
+  "ilce": "İnegöl",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.076942443847656,
+  "lng": 29.498870849609375,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.076942443847656,29.498870849609375",
+  "yandex_url": "https://yandex.com/maps/?text=Salon Çağatay&ll=29.498870849609375%2C40.076942443847656&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "c541b294-0bda-41f4-9c3e-c21a8ace88c8",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Salon İstanbul",
   "sektor": "kuafor",
   "kategori": "kuafor",
@@ -6594,6 +7697,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Salone De Medd",
+  "sektor": "kuafor",
+  "kategori": "kuafor",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "hair_salon"
+  ],
+  "adres": "Altay Cad. İnegölavm No:2 D:47, İnegöl",
+  "il": null,
+  "ilce": "İnegöl",
+  "mahalle": null,
+  "telefon": "(0224) 713 55 15",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.0811767578125,
+  "lng": 29.508869171142578,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.0811767578125,29.508869171142578",
+  "yandex_url": "https://yandex.com/maps/?text=Salone De Medd&ll=29.508869171142578%2C40.0811767578125&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "22255e26-2504-432d-a506-9c30c300653e",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Saloon Aksu",
@@ -6729,6 +7861,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Saloon Elmira",
+  "sektor": "kuafor",
+  "kategori": "kuafor",
+  "alt": "berber",
+  "hizmet_ipuclari": [
+   "barber"
+  ],
+  "adres": "Sinan Bey Cd. 44/ A, İnegöl",
+  "il": null,
+  "ilce": "İnegöl",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.08154296875,
+  "lng": 29.5126895904541,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.08154296875,29.5126895904541",
+  "yandex_url": "https://yandex.com/maps/?text=Saloon Elmira&ll=29.5126895904541%2C40.08154296875&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "5ad5116c-d785-4caa-b955-1f6447114adf",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Saloon Erkek Kuaförü",
@@ -6920,6 +8081,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Sanem Aydın bayan kuaförü",
+  "sektor": "kuafor",
+  "kategori": "kuafor",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "hair_salon"
+  ],
+  "adres": "Sofular Sk., İnegöl",
+  "il": null,
+  "ilce": "İnegöl",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.07600402832031,
+  "lng": 29.513629913330078,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.07600402832031,29.513629913330078",
+  "yandex_url": "https://yandex.com/maps/?text=Sanem Aydın bayan kuaförü&ll=29.513629913330078%2C40.07600402832031&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "3d4f83bc-da99-44ec-8b79-b89249aeea53",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Sapphire Coiffeur Mali Yeşilova",
   "sektor": "kuafor",
   "kategori": "kuafor",
@@ -6945,6 +8135,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Sare Baştürk Hair/Makeup",
+  "sektor": "kuafor",
+  "kategori": "kuafor",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "hair_salon"
+  ],
+  "adres": "Hastane Meydanı Sk., İnegöl",
+  "il": null,
+  "ilce": "İnegöl",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.07421112060547,
+  "lng": 29.510778427124023,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.07421112060547,29.510778427124023",
+  "yandex_url": "https://yandex.com/maps/?text=Sare Baştürk Hair/Makeup&ll=29.510778427124023%2C40.07421112060547&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "789727ca-24ae-4386-91a3-86be5ce5cb7c",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Saç'a By KUAFÖR",
@@ -7435,6 +8654,64 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Som Kuaför",
+  "sektor": "kuafor",
+  "kategori": "kuafor",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "hair_salon"
+  ],
+  "adres": "Kemalettin Sami Paşa Cd. No:11, İnegöl",
+  "il": null,
+  "ilce": "İnegöl",
+  "mahalle": null,
+  "telefon": "(0224) 711 00 51",
+  "web": "https://www.instagram.com/somkuaforr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.08026123046875,
+  "lng": 29.50785255432129,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.08026123046875,29.50785255432129",
+  "yandex_url": "https://yandex.com/maps/?text=Som Kuaför&ll=29.50785255432129%2C40.08026123046875&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "5a9c4834-0890-4d4d-a2f6-19fdffd1d071",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Sosyete Kuaför",
+  "sektor": "kuafor",
+  "kategori": "kuafor",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "hair_salon"
+  ],
+  "adres": "Mahmut Esat Bey Cd. No:161, İnegöl",
+  "il": null,
+  "ilce": "İnegöl",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.07720947265625,
+  "lng": 29.501401901245117,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.07720947265625,29.501401901245117",
+  "yandex_url": "https://yandex.com/maps/?text=Sosyete Kuaför&ll=29.501401901245117%2C40.07720947265625&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "d49ca7df-34ab-4520-ad94-fcbf561057ed",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Star Kuaför Salonu",
   "sektor": "kuafor",
   "kategori": "kuafor",
@@ -7813,6 +9090,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Tenzile Guzellik Salonu",
+  "sektor": "kuafor",
+  "kategori": "kuafor",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "hair_salon"
+  ],
+  "adres": "İsmail Efendi Cd. no 19, İnegöl",
+  "il": null,
+  "ilce": "İnegöl",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.07809829711914,
+  "lng": 29.50912857055664,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.07809829711914,29.50912857055664",
+  "yandex_url": "https://yandex.com/maps/?text=Tenzile Guzellik Salonu&ll=29.50912857055664%2C40.07809829711914&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "a2b40584-ce10-41fc-8d6c-184482597f52",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Titiz Erkek Kuaförü",
   "sektor": "kuafor",
   "kategori": "kuafor",
@@ -7840,6 +9146,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Tuana Seda",
+  "sektor": "kuafor",
+  "kategori": "kuafor",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "hair_salon"
+  ],
+  "adres": "Mahmut Esat Bey Cd. No:32, İnegöl",
+  "il": null,
+  "ilce": "İnegöl",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.079132080078125,
+  "lng": 29.507986068725586,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.079132080078125,29.507986068725586",
+  "yandex_url": "https://yandex.com/maps/?text=Tuana Seda&ll=29.507986068725586%2C40.079132080078125&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "322c7543-0a44-40a8-bb67-061fab2f36f4",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Tuanam Erkek kuaförü",
   "sektor": "kuafor",
   "kategori": "kuafor",
@@ -7865,6 +9200,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Tuna Erkek Kuaförü",
+  "sektor": "kuafor",
+  "kategori": "kuafor",
+  "alt": "berber",
+  "hizmet_ipuclari": [
+   "barber"
+  ],
+  "adres": "Atatürk Cd. No:5, Yenişehir",
+  "il": null,
+  "ilce": "Yenişehir",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.26597213745117,
+  "lng": 29.6508731842041,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.26597213745117,29.6508731842041",
+  "yandex_url": "https://yandex.com/maps/?text=Tuna Erkek Kuaförü&ll=29.6508731842041%2C40.26597213745117&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "a8a62361-fa4a-4e9a-bff6-3ab34019ab9b",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Tuncay Erkek Kuaförü",
@@ -7918,7 +9282,9 @@
   "fsq_id": "5464aa6b498e54bece5e0cc2",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "e95d470a-a092-4565-9180-f749ffe5e654",
+  "alt": "berber"
  },
  {
   "ad": "Ulu Erkek Kuaföru",
@@ -8000,6 +9366,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Vera Kuaför",
+  "sektor": "kuafor",
+  "kategori": "kuafor",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "hair_salon"
+  ],
+  "adres": "Elektirik Sk. No:39, İnegöl",
+  "il": null,
+  "ilce": "İnegöl",
+  "mahalle": null,
+  "telefon": "(0224) 716 01 11",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.076107025146484,
+  "lng": 29.5108699798584,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.076107025146484,29.5108699798584",
+  "yandex_url": "https://yandex.com/maps/?text=Vera Kuaför&ll=29.5108699798584%2C40.076107025146484&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "c1726828-042d-404f-a2dd-b7217e8ab010",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Villa Erkek Kuaförü",
@@ -8108,6 +9503,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Vom Berber Dukkani",
+  "sektor": "kuafor",
+  "kategori": "kuafor",
+  "alt": "berber",
+  "hizmet_ipuclari": [
+   "barber"
+  ],
+  "adres": "Vahit Sk. NO:14, İnegöl",
+  "il": null,
+  "ilce": "İnegöl",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.vomberber.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.0827751159668,
+  "lng": 29.509788513183594,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.0827751159668,29.509788513183594",
+  "yandex_url": "https://yandex.com/maps/?text=Vom Berber Dukkani&ll=29.509788513183594%2C40.0827751159668&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "77278ea3-bbaf-4588-aa15-fbb7b09ca84b",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Vural",
@@ -8407,6 +9831,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Yılmaz kuaför salonu",
+  "sektor": "kuafor",
+  "kategori": "kuafor",
+  "alt": "berber",
+  "hizmet_ipuclari": [
+   "barber"
+  ],
+  "adres": "Atalar Sk. 18a, İnegöl",
+  "il": null,
+  "ilce": "İnegöl",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.08162307739258,
+  "lng": 29.508989334106445,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.08162307739258,29.508989334106445",
+  "yandex_url": "https://yandex.com/maps/?text=Yılmaz kuaför salonu&ll=29.508989334106445%2C40.08162307739258&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "94d55e3b-6bf5-426c-ab8f-78fce600325f",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Zehra Bayan Kuaförü",
   "sektor": "kuafor",
   "kategori": "kuafor",
@@ -8513,6 +9966,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "ZveZda Kuaför",
+  "sektor": "kuafor",
+  "kategori": "kuafor",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "hair_salon"
+  ],
+  "adres": "kat 2 (Evkur Karşısı Sultan Pide üstü, 1. Cd. No:15, İnegöl",
+  "il": null,
+  "ilce": "İnegöl",
+  "mahalle": null,
+  "telefon": "(0224) 712 22 57",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.07870101928711,
+  "lng": 29.509538650512695,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.07870101928711,29.509538650512695",
+  "yandex_url": "https://yandex.com/maps/?text=ZveZda Kuaför&ll=29.509538650512695%2C40.07870101928711&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "afc7cce0-765a-4132-9c3a-c02487875da8",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "alican cad",
@@ -9782,7 +11264,8 @@
   "fsq_id": "51c83912498e5c7b095ba47b",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "4023a3ce-bb70-404e-bca1-b2acd354a82a"
  },
  {
   "ad": "tuncay erkek kuaförü",
@@ -10136,13 +11619,71 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Özlem Bayan Kuaförü",
+  "sektor": "kuafor",
+  "kategori": "kuafor",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "hair_salon"
+  ],
+  "adres": "Cumhuriyet Cd. No:17B, Osmaneli",
+  "il": null,
+  "ilce": "Osmaneli",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.35775375366211,
+  "lng": 30.01233673095703,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.35775375366211,30.01233673095703",
+  "yandex_url": "https://yandex.com/maps/?text=Özlem Bayan Kuaförü&ll=30.01233673095703%2C40.35775375366211&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "7b7df4e2-adc3-4336-b931-52ead204a82a",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Özlem Dönmek Kuaför",
+  "sektor": "kuafor",
+  "kategori": "kuafor",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "hair_salon"
+  ],
+  "adres": "Dedeoğlu Cd. No:47/1",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.142616271972656,
+  "lng": 29.976886749267578,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.142616271972656,29.976886749267578",
+  "yandex_url": "https://yandex.com/maps/?text=Özlem Dönmek Kuaför&ll=29.976886749267578%2C40.142616271972656&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "26093435-87a0-4296-8227-f2a266832135",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Özlem Sade Kuaför Salonu Kayı Plaza A Blok",
   "sektor": "kuafor",
   "kategori": "kuafor",
   "hizmet_ipuclari": [
    "4bf58dd8d48988d110951735"
   ],
-  "adres": "Gazipaşa Mah.",
+  "adres": "Tevfikbey Caddesi 51",
   "il": null,
   "ilce": "Bilecik / merkez",
   "mahalle": null,
@@ -10160,7 +11701,8 @@
   "fsq_id": "58764e7d110d037ac36c5a51",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "a398073d-a371-4676-9ce2-b12bd56faaec"
  },
  {
   "ad": "Öznur Kuaför",
@@ -10188,6 +11730,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Üç Kardeşler Kuaför",
+  "sektor": "kuafor",
+  "kategori": "kuafor",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "hair_salon"
+  ],
+  "adres": "Çevre Sk., İnegöl",
+  "il": null,
+  "ilce": "İnegöl",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.07954025268555,
+  "lng": 29.50860023498535,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.07954025268555,29.50860023498535",
+  "yandex_url": "https://yandex.com/maps/?text=Üç Kardeşler Kuaför&ll=29.50860023498535%2C40.07954025268555&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "291993b2-0a83-4682-8291-82c66cbfec44",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "çağlar erkek kuaförü",
@@ -10323,6 +11894,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "İnegöl Sach Kuaför",
+  "sektor": "kuafor",
+  "kategori": "kuafor",
+  "alt": "berber",
+  "hizmet_ipuclari": [
+   "barber"
+  ],
+  "adres": "İnegöl",
+  "il": null,
+  "ilce": "İnegöl",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.08603286743164,
+  "lng": 29.503019332885742,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.08603286743164,29.503019332885742",
+  "yandex_url": "https://yandex.com/maps/?text=İnegöl Sach Kuaför&ll=29.503019332885742%2C40.08603286743164&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "9585d76e-1c06-4068-a1e8-a923d6995aba",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "İsmet Kuaför",
@@ -10486,5 +12086,63 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Şirin Erkek Kuaförü",
+  "sektor": "kuafor",
+  "kategori": "kuafor",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "hair_salon"
+  ],
+  "adres": "Suyolu Cd. No:4, İnegöl",
+  "il": null,
+  "ilce": "İnegöl",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.07267761230469,
+  "lng": 29.514408111572266,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.07267761230469,29.514408111572266",
+  "yandex_url": "https://yandex.com/maps/?text=Şirin Erkek Kuaförü&ll=29.514408111572266%2C40.07267761230469&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "6a35bd87-6cf8-42bd-a01d-78f695431bd0",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "صالون تيك توك Kuaför Tik tok",
+  "sektor": "kuafor",
+  "kategori": "kuafor",
+  "alt": "berber",
+  "hizmet_ipuclari": [
+   "barber"
+  ],
+  "adres": "محافظة ادلب دوار المحراب �, İnegöl",
+  "il": null,
+  "ilce": "İnegöl",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.0814323425293,
+  "lng": 29.512216567993164,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.0814323425293,29.512216567993164",
+  "yandex_url": "https://yandex.com/maps/?text=صالون تيك توك Kuaför Tik tok&ll=29.512216567993164%2C40.0814323425293&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "4db0bb3e-e784-4631-a9c5-3fc992b94a47",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  }
 ]

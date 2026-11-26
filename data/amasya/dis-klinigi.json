@@ -108,6 +108,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Amasya Agiz ve Dis Sagligi Merkezi",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Çelebi Mehmet Cd. 10/3",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0358) 218 40 33",
+  "web": "http://www.amasyaagizdis.gov.tr",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.64889144897461,
+  "lng": 35.832027435302734,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.64889144897461,35.832027435302734",
+  "yandex_url": "https://yandex.com/maps/?text=Amasya Agiz ve Dis Sagligi Merkezi&ll=35.832027435302734%2C40.64889144897461&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "3b1d8d3e-e98f-4ce1-b055-5f314a673e4a",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Amasya Ağız ve Diş Sağlığı Merkezi (Server Odası)",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -303,7 +332,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d178941735"
   ],
-  "adres": null,
+  "adres": "Mustafa Kemal Paşa Cd. No:120 D:1",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -321,7 +350,8 @@
   "fsq_id": "516bd295e4b0510f206050b7",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "457e0a1b-e4c8-4089-8998-deca3fe7c5b6"
  },
  {
   "ad": "Dentamasya Diş Polikliniği",
@@ -351,18 +381,47 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Dentamerzifon Özel Ağız ve Diş Sağlığı Polikliniği",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Muammer Aksoy Sk. 3/A, Merzifon",
+  "il": null,
+  "ilce": "Merzifon",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.dentamerzifon.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.87217330932617,
+  "lng": 35.46302795410156,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.87217330932617,35.46302795410156",
+  "yandex_url": "https://yandex.com/maps/?text=Dentamerzifon Özel Ağız ve Diş Sağlığı Polikliniği&ll=35.46302795410156%2C40.87217330932617&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "be6b87f1-d5ca-4550-b6c1-cdf8264dc2fe",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Dentapark05",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
   "hizmet_ipuclari": [
    "4bf58dd8d48988d178941735"
   ],
-  "adres": "Hacılar meydanı mah.",
+  "adres": "Çinili Sk. No:1",
   "il": null,
   "ilce": null,
   "mahalle": null,
   "telefon": null,
-  "web": null,
+  "web": "https://www.dentapark05.com/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -375,7 +434,8 @@
   "fsq_id": "62e136dc457aeb2cfcfbd853",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "9876f303-853d-404f-b179-0a63c60d1a39"
  },
  {
   "ad": "Dentist Office",
@@ -546,11 +606,11 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d178941735"
   ],
-  "adres": "Temel İşhani",
+  "adres": "cumhuriyet mahallesi hacı mustafa cad. arslan iş hanı 6/101caddes, Suluova",
   "il": null,
   "ilce": "Suluova",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0358) 418 12 34",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -564,7 +624,8 @@
   "fsq_id": "566fe17c498eafd7d1c08dd2",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "f744d8ec-623e-42df-b26f-8492e22c0678"
  },
  {
   "ad": "Diş Dr  Haluk Ekici",
@@ -755,6 +816,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Diş Hekimi Betül Cucu Balaban",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "İstasyon Cd. No:33, Zile",
+  "il": null,
+  "ilce": "Zile",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.29967498779297,
+  "lng": 35.887168884277344,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.29967498779297,35.887168884277344",
+  "yandex_url": "https://yandex.com/maps/?text=Diş Hekimi Betül Cucu Balaban&ll=35.887168884277344%2C40.29967498779297&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "7ddc1faf-5631-4f68-8a40-43ff7b209604",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Diş Hekimi Dilek Eliaçık",
@@ -1110,7 +1200,8 @@
   "fsq_id": "62b6c945399865208d18430f",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "7c1fb93b-6953-46ef-a18d-9b4f1a542695"
  },
  {
   "ad": "Diş Hekimi Mustafa Horlar",
@@ -1165,6 +1256,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Diş Hekimi Savaş Albayrak",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Atatürk Cd. No:5/3",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0358) 218 44 99",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.65269470214844,
+  "lng": 35.835655212402344,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.65269470214844,35.835655212402344",
+  "yandex_url": "https://yandex.com/maps/?text=Diş Hekimi Savaş Albayrak&ll=35.835655212402344%2C40.65269470214844&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "3b43e1df-a339-4435-9c11-6cc8f26cad25",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Diş Hekimi Sefa Biçer",
@@ -1302,6 +1422,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Diş Hekimi Zerrin Sürmeli",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Horoz Sk. no:1/102, Merzifon",
+  "il": null,
+  "ilce": "Merzifon",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.87070846557617,
+  "lng": 35.46524429321289,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.87070846557617,35.46524429321289",
+  "yandex_url": "https://yandex.com/maps/?text=Diş Hekimi Zerrin Sürmeli&ll=35.46524429321289%2C40.87070846557617&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "ed466e37-ae23-4da6-b949-48518aa30922",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Diş hekimi özge demir",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -1380,7 +1529,95 @@
   "fsq_id": "50bc8a78e4b0b627a8bba8af",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "7d24a1f9-7cf4-45bc-83ac-229445be7520"
+ },
+ {
+  "ad": "Dişçi Murat Aydın Muaynehanesi",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": null,
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.65461730957031,
+  "lng": 35.838539123535156,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.65461730957031,35.838539123535156",
+  "yandex_url": "https://yandex.com/maps/?text=Dişçi Murat Aydın Muaynehanesi&ll=35.838539123535156%2C40.65461730957031&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "0deb2772-7fa3-424c-9606-572b1791e9ab",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Dr. Dilek Eliacik",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Nuri Ayvalı Sk. Karakaş Apt. D:1",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0358) 218 35 05",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.64962387084961,
+  "lng": 35.82807159423828,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.64962387084961,35.82807159423828",
+  "yandex_url": "https://yandex.com/maps/?text=Dr. Dilek Eliacik&ll=35.82807159423828%2C40.64962387084961&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "fb49920a-3cb1-49a7-a7c4-8eb0483e35e1",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Dr. Ender Tezen",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Mustafa Kemal Paşa Cd. No:63 D:1",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0358) 218 83 82",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.64971923828125,
+  "lng": 35.82789611816406,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.64971923828125,35.82789611816406",
+  "yandex_url": "https://yandex.com/maps/?text=Dr. Ender Tezen&ll=35.82789611816406%2C40.64971923828125&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "6ef0a36b-632e-482b-aa48-938929c5a7a8",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Dr. Metin Kınacı",
@@ -1408,6 +1645,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Dr. Mustafa Horlar",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Selimiye Cd. temel işhanı, Suluova",
+  "il": null,
+  "ilce": "Suluova",
+  "mahalle": null,
+  "telefon": "(0358) 417 58 98",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.834774017333984,
+  "lng": 35.645694732666016,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.834774017333984,35.645694732666016",
+  "yandex_url": "https://yandex.com/maps/?text=Dr. Mustafa Horlar&ll=35.645694732666016%2C40.834774017333984&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "975e3eac-102a-4562-93bc-41f898fb6386",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Dt. Fevzi TERZİ",
@@ -1762,6 +2028,64 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Medisam Agiz ve Dis Sagligi Poliklinigi",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Hafız Mustafa Cd. No:67-1, Merzifon",
+  "il": null,
+  "ilce": "Merzifon",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.87598419189453,
+  "lng": 35.44560623168945,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.87598419189453,35.44560623168945",
+  "yandex_url": "https://yandex.com/maps/?text=Medisam Agiz ve Dis Sagligi Poliklinigi&ll=35.44560623168945%2C40.87598419189453&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "92939457-c92b-440f-b4a4-b537b1984e3d",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Medisam Ağız ve Diş Sağlığı Polikliniği",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "113. Sok No:7, Vezirköprü",
+  "il": null,
+  "ilce": "Vezirköprü",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.14127731323242,
+  "lng": 35.46037292480469,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.14127731323242,35.46037292480469",
+  "yandex_url": "https://yandex.com/maps/?text=Medisam Ağız ve Diş Sağlığı Polikliniği&ll=35.46037292480469%2C41.14127731323242&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "db1d68a3-daa0-4ad7-bcf3-af1adf18ad58",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Merzifon Ağız Ve Diş Hastanesi Poliklinikleri",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -1787,6 +2111,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Merzifon Dis Hekimi Muammer Gumus",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Merzifon Belediyesi Şehit İlker Atan iş merkezi, Yaren Sokak no:2/z3, Merzifon",
+  "il": null,
+  "ilce": "Merzifon",
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://g.page/r/CdpE1O6fMb8WEBM/review",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.874752044677734,
+  "lng": 35.4600830078125,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.874752044677734,35.4600830078125",
+  "yandex_url": "https://yandex.com/maps/?text=Merzifon Dis Hekimi Muammer Gumus&ll=35.4600830078125%2C40.874752044677734&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "a80d77e6-5254-4c20-aa7c-7565df782f3b",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Merzifon Medisam Ağız ve Diş Sağlığı polikliniği",
@@ -1924,6 +2277,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Süha Özmumcu",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Özkök Apt. 50/1, Merkez, Mustafa Kemal Paşa Caddesi",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0358) 203 00 40",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.650760650634766,
+  "lng": 35.8308219909668,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.650760650634766,35.8308219909668",
+  "yandex_url": "https://yandex.com/maps/?text=Süha Özmumcu&ll=35.8308219909668%2C40.650760650634766&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "34ead913-ca5d-45a9-b7d7-2a29cdcde886",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Türkan Nadire Yeşil Diş Kliniği",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -2002,7 +2384,8 @@
   "fsq_id": "51485246e4b0e3658565e61b",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "5fd96420-9cd0-48ba-b4a6-e75c63aabcba"
  },
  {
   "ad": "diş hekimi savaş albayrak",
@@ -2138,6 +2521,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Özel Amasya Ağız ve Diş Sağlığı Polikliniği",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Sadık Esen Sk. No:3/A",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0358) 502 20 21",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.649810791015625,
+  "lng": 35.82890319824219,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.649810791015625,35.82890319824219",
+  "yandex_url": "https://yandex.com/maps/?text=Özel Amasya Ağız ve Diş Sağlığı Polikliniği&ll=35.82890319824219%2C40.649810791015625&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "a9992903-91f7-480b-8184-4f7701ef7f5e",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Özel Dentova Ağız ve Diş Sağlığı Polikliniği",

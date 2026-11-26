@@ -304,7 +304,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d178941735"
   ],
-  "adres": null,
+  "adres": "Harun Reşit Caddesi 1",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -322,7 +322,66 @@
   "fsq_id": "50fce5d4e4b03e4eb2048560",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "43c21bcf-56f2-4107-b081-23779aae88b1"
+ },
+ {
+  "ad": "Kilis diş merkezi",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "NEMİKA CADDESİ ",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.71592712402344,
+  "lng": 37.11423873901367,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.71592712402344,37.11423873901367",
+  "yandex_url": "https://yandex.com/maps/?text=Kilis diş merkezi&ll=37.11423873901367%2C36.71592712402344&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "c2ccc65b-0151-444e-b00e-51fcce8b680c",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Kiliza Dent",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Murtaza Caddesi 43",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0348) 813 20 90",
+  "web": "http://kilizadent.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.717506408691406,
+  "lng": 37.113006591796875,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.717506408691406,37.113006591796875",
+  "yandex_url": "https://yandex.com/maps/?text=Kiliza Dent&ll=37.113006591796875%2C36.717506408691406&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "d07ab601-cea8-4638-9b9a-77006af3d7f1",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Koğuş",
@@ -493,11 +552,11 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d178941735"
   ],
-  "adres": "Doğan Güreş Paşa",
+  "adres": "İnönü Blv. no:35",
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0348) 822 22 21",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -511,7 +570,8 @@
   "fsq_id": "5b6a9a708c35dc002cca819d",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "996a3e48-48fc-491a-94e4-aac7abedaebb"
  },
  {
   "ad": "Özel Mert Diş Labaratuvarı",

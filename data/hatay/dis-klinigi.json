@@ -402,7 +402,8 @@
   "fsq_id": "521b59f2498ef291149cb88f",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "5476dbe9-de53-4b0f-be36-9a41671f42b4"
  },
  {
   "ad": "Ağız ve Diş Sağlığı Merkezi",
@@ -702,17 +703,75 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Dent Hatay Ağız ve Diş Sağlığı Polikliniği",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "ARMUTLU MAHALLESİ 1554. SOK. MÜGE APT. ZEMİN KAT, Defne",
+  "il": null,
+  "ilce": "Defne",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.1945686340332,
+  "lng": 36.149322509765625,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.1945686340332,36.149322509765625",
+  "yandex_url": "https://yandex.com/maps/?text=Dent Hatay Ağız ve Diş Sağlığı Polikliniği&ll=36.149322509765625%2C36.1945686340332&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "3323fb4d-d89e-4d11-ad12-b5b034b561f7",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Dent Pierre Clinic",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Antakya",
+  "il": null,
+  "ilce": "Antakya",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.dentpierre.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.26041793823242,
+  "lng": 36.181556701660156,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.26041793823242,36.181556701660156",
+  "yandex_url": "https://yandex.com/maps/?text=Dent Pierre Clinic&ll=36.181556701660156%2C36.26041793823242&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "221ff4d8-bf3b-4ed9-a535-7b45c6a9338b",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Dent İskenderun Dr Akın Yiyen",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
   "hizmet_ipuclari": [
    "4bf58dd8d48988d178941735"
   ],
-  "adres": null,
+  "adres": "Çay Mahallesi 47. Sokak No:5 Dönmezoğlu Residence Kat:3/16, İskenderun",
   "il": null,
   "ilce": "Çay",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0326) 613 58 68",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -726,7 +785,8 @@
   "fsq_id": "58dca7cb876ade47be11bc26",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "2bf0b8ee-9e3e-46dd-9d7c-ccda7d3b069c"
  },
  {
   "ad": "Denta Diş",
@@ -762,12 +822,12 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d178941735"
   ],
-  "adres": "mete arslan bulvari",
+  "adres": "Osman Gazi Caddesi 1, İskenderun",
   "il": null,
   "ilce": "iskenderun",
   "mahalle": null,
   "telefon": null,
-  "web": null,
+  "web": "http://www.dentapark.org/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -780,7 +840,8 @@
   "fsq_id": "5967692a4420d83337b63455",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "f51cc030-1f3e-4c46-9ec4-ce17d35babf6"
  },
  {
   "ad": "Dental Of Parlakgümüs",
@@ -1437,11 +1498,11 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d178941735"
   ],
-  "adres": null,
+  "adres": "Savaş Mah. Namık Kemal Cad. 63. sokak Aykut apt. No: 3 Kat:1/9, İskenderun",
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0326) 614 83 82",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -1455,7 +1516,8 @@
   "fsq_id": "533c2264498e30248e8c8360",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "453b360f-0f25-4b79-a486-61b647368030"
  },
  {
   "ad": "Dis Hekimi Mustafa Dilli-Dentantakya",
@@ -1464,11 +1526,11 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d178941735"
   ],
-  "adres": null,
+  "adres": "75. Yıl Bulvarı 39, Antakya",
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0326) 227 38 63",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -1482,7 +1544,8 @@
   "fsq_id": "55f66c4e498ea00cbc16bafe",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "89c86913-7318-4425-a81d-f16356c026c5"
  },
  {
   "ad": "Dis Hekimi Necdet Kar",
@@ -2031,7 +2094,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d178941735"
   ],
-  "adres": null,
+  "adres": "Lala Paşa Cd. No:1, Kırıkhan",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -2049,7 +2112,8 @@
   "fsq_id": "55b1ed63498e58dea3f1874c",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "43d1d5ba-df4c-4e5b-97d8-d979052aab93"
  },
  {
   "ad": "Diş Hekimi  Adnan girişken",
@@ -2562,7 +2626,8 @@
   "fsq_id": "54e2f6b5498edf03508b5760",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "6cc83db4-570d-42e7-832a-389ef1e3ed92"
  },
  {
   "ad": "Diş Hekimi Doç.dr İbrahim Damlar",
@@ -2752,6 +2817,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Diş Hekimi Feridun Yüceer",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "İskenderun Arsuz Yolu No:20/2, Arsuz",
+  "il": null,
+  "ilce": "Arsuz",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.412235260009766,
+  "lng": 35.8897590637207,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.412235260009766,35.8897590637207",
+  "yandex_url": "https://yandex.com/maps/?text=Diş Hekimi Feridun Yüceer&ll=35.8897590637207%2C36.412235260009766&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "d0bc74f8-6f71-4530-a503-a076618e48a5",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Diş Hekimi Funda Tümay",
@@ -3159,6 +3253,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Diş Hekimi Kağan Cengiz",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "10803. Sk. 8 31225, Arsuz",
+  "il": null,
+  "ilce": "Arsuz",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.41281509399414,
+  "lng": 35.8903923034668,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.41281509399414,35.8903923034668",
+  "yandex_url": "https://yandex.com/maps/?text=Diş Hekimi Kağan Cengiz&ll=35.8903923034668%2C36.41281509399414&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "8721b7b3-c42e-461f-b8af-872be4b8a7ae",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Diş Hekimi Kemal Kaya",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -3402,6 +3525,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Diş Hekimi Mehmet Mücteba Çiftçi",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Cumhuriyet Mahallesi, Ahmet Yesevi Caddesi, No: 8, Daire: 16 Helen Zarifoğlu Plaza, Kat: 4 Daire:16, Samandağ",
+  "il": null,
+  "ilce": "Samandağ",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.086116790771484,
+  "lng": 35.978858947753906,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.086116790771484,35.978858947753906",
+  "yandex_url": "https://yandex.com/maps/?text=Diş Hekimi Mehmet Mücteba Çiftçi&ll=35.978858947753906%2C36.086116790771484&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "fc3ca00d-267e-49f8-a33a-fb1f40c50de6",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Diş Hekimi Mehmet Yumuşak",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -3588,7 +3740,8 @@
   "fsq_id": "553927de498e7eb81267dfa9",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "31d28ecb-aafb-4d54-94c7-390a5d341be7"
  },
  {
   "ad": "Diş Hekimi Nazar Keskin",
@@ -3601,7 +3754,7 @@
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0326) 614 54 65",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -3615,7 +3768,8 @@
   "fsq_id": "508e9661e4b0499bc82b4639",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "c8bea1ec-628e-4137-8c7e-0776e271dd06"
  },
  {
   "ad": "Diş Hekimi Nazım Hammudioğlu",
@@ -3888,6 +4042,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Diş Hekimi Onur Doksöz",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Mahallesi, 2. Değirmen Sk. No:2, Antakya",
+  "il": null,
+  "ilce": "Antakya",
+  "mahalle": null,
+  "telefon": "(0326) 216 16 16",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.19377517700195,
+  "lng": 36.15742111206055,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.19377517700195,36.15742111206055",
+  "yandex_url": "https://yandex.com/maps/?text=Diş Hekimi Onur Doksöz&ll=36.15742111206055%2C36.19377517700195&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "f8624464-460b-4668-9f14-a6518562ccea",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Diş Hekimi Onur Emir",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -3913,6 +4096,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Diş Hekimi Onur Özen Kliniği",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Aşağıokçular Mahallesi, 2109 Sokak, No:1/4 Defne Apt., Defne",
+  "il": null,
+  "ilce": "Defne",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.171119689941406,
+  "lng": 36.137062072753906,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.171119689941406,36.137062072753906",
+  "yandex_url": "https://yandex.com/maps/?text=Diş Hekimi Onur Özen Kliniği&ll=36.137062072753906%2C36.171119689941406&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "5206bba9-93f2-44a4-900c-fd7db0252c3c",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Diş Hekimi Osman Akgün",
@@ -4914,6 +5126,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Diş hekimi Mehmet Teker",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Samandağ bulvarı No:209, Defne",
+  "il": null,
+  "ilce": "Defne",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.18619918823242,
+  "lng": 36.12250900268555,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.18619918823242,36.12250900268555",
+  "yandex_url": "https://yandex.com/maps/?text=Diş hekimi Mehmet Teker&ll=36.12250900268555%2C36.18619918823242&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "b30c4e49-7e72-4abe-8e3d-eafc6a5b8e31",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Diş hekimi Meltem Akemoğlu",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -5073,7 +5314,8 @@
   "fsq_id": "53be7d6f498ee5470e7b6a56",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "533f8304-ea4c-49fc-a77e-5f4d13adb0a2"
  },
  {
   "ad": "Dişçi",
@@ -5805,6 +6047,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Dr Umay Kalender",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Uğur Mumcu Caddesi 2Z, Arsuz",
+  "il": null,
+  "ilce": "Arsuz",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.58139419555664,
+  "lng": 36.143802642822266,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.58139419555664,36.143802642822266",
+  "yandex_url": "https://yandex.com/maps/?text=Dr Umay Kalender&ll=36.143802642822266%2C36.58139419555664&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "e4223cd1-280b-4bb1-a670-9abdae6d6715",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Dr. Ali Bayar Muayenehane",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -5884,6 +6155,64 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Dr. Dt. Sultan Bedir",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "41. Sokak 2, İskenderun",
+  "il": null,
+  "ilce": "İskenderun",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.590728759765625,
+  "lng": 36.17112350463867,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.590728759765625,36.17112350463867",
+  "yandex_url": "https://yandex.com/maps/?text=Dr. Dt. Sultan Bedir&ll=36.17112350463867%2C36.590728759765625&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "faacb2d4-c2d1-41fb-a8cd-19560529b4af",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Dr. Emir Selim Yazar",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Savaş Şehit Pamir Caddesi, No: 40, 4 nolu belediye işhanı, kat:2 No:12, İskenderun",
+  "il": null,
+  "ilce": "İskenderun",
+  "mahalle": null,
+  "telefon": "(0326) 613 07 68",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.5879020690918,
+  "lng": 36.17036437988281,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.5879020690918,36.17036437988281",
+  "yandex_url": "https://yandex.com/maps/?text=Dr. Emir Selim Yazar&ll=36.17036437988281%2C36.5879020690918&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "45508c77-8e8a-46ce-86d0-998d2ceb7266",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Dr. Haşim Karaali's Office",
@@ -6237,6 +6566,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Dt. Barış Yücel",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Çekmece Mah. 4. Sok. K:2 No:2, D:5, Defne",
+  "il": null,
+  "ilce": "Defne",
+  "mahalle": null,
+  "telefon": "(0850) 333 83 44",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.1966667175293,
+  "lng": 36.14673614501953,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.1966667175293,36.14673614501953",
+  "yandex_url": "https://yandex.com/maps/?text=Dt. Barış Yücel&ll=36.14673614501953%2C36.1966667175293&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "470edc9c-5a97-4ab6-8e60-f7e5509f8f72",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Dt. Bora Gezici Muayenehanesi",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -6289,6 +6647,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Dt. Cenk Huri - Diş Eti Hastalıkları ve İmplant Kliniği",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Şehit Pamir Cad. Kızıltan İşhanı (Evkur Mağazası Karşısı) K: 2, İskenderun",
+  "il": null,
+  "ilce": "İskenderun",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://iskenderunimplant.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.58856964111328,
+  "lng": 36.17036437988281,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.58856964111328,36.17036437988281",
+  "yandex_url": "https://yandex.com/maps/?text=Dt. Cenk Huri - Diş Eti Hastalıkları ve İmplant Kliniği&ll=36.17036437988281%2C36.58856964111328&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "6aec54d4-0ee1-46fa-992a-5d5310561a3b",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Dt. Ebru Çakır",
@@ -6398,6 +6785,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Dt.İrem Cihangir",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "İskenderun",
+  "il": null,
+  "ilce": "İskenderun",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.57905578613281,
+  "lng": 36.13996505737305,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.57905578613281,36.13996505737305",
+  "yandex_url": "https://yandex.com/maps/?text=Dt.İrem Cihangir&ll=36.13996505737305%2C36.57905578613281&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "60216fb1-6c04-4fff-893c-1eba01702436",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "DİŞ HEKİMİ BÜLENT DEMİRCİOĞLU",
@@ -6832,6 +7248,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Gönül Beste Aksoy",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "İsmail Turan Blv. No:7/2, Kırıkhan",
+  "il": null,
+  "ilce": "Kırıkhan",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.48830795288086,
+  "lng": 36.338050842285156,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.48830795288086,36.338050842285156",
+  "yandex_url": "https://yandex.com/maps/?text=Gönül Beste Aksoy&ll=36.338050842285156%2C36.48830795288086&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "f5105158-8eac-498e-a605-f2042f8b36b4",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Göçmen Diş Muayenehanesi",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -7264,6 +7709,64 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Kaysar Agiz ve Dis Sagligi Poliklinigi",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Namık Kemal Cd. NO:63, İskenderun",
+  "il": null,
+  "ilce": "İskenderun",
+  "mahalle": null,
+  "telefon": "(0326) 614 50 03",
+  "web": "http://www.kaysardispoliklinigi.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.58749008178711,
+  "lng": 36.16753387451172,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.58749008178711,36.16753387451172",
+  "yandex_url": "https://yandex.com/maps/?text=Kaysar Agiz ve Dis Sagligi Poliklinigi&ll=36.16753387451172%2C36.58749008178711&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "35abcdd5-3e8f-4b7f-bdfe-3003d149b679",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Kelce Dental Dis Deposu",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Şht. Er Ahmet Yayman Cd. 46/A, İskenderun",
+  "il": null,
+  "ilce": "İskenderun",
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://instagram.com/kelcedentall?utm_medium=copy_link",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.58793640136719,
+  "lng": 36.15538787841797,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.58793640136719,36.15538787841797",
+  "yandex_url": "https://yandex.com/maps/?text=Kelce Dental Dis Deposu&ll=36.15538787841797%2C36.58793640136719&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "bd4c3ed5-9f61-4bf2-9de7-7ed7cddb9976",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Kelce Diş Kliniği",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -7375,6 +7878,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Klinik A İskenderun Ağız ve Diş Sağlığı Polikliniği",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Uğur Mumcu Cd. No:49/A, Arsuz",
+  "il": null,
+  "ilce": "Arsuz",
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://www.klinikadental.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.55406188964844,
+  "lng": 36.09248352050781,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.55406188964844,36.09248352050781",
+  "yandex_url": "https://yandex.com/maps/?text=Klinik A İskenderun Ağız ve Diş Sağlığı Polikliniği&ll=36.09248352050781%2C36.55406188964844&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "8a1db46d-cccb-4899-8ef7-05fbfdf485c9",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Kırıkhan Diş Tıp Malzemeleri",
@@ -7809,6 +8341,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Nihat dağ diş kliniği",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "yeni mah.atatürk cad.sami durmaz apt.kat 2, Reyhanlı",
+  "il": null,
+  "ilce": "Reyhanlı",
+  "mahalle": null,
+  "telefon": "(0326) 413 99 33",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.26746368408203,
+  "lng": 36.56709289550781,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.26746368408203,36.56709289550781",
+  "yandex_url": "https://yandex.com/maps/?text=Nihat dağ diş kliniği&ll=36.56709289550781%2C36.26746368408203&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "620f5534-88cf-48c7-a5cc-fdafcc6a8116",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Ortodonti Uzmanı Diş Hekimi Mehmet Altun",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -8025,6 +8586,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Osman Oğuz İskenderun Diş Hekimi",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Şehit Pamir Caddesi 4 Nolu Belediye iş hanı Kat:1 Daire:8, İskenderun",
+  "il": null,
+  "ilce": "İskenderun",
+  "mahalle": null,
+  "telefon": "(0326) 614 55 26",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.588104248046875,
+  "lng": 36.17038345336914,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.588104248046875,36.17038345336914",
+  "yandex_url": "https://yandex.com/maps/?text=Osman Oğuz İskenderun Diş Hekimi&ll=36.17038345336914%2C36.588104248046875&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "7551cb7f-41b3-46d3-9d7d-9cf665a7c75a",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Osmanbey Dis Klinigi",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -8052,6 +8642,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Osmanbey Diş Kliniği",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Şht. Erdoğan Karaoğlu Cd. no:15b, Kırıkhan",
+  "il": null,
+  "ilce": "Kırıkhan",
+  "mahalle": null,
+  "telefon": "(0326) 344 17 22",
+  "web": "http://www.osmanbeydis.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.49971389770508,
+  "lng": 36.352603912353516,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.49971389770508,36.352603912353516",
+  "yandex_url": "https://yandex.com/maps/?text=Osmanbey Diş Kliniği&ll=36.352603912353516%2C36.49971389770508&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "25ee1000-c5c8-4554-a551-9095bfbcd3e6",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Piadental",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -8077,6 +8696,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Prodent Agiz ve Dis Sagligi Poliklinigi",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Mimar Sinan Blv. Devrim. Sitesi, İskenderun",
+  "il": null,
+  "ilce": "İskenderun",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.56317901611328,
+  "lng": 36.151607513427734,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.56317901611328,36.151607513427734",
+  "yandex_url": "https://yandex.com/maps/?text=Prodent Agiz ve Dis Sagligi Poliklinigi&ll=36.151607513427734%2C36.56317901611328&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "2c7e171c-c31a-4ca4-acb3-7a3d470956ea",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Rasim Alyanak Diş Kliniği",
@@ -8239,6 +8887,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Seküçoğlu Diş Kliniği",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Kanatlı Caddesi 91/2, İskenderun",
+  "il": null,
+  "ilce": "İskenderun",
+  "mahalle": null,
+  "telefon": "(0326) 613 76 44",
+  "web": "https://nedimsekucoglu.com.tr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.58959197998047,
+  "lng": 36.16727066040039,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.58959197998047,36.16727066040039",
+  "yandex_url": "https://yandex.com/maps/?text=Seküçoğlu Diş Kliniği&ll=36.16727066040039%2C36.58959197998047&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "694d6daa-49f1-46e1-ba11-1e8d07cd1007",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Semih Atay",
@@ -8538,6 +9215,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Tümay Diş Deposu",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "No:49/, Kurtuluş Cd. No:5, Antakya",
+  "il": null,
+  "ilce": "Antakya",
+  "mahalle": null,
+  "telefon": "(0326) 215 15 55",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.19919204711914,
+  "lng": 36.163330078125,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.19919204711914,36.163330078125",
+  "yandex_url": "https://yandex.com/maps/?text=Tümay Diş Deposu&ll=36.163330078125%2C36.19919204711914&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "60174494-7ff7-407f-83fd-bb23db5c6e63",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Uzm. Dr. Mesutcan Cilli Muayenesi",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -8565,6 +9271,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Uzm. Dt. Ali Rende - İskenderun Implant ve Çene Cerrahisi  Kliniği",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Karaagac konarli mah ugur mumcu 9 cad no 355/2, Arsuz",
+  "il": null,
+  "ilce": "Arsuz",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.iskenderundis.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.59001922607422,
+  "lng": 36.18136978149414,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.59001922607422,36.18136978149414",
+  "yandex_url": "https://yandex.com/maps/?text=Uzm. Dt. Ali Rende - İskenderun Implant ve Çene Cerrahisi  Kliniği&ll=36.18136978149414%2C36.59001922607422&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "96b49b74-b09a-45ff-a4fa-29fc176faaca",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Uzman Diş Hekimi Emre Sönmezateş",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -8590,6 +9325,64 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Uzman Diş Hekimi Emre Sönmezateş",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Konarlı Caddesi 2, Arsuz",
+  "il": null,
+  "ilce": "Arsuz",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.emresonmezates.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.58466339111328,
+  "lng": 36.14255905151367,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.58466339111328,36.14255905151367",
+  "yandex_url": "https://yandex.com/maps/?text=Uzman Diş Hekimi Emre Sönmezateş&ll=36.14255905151367%2C36.58466339111328&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "ad5cbe3d-c024-479b-a1ec-0d1461fcfe6e",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Uzman Diş Hekimi Mesutcan Cilli",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Kışla Saray Mahallesi Harbiye bulvarı Babacan apt. No:2, zemin kat, daire:1, Antakya",
+  "il": null,
+  "ilce": "Antakya",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.19680404663086,
+  "lng": 36.160980224609375,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.19680404663086,36.160980224609375",
+  "yandex_url": "https://yandex.com/maps/?text=Uzman Diş Hekimi Mesutcan Cilli&ll=36.160980224609375%2C36.19680404663086&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "a7be8282-3f12-4ab8-afac-925f407859a6",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Uzman Klinik",
@@ -9574,8 +10367,8 @@
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
-  "web": null,
+  "telefon": "(0326) 613 64 64",
+  "web": "https://iskenderunadsm.saglik.gov.tr/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -9588,7 +10381,8 @@
   "fsq_id": "5130a639e4b03fa96bf1487f",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "02a1217f-ea1c-4ae6-85ff-5696c29a6e06"
  },
  {
   "ad": "iskenderun ağız ve diş sağlığı Merkezi",
@@ -9678,11 +10472,11 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d178941735"
   ],
-  "adres": null,
+  "adres": "Yılmaz Plaza, Kanatlı Cd. No:33 Kat:1 Daire : 4, İskenderun",
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0326) 612 04 44",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -9696,7 +10490,8 @@
   "fsq_id": "530af7f7498e0e5eda9a4d91",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "171cd430-8716-4534-833e-12e956bfd7d3"
  },
  {
   "ad": "kiral atli",
@@ -9780,6 +10575,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "miraç dent",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Antakya",
+  "il": null,
+  "ilce": "Antakya",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.22478103637695,
+  "lng": 36.147796630859375,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.22478103637695,36.147796630859375",
+  "yandex_url": "https://yandex.com/maps/?text=miraç dent&ll=36.147796630859375%2C36.22478103637695&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "7b02adf4-859a-4390-b4af-f35bc4d84cb6",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "nadir&esra kıran dis poliklinigi",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -9841,7 +10665,7 @@
    "4bf58dd8d48988d177941735",
    "4bf58dd8d48988d178941735"
   ],
-  "adres": "kislasaray mah.harbiye cad.babacan apt",
+  "adres": "Harbiye Caddesi 2, Antakya",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -9859,7 +10683,8 @@
   "fsq_id": "51755009e4b04183a7614e9b",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "be4fc85b-19c2-4d33-bb21-8093971b1834"
  },
  {
   "ad": "sinan sari dis hekimi",
@@ -10213,6 +11038,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Özel PİA Dental Ağız ve Diş Sağlığı Polikliniği",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Özel Pia Dental Ağız ve Diş Sağlığı Polikliniği, Antakya",
+  "il": null,
+  "ilce": "Antakya",
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://www.piadentalclinic.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.22237014770508,
+  "lng": 36.154720306396484,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.22237014770508,36.154720306396484",
+  "yandex_url": "https://yandex.com/maps/?text=Özel PİA Dental Ağız ve Diş Sağlığı Polikliniği&ll=36.154720306396484%2C36.22237014770508&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "f8c0a230-1383-4229-a6a8-39cd7fe05f0a",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Özel Sakallı diş hastanesi",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -10265,6 +11119,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Özel Sürmeli Diş Polikliniği",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Şht. Oğuz Yener Cd. No:4, İskenderun",
+  "il": null,
+  "ilce": "İskenderun",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.58949661254883,
+  "lng": 36.16987991333008,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.58949661254883,36.16987991333008",
+  "yandex_url": "https://yandex.com/maps/?text=Özel Sürmeli Diş Polikliniği&ll=36.16987991333008%2C36.58949661254883&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "0ba49e47-c992-418b-a07a-bd673645b00b",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Özel Şen Diş Laboratuvarı",
@@ -10534,7 +11417,8 @@
   "fsq_id": "5a6038cc2aff31148fbb2330",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "9cc06f46-ec5e-4662-9e99-550b30529bba"
  },
  {
   "ad": "Şadi Asfuroğlu's Surgery",

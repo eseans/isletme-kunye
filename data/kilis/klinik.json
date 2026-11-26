@@ -243,6 +243,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "ATA Medikal Kilis",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "albay İbrahim Karaoğlanoğlu mahallesi ünverdi caddesi No 130 b merkez Kilis ",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.atamedikalkilis.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.702796936035156,
+  "lng": 37.11034393310547,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.702796936035156,37.11034393310547",
+  "yandex_url": "https://yandex.com/maps/?text=ATA Medikal Kilis&ll=37.11034393310547%2C36.702796936035156&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "ab09025d-e2e4-46ad-9b6c-1d323d73f8ba",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Acil Saglık Hizmetleri Istasyonu",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -430,6 +459,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Baymed",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Bölge Trafik Caddesi 9",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0348) 834 10 28",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.71644973754883,
+  "lng": 37.12639617919922,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.71644973754883,37.12639617919922",
+  "yandex_url": "https://yandex.com/maps/?text=Baymed&ll=37.12639617919922%2C36.71644973754883&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "3aa6af04-5917-47e1-a8ab-0ebaa60db008",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Beşiriye 3555 Acil Sağlık İstasyonu",
@@ -2349,7 +2407,9 @@
   "fsq_id": "6707cb75544e4602d9b035ad",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "e75473a6-428b-47e8-9562-81af81013354",
+  "alt": "muayenehane"
  },
  {
   "ad": "Kilis Şehir Hastanesi",
@@ -2439,7 +2499,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d104941735"
   ],
-  "adres": null,
+  "adres": "Murtaza Caddesi 26",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -2457,7 +2517,9 @@
   "fsq_id": "501644d0e4b07c3cf3bc107f",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "bca826b1-5ee0-481a-b9b5-4e424ce2c8c3",
+  "alt": "muayenehane"
  },
  {
   "ad": "KİGEAD-DER",
@@ -3220,6 +3282,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Welltures Kilis",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Akpınar Mah. Murtaza Cad.",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.717037200927734,
+  "lng": 37.11384201049805,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.717037200927734,37.11384201049805",
+  "yandex_url": "https://yandex.com/maps/?text=Welltures Kilis&ll=37.11384201049805%2C36.717037200927734&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "3a7abebe-698d-4712-a086-cf020d8c7d13",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Yavuzlu Aile Hekimliği",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -3328,6 +3419,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Yeni beşevler aile sağlığı merkezi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "mehmet rıfat kazancıoğlu mah.",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.713008880615234,
+  "lng": 37.12822723388672,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.713008880615234,37.12822723388672",
+  "yandex_url": "https://yandex.com/maps/?text=Yeni beşevler aile sağlığı merkezi&ll=37.12822723388672%2C36.713008880615234&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "bffe3c53-492b-4218-b7a5-840b7f742100",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Yeşilay Danışmanlık Merkezi",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -3338,7 +3458,7 @@
   "il": null,
   "ilce": "Merkez Kilis",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0348) 813 24 66",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -3352,7 +3472,37 @@
   "fsq_id": "5deb6cfe4341c60008baac56",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "962817d0-697f-4084-97cc-0d41799becb7"
+ },
+ {
+  "ad": "Yrd Doç Dr Erhan HAFIZ",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Gaziantep Üniversitesi Tıp Fakültesi Hastanesi, Kalp ve Damar Cerrahisi ABD, Şahinbey",
+  "il": null,
+  "ilce": "Şahinbey",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.drerhanhafiz.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.91669845581055,
+  "lng": 37.16669845581055,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.91669845581055,37.16669845581055",
+  "yandex_url": "https://yandex.com/maps/?text=Yrd Doç Dr Erhan HAFIZ&ll=37.16669845581055%2C36.91669845581055&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "b1972faa-e24d-44d4-a43b-885ea3187617",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Zeytin Eczanesi",
@@ -3460,7 +3610,8 @@
   "fsq_id": "53cf9b33498e310af8ed09b2",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "7ddd36c2-0ab9-4d44-8798-74893869bb16"
  },
  {
   "ad": "kilis 1 no'lu ASHİ",
@@ -3622,7 +3773,9 @@
   "fsq_id": "527f712011d2ac6c2b1e4ad3",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "c8e4e2df-5c1a-4108-ac5c-105e4c2bb9b9",
+  "alt": "muayenehane"
  },
  {
   "ad": "muhammed ensari",
@@ -4030,6 +4183,64 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "دار السلامة للإسـتشـفاء والـعـلاج الـفـيـزيـائـي",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "استراد معبر باب السلامة الحدودي",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.71609878540039,
+  "lng": 37.114994049072266,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.71609878540039,37.114994049072266",
+  "yandex_url": "https://yandex.com/maps/?text=دار السلامة للإسـتشـفاء والـعـلاج الـفـيـزيـائـي&ll=37.114994049072266%2C36.71609878540039&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "a137768d-8f10-4032-8ca9-0fedc33a84e0",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "مركز النور الطبي",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "شارع المولات ",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.79dis.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.70397186279297,
+  "lng": 37.34300231933594,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.70397186279297,37.34300231933594",
+  "yandex_url": "https://yandex.com/maps/?text=مركز النور الطبي&ll=37.34300231933594%2C36.70397186279297&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "9b7d687e-288f-4413-b5cd-f86699d032ad",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "《Emergency EMT Nöbeti Acil S.H》",

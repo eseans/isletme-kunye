@@ -105,7 +105,8 @@
   "fsq_id": "56dee091498e9aa5b6ccfd9c",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "11c49231-7f37-4dfa-9974-adb6a8cf2834"
  },
  {
   "ad": "Ayşe Nil Tekinkaya Kaya",
@@ -162,6 +163,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Ağız Ve Diş Sağlığı Merkezi",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Subaşı, İbn-i Sina Cd. No:10, Altınordu",
+  "il": null,
+  "ilce": "Altınordu",
+  "mahalle": null,
+  "telefon": "(0452) 223 12 58",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.978519439697266,
+  "lng": 37.88447189331055,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.978519439697266,37.88447189331055",
+  "yandex_url": "https://yandex.com/maps/?text=Ağız Ve Diş Sağlığı Merkezi&ll=37.88447189331055%2C40.978519439697266&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "e9d975b1-c0d1-47f7-987c-faea326d13eb",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "BH Clinic Özel Ağız Ve Diş Sağlığı Polikliniği",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -173,7 +203,7 @@
   "il": null,
   "ilce": "Ordu Altınordu",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0452) 234 54 75",
   "web": "http://www.bhclinic.com.tr",
   "sosyal": [
    {
@@ -192,7 +222,8 @@
   "fsq_id": "6565c4766ddeca47ae2bbcf6",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "56164db2-60da-43e6-8df0-a99e5e904d0c"
  },
  {
   "ad": "Bulent Sarioglu",
@@ -222,6 +253,64 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Candan Ortodonti Diş Laboratuvarı",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Kocakişi Cd. No:3/3, Altınordu",
+  "il": null,
+  "ilce": "Altınordu",
+  "mahalle": null,
+  "telefon": "(0452) 777 52 50",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.98505783081055,
+  "lng": 37.87944030761719,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.98505783081055,37.87944030761719",
+  "yandex_url": "https://yandex.com/maps/?text=Candan Ortodonti Diş Laboratuvarı&ll=37.87944030761719%2C40.98505783081055&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "45b09c5a-1e99-4206-93c9-37bfca5b2ac9",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Cosmetic Dental",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Akyazı Mahallesi 795. Sokak, 278. Sk. No:2/B, Altınordu",
+  "il": null,
+  "ilce": "Altınordu",
+  "mahalle": null,
+  "telefon": "(0452) 888 64 44",
+  "web": "http://www.cosmeticdental.org/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.979122161865234,
+  "lng": 37.904685974121094,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.979122161865234,37.904685974121094",
+  "yandex_url": "https://yandex.com/maps/?text=Cosmetic Dental&ll=37.904685974121094%2C40.979122161865234&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "012704f7-f6c4-4d3b-aba8-d91f1c3e9d3b",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "CotyoraDent",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -247,6 +336,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Dent-Inn Ağız ve Diş Sağlığı Merkezi",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "313. Sokak 11, Altınordu",
+  "il": null,
+  "ilce": "Altınordu",
+  "mahalle": null,
+  "telefon": "(0452) 210 10 18",
+  "web": "http://www.dent-inn.com.tr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.98080062866211,
+  "lng": 37.88786697387695,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.98080062866211,37.88786697387695",
+  "yandex_url": "https://yandex.com/maps/?text=Dent-Inn Ağız ve Diş Sağlığı Merkezi&ll=37.88786697387695%2C40.98080062866211&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "0633fc72-237b-425e-98ac-cb8a78cbd8c2",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "DentOptima Ağız ve Diş Kliniği",
@@ -282,11 +400,11 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d178941735"
   ],
-  "adres": "Yunus Emre İmam Hatip Okulları karşısı",
+  "adres": "İbn-i Sina Cd. no:23, Altınordu",
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0850) 259 77 00",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -300,7 +418,8 @@
   "fsq_id": "5b3daf792b274a002cb8ac71",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "956b666e-64e1-4192-9df5-558512b6b9b1"
  },
  {
   "ad": "Dentagross Ağız Ve Diş Sağlığı Merkezi",
@@ -409,6 +528,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Dis Hekimi Ortodonti Uzmani Dr. Dt. Melis Kalkavan Erdogan",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Şarkiye Mahallesi Atatürk Bulvarı Yusuf Tercan Apartman No : 178 Kat : 3 Daire : 6, Altınordu",
+  "il": null,
+  "ilce": "Altınordu",
+  "mahalle": null,
+  "telefon": "(0452) 223 43 43",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.98435974121094,
+  "lng": 37.883270263671875,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.98435974121094,37.883270263671875",
+  "yandex_url": "https://yandex.com/maps/?text=Dis Hekimi Ortodonti Uzmani Dr. Dt. Melis Kalkavan Erdogan&ll=37.883270263671875%2C40.98435974121094&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "d29f8dff-25ea-4d4c-92e7-a14019ffa1b2",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Dis hekimi Murat Kaynaroglu Muayenehanesi",
@@ -687,12 +835,12 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d178941735"
   ],
-  "adres": "Aybastı",
+  "adres": "Esenli mh Hürriyet cd hacieminoglu sk no6, Aybastı",
   "il": null,
   "ilce": null,
   "mahalle": null,
   "telefon": null,
-  "web": null,
+  "web": "http://www.cemilesahin.com/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -705,7 +853,8 @@
   "fsq_id": "541aa255498e33b85767c8ee",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "6928f050-5489-499c-bfcd-ea148b03f3e1"
  },
  {
   "ad": "Diş Hekimi Cenan Gündüz",
@@ -789,6 +938,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Diş Hekimi Derya Oral Candan",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Atatürk Blv. No:357/1, Altınordu",
+  "il": null,
+  "ilce": "Altınordu",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.97624969482422,
+  "lng": 37.91419219970703,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.97624969482422,37.91419219970703",
+  "yandex_url": "https://yandex.com/maps/?text=Diş Hekimi Derya Oral Candan&ll=37.91419219970703%2C40.97624969482422&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "05ac4910-d6cc-468b-a938-7425b7ec6715",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Diş Hekimi Derya Oral Candan Muayenehanesi",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -813,7 +991,8 @@
   "fsq_id": "5d777f4c61c0a60008fb1af6",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "4ab9be92-2460-4fbd-9efd-82e3b69c58f0"
  },
  {
   "ad": "Diş Hekimi Ebru Hayta",
@@ -841,6 +1020,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Diş Hekimi Ertuğrul Şahin",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Fevzi Çakmak Cd. 7/1, Altınordu",
+  "il": null,
+  "ilce": "Altınordu",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.ertugrulsahin.net/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.98366165161133,
+  "lng": 37.879207611083984,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.98366165161133,37.879207611083984",
+  "yandex_url": "https://yandex.com/maps/?text=Diş Hekimi Ertuğrul Şahin&ll=37.879207611083984%2C40.98366165161133&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "4ed5172b-3e70-41a1-8acf-895fa1ba9cc1",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Diş Hekimi Güngör İnci",
@@ -1442,6 +1650,64 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Dr. Cemile Sahin",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Hürriyet Cad., Aybastı",
+  "il": null,
+  "ilce": "Aybastı",
+  "mahalle": null,
+  "telefon": "(0452) 714 10 79",
+  "web": "http://www.cemilesahin.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.68489074707031,
+  "lng": 37.40008544921875,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.68489074707031,37.40008544921875",
+  "yandex_url": "https://yandex.com/maps/?text=Dr. Cemile Sahin&ll=37.40008544921875%2C40.68489074707031&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "5e764223-ea6d-4c10-89b0-852a6ce8cacc",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Dr. Demirel Uzun",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "52200, Süleyman Felek Cd. No:79 D:3, Altınordu",
+  "il": null,
+  "ilce": "Altınordu",
+  "mahalle": null,
+  "telefon": "(0452) 225 53 58",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.98436737060547,
+  "lng": 37.88076400756836,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.98436737060547,37.88076400756836",
+  "yandex_url": "https://yandex.com/maps/?text=Dr. Demirel Uzun&ll=37.88076400756836%2C40.98436737060547&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "7ab2a85e-1647-4215-a80a-25446e600bb0",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Dr. Melis Kalkavan Muayenehanesi",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -1609,6 +1875,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Esra Küçüker Susam Muayenehanesi",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Hükümet Cd. No:103/101, Ünye",
+  "il": null,
+  "ilce": "Ünye",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.127037048339844,
+  "lng": 37.28842544555664,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.127037048339844,37.28842544555664",
+  "yandex_url": "https://yandex.com/maps/?text=Esra Küçüker Susam Muayenehanesi&ll=37.28842544555664%2C41.127037048339844&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "765afee6-c51f-4f33-8d4a-600cd2ed7573",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Fatsa Devlet Hastanesi Ağız ve Diş Polikliniği",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -1633,7 +1928,8 @@
   "fsq_id": "56a72cae498ebca5b4ec7566",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "5b03539e-f2aa-44c5-9455-a7297de5094e"
  },
  {
   "ad": "Fatsa Verem Savas Dispanseri",
@@ -1825,6 +2121,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Karadeniz Ünye Ağız ve Diş Sağlığı Polikliniği",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Akkuş Niksar Cd. No: 40, Ünye",
+  "il": null,
+  "ilce": "Ünye",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.12629318237305,
+  "lng": 37.28631591796875,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.12629318237305,37.28631591796875",
+  "yandex_url": "https://yandex.com/maps/?text=Karadeniz Ünye Ağız ve Diş Sağlığı Polikliniği&ll=37.28631591796875%2C41.12629318237305&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "9df52ec6-8b90-4905-8a19-b60c07701330",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Karayalman Agiz ve Dis Sagligi Merkezi",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -1984,7 +2309,37 @@
   "fsq_id": "580e045638fac6ce83d69502",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "7bda4d47-3f7f-44b9-ad0b-11bcd35934f4"
+ },
+ {
+  "ad": "Mehmet Tug Yamakoğlu Muayenesinde",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Fatsa",
+  "il": null,
+  "ilce": "Fatsa",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.03274154663086,
+  "lng": 37.49845504760742,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.03274154663086,37.49845504760742",
+  "yandex_url": "https://yandex.com/maps/?text=Mehmet Tug Yamakoğlu Muayenesinde&ll=37.49845504760742%2C41.03274154663086&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "f3876d19-832d-4110-bb0a-c0a738076044",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Melis Ortadonti   Diş Muayenesi",
@@ -2119,7 +2474,8 @@
   "fsq_id": "50f5075ae4b012b1175ae823",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "19df6877-409e-4723-9bc6-f2fe0d25bb00"
  },
  {
   "ad": "Ordu Diş Hastahanesi",
@@ -2173,7 +2529,8 @@
   "fsq_id": "5333e02d498e065585db978e",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "559a3500-d428-4445-a5c7-8c6f8538d420"
  },
  {
   "ad": "Ordu Ortodonti",
@@ -2203,6 +2560,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Ordu Çocuk Diş Kliniği",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "No:71/73A Lavinya Apartmanı, Soya Cd., Altınordu",
+  "il": null,
+  "ilce": "Altınordu",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.orducocukdis.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.98008728027344,
+  "lng": 37.92900848388672,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.98008728027344,37.92900848388672",
+  "yandex_url": "https://yandex.com/maps/?text=Ordu Çocuk Diş Kliniği&ll=37.92900848388672%2C40.98008728027344&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "9cc0b1b9-98d3-4c79-9493-a7a2ab7fdff6",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Ordu üniversitesi diş hekimliği fakültesi",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -2228,6 +2614,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Ozel NSA-Optima Agiz ve Dis Sagligi Poliklinigi",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Akyazı Mahallesi. Ahmet Cemal Mağden Caddesi. F No: 46 B, Altınordu",
+  "il": null,
+  "ilce": "Altınordu",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.dentoptima.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.97842788696289,
+  "lng": 37.90961837768555,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.97842788696289,37.90961837768555",
+  "yandex_url": "https://yandex.com/maps/?text=Ozel NSA-Optima Agiz ve Dis Sagligi Poliklinigi&ll=37.90961837768555%2C40.97842788696289&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "917a58aa-abea-4c0d-afaa-3ea49eef35c5",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "S&S Dental Estetic Clinic",
@@ -2309,6 +2724,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Viadent Dental Medikal",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Osman Paşa Cd., Altınordu",
+  "il": null,
+  "ilce": "Altınordu",
+  "mahalle": null,
+  "telefon": "(0452) 201 11 94",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.98456954956055,
+  "lng": 37.87937545776367,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.98456954956055,37.87937545776367",
+  "yandex_url": "https://yandex.com/maps/?text=Viadent Dental Medikal&ll=37.87937545776367%2C40.98456954956055&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "e904b3c0-eae0-482b-9abd-36226d3e2cfe",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "ahmet duman diş polikliniği",
@@ -2614,11 +3058,11 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d178941735"
   ],
-  "adres": "Şarkiye Mahallesi",
+  "adres": "272. Sk. No:2, Altınordu",
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0452) 214 66 55",
   "web": null,
   "sosyal": [
    {
@@ -2637,7 +3081,8 @@
   "fsq_id": "580ef04638fa4837a473ecd9",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "4f2c42a1-2b8d-42ea-b6e6-6f1615f48815"
  },
  {
   "ad": "Özdoruk Dental",
@@ -2691,7 +3136,8 @@
   "fsq_id": "57a858d2cd10f200185bd35d",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "7e1e0043-66b6-46a1-ab14-0691a298088d"
  },
  {
   "ad": "Özel Altınordu Ağız ve Diş Sağlığı Kliniği",
@@ -2732,7 +3178,7 @@
   "ilce": null,
   "mahalle": null,
   "telefon": null,
-  "web": null,
+  "web": "http://www.dentalparkordu.com/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -2745,7 +3191,8 @@
   "fsq_id": "540836eb498e848675a03ab9",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "4baaa5d9-dca6-47b1-b59a-a73edd304037"
  },
  {
   "ad": "Özel Diş Poliklinik Hastanesi",
@@ -2856,6 +3303,64 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Özel L-dent ağız ve diş sağlığı merkezi",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Dolunay, Dolunay, Sahil cad, Dolunay Sk. no:234, Fatsa",
+  "il": null,
+  "ilce": "Fatsa",
+  "mahalle": null,
+  "telefon": "(0452) 423 40 92",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.05463790893555,
+  "lng": 37.477657318115234,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.05463790893555,37.477657318115234",
+  "yandex_url": "https://yandex.com/maps/?text=Özel L-dent ağız ve diş sağlığı merkezi&ll=37.477657318115234%2C41.05463790893555&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "bb476c9a-bce2-4382-a1a8-162f4f6f0a47",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Özel MTY Dent ADSP",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Ata Cd, Fatsa",
+  "il": null,
+  "ilce": "Fatsa",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.03264617919922,
+  "lng": 37.49845886230469,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.03264617919922,37.49845886230469",
+  "yandex_url": "https://yandex.com/maps/?text=Özel MTY Dent ADSP&ll=37.49845886230469%2C41.03264617919922&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "63f6a216-3c71-4fd2-9354-8d4110bd3a12",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Özel Ordu Diş Poliklinigi",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -2880,7 +3385,8 @@
   "fsq_id": "50dc463be4b0cc8388a3b150",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "2b62cf34-0f6d-4f56-8892-e029d5bd62dd"
  },
  {
   "ad": "Özel Umut Hastansesi Diş Polikliniği",
@@ -2908,6 +3414,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Özel Ünye Karayalman Ağız Ve Diş Sağlığı Polikliniği",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Hükümet Cd. No : 83, Ünye",
+  "il": null,
+  "ilce": "Ünye",
+  "mahalle": null,
+  "telefon": "(0452) 324 75 06",
+  "web": "http://www.unyekarayalmandis.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.127498626708984,
+  "lng": 37.28803634643555,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.127498626708984,37.28803634643555",
+  "yandex_url": "https://yandex.com/maps/?text=Özel Ünye Karayalman Ağız Ve Diş Sağlığı Polikliniği&ll=37.28803634643555%2C41.127498626708984&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "b2c62fa9-a678-43bb-9ea6-86266184c72f",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "çiğdem çelenk karakaya diş hekimi",

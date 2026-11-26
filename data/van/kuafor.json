@@ -105,7 +105,9 @@
   "fsq_id": "53fde7c4498e0e41801e8e7d",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "144466b6-fadf-4045-b04a-0d806fd9d7e3",
+  "alt": "berber"
  },
  {
   "ad": "AS Erkek Kuaför",
@@ -1410,7 +1412,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d110951735"
   ],
-  "adres": null,
+  "adres": "Bahçıvan Türkoğlu 1.sok No: 4/A, 65130 Van Merkez/Van, İpekyolu",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -1428,7 +1430,8 @@
   "fsq_id": "5d4e7c187928f300084f1719",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "02d4b12c-4853-435e-b10c-3a9b7974492f"
  },
  {
   "ad": "Baran Sac Tasarım",
@@ -1995,7 +1998,9 @@
   "fsq_id": "5bd32e6cb3c961002cc906ee",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "8af13ea3-12e0-474d-b9e7-b6f7d15ac9ea",
+  "alt": "berber"
  },
  {
   "ad": "Berber Tekin",
@@ -2670,7 +2675,9 @@
   "fsq_id": "55e9421c498e5d9df0d00ed8",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "ea958385-d7f9-4736-a6f8-174fd34ddd8e",
+  "alt": "berber"
  },
  {
   "ad": "By Kadir Erkek Kuaforu",
@@ -3025,6 +3032,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Can Erkek KuafÖRÜ",
+  "sektor": "kuafor",
+  "kategori": "kuafor",
+  "alt": "berber",
+  "hizmet_ipuclari": [
+   "barber"
+  ],
+  "adres": "401. Sk. No:31, Erciş",
+  "il": null,
+  "ilce": "Erciş",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.02909469604492,
+  "lng": 43.35788345336914,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.02909469604492,43.35788345336914",
+  "yandex_url": "https://yandex.com/maps/?text=Can Erkek KuafÖRÜ&ll=43.35788345336914%2C39.02909469604492&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "891afc13-48b3-4927-892c-30039fc2c8d6",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Can Erkek Kuaförü",
   "sektor": "kuafor",
   "kategori": "kuafor",
@@ -3077,6 +3113,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Cevahir Gelinlik and Coiffeur",
+  "sektor": "kuafor",
+  "kategori": "kuafor",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "hair_salon"
+  ],
+  "adres": "Durmazlar apartman, Erekdağı caddesi altı no:9, İpekyolu",
+  "il": null,
+  "ilce": "İpekyolu",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.49209213256836,
+  "lng": 43.39365005493164,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.49209213256836,43.39365005493164",
+  "yandex_url": "https://yandex.com/maps/?text=Cevahir Gelinlik and Coiffeur&ll=43.39365005493164%2C38.49209213256836&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "6fb9a0bc-e735-4510-9eea-26f6a74211c7",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Ceylan Erkek Kuaförü",
@@ -5269,7 +5334,8 @@
   "fsq_id": "6a2d51ac0d4bd945a25b9582",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "607b908b-4e08-44eb-a24c-ef95f7234ca6"
  },
  {
   "ad": "Fulya Kuaför",
@@ -6445,6 +6511,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Janset kuaför",
+  "sektor": "kuafor",
+  "kategori": "kuafor",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "hair_salon"
+  ],
+  "adres": "Maraş cad şerefiye mah artos iş mrk kat, D:3, İpekyolu",
+  "il": null,
+  "ilce": "İpekyolu",
+  "mahalle": null,
+  "telefon": "(0432) 215 45 00",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.498783111572266,
+  "lng": 43.39232635498047,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.498783111572266,43.39232635498047",
+  "yandex_url": "https://yandex.com/maps/?text=Janset kuaför&ll=43.39232635498047%2C38.498783111572266&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "ee8a603b-e100-46a7-b16e-3cea4acf5756",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "KADİR ERKEK KUAFÖRÜ",
   "sektor": "kuafor",
   "kategori": "kuafor",
@@ -6958,6 +7053,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Kuafor Ali and Makeup Dilan",
+  "sektor": "kuafor",
+  "kategori": "kuafor",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "hair_salon"
+  ],
+  "adres": "İki nisan caddesi, Çalık 1. Sk. No:2, İpekyolu",
+  "il": null,
+  "ilce": "İpekyolu",
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://www.instagram.com/p/CigEaWyjI4N/?igshid=YmMyMTA2M2Y%3D",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.492591857910156,
+  "lng": 43.38938522338867,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.492591857910156,43.38938522338867",
+  "yandex_url": "https://yandex.com/maps/?text=Kuafor Ali and Makeup Dilan&ll=43.38938522338867%2C38.492591857910156&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "c5017d12-ce96-44c2-ba0c-d8e9b3796b2e",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Kuafor Hulya",
   "sektor": "kuafor",
   "kategori": "kuafor",
@@ -6983,6 +7107,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "KuafÖR Okan",
+  "sektor": "kuafor",
+  "kategori": "kuafor",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "hair_salon"
+  ],
+  "adres": "Kazım Karabekir Blv. 12-20, İpekyolu",
+  "il": null,
+  "ilce": "İpekyolu",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.49894714355469,
+  "lng": 43.39267349243164,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.49894714355469,43.39267349243164",
+  "yandex_url": "https://yandex.com/maps/?text=KuafÖR Okan&ll=43.39267349243164%2C38.49894714355469&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "86090ea7-495d-430f-ba8c-9de5d05c2354",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Kuaför",
@@ -7390,6 +7543,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Kuaför Diyar",
+  "sektor": "kuafor",
+  "kategori": "kuafor",
+  "alt": "berber",
+  "hizmet_ipuclari": [
+   "barber"
+  ],
+  "adres": "Kahvaltıcılar Sokak 3, İpekyolu",
+  "il": null,
+  "ilce": "İpekyolu",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.50157165527344,
+  "lng": 43.39512252807617,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.50157165527344,43.39512252807617",
+  "yandex_url": "https://yandex.com/maps/?text=Kuaför Diyar&ll=43.39512252807617%2C38.50157165527344&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "a92793f0-20c6-4532-b59b-2ee844e23c13",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Kuaför Doğan",
   "sektor": "kuafor",
   "kategori": "kuafor",
@@ -7505,11 +7687,11 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d110951735"
   ],
-  "adres": null,
+  "adres": "babilhome is merkezi kat.2 no.6 vestel kiz meslek lisesi karsisi, Kazım Karabekir Blv., İpekyolu",
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0432) 502 51 52",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -7523,7 +7705,8 @@
   "fsq_id": "5c2ccc367c891c002d422d85",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "fc3863cf-f582-4c18-b32c-f44702a3a54d"
  },
  {
   "ad": "Kuaför Ferit",
@@ -8333,7 +8516,9 @@
   "fsq_id": "566c31d9498e58d3ae012e19",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "bc26ff22-8a51-4796-b881-5fa1ed52433c",
+  "alt": "berber"
  },
  {
   "ad": "LAWİNYA KUAFÖR",
@@ -9197,7 +9382,9 @@
   "fsq_id": "55cb795e498e4b8bb32f1e28",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "229947b4-f5f9-4fc8-bed3-461b51d58bbf",
+  "alt": "berber"
  },
  {
   "ad": "Mojo Bayan Kuaförü",
@@ -9656,7 +9843,8 @@
   "fsq_id": "55b8cb69498ececd47dc7e3f",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "0bb4981e-b350-434e-a687-616967970b89"
  },
  {
   "ad": "Nurseli Bayan Kuaförü",
@@ -10129,7 +10317,7 @@
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0432) 214 14 30",
   "web": "http://www.pembedunyalar.com",
   "sosyal": [],
   "calisma_saatleri": null,
@@ -10143,7 +10331,8 @@
   "fsq_id": "518e115e498e2fe07cc7c397",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "05661f39-84e5-4c9f-8bc6-8e227e3e3d8a"
  },
  {
   "ad": "Perukar",
@@ -10256,7 +10445,8 @@
   "fsq_id": "5fa14ce1ecac1841d2dba85b",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "38ce1af2-199a-486a-883d-d1373a951a47"
  },
  {
   "ad": "Qarizma erkek kuaförü",
@@ -12272,7 +12462,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d110951735"
   ],
-  "adres": "serhat mah",
+  "adres": "SERHAT MAH. CUMHURİYET CAD. NO 129/1 VAN AVM. CİVARI KAYA KENT BERÇEM3 APT. KAT. 1 NO, D:4, İpekyolu",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -12295,7 +12485,8 @@
   "fsq_id": "4fb64e33e4b0a8041138f939",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "e4669e34-a0f8-4645-be7d-d87c7e3501d7"
  },
  {
   "ad": "Urartu Erkek Kuaförü",
@@ -12919,6 +13110,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Yanan Makas İkinisan",
+  "sektor": "kuafor",
+  "kategori": "kuafor",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "hair_salon"
+  ],
+  "adres": "İki Nisan Bulvarı 20, İpekyolu",
+  "il": null,
+  "ilce": "İpekyolu",
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://www.google.com/search?q=yanan+makas+van+ikinisan&client=safari&sca_esv=bc91829239a67991&channel=iphone_bm&ei=TS_1aNQ024vs1g_Sh7b5Bg&oq=yanan+makas+van+ikinisan&gs_lp=EhNtb2JpbGUtZ3dzLXdpei1zZXJwIhh5YW5hbiBtYWthcyB2YW4gaWtpbmlzYW4yBRAhGKABMgUQIRigATIEECEYFUjoLVCYCFjDKnAAeACQAQCYAc4DoAGFE6oBCTAuNS40LjEuMbgBA8gBAPgBAZgCC6ACwRPCAgkQABiwAxgIGB7CAgsQABiwAxiiBBiJBcICCBAAGLADGO8FwgILEAAYgAQYsAMYogTCAggQABiiBBiJBcICBxAhGKABGAqYAwCIBgGQBgWSBwkwLjUuNC4xLjGgB_ojsgcJMC41LjQuMS4xuAfBE8IHBzAuMy43LjHIBzE&sclient=mobile-gws-wiz-serp#vhid=/g/11ykhtbnzl&vssid=lcl",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.49276351928711,
+  "lng": 43.38810348510742,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.49276351928711,43.38810348510742",
+  "yandex_url": "https://yandex.com/maps/?text=Yanan Makas İkinisan&ll=43.38810348510742%2C38.49276351928711&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "729a2fe1-beeb-4a93-8069-6edc162c9d15",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Yasemin Kuaför",
   "sektor": "kuafor",
   "kategori": "kuafor",
@@ -13160,6 +13380,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Yücel Erkek Kuaförü",
+  "sektor": "kuafor",
+  "kategori": "kuafor",
+  "alt": "berber",
+  "hizmet_ipuclari": [
+   "barber"
+  ],
+  "adres": "Yücel Erkek Kuaförü, Şabaniye Cd. No/37, Edremit",
+  "il": null,
+  "ilce": "Edremit",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.48662185668945,
+  "lng": 43.37173843383789,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.48662185668945,43.37173843383789",
+  "yandex_url": "https://yandex.com/maps/?text=Yücel Erkek Kuaförü&ll=43.37173843383789%2C38.48662185668945&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "8e7c0149-3701-48ac-b853-73f758e93f6e",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Yüksel Erkek Kuaför Salonu",
@@ -14168,7 +14417,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d110951735"
   ],
-  "adres": null,
+  "adres": "S. Mehmet Efendi Sk. No:14, İpekyolu",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -14186,7 +14435,8 @@
   "fsq_id": "54858640498eec6495234b6b",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "08d265ab-7729-4852-aeed-ca98259ec474"
  },
  {
   "ad": "enes erkek kuaförü",
@@ -14402,7 +14652,8 @@
   "fsq_id": "51849984498e265698291932",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "1a297ddc-2773-478a-b801-66bfd764c542"
  },
  {
   "ad": "flash erkek kuaförü",
@@ -14429,7 +14680,9 @@
   "fsq_id": "5354d4de498ee398ea5b5c03",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "5a0767f4-d303-4cbb-8128-1f08d18a1b9d",
+  "alt": "berber"
  },
  {
   "ad": "furkan aydın kuaför",
@@ -15249,7 +15502,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d110951735"
   ],
-  "adres": "Terzioğlu Güven Hastanesi Yanı",
+  "adres": "Murabat Sk. No:4, İpekyolu",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -15267,7 +15520,8 @@
   "fsq_id": "570a5e58498e4d9b91a41bb2",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "98e2336b-f7fa-46d5-981c-f42eef02711f"
  },
  {
   "ad": "miss elissa bayan kuaförü",
@@ -16703,6 +16957,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Ümit ve Derya",
+  "sektor": "kuafor",
+  "kategori": "kuafor",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "hair_salon"
+  ],
+  "adres": "Erek Dağı Cd. No:24, İpekyolu",
+  "il": null,
+  "ilce": "İpekyolu",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.49267578125,
+  "lng": 43.39611053466797,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.49267578125,43.39611053466797",
+  "yandex_url": "https://yandex.com/maps/?text=Ümit ve Derya&ll=43.39611053466797%2C38.49267578125&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "c07cf03c-1ed7-49c3-a4e7-a95a03cc4181",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Üner Kuaför",
   "sektor": "kuafor",
   "kategori": "kuafor",
@@ -16862,7 +17145,9 @@
   "fsq_id": "5602a5ab498e3dd80c6ebf6c",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "44eb0d4e-09f0-41ac-89e9-9b2bafe0d1c7",
+  "alt": "berber"
  },
  {
   "ad": "üner bayan kuaförü",
@@ -16943,7 +17228,9 @@
   "fsq_id": "52ef730811d2949b16d94ec0",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "101b455f-1264-4fde-a5cd-2ecc320d6e5e",
+  "alt": "berber"
  },
  {
   "ad": "İlayda Erkek Kuaförü",
@@ -17375,7 +17662,9 @@
   "fsq_id": "5743128d498e0117feab69c2",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "a9aa878d-6962-4b44-a926-2ba4ef2a7fe8",
+  "alt": "berber"
  },
  {
   "ad": "Şıkbey Erkek Kuaförü",

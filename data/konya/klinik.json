@@ -382,6 +382,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "1 No’lu Sağlıklı Hayat Merkezi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Şeyh Şamil, Özlem sokak 42070 Selçuklu , Selçuklu",
+  "il": null,
+  "ilce": "Selçuklu",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.937599182128906,
+  "lng": 32.50023651123047,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.937599182128906,32.50023651123047",
+  "yandex_url": "https://yandex.com/maps/?text=1 No’lu Sağlıklı Hayat Merkezi&ll=32.50023651123047%2C37.937599182128906&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "87f85350-e8fc-4e75-9004-c3b58d50c5a3",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "10 Nolu Sağlık Ocağı",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -2371,6 +2400,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "3gen İşitme Cihazları Merkezi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Yeşilbahar Sokak 4C, Selçuklu",
+  "il": null,
+  "ilce": "Selçuklu",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://3genisitme.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.88135528564453,
+  "lng": 32.49129104614258,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.88135528564453,32.49129104614258",
+  "yandex_url": "https://yandex.com/maps/?text=3gen İşitme Cihazları Merkezi&ll=32.49129104614258%2C37.88135528564453&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "a3b22cf4-51b5-4810-bad4-7b352963c323",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "40 No’lu ASM",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -3376,7 +3434,9 @@
   "fsq_id": "5153fbd3e4b0b80800413691",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "d8368c9d-ceeb-45ac-a6fa-9a2e8d1e1e41",
+  "alt": "muayenehane"
  },
  {
   "ad": "58 No’lu Hocacihan ASM",
@@ -5629,6 +5689,64 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Acil hastalara yardım vakfı",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Çayırbağı Şarküteri Mandıra, Vatan Caddesi 14C, Selçuklu",
+  "il": null,
+  "ilce": "Selçuklu",
+  "mahalle": null,
+  "telefon": "(0332) 320 90 30",
+  "web": "http://acilhastalarayardimvakfi.net/default.asp",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.8754768371582,
+  "lng": 32.48456954956055,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.8754768371582,32.48456954956055",
+  "yandex_url": "https://yandex.com/maps/?text=Acil hastalara yardım vakfı&ll=32.48456954956055%2C37.8754768371582&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "06cbf5c4-a248-43b5-8983-7a5fb14dcf44",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Adent Ağız Ve Diş Sağlığı Polikliniği",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Barış Cd. No: 103-C, Selçuklu",
+  "il": null,
+  "ilce": "Selçuklu",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.94621276855469,
+  "lng": 32.4925537109375,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.94621276855469,32.4925537109375",
+  "yandex_url": "https://yandex.com/maps/?text=Adent Ağız Ve Diş Sağlığı Polikliniği&ll=32.4925537109375%2C37.94621276855469&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "05d0643c-f61a-4165-bd35-e4c6af79be94",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Ahmet Demirtaş Diş Hekimliği",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -5662,12 +5780,12 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d104941735"
   ],
-  "adres": null,
+  "adres": "Sultan Caddesi 26, Selçuklu",
   "il": null,
   "ilce": null,
   "mahalle": null,
   "telefon": null,
-  "web": null,
+  "web": "http://www.ahmetefendicarsisi.com/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -5680,7 +5798,9 @@
   "fsq_id": "522c757311d2a3a89c24f5a9",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "a70ed682-e810-4316-8905-4ee0f00969a3",
+  "alt": "muayenehane"
  },
  {
   "ad": "Ahmet Keleşoglu Egitim Arastirma Hastanesi",
@@ -5708,6 +5828,64 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Ahmet Özcan Kızılkaya",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Alavardı Mh. Beyşehir Cd. No: 181, Tıp Yolu Üzeri, Meram",
+  "il": null,
+  "ilce": "Meram",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://drahmetozcankizilkaya.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.87949752807617,
+  "lng": 32.44868087768555,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.87949752807617,32.44868087768555",
+  "yandex_url": "https://yandex.com/maps/?text=Ahmet Özcan Kızılkaya&ll=32.44868087768555%2C37.87949752807617&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "0721164d-651c-44dc-add4-9c824b45890b",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Ahmetoğullari Vinç Ve Forklift Işletmeciligi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Powerşarj, 10641. Sokak 36, Karatay",
+  "il": null,
+  "ilce": "Karatay",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://ahmetogullarivinc.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.74991989135742,
+  "lng": 32.84680938720703,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.74991989135742,32.84680938720703",
+  "yandex_url": "https://yandex.com/maps/?text=Ahmetoğullari Vinç Ve Forklift Işletmeciligi&ll=32.84680938720703%2C37.74991989135742&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "f164ce95-2ae8-4920-8cf6-7ed7aa0f3f86",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Ail Hastalara Yardım Vakfı Çayırbağı Darülaceze",
@@ -6467,6 +6645,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Ali Dere",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "İstanbul Caddesi 157, Karatay",
+  "il": null,
+  "ilce": "Karatay",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.87530517578125,
+  "lng": 32.50102996826172,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.87530517578125,32.50102996826172",
+  "yandex_url": "https://yandex.com/maps/?text=Ali Dere&ll=32.50102996826172%2C37.87530517578125&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "212afb78-1d64-45de-8781-2e2bfc7e0ed3",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Ali Müsevvitoğlu ( Çocuk Sağlığı Ve Hastalıkları)",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -6492,6 +6699,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Aliayranci",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Yeni Meram Caddesi 146, Meram",
+  "il": null,
+  "ilce": "Meram",
+  "mahalle": null,
+  "telefon": "(0332) 324 24 74",
+  "web": "http://www.aliayranci.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.85753631591797,
+  "lng": 32.433929443359375,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.85753631591797,32.433929443359375",
+  "yandex_url": "https://yandex.com/maps/?text=Aliayranci&ll=32.433929443359375%2C37.85753631591797&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "87943ce6-f4b5-473d-a9c9-c3f7cd542d49",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Alka Genetik",
@@ -6521,6 +6757,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Alpsan Itfaiye",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "2. OSB Büyükkayacık Mah. Lalehan Cad., Selçuklu",
+  "il": null,
+  "ilce": "Selçuklu",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.96223831176758,
+  "lng": 32.6108512878418,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.96223831176758,32.6108512878418",
+  "yandex_url": "https://yandex.com/maps/?text=Alpsan Itfaiye&ll=32.6108512878418%2C37.96223831176758&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "15c89a16-49b0-4c9b-80ad-56d5b4df5b44",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Altan Sağlık Kabini",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -6546,6 +6811,64 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Altan sağlık kabini",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "kule site civarı, Selçuklu",
+  "il": null,
+  "ilce": "Selçuklu",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.8879280090332,
+  "lng": 32.495750427246094,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.8879280090332,32.495750427246094",
+  "yandex_url": "https://yandex.com/maps/?text=Altan sağlık kabini&ll=32.495750427246094%2C37.8879280090332&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "9c701739-a14a-4471-83ee-0d8de405f5b0",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Alternatif Tıp",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Konya Avrukon, Şefik Can Caddesi 8, Selçuklu",
+  "il": null,
+  "ilce": "Selçuklu",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.alternatip.com.tr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.88127517700195,
+  "lng": 32.474647521972656,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.88127517700195,32.474647521972656",
+  "yandex_url": "https://yandex.com/maps/?text=Alternatif Tıp&ll=32.474647521972656%2C37.88127517700195&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "1914a668-afac-42e7-bbc9-eabc4a8f3887",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Alternatıp Sağlıklı Yaşam Merkezi",
@@ -6960,7 +7283,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d104941735"
   ],
-  "adres": "Beyhekim Devlet Hastanesi",
+  "adres": "Beyhekim Devlet Hastanesi, Turgut Özal Caddesi 14, Selçuklu",
   "il": null,
   "ilce": "Selçuklu, Konya",
   "mahalle": null,
@@ -6978,7 +7301,9 @@
   "fsq_id": "546b0811498e5678c79346a5",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "48c59209-c0b4-493c-8377-7b66768b72e6",
+  "alt": "muayenehane"
  },
  {
   "ad": "Anadolu Hemofili Derneği",
@@ -7389,6 +7714,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Arastadent",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Gesa İş Merkezi, Saray Bosna Sokak 13, Selçuklu",
+  "il": null,
+  "ilce": "Selçuklu",
+  "mahalle": null,
+  "telefon": "(0332) 265 48 56",
+  "web": "https://www.arastadent.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.70978927612305,
+  "lng": 32.58734893798828,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.70978927612305,32.58734893798828",
+  "yandex_url": "https://yandex.com/maps/?text=Arastadent&ll=32.58734893798828%2C37.70978927612305&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "4768672d-8fc4-4283-8ddd-f00d393e3a34",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Arti Makina Kimya",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -7414,6 +7768,64 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Artı Klinik",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Yeni Meram Caddesi 146, Meram",
+  "il": null,
+  "ilce": "Meram",
+  "mahalle": null,
+  "telefon": "(0850) 611 07 75",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.86323928833008,
+  "lng": 32.4486083984375,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.86323928833008,32.4486083984375",
+  "yandex_url": "https://yandex.com/maps/?text=Artı Klinik&ll=32.4486083984375%2C37.86323928833008&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "fde29f2f-7818-4507-b8b9-5ab1bc989aca",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Arı Medikal",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Plug&Drive, Kerbela Sokak 2, Selçuklu",
+  "il": null,
+  "ilce": "Selçuklu",
+  "mahalle": null,
+  "telefon": "(0332) 238 08 80",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.88241195678711,
+  "lng": 32.47211837768555,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.88241195678711,32.47211837768555",
+  "yandex_url": "https://yandex.com/maps/?text=Arı Medikal&ll=32.47211837768555%2C37.88241195678711&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "7c9bb638-9fb1-46a4-8aca-5df57b0a6287",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Asagi Cigil Asm",
@@ -7607,6 +8019,64 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Atlantis Medikal",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "\"4 Cad, No: 121 Daire: 5, Öveçler\", Meram",
+  "il": null,
+  "ilce": "Meram",
+  "mahalle": null,
+  "telefon": "(0332) 323 01 95",
+  "web": "http://www.atlantismedikal.com.tr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.871429443359375,
+  "lng": 32.45355987548828,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.871429443359375,32.45355987548828",
+  "yandex_url": "https://yandex.com/maps/?text=Atlantis Medikal&ll=32.45355987548828%2C37.871429443359375&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "553d52cf-2c7d-48f0-ad95-7f36503e0ac6",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Awest Medikal Tekstil",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Ahmet Küçükarmağan Sokak 3B, Meram",
+  "il": null,
+  "ilce": "Meram",
+  "mahalle": null,
+  "telefon": "(0850) 532 18 86",
+  "web": "http://www.awest.com.tr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.87069320678711,
+  "lng": 32.493080139160156,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.87069320678711,32.493080139160156",
+  "yandex_url": "https://yandex.com/maps/?text=Awest Medikal Tekstil&ll=32.493080139160156%2C37.87069320678711&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "4f389a15-7041-4262-830b-0ef99e833054",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Ayasun OSGB",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -7661,6 +8131,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Aydin OptİK ÇUmra",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Gazi Caddesi 28, Çumra",
+  "il": null,
+  "ilce": "Çumra",
+  "mahalle": null,
+  "telefon": "(0332) 447 60 69",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.571102142333984,
+  "lng": 32.781349182128906,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.571102142333984,32.781349182128906",
+  "yandex_url": "https://yandex.com/maps/?text=Aydin OptİK ÇUmra&ll=32.781349182128906%2C37.571102142333984&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "9649af43-c583-4d64-a98b-ae402679b1aa",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Aydınlık Evler Sağlıkocağı",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -7696,11 +8195,11 @@
    "4bf58dd8d48988d104941735",
    "4bf58dd8d48988d177941735"
   ],
-  "adres": null,
+  "adres": "b, Tahran Cd. No:64, Selçuklu",
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0332) 246 46 24",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -7714,7 +8213,38 @@
   "fsq_id": "5211cdda11d29d16904d989b",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "dd73975f-28fe-44d8-91b0-55b6c77fc070",
+  "alt": "muayenehane"
+ },
+ {
+  "ad": "Ayse Gul Kunt",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Iğdır Sk. No: 2, Meram",
+  "il": null,
+  "ilce": "Meram",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.865989685058594,
+  "lng": 32.455101013183594,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.865989685058594,32.455101013183594",
+  "yandex_url": "https://yandex.com/maps/?text=Ayse Gul Kunt&ll=32.455101013183594%2C37.865989685058594&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "2251b5d3-6cf8-41b1-987b-072069b974db",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Aytaç Oto Tamir",
@@ -7742,6 +8272,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Ayça Tuğrul Dermatoloji Kliniği",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "dermatoloji",
+  "hizmet_ipuclari": [
+   "dermatology"
+  ],
+  "adres": "Yeni Meram Cd. No:33/2, Meram",
+  "il": null,
+  "ilce": "Meram",
+  "mahalle": null,
+  "telefon": "(0332) 322 89 89",
+  "web": "http://www.draycatugrul.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.868778228759766,
+  "lng": 32.47103500366211,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.868778228759766,32.47103500366211",
+  "yandex_url": "https://yandex.com/maps/?text=Ayça Tuğrul Dermatoloji Kliniği&ll=32.47103500366211%2C37.868778228759766&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "8d057d98-ea98-4c4d-a472-129bf8af3a78",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Ayşe Kayal Danışmanlık Yaşlı Çocuk Hasta Bakıcı Hastane Refakat Hizmetleri",
@@ -8746,7 +9305,9 @@
   "fsq_id": "55a38c6c498e3c31fe6a169e",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "572e6844-75c5-4f38-8993-fb2641deef13",
+  "alt": "muayenehane"
  },
  {
   "ad": "Bebek Emzirme Odasi",
@@ -8828,6 +9389,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Belinay sağlık kabin",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "HOROZLUHAN MAHALLESİ ŞADİ SOKAK MERKEZSEV İŞ MERKEZİ KAT :1  NO:101   SELÇUKLU KONYA, Karatay",
+  "il": null,
+  "ilce": "Karatay",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.879817962646484,
+  "lng": 32.505714416503906,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.879817962646484,32.505714416503906",
+  "yandex_url": "https://yandex.com/maps/?text=Belinay sağlık kabin&ll=32.505714416503906%2C37.879817962646484&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "e4d1c9b0-a126-482c-8832-617a3be0d635",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Berk Poçan Diş Kliniği",
@@ -8989,7 +9579,8 @@
   "fsq_id": "659edf937144fa0687a65526",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "e97caa28-bf35-426c-a19b-2c2b00fab485"
  },
  {
   "ad": "Betakon",
@@ -9434,7 +10025,7 @@
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0332) 221 00 00",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -9448,7 +10039,8 @@
   "fsq_id": "50b10406e4b0dc886fcb0054",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "1313341f-58d6-40ea-9345-137c4b7a8584"
  },
  {
   "ad": "Beyhekim Hastanesi",
@@ -9583,7 +10175,9 @@
   "fsq_id": "56430041498e3ea5e49db6a2",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "5b3c8a87-0366-4270-982f-ad3a21e1b81d",
+  "alt": "muayenehane"
  },
  {
   "ad": "Beyin Cerrahi Kliniği",
@@ -10153,6 +10747,64 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Borsa Ecza Deposu",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Hacı Hasanbaşı Caddesi 8A, Karatay",
+  "il": null,
+  "ilce": "Karatay",
+  "mahalle": null,
+  "telefon": "(0332) 350 19 19",
+  "web": "http://www.borsaeczadeposu.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.87797927856445,
+  "lng": 32.503108978271484,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.87797927856445,32.503108978271484",
+  "yandex_url": "https://yandex.com/maps/?text=Borsa Ecza Deposu&ll=32.503108978271484%2C37.87797927856445&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "ce097dea-de67-4e6c-9ee7-4800db6597dc",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Borsa Ecza Deposu",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Hacı Hasanbaşı Caddesi 8A, Karatay",
+  "il": null,
+  "ilce": "Karatay",
+  "mahalle": null,
+  "telefon": "(0332) 350 19 19",
+  "web": "http://www.borsaeczadeposu.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.87514114379883,
+  "lng": 32.51153564453125,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.87514114379883,32.51153564453125",
+  "yandex_url": "https://yandex.com/maps/?text=Borsa Ecza Deposu&ll=32.51153564453125%2C37.87514114379883&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "2282b523-5d88-4105-8a2a-8e38283dcff0",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Bosna Hersek Aile Hekimliği",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -10286,7 +10938,9 @@
   "fsq_id": "4ff6c26ae4b02089184bcda6",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "f04121d5-5895-49c6-b2ff-89861f427d4f",
+  "alt": "muayenehane"
  },
  {
   "ad": "Bosnahersek Semt Polikinligi",
@@ -10637,7 +11291,9 @@
   "fsq_id": "546c4e5a498e8013594f606c",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "b4f34204-8a95-4083-b789-4f3f068d30d7",
+  "alt": "muayenehane"
  },
  {
   "ad": "Ceren Medikal®",
@@ -10964,6 +11620,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Cumra Sanayi Oto Tamir Bakım Hastanesi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Mimar Sinan Caddesi 68, Yunak",
+  "il": null,
+  "ilce": "Yunak",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.54692840576172,
+  "lng": 32.79146194458008,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.54692840576172,32.79146194458008",
+  "yandex_url": "https://yandex.com/maps/?text=Cumra Sanayi Oto Tamir Bakım Hastanesi&ll=32.79146194458008%2C37.54692840576172&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "d76ac23e-c027-4463-ad47-90a7a4c2d8af",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Cumra saglık ocagı",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -11082,8 +11767,8 @@
   "il": null,
   "ilce": "Selcuklu",
   "mahalle": null,
-  "telefon": null,
-  "web": null,
+  "telefon": "(0850) 811 32 78",
+  "web": "http://www.alparslankahveci.com.tr/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -11096,7 +11781,9 @@
   "fsq_id": "6711090bcc5c1a74db873462",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "09e3ff6a-4423-44e7-8229-5fb6d22558cd",
+  "alt": "muayenehane"
  },
  {
   "ad": "Dahiliye Kliniği",
@@ -11369,6 +12056,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Defne  Aktif Yaşam Ve Kilo Kontrol Merkezi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Diyarı Sokak 2, Karatay",
+  "il": null,
+  "ilce": "Karatay",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.89105987548828,
+  "lng": 32.51544952392578,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.89105987548828,32.51544952392578",
+  "yandex_url": "https://yandex.com/maps/?text=Defne  Aktif Yaşam Ve Kilo Kontrol Merkezi&ll=32.51544952392578%2C37.89105987548828&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "8720363d-91a2-459d-8f5d-a923d0d276ff",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Denge Özel Eğitim Ve Rehabilitasyon Merkezi",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -11394,6 +12110,64 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "DengeDent Meram Agiz ve Dis Sagligi Poliklinigi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Gazze Cd No:44/1, Meram",
+  "il": null,
+  "ilce": "Meram",
+  "mahalle": null,
+  "telefon": "(0332) 501 22 13",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.84612274169922,
+  "lng": 32.47136306762695,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.84612274169922,32.47136306762695",
+  "yandex_url": "https://yandex.com/maps/?text=DengeDent Meram Agiz ve Dis Sagligi Poliklinigi&ll=32.47136306762695%2C37.84612274169922&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "de5da6a3-3500-4406-8e3f-14bc33a539d9",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "DengeDent Sancak Ağız ve Diş Sağlığı Polikliniği",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Dr. Sadık Ahmet Cd. No:25/B B Blok, Selçuklu",
+  "il": null,
+  "ilce": "Selçuklu",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.94851303100586,
+  "lng": 32.53017044067383,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.94851303100586,32.53017044067383",
+  "yandex_url": "https://yandex.com/maps/?text=DengeDent Sancak Ağız ve Diş Sağlığı Polikliniği&ll=32.53017044067383%2C37.94851303100586&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "7136f704-9380-433d-8e10-afd6baa34dd7",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Deniz Danışmanlık Aile Terapi Merkezi",
@@ -11450,18 +12224,47 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Dent Center Ağız ve Diş Sağlığı Polikliniği",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Eyüp Sultan Cd. No:59C, Selçuklu",
+  "il": null,
+  "ilce": "Selçuklu",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.dentcenterclinic.com.tr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.93683624267578,
+  "lng": 32.499691009521484,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.93683624267578,32.499691009521484",
+  "yandex_url": "https://yandex.com/maps/?text=Dent Center Ağız ve Diş Sağlığı Polikliniği&ll=32.499691009521484%2C37.93683624267578&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "799e02d2-4f2d-4ff5-983c-c632c41ed1f1",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Dent-i Konya 2",
   "sektor": "klinik",
   "kategori": "klinik",
   "hizmet_ipuclari": [
    "4bf58dd8d48988d196941735"
   ],
-  "adres": null,
+  "adres": "Sayılan Sk. No:15/A, Selçuklu",
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
-  "web": null,
+  "telefon": "(0332) 265 42 45",
+  "web": "http://www.dentikonya.com.tr/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -11474,7 +12277,38 @@
   "fsq_id": "5c2072dddab4b1002c278d59",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "dfb5c833-d54d-40bc-b1f0-a05cbce69c9d",
+  "alt": "muayenehane"
+ },
+ {
+  "ad": "Dentova Premium",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Akabe mahallesi Şehit Furkan Doğan Caddesi Bey Plaza, No:3/129, Karatay",
+  "il": null,
+  "ilce": "Karatay",
+  "mahalle": null,
+  "telefon": "(0332) 444 83 50",
+  "web": "https://dentovapremium.com/iletisim/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.8620719909668,
+  "lng": 32.542842864990234,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.8620719909668,32.542842864990234",
+  "yandex_url": "https://yandex.com/maps/?text=Dentova Premium&ll=32.542842864990234%2C37.8620719909668&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "837b2333-83c2-425a-a9e8-a115fe578836",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Dentreal Agiz Ve Dis Sağlığı Polikliniği",
@@ -11508,6 +12342,93 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Dentreal Meram Ağız ve Diş Sağlığı Polikliniği",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Ebu Suud Efendi Cd. no:58/A, Meram",
+  "il": null,
+  "ilce": "Meram",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.86353302001953,
+  "lng": 32.46657943725586,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.86353302001953,32.46657943725586",
+  "yandex_url": "https://yandex.com/maps/?text=Dentreal Meram Ağız ve Diş Sağlığı Polikliniği&ll=32.46657943725586%2C37.86353302001953&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "f97b62fa-3b2b-4934-990b-cc0b696bb4b1",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Dentsen Agiz ve Dis Sagligi Poliklinigi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Sivaslı Ali Kemal Cd. no:44/B, Meram",
+  "il": null,
+  "ilce": "Meram",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.871185302734375,
+  "lng": 32.458580017089844,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.871185302734375,32.458580017089844",
+  "yandex_url": "https://yandex.com/maps/?text=Dentsen Agiz ve Dis Sagligi Poliklinigi&ll=32.458580017089844%2C37.871185302734375&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "c13aee5d-9b50-433f-ab94-cdd2430316cc",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "DentİNol AĞIz DİŞ SaĞLiĞI PolİKlİNİĞİ",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Ulaşbaba Cd. 28/1, Selçuklu",
+  "il": null,
+  "ilce": "Selçuklu",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.880287170410156,
+  "lng": 32.49219512939453,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.880287170410156,32.49219512939453",
+  "yandex_url": "https://yandex.com/maps/?text=DentİNol AĞIz DİŞ SaĞLiĞI PolİKlİNİĞİ&ll=32.49219512939453%2C37.880287170410156&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "95eb6e24-db10-410a-87a3-32ec5ae37d4a",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Department of Reproduction and Artificial Insemination",
@@ -11818,7 +12739,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d177941735"
   ],
-  "adres": null,
+  "adres": "Şeker, AVRUKON PLAZA ALTI, Şefik Can Caddesi No:31, Şefikcan caddesi üzeri D:B, Selçuklu",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -11836,7 +12757,9 @@
   "fsq_id": "5926ebbad48ec128ff0de5ed",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "35a40001-7ae9-4a58-af2c-e99a62c16295",
+  "alt": "muayenehane"
  },
  {
   "ad": "Deva İlkyardım Eğitim Merkezi & Özel Ambulans Hizmetleri",
@@ -11947,6 +12870,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Dis Hekimi Busra Sultan Armagan",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Kılınçarslan Mah, Selçuklu",
+  "il": null,
+  "ilce": "Selçuklu",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.88599395751953,
+  "lng": 32.467323303222656,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.88599395751953,32.467323303222656",
+  "yandex_url": "https://yandex.com/maps/?text=Dis Hekimi Busra Sultan Armagan&ll=32.467323303222656%2C37.88599395751953&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "d6fc03b7-7dbc-4571-99f9-906e1542591b",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Dis Hekimi Hulusi Ucaralp",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -12034,7 +12986,7 @@
   "hizmet_ipuclari": [
    "58daa1558bbb0b01f18ec1f7"
   ],
-  "adres": "Konya Eğitim ve Araştırma Hastanesi",
+  "adres": "Konya Eğitim ve Araştırma Hastanesi, Yeni Meram Caddesi 97, Meram",
   "il": null,
   "ilce": "Meram",
   "mahalle": null,
@@ -12052,7 +13004,9 @@
   "fsq_id": "5ab358b6345cbe110dc90b56",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "d7af89bb-df18-4f2c-925f-7a57ddaa5f82",
+  "alt": "muayenehane"
  },
  {
   "ad": "Diyaliz Ünitesi",
@@ -12300,6 +13254,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Diş Hekimi Burcu Keskin Yılmaz",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Dr. Sıddık Özmerzifonlu Caddesi 43F, Selçuklu",
+  "il": null,
+  "ilce": "Selçuklu",
+  "mahalle": null,
+  "telefon": "(0332) 236 37 77",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.97041702270508,
+  "lng": 32.50891876220703,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.97041702270508,32.50891876220703",
+  "yandex_url": "https://yandex.com/maps/?text=Diş Hekimi Burcu Keskin Yılmaz&ll=32.50891876220703%2C37.97041702270508&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "edb8b605-cd59-4812-a32f-8cefd2086909",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Diş Hekimi Celalettin Çimen",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -12310,8 +13293,8 @@
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
-  "web": null,
+  "telefon": "(0332) 352 52 12",
+  "web": "http://www.celalettincimen.com/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -12324,7 +13307,9 @@
   "fsq_id": "51d7bb52498e4254c54d06d0",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "1f05a048-ee65-4b6f-91c9-fbebc7874c1b",
+  "alt": "muayenehane"
  },
  {
   "ad": "Diş Hekimi Emrah Özgenç",
@@ -12354,6 +13339,64 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Diş Hekimi Mehmet Mustafa Şık",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Beyhekim Cd. No: 89/BA, Selçuklu",
+  "il": null,
+  "ilce": "Selçuklu",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.skdentalkirikhan.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.96622848510742,
+  "lng": 32.488059997558594,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.96622848510742,32.488059997558594",
+  "yandex_url": "https://yandex.com/maps/?text=Diş Hekimi Mehmet Mustafa Şık&ll=32.488059997558594%2C37.96622848510742&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "2bece1b5-2b99-431c-b9b3-c9d4ba0c42d8",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Diş Hekimi Osman Furkan Kapcı Diş Kliniği",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Selahaddin Eyyubi Mh. Beyhekim Cd. No:89CD, Selçuklu",
+  "il": null,
+  "ilce": "Selçuklu",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.osmankapci.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.96656799316406,
+  "lng": 32.48846435546875,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.96656799316406,32.48846435546875",
+  "yandex_url": "https://yandex.com/maps/?text=Diş Hekimi Osman Furkan Kapcı Diş Kliniği&ll=32.48846435546875%2C37.96656799316406&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "2538c978-7697-4aeb-a905-01f36a7efc99",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Diş Hekimi Yurdanur Kızılkaya",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -12379,6 +13422,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Diş Hekimi Şeyma Aydemir",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Sancaktar Cd. No:42 D:46, Meram",
+  "il": null,
+  "ilce": "Meram",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.865989685058594,
+  "lng": 32.45535659790039,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.865989685058594,32.45535659790039",
+  "yandex_url": "https://yandex.com/maps/?text=Diş Hekimi Şeyma Aydemir&ll=32.45535659790039%2C37.865989685058594&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "467cf29a-420c-4633-b5a4-85a122444bb2",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Diş hekimi M.Bünyamin Büyükavcı",
@@ -12462,6 +13534,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Doc. Dr. Gizem Islamoglu",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "dermatoloji",
+  "hizmet_ipuclari": [
+   "dermatology"
+  ],
+  "adres": "Arabica Cafe Üstü, İbrişim Sk. No:2, Meram",
+  "il": null,
+  "ilce": "Meram",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.drgizemislamoglu.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.868873596191406,
+  "lng": 32.46444320678711,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.868873596191406,32.46444320678711",
+  "yandex_url": "https://yandex.com/maps/?text=Doc. Dr. Gizem Islamoglu&ll=32.46444320678711%2C37.868873596191406&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "a1e503dd-b64e-41f4-92ef-71975bdd9ce7",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Doc. Dr. Kayapınar Estetik ve Güzellik",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -12543,6 +13644,64 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Doktor Atalik Medikal Estetik",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "dermatoloji",
+  "hizmet_ipuclari": [
+   "dermatology"
+  ],
+  "adres": "Özel Akademi Meram Hastanesi, Süleymanşah Mahallesi, No:181, Beyşehir Cd., Meram",
+  "il": null,
+  "ilce": "Meram",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.alaeddinatalik.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.879676818847656,
+  "lng": 32.448631286621094,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.879676818847656,32.448631286621094",
+  "yandex_url": "https://yandex.com/maps/?text=Doktor Atalik Medikal Estetik&ll=32.448631286621094%2C37.879676818847656&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "b2636822-ff10-4675-80cb-3a0c221627d5",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Doktor Mehmet Sarıbaş - Ozon Tedavisi ve Hacamat Uygulama Merkezi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Esmira Office Center, Gürsesler Sk. No:1 Kat:6 D:34, Selçuklu",
+  "il": null,
+  "ilce": "Selçuklu",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.drmehmetsaribas.com.tr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.89380645751953,
+  "lng": 32.5012092590332,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.89380645751953,32.5012092590332",
+  "yandex_url": "https://yandex.com/maps/?text=Doktor Mehmet Sarıbaş - Ozon Tedavisi ve Hacamat Uygulama Merkezi&ll=32.5012092590332%2C37.89380645751953&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "b90c5559-040b-44f6-ac26-6bc5b602ac52",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Doktor Nihat Özkan",
@@ -12653,6 +13812,64 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Doç. Dr. Erman Ceyhan",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Mareşal Fevzi Çakmak Caddesi 45, Çankaya",
+  "il": null,
+  "ilce": "Çankaya",
+  "mahalle": null,
+  "telefon": "(0312) 203 68 68",
+  "web": "https://ankara.baskenthastaneleri.com/tr/doktorlarimiz/erman-ceyhan/2628",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.88585662841797,
+  "lng": 32.452728271484375,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.88585662841797,32.452728271484375",
+  "yandex_url": "https://yandex.com/maps/?text=Doç. Dr. Erman Ceyhan&ll=32.452728271484375%2C37.88585662841797&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "9dd6c6e9-5d31-42ab-8101-7e7b90e0679c",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Doç. Dr. Mehtap Karameşe Estetik Cerrahi Kliniği",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "estetik",
+  "hizmet_ipuclari": [
+   "plastic_and_reconstructive_surgery"
+  ],
+  "adres": "Yeniyol Caddesi No:157, Meram",
+  "il": null,
+  "ilce": "Meram",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://drmehtapkaramese.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.85856628417969,
+  "lng": 32.43669509887695,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.85856628417969,32.43669509887695",
+  "yandex_url": "https://yandex.com/maps/?text=Doç. Dr. Mehtap Karameşe Estetik Cerrahi Kliniği&ll=32.43669509887695%2C37.85856628417969&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "901261c1-fb2a-498f-a474-509ceeedf51d",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Doç. Dr. Osman Akdağ",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -12759,6 +13976,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Doç.Dr.Mehtap Karameşe",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Hacışaban Mahallesi, Yeniyol Caddesi, No: 157",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.36827850341797,
+  "lng": 30.234375,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.36827850341797,30.234375",
+  "yandex_url": "https://yandex.com/maps/?text=Doç.Dr.Mehtap Karameşe&ll=30.234375%2C39.36827850341797&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "233fd732-c6f6-42f1-abdc-a114625c7738",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Doç.dr. Fatih Kayhan",
@@ -12978,7 +14224,9 @@
   "fsq_id": "53bb86ff498ed8168777aebd",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "5d9dd616-da86-405e-9a98-bac0af18de6d",
+  "alt": "muayenehane"
  },
  {
   "ad": "Doğumhane",
@@ -13170,6 +14418,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Dr Mustafa Çalık ile Sağlikli YAŞAM",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Atardamar Sokak 1, Selçuklu",
+  "il": null,
+  "ilce": "Selçuklu",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.95008087158203,
+  "lng": 32.47904968261719,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.95008087158203,32.47904968261719",
+  "yandex_url": "https://yandex.com/maps/?text=Dr Mustafa Çalık ile Sağlikli YAŞAM&ll=32.47904968261719%2C37.95008087158203&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "375943df-615e-45a7-8a52-6d17064d2c15",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Dr Naz Kliniği",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -13330,7 +14607,9 @@
   "fsq_id": "53f84ea3498ebfcd29fba330",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "be44b083-4389-4b3e-9d1b-df15e7ce51db",
+  "alt": "muayenehane"
  },
  {
   "ad": "Dr. Ali Kemal Belviranlı Kadın Doğum ve Çocuk Hastalıkları Hastanesi",
@@ -13358,6 +14637,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Dr. Ali İhsan Dayıoğlugil Yaşlı Gündüz Bakımevi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Parıltı Sokak 10, Meram",
+  "il": null,
+  "ilce": "Meram",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.870479583740234,
+  "lng": 32.50678634643555,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.870479583740234,32.50678634643555",
+  "yandex_url": "https://yandex.com/maps/?text=Dr. Ali İhsan Dayıoğlugil Yaşlı Gündüz Bakımevi&ll=32.50678634643555%2C37.870479583740234&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "c3c9fc18-602c-47c7-8b00-2abc7a9e61b2",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Dr. Ayşe Bilgin HomOfis",
@@ -13389,6 +14697,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Dr. Beril Yavuz",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Esmira Plaza, Gürsesler Sk. D:1/55, Selçuklu",
+  "il": null,
+  "ilce": "Selçuklu",
+  "mahalle": null,
+  "telefon": "(0850) 474 97 39",
+  "web": "http://doktortakvimi.com/z/6snEEp",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.894344329833984,
+  "lng": 32.50165939331055,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.894344329833984,32.50165939331055",
+  "yandex_url": "https://yandex.com/maps/?text=Dr. Beril Yavuz&ll=32.50165939331055%2C37.894344329833984&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "8b714893-7436-49d9-bbf8-1c8402babdd1",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Dr. Canan Güllü",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -13414,6 +14751,122 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Dr. Celalettin ORDUOĞLU",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Menekşe Sokak 12A, Selçuklu",
+  "il": null,
+  "ilce": "Selçuklu",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.drcelalettinorduoglu.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.95400619506836,
+  "lng": 32.51065444946289,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.95400619506836,32.51065444946289",
+  "yandex_url": "https://yandex.com/maps/?text=Dr. Celalettin ORDUOĞLU&ll=32.51065444946289%2C37.95400619506836&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "c6b183b6-1d3e-48b8-8c92-bfb8ab538df9",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Dr. Deniz Günaydın",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Misakı Milli Sokak 5, Meram",
+  "il": null,
+  "ilce": "Meram",
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://twitter.com/drdenizgunaydin",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.8702392578125,
+  "lng": 32.48719787597656,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.8702392578125,32.48719787597656",
+  "yandex_url": "https://yandex.com/maps/?text=Dr. Deniz Günaydın&ll=32.48719787597656%2C37.8702392578125&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "9006bb20-23fc-426c-ae91-768ef533a55c",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Dr. Derya memiş",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Sevenler Sokak 4, Selçuklu",
+  "il": null,
+  "ilce": "Selçuklu",
+  "mahalle": null,
+  "telefon": "(0322) 329 18 06",
+  "web": "https://drderyamemis.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.96546173095703,
+  "lng": 32.517093658447266,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.96546173095703,32.517093658447266",
+  "yandex_url": "https://yandex.com/maps/?text=Dr. Derya memiş&ll=32.517093658447266%2C37.96546173095703&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "724b70aa-48f7-4ce9-8db0-4f995aa115c1",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Dr. Erdem Şentürk",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Erenköy Mahallesi Erenköy Caddesi, Huzur Sk. No: 26, Selçuklu",
+  "il": null,
+  "ilce": "Selçuklu",
+  "mahalle": null,
+  "telefon": "(0332) 502 08 88",
+  "web": "http://drerdemsenturk.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.914085388183594,
+  "lng": 32.45978927612305,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.914085388183594,32.45978927612305",
+  "yandex_url": "https://yandex.com/maps/?text=Dr. Erdem Şentürk&ll=32.45978927612305%2C37.914085388183594&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "1015735e-31a1-490f-91ad-acd36ac7dfcb",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Dr. Faruk Sükan Gebe Okulu",
@@ -13554,7 +15007,38 @@
   "fsq_id": "527e459911d257edcf7774be",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "32acba71-8c50-404a-8e54-a5b5ec4b900c",
+  "alt": "muayenehane"
+ },
+ {
+  "ad": "Dr. Hakan Cepni",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "estetik",
+  "hizmet_ipuclari": [
+   "plastic_and_reconstructive_surgery"
+  ],
+  "adres": "Yeni Meram Cd. No:2, Meram",
+  "il": null,
+  "ilce": "Meram",
+  "mahalle": null,
+  "telefon": "(0332) 350 55 51",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.86872100830078,
+  "lng": 32.470638275146484,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.86872100830078,32.470638275146484",
+  "yandex_url": "https://yandex.com/maps/?text=Dr. Hakan Cepni&ll=32.470638275146484%2C37.86872100830078&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "2af76187-a904-4c9b-af58-470e2e76e4d4",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Dr. Halit Furkan Sarı-Geleneksel Tıp Ve Sağlıklı Yaşam Merkezi",
@@ -13582,6 +15066,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Dr. Hasan Basri Akar",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Boyabat Sk. No:3/F, Selçuklu",
+  "il": null,
+  "ilce": "Selçuklu",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.885746002197266,
+  "lng": 32.473018646240234,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.885746002197266,32.473018646240234",
+  "yandex_url": "https://yandex.com/maps/?text=Dr. Hasan Basri Akar&ll=32.473018646240234%2C37.885746002197266&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "68e50db2-2e35-4b57-b51c-23504e6a8771",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Dr. John P. Porotu'o",
@@ -13636,6 +15149,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Dr. Kadriye Akar-Dermatolog, Kozmetik Dermatolog",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Yeni Meram Caddesi 33, Meram",
+  "il": null,
+  "ilce": "Meram",
+  "mahalle": null,
+  "telefon": "(0332) 501 51 36",
+  "web": "https://www.kadriyeakar.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.86886978149414,
+  "lng": 32.47088623046875,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.86886978149414,32.47088623046875",
+  "yandex_url": "https://yandex.com/maps/?text=Dr. Kadriye Akar-Dermatolog, Kozmetik Dermatolog&ll=32.47088623046875%2C37.86886978149414&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "db639ecf-e0db-4b77-8e8e-6dd9e601151f",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Dr. Korhan Küçük Diş Ve Çene Cerrahisi Kliniği",
@@ -13746,6 +15288,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Dr. Nadir Hansu",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Feritpaşa Mahallesi, Medrese Mah. Ulaşbaba Cad. Konya İş Merkezi, No: 14/1, Selçuklu",
+  "il": null,
+  "ilce": "Selçuklu",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.87936019897461,
+  "lng": 32.492958068847656,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.87936019897461,32.492958068847656",
+  "yandex_url": "https://yandex.com/maps/?text=Dr. Nadir Hansu&ll=32.492958068847656%2C37.87936019897461&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "dc75fbc7-7e25-47af-8d72-a2074898cd5d",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Dr. Necmettin Tüfekçi",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -13771,6 +15342,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Dr. Neslihan Arıkan Dermatoloji ve Estetik Kliniği",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "dermatoloji",
+  "hizmet_ipuclari": [
+   "dermatology"
+  ],
+  "adres": "Akkonak Sk. No: 1/2, Meram",
+  "il": null,
+  "ilce": "Meram",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.drneslihanarikan.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.86716842651367,
+  "lng": 32.46335983276367,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.86716842651367,32.46335983276367",
+  "yandex_url": "https://yandex.com/maps/?text=Dr. Neslihan Arıkan Dermatoloji ve Estetik Kliniği&ll=32.46335983276367%2C37.86716842651367&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "d3165378-6845-43e5-b2f3-17045da44e04",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Dr. Nihan Ortaç Muayenehanesi",
@@ -13913,6 +15513,64 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Dr. Selda Uzun Dermatoloji Kliniği",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "dermatoloji",
+  "hizmet_ipuclari": [
+   "dermatology"
+  ],
+  "adres": "Melikşah Cd. No:106/A, Meram",
+  "il": null,
+  "ilce": "Meram",
+  "mahalle": null,
+  "telefon": "(0332) 501 85 01",
+  "web": "http://www.seldauzun.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.866825103759766,
+  "lng": 32.460140228271484,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.866825103759766,32.460140228271484",
+  "yandex_url": "https://yandex.com/maps/?text=Dr. Selda Uzun Dermatoloji Kliniği&ll=32.460140228271484%2C37.866825103759766&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "9c3d91ed-6e58-448b-a923-ce8150194de9",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Dr. Seçil Kahveci Elsürer",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Dosteli Caddesi 52, Selçuklu",
+  "il": null,
+  "ilce": "Selçuklu",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.konyatupbebekdoktoru.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.94493865966797,
+  "lng": 32.50232696533203,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.94493865966797,32.50232696533203",
+  "yandex_url": "https://yandex.com/maps/?text=Dr. Seçil Kahveci Elsürer&ll=32.50232696533203%2C37.94493865966797&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "a951bf1a-f399-4ed8-876a-aee1abe39a53",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Dr. Vefa Tanır Ilgın Devlet Hastanesi Bilgi-İşlem Birimi",
@@ -14078,6 +15736,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Dr. Şerife Akkurt",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Can Liva Sitesi, Uzunyol Sk. No:11/A, Selçuklu",
+  "il": null,
+  "ilce": "Selçuklu",
+  "mahalle": null,
+  "telefon": "(0332) 321 33 11",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.879791259765625,
+  "lng": 32.47607421875,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.879791259765625,32.47607421875",
+  "yandex_url": "https://yandex.com/maps/?text=Dr. Şerife Akkurt&ll=32.47607421875%2C37.879791259765625&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "f07219d1-b7cc-4246-92f7-6fa06427fa88",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Dr.Ahmet AKATEKİN",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -14142,8 +15829,8 @@
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
-  "web": null,
+  "telefon": "(0332) 235 06 16",
+  "web": "http://www.drhasankaraagac.com/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -14156,7 +15843,9 @@
   "fsq_id": "57dfd47f498ede4d1733e501",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "adab2fb8-e942-4a26-87b3-1a0fb11cf1e6",
+  "alt": "muayenehane"
  },
  {
   "ad": "Dr.Kemal Kuruoğlu Akupunktur Teşhis&Tedavi Merkezi",
@@ -14241,17 +15930,46 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Dr.Mustafa Çakar",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Selçuklu",
+  "il": null,
+  "ilce": "Selçuklu",
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://drmustafacakar.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.96564865112305,
+  "lng": 32.487449645996094,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.96564865112305,32.487449645996094",
+  "yandex_url": "https://yandex.com/maps/?text=Dr.Mustafa Çakar&ll=32.487449645996094%2C37.96564865112305&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "1b9c0b6c-174c-452c-ab0d-72fdeec14379",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Dr.Nihat Uysal",
   "sektor": "klinik",
   "kategori": "klinik",
   "hizmet_ipuclari": [
    "4bf58dd8d48988d177941735"
   ],
-  "adres": null,
+  "adres": "Hocahasan Sk. No:2, Meram",
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0332) 351 86 00",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -14265,7 +15983,9 @@
   "fsq_id": "50924acde4b0d9b14f96d7f4",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "7f4d8db1-d8d4-47dc-9f1c-07fa07757c78",
+  "alt": "muayenehane"
  },
  {
   "ad": "Dr.Rabia Er Polikıliniği",
@@ -14306,7 +16026,7 @@
   "ilce": null,
   "mahalle": null,
   "telefon": null,
-  "web": null,
+  "web": "http://www.drrabia.com.tr/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -14319,7 +16039,37 @@
   "fsq_id": "51b1d467498ef90cebe7cf92",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "39a6ce4e-0308-4d22-9944-d6a50a549aa0"
+ },
+ {
+  "ad": "Dr.Rabia Türkmen",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Akkonak Sk. No:4/C, Meram",
+  "il": null,
+  "ilce": "Meram",
+  "mahalle": null,
+  "telefon": "(0332) 350 37 67",
+  "web": "http://www.drrabia.com.tr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.86750030517578,
+  "lng": 32.4634895324707,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.86750030517578,32.4634895324707",
+  "yandex_url": "https://yandex.com/maps/?text=Dr.Rabia Türkmen&ll=32.4634895324707%2C37.86750030517578&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "c62ec737-7de3-4574-b9c5-f1936af0fe6c",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Dr.Semih Erden",
@@ -14482,6 +16232,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Dryildiz Dermatolojik Hastalıklar ve Lazer Tedavileri Kliniği",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "dermatoloji",
+  "hizmet_ipuclari": [
+   "dermatology"
+  ],
+  "adres": "Bahtiyar Sk. 5A, Meram",
+  "il": null,
+  "ilce": "Meram",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.drabdullahyildiz.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.869972229003906,
+  "lng": 32.469757080078125,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.869972229003906,32.469757080078125",
+  "yandex_url": "https://yandex.com/maps/?text=Dryildiz Dermatolojik Hastalıklar ve Lazer Tedavileri Kliniği&ll=32.469757080078125%2C37.869972229003906&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "71aa7ccc-f3ee-4bea-98e8-c2b49df03890",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Dualarımın Kabulü",
@@ -14766,12 +16545,12 @@
   "hizmet_ipuclari": [
    "58daa1558bbb0b01f18ec1f7"
   ],
-  "adres": "Bedir Mah.",
+  "adres": "Sıvalı Sk No:1, Selçuklu",
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
-  "web": null,
+  "telefon": "(0212) 413 79 71",
+  "web": "https://www.dunyagoz.com/tr/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -14784,7 +16563,8 @@
   "fsq_id": "59636dd3e57ca66538232174",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "00998a03-63e4-4df9-b1d7-b32f5fcdedc5"
  },
  {
   "ad": "DİYETİSYEN FADİME İLHAN",
@@ -14949,6 +16729,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "ERALP Kanal görüntüleme  KONYA",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Tarla mh.dr.ziya paşa sk.baykal iş mer.1/7 , Selçuklu",
+  "il": null,
+  "ilce": "Selçuklu",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.950618743896484,
+  "lng": 32.511634826660156,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.950618743896484,32.511634826660156",
+  "yandex_url": "https://yandex.com/maps/?text=ERALP Kanal görüntüleme  KONYA&ll=32.511634826660156%2C37.950618743896484&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "a83a3482-f61f-4321-b44a-b6619ff7d289",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "ESTESİGN Estetik, Plastik ve Rekonstrüktif Cerrahi Kliniği",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -15111,6 +16920,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Eflatun Sağlıklı Yaşam Merkezi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Soylu Sk. No: 1/A, Meram",
+  "il": null,
+  "ilce": "Meram",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.eflatunsym.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.86286544799805,
+  "lng": 32.44560241699219,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.86286544799805,32.44560241699219",
+  "yandex_url": "https://yandex.com/maps/?text=Eflatun Sağlıklı Yaşam Merkezi&ll=32.44560241699219%2C37.86286544799805&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "5136c338-822f-431b-b849-6b4fb573f65d",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Ege Eczanesi",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -15244,6 +17082,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Eldeniz Ağız ve Diş Sağlığı Polikliniği",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Beyşehir Cd. No: 128 A, Selçuklu",
+  "il": null,
+  "ilce": "Selçuklu",
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://www.eldenizdis.com.tr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.880157470703125,
+  "lng": 32.45164108276367,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.880157470703125,32.45164108276367",
+  "yandex_url": "https://yandex.com/maps/?text=Eldeniz Ağız ve Diş Sağlığı Polikliniği&ll=32.45164108276367%2C37.880157470703125&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "26aef04d-24bb-411b-b192-118646aea19c",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Elnur Klinik",
@@ -15624,6 +17491,64 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Erg. Melek Mutluay Çocuk Ergoterapi Kliniği",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Ankara Caddesi 72, Karatay",
+  "il": null,
+  "ilce": "Karatay",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.897090911865234,
+  "lng": 32.48509979248047,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.897090911865234,32.48509979248047",
+  "yandex_url": "https://yandex.com/maps/?text=Erg. Melek Mutluay Çocuk Ergoterapi Kliniği&ll=32.48509979248047%2C37.897090911865234&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "ba8cff77-8b5d-4b8e-8f85-c7196c3651ff",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Erg. Melek Mutluay Çocuk Ergoterapi Kliniği",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Ankara Caddesi 72, Karatay",
+  "il": null,
+  "ilce": "Karatay",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.88798141479492,
+  "lng": 32.50076675415039,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.88798141479492,32.50076675415039",
+  "yandex_url": "https://yandex.com/maps/?text=Erg. Melek Mutluay Çocuk Ergoterapi Kliniği&ll=32.50076675415039%2C37.88798141479492&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "eafaac3c-d713-4319-8e7a-ccba4ec79db2",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Erişkin Arındırma Merkezi",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -15729,7 +17654,9 @@
   "fsq_id": "565d55ba498e2ca85ff06138",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "7615d6c8-8b07-43c4-8b60-58e6afaf9f74",
+  "alt": "muayenehane"
  },
  {
   "ad": "Ertuğrullar  işitme",
@@ -15839,6 +17766,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Est Dental Implant",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Sahibiata Caddesi, Meram",
+  "il": null,
+  "ilce": "Meram",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.86798095703125,
+  "lng": 32.49904251098633,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.86798095703125,32.49904251098633",
+  "yandex_url": "https://yandex.com/maps/?text=Est Dental Implant&ll=32.49904251098633%2C37.86798095703125&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "74fc566e-7fc7-41e4-88e4-7c79e7b44e95",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Estetik Merkezi",
@@ -16235,7 +18191,7 @@
   "ilce": null,
   "mahalle": null,
   "telefon": null,
-  "web": null,
+  "web": "http://www.instagram.com/familyavet",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -16248,7 +18204,8 @@
   "fsq_id": "5e354b185881ed0007f38023",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "0bb17f14-d7be-48ec-90e1-b63fa9d5f48b"
  },
  {
   "ad": "Farabi Bilgi İşlem",
@@ -16329,7 +18286,9 @@
   "fsq_id": "5996c9a84186866117fca8b6",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "708d4dd2-8d59-4141-85d8-f83756dbf248",
+  "alt": "muayenehane"
  },
  {
   "ad": "Farabi Hastanesi Kadın Hastalıkları Ve Doğum",
@@ -16384,6 +18343,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Farabİ MedİKal",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "FEVZİ ÇAKMAK MH. 10555 sokak., Karatay",
+  "il": null,
+  "ilce": "Karatay",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.90639877319336,
+  "lng": 32.532657623291016,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.90639877319336,32.532657623291016",
+  "yandex_url": "https://yandex.com/maps/?text=Farabİ MedİKal&ll=32.532657623291016%2C37.90639877319336&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "acea0e76-ae8e-4a16-99b0-9042d57cb551",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Faruk Sükan Kadın Doğum Ve Çocuk Hastanesi Laboratuvarı",
@@ -16577,6 +18565,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Fiberli UVC Dezenfeksiyon Sterilizasyon Sistemleri",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Hoşsohbet Sokak 8B, Selçuklu",
+  "il": null,
+  "ilce": "Selçuklu",
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://uvc.fiberli.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.95640182495117,
+  "lng": 32.489776611328125,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.95640182495117,32.489776611328125",
+  "yandex_url": "https://yandex.com/maps/?text=Fiberli UVC Dezenfeksiyon Sterilizasyon Sistemleri&ll=32.489776611328125%2C37.95640182495117&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "5d28138b-6746-4b36-b486-0842dd2842b4",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Figen & Beyza Yazanesi",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -16656,7 +18673,9 @@
   "fsq_id": "534b93f3498ea334a589836d",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "07a0edf4-da48-45f0-a9cf-d17a1f3a491f",
+  "alt": "muayenehane"
  },
  {
   "ad": "Fizik Tedavi ve Rehabilitasyon Merkezi",
@@ -16929,6 +18948,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Fizyomeram Sağlıklı Yaşam Merkezi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Birinci Sok No:2, Meram",
+  "il": null,
+  "ilce": "Meram",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.87058639526367,
+  "lng": 32.441741943359375,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.87058639526367,32.441741943359375",
+  "yandex_url": "https://yandex.com/maps/?text=Fizyomeram Sağlıklı Yaşam Merkezi&ll=32.441741943359375%2C37.87058639526367&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "88c4827f-67b8-407f-aba7-8176135b7128",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Fizyonetwork",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -17007,7 +19055,8 @@
   "fsq_id": "6911c7ac9f14a832e9502941",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "427b8504-cbe8-41f2-a1dc-08430173ce7c"
  },
  {
   "ad": "Fizyovita",
@@ -17039,7 +19088,8 @@
   "fsq_id": "64ddf80e95500b2582f3332e",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "56027276-fb24-41c5-b516-e7ffc2d3c7eb"
  },
  {
   "ad": "Fizyoönal Fizyoterapi ve Selçuklu Gtos Merkezi",
@@ -17052,7 +19102,7 @@
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0332) 249 96 12",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -17066,7 +19116,8 @@
   "fsq_id": "61fc5313267b550d27923a19",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "49793938-6e1c-41f7-b123-b59a4ce4ac95"
  },
  {
   "ad": "Fmc Fresenius Özel Konya Diyaliz",
@@ -17286,6 +19337,122 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Fuhassan Medikal&Teknoloji",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "\"BÜSAN ORGANİZE SAN. BÖL, 10721. Sk. NO:16/C\", Karatay",
+  "il": null,
+  "ilce": "Karatay",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.fuhassan.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.931922912597656,
+  "lng": 32.54047775268555,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.931922912597656,32.54047775268555",
+  "yandex_url": "https://yandex.com/maps/?text=Fuhassan Medikal&Teknoloji&ll=32.54047775268555%2C37.931922912597656&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "398a50f9-f1d3-4873-9628-f6caed6576cf",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Fzt. Gizem Bekmürza",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Mantar Sokak 19D, Selçuklu",
+  "il": null,
+  "ilce": "Selçuklu",
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://www.doktortakvimi.com/gizem-bekmurza/fizyoterapi-ve-rehabilitasyon/konya",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.882972717285156,
+  "lng": 32.452674865722656,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.882972717285156,32.452674865722656",
+  "yandex_url": "https://yandex.com/maps/?text=Fzt. Gizem Bekmürza&ll=32.452674865722656%2C37.882972717285156&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "15f579b9-1641-483a-9941-3d7646d8abba",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Fzt. Kemal Gürbüz",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Gazze Caddesi 13, Meram",
+  "il": null,
+  "ilce": "Meram",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.kemalgurbuz.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.882198333740234,
+  "lng": 32.47250747680664,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.882198333740234,32.47250747680664",
+  "yandex_url": "https://yandex.com/maps/?text=Fzt. Kemal Gürbüz&ll=32.47250747680664%2C37.882198333740234&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "5b493547-1d25-49e9-9071-85bd7d6882a1",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Fzt. Kemal Gürbüz",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Gazze Caddesi 13, Meram",
+  "il": null,
+  "ilce": "Meram",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.kemalgurbuz.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.856117248535156,
+  "lng": 32.47139358520508,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.856117248535156,32.47139358520508",
+  "yandex_url": "https://yandex.com/maps/?text=Fzt. Kemal Gürbüz&ll=32.47139358520508%2C37.856117248535156&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "4231fd24-da98-45c4-a5c5-083b8611731e",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "FİDE Fizik Tedavi Derneği",
@@ -18072,6 +20239,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Gençhekim 'ortak sağlık ve güvenlik birimi'",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Dağsaray Sokak 9, Selçuklu",
+  "il": null,
+  "ilce": "Selçuklu",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.genchekim.com.tr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.98225402832031,
+  "lng": 32.614768981933594,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.98225402832031,32.614768981933594",
+  "yandex_url": "https://yandex.com/maps/?text=Gençhekim 'ortak sağlık ve güvenlik birimi'&ll=32.614768981933594%2C37.98225402832031&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "97e77f31-069b-46aa-907b-4ec04d0b96a1",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Gençlik Aile Sağlığı Ve Danışma Merkezi",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -18664,7 +20860,9 @@
   "fsq_id": "5316ba9e498e0fab6da22fff",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "14b2a0ac-2ae0-4977-a377-963a8020a096",
+  "alt": "muayenehane"
  },
  {
   "ad": "Göğüs Polikinigi",
@@ -18856,6 +21054,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Gülistan Eczanesi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Söğütlü sok., Meram",
+  "il": null,
+  "ilce": "Meram",
+  "mahalle": null,
+  "telefon": "(0332) 322 39 19",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.85971450805664,
+  "lng": 32.482269287109375,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.85971450805664,32.482269287109375",
+  "yandex_url": "https://yandex.com/maps/?text=Gülistan Eczanesi&ll=32.482269287109375%2C37.85971450805664&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "6d3b6288-a5ae-401f-8e59-b21253ae1978",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Güngör'ün yeri",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -18881,6 +21108,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Gürses Dental Konya Diş Hastanesi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Karacabey Sk. No:7/C, Selçuklu",
+  "il": null,
+  "ilce": "Selçuklu",
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://gursesdental.com.tr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.8817253112793,
+  "lng": 32.46048355102539,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.8817253112793,32.46048355102539",
+  "yandex_url": "https://yandex.com/maps/?text=Gürses Dental Konya Diş Hastanesi&ll=32.46048355102539%2C37.8817253112793&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "065b5219-9765-4d7f-9cc6-c8d8166ae12f",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Güven Medikal",
@@ -18916,7 +21172,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d104941735"
   ],
-  "adres": null,
+  "adres": "Asbaşkan Sk. No:9, Meram",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -18934,7 +21190,9 @@
   "fsq_id": "5215fefa11d25eb09f072504",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "623ea7ca-b3f6-45fa-9988-b7704d3a49ff",
+  "alt": "muayenehane"
  },
  {
   "ad": "H.E.M.S  KONYA",
@@ -19125,6 +21383,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Hacamat ehli",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "hacasadık mah.fetih cad, Karatay",
+  "il": null,
+  "ilce": "Karatay",
+  "mahalle": null,
+  "telefon": "(0332) 606 05 40",
+  "web": "http://www.hacamatehli.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.887332916259766,
+  "lng": 32.52478790283203,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.887332916259766,32.52478790283203",
+  "yandex_url": "https://yandex.com/maps/?text=Hacamat ehli&ll=32.52478790283203%2C37.887332916259766&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "d3acea50-e77c-470b-804d-cffc7130c374",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Hacamatci Sertifikali Uzman Mevlüt Günay",
@@ -19372,7 +21659,9 @@
   "fsq_id": "5560530c498e08b6bcb8ebb8",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "990288e8-e964-4c3d-b989-8f02467fe81f",
+  "alt": "muayenehane"
  },
  {
   "ad": "Hakkı Polat Sağlık Merkezi",
@@ -20047,7 +22336,8 @@
   "fsq_id": "5c9a5813b399f70039cdeffd",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "21843211-1dba-4c1a-826f-90595de3e395"
  },
  {
   "ad": "Herbalife Başarı Aktif Yaşam Merkezi",
@@ -20300,6 +22590,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "HÜYÜK Devlet Hastanesi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "HÜYÜK",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0332) 543 27 30",
+  "web": "http://huyukdh.saglik.gov.tr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.87958908081055,
+  "lng": 31.87218475341797,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.87958908081055,31.87218475341797",
+  "yandex_url": "https://yandex.com/maps/?text=HÜYÜK Devlet Hastanesi&ll=31.87218475341797%2C37.87958908081055&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "bf6318ae-91ee-454d-b56c-1bc3d7711efe",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Hüsamettin Çelebi Sağlık Kabini",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -20433,6 +22752,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Ilarslan Plastik Medikal LTD. ŞTİ.",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "fevziçakmak mah. 10472.Sk no 27 , Karatay",
+  "il": null,
+  "ilce": "Karatay",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.91107940673828,
+  "lng": 32.5306510925293,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.91107940673828,32.5306510925293",
+  "yandex_url": "https://yandex.com/maps/?text=Ilarslan Plastik Medikal LTD. ŞTİ.&ll=32.5306510925293%2C37.91107940673828&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "4e83e12e-5835-4aa8-89b0-2827bf7847f6",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Ilgın 3 NOLU ASM",
@@ -20648,7 +22996,9 @@
   "fsq_id": "65801fe8884e755838d9c1c7",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "9e5031da-e8e7-403e-a628-0af49e6d6b37",
+  "alt": "muayenehane"
  },
  {
   "ad": "JACK DANIEL’S TERAPİ MERKEZİ",
@@ -21327,6 +23677,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "KONYA Alternatif Hacamat",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "HACCAM, Selçuklu",
+  "il": null,
+  "ilce": "Selçuklu",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.konyaalternatifhacamat.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.870487213134766,
+  "lng": 32.506797790527344,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.870487213134766,32.506797790527344",
+  "yandex_url": "https://yandex.com/maps/?text=KONYA Alternatif Hacamat&ll=32.506797790527344%2C37.870487213134766&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "e55a06fd-8db7-407f-a7d7-17d7810fbb21",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "KONYA EĞİTİM VE ARAŞTIRMA HASTANESİ RADYASYON ONKOLOJİ POLİKLİNİĞİ",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -21352,6 +23731,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "KONYA Osmanlı Veteriner Kliniği",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Karaman elmalı caddesi Karatay , Karatay",
+  "il": null,
+  "ilce": "Karatay",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.82794189453125,
+  "lng": 32.516029357910156,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.82794189453125,32.516029357910156",
+  "yandex_url": "https://yandex.com/maps/?text=KONYA Osmanlı Veteriner Kliniği&ll=32.516029357910156%2C37.82794189453125&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "83452ae2-d43a-43ab-ab69-c94c5cbdbe1f",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "KONYA SAĞLIK KABİNİ",
@@ -21519,7 +23927,9 @@
   "fsq_id": "56d9318b498e11eed6c17781",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "df09c1f0-0d59-453f-bdbe-61abaaa898d0",
+  "alt": "muayenehane"
  },
  {
   "ad": "Kadın Doğum Servisi",
@@ -22664,6 +25074,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Karatay Toplum Sağliği Merkezi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Afl Karatay, Ballıca Sokak 3, Selçuklu",
+  "il": null,
+  "ilce": "Selçuklu",
+  "mahalle": null,
+  "telefon": "(0332) 223 00 95",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.86725616455078,
+  "lng": 32.49837112426758,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.86725616455078,32.49837112426758",
+  "yandex_url": "https://yandex.com/maps/?text=Karatay Toplum Sağliği Merkezi&ll=32.49837112426758%2C37.86725616455078&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "c4e0c3d8-7317-4fb9-bdd5-405a17346810",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Karatay Yarma Aile Sağlığı Merkezi",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -22743,6 +25182,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Karbel Sosyal Tesisleri",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Milliler Cd. No:42020, Karatay",
+  "il": null,
+  "ilce": "Karatay",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.85585021972656,
+  "lng": 32.53848648071289,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.85585021972656,32.53848648071289",
+  "yandex_url": "https://yandex.com/maps/?text=Karbel Sosyal Tesisleri&ll=32.53848648071289%2C37.85585021972656&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "3facb0c7-bd24-45c4-a5b6-419eedab4342",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Kardiyoloji",
@@ -22905,7 +25373,9 @@
   "fsq_id": "56f2499bcd10dd27ce7411a4",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "72eeaa97-286c-4a32-a7d3-c81c839011cc",
+  "alt": "muayenehane"
  },
  {
   "ad": "Kardiyoloji Servisi",
@@ -23348,7 +25818,7 @@
   "hizmet_ipuclari": [
    "58daa1558bbb0b01f18ec1f7"
   ],
-  "adres": "Konya Eğitim ve Araştırma Hastanesi",
+  "adres": "Konya Eğitim ve Araştırma Hastanesi, Yeni Meram Caddesi 97, Meram",
   "il": null,
   "ilce": "Meram",
   "mahalle": null,
@@ -23366,7 +25836,9 @@
   "fsq_id": "53181743498ea35bc66f6af6",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "d0c9eaa5-53fe-45af-a0da-b51daf8f3887",
+  "alt": "muayenehane"
  },
  {
   "ad": "Kentplaza Acil Tıbbi Müdahale Odası",
@@ -23612,6 +26084,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Koncare Tıbbi Cihazlar",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Alakova Mah. Karaman Cad. No:1120 Meram/Konya, Meram",
+  "il": null,
+  "ilce": "Meram",
+  "mahalle": null,
+  "telefon": "(0332) 238 99 98",
+  "web": "http://www.koncare.com.tr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.77339172363281,
+  "lng": 32.53120422363281,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.77339172363281,32.53120422363281",
+  "yandex_url": "https://yandex.com/maps/?text=Koncare Tıbbi Cihazlar&ll=32.53120422363281%2C37.77339172363281&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "1277fae0-4d3b-47bc-a8d0-6c644ad32627",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Konemar",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -23771,7 +26272,8 @@
   "fsq_id": "5a5f89c967af3a77f3144327",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "ec8894af-a443-491e-ac1e-74e5446592ca"
  },
  {
   "ad": "Konya  Meram  Araştırma Hastanesi Dahili Yoğun Bakım",
@@ -24314,6 +26816,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Konya Alerji İmmünoloji",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Meram Tıp Fakültesi, Meram",
+  "il": null,
+  "ilce": "Meram",
+  "mahalle": null,
+  "telefon": "(0332) 223 70 93",
+  "web": "http://www.sukrunailguner.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.87734603881836,
+  "lng": 32.43085861206055,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.87734603881836,32.43085861206055",
+  "yandex_url": "https://yandex.com/maps/?text=Konya Alerji İmmünoloji&ll=32.43085861206055%2C37.87734603881836&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "c575ef60-f176-4f3b-b8ee-76a6c40c9224",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Konya Asker Hastanesi",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -24539,12 +27070,12 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d196941735"
   ],
-  "adres": null,
+  "adres": "Saray Caddesi 1, Selçuklu",
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
-  "web": null,
+  "telefon": "(0332) 257 06 06",
+  "web": "http://www.baskent-kon.edu.tr/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -24557,7 +27088,9 @@
   "fsq_id": "57e99615498e69ee3e5903c5",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "87eb1c07-f08a-4da0-8f3f-3be003ed5fc3",
+  "alt": "muayenehane"
  },
  {
   "ad": "Konya Beyhekim Devlet Hastanesi",
@@ -24801,6 +27334,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Konya Efsadent Ağız Ve Diş Sağlığı Polikliniği",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Akyokuş Park Avm No:1BN, Şehit Ali Dığrak Caddesi, Selçuklu",
+  "il": null,
+  "ilce": "Selçuklu",
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://www.efsadent.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.88361358642578,
+  "lng": 32.431461334228516,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.88361358642578,32.431461334228516",
+  "yandex_url": "https://yandex.com/maps/?text=Konya Efsadent Ağız Ve Diş Sağlığı Polikliniği&ll=32.431461334228516%2C37.88361358642578&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "7a0a7170-2e97-4769-9836-b8dc017ccba8",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Konya Egitim Arastirma Hastanesi Fizik Tedavi Polikinigi",
@@ -25188,7 +27750,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d104941735"
   ],
-  "adres": null,
+  "adres": "\"Atesbaz-ı Etliekmek Izgara Sulu Yemek, Dülgerler Sokak 3\", Meram",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -25206,7 +27768,9 @@
   "fsq_id": "58a6b8699f25833c39cb280d",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "1384e4c0-88c8-41db-b78d-9255fe4e9c47",
+  "alt": "muayenehane"
  },
  {
   "ad": "Konya Eğitim Ve Araştırma Hastanesi Diş Pol",
@@ -25621,7 +28185,7 @@
    "4bf58dd8d48988d196941735",
    "522e32fae4b09b556e370f19"
   ],
-  "adres": "Sancak Mah. Ünlüer Sk.",
+  "adres": "\"Özel Konyagöz Hastanesi, Ünlüer Sk. No:13\", Selçuklu",
   "il": null,
   "ilce": "Selçuklu",
   "mahalle": null,
@@ -25639,7 +28203,9 @@
   "fsq_id": "5721e2b3498ea56bbac36fe4",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "7e246360-77d3-423f-80fd-c9e39392ddb3",
+  "alt": "muayenehane"
  },
  {
   "ad": "Konya Göz Hastanesi Ameliyathane",
@@ -25694,6 +28260,64 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Konya Hacamat Merkezi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "özder işhanı, Şerafettin Cd. No.50, Meram",
+  "il": null,
+  "ilce": "Meram",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.8735237121582,
+  "lng": 32.49560546875,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.8735237121582,32.49560546875",
+  "yandex_url": "https://yandex.com/maps/?text=Konya Hacamat Merkezi&ll=32.49560546875%2C37.8735237121582&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "89e0f143-61df-42ec-9244-4f8f3ece390f",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Konya Hacamatçı Mehmet Yurt",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Şeref Şirin, Karatay",
+  "il": null,
+  "ilce": "Karatay",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.konyahacamatsuluk.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.871490478515625,
+  "lng": 32.499183654785156,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.871490478515625,32.499183654785156",
+  "yandex_url": "https://yandex.com/maps/?text=Konya Hacamatçı Mehmet Yurt&ll=32.499183654785156%2C37.871490478515625&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "033d104a-ba35-49da-93e6-f08c2b4bec90",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Konya Halk Sağlığı Müdürlüğü",
@@ -26653,7 +29277,7 @@
   "ilce": null,
   "mahalle": null,
   "telefon": null,
-  "web": null,
+  "web": "http://www.konyaomurga.com/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -26666,7 +29290,37 @@
   "fsq_id": "5e831a740da5240007d182df",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "cfbd8456-7163-437e-8a32-94e6a4a18610"
+ },
+ {
+  "ad": "Konya Opak Lens Deposu",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Dr. Yusuf Ziya Paşa Sokak, Selçuklu",
+  "il": null,
+  "ilce": "Selçuklu",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.opaklens.com",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.87795639038086,
+  "lng": 32.49169921875,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.87795639038086,32.49169921875",
+  "yandex_url": "https://yandex.com/maps/?text=Konya Opak Lens Deposu&ll=32.49169921875%2C37.87795639038086&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "cb1806fa-51bd-48df-a20e-81e91f977ace",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Konya Pedagog - Çocuk Psikolog",
@@ -26911,6 +29565,64 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Konya Tüberkuloz Koordinatörlüğü",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Hastane Caddesi 5, Selçuklu",
+  "il": null,
+  "ilce": "Selçuklu",
+  "mahalle": null,
+  "telefon": "(0332) 223 00 96",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.8782844543457,
+  "lng": 32.49114990234375,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.8782844543457,32.49114990234375",
+  "yandex_url": "https://yandex.com/maps/?text=Konya Tüberkuloz Koordinatörlüğü&ll=32.49114990234375%2C37.8782844543457&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "5ff5cab5-995e-4f5a-98a0-e7ad357a62a5",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Konya Uzm. Fzt. Emine Mermerkaya",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Parıltı Sokak 18, Selçuklu",
+  "il": null,
+  "ilce": "Selçuklu",
+  "mahalle": null,
+  "telefon": "(0332) 257 12 67",
+  "web": "http://emineller.org/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.90816116333008,
+  "lng": 32.4510383605957,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.90816116333008,32.4510383605957",
+  "yandex_url": "https://yandex.com/maps/?text=Konya Uzm. Fzt. Emine Mermerkaya&ll=32.4510383605957%2C37.90816116333008&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "5a1246f7-fe56-4c0d-8acd-854833ca1438",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Konya Vakıf Hastanesi",
@@ -27453,6 +30165,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Konya/çumra Hacamat",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "izzetbey mh. Yılmazlar çarşısı no=20 (EVRİM TEKSTİL), Çumra",
+  "il": null,
+  "ilce": "Çumra",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.571075439453125,
+  "lng": 32.78126525878906,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.571075439453125,32.78126525878906",
+  "yandex_url": "https://yandex.com/maps/?text=Konya/çumra Hacamat&ll=32.78126525878906%2C37.571075439453125&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "c9d044de-41ab-462e-b731-566602b11985",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "KonyaGöz",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -27533,6 +30274,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Koroner Anjiografi Ünitesi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Konya, Selçuklu",
+  "il": null,
+  "ilce": "Selçuklu",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.88582229614258,
+  "lng": 32.43095397949219,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.88582229614258,32.43095397949219",
+  "yandex_url": "https://yandex.com/maps/?text=Koroner Anjiografi Ünitesi&ll=32.43095397949219%2C37.88582229614258&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "876f2bbb-56ce-496a-9b1f-086a889c88e6",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Koroner Yoğun Bakım",
@@ -27778,6 +30548,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Kristal sağlıklı yaşam kilo kontrol  merkezi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Nebiler Sokak 1, Selçuklu",
+  "il": null,
+  "ilce": "Selçuklu",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.918033599853516,
+  "lng": 32.49958801269531,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.918033599853516,32.49958801269531",
+  "yandex_url": "https://yandex.com/maps/?text=Kristal sağlıklı yaşam kilo kontrol  merkezi&ll=32.49958801269531%2C37.918033599853516&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "85facfeb-ecdb-42b4-863d-e802ee6b4c44",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Kriz",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -27803,6 +30602,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Kronik Medikal Ltd. Şti.",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Bereketoğlu Sokak 5C, Selçuklu",
+  "il": null,
+  "ilce": "Selçuklu",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.kronikmedikal.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.878719329833984,
+  "lng": 32.488895416259766,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.878719329833984,32.488895416259766",
+  "yandex_url": "https://yandex.com/maps/?text=Kronik Medikal Ltd. Şti.&ll=32.488895416259766%2C37.878719329833984&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "6f97fad5-5e81-49a1-9d7d-9c13fe598522",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Kudret Li Aktar",
@@ -30374,6 +33202,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Medicana MORA Terapi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "GÜRZ SOK, Meram",
+  "il": null,
+  "ilce": "Meram",
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://konya.medicana.com.tr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.858116149902344,
+  "lng": 32.522987365722656,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.858116149902344,32.522987365722656",
+  "yandex_url": "https://yandex.com/maps/?text=Medicana MORA Terapi&ll=32.522987365722656%2C37.858116149902344&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "f683738d-e733-48bb-ba49-56b7cb3666f0",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Medicana Medikal Estetik",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -31184,6 +34041,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Medizep Medikal Tercüme Hizmetleri",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Kozağaç Caddesi 18, Meram",
+  "il": null,
+  "ilce": "Meram",
+  "mahalle": null,
+  "telefon": "(0332) 329 03 58",
+  "web": "http://www.medizep.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.80406951904297,
+  "lng": 32.42262649536133,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.80406951904297,32.42262649536133",
+  "yandex_url": "https://yandex.com/maps/?text=Medizep Medikal Tercüme Hizmetleri&ll=32.42262649536133%2C37.80406951904297&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "0de5b86b-38ff-455f-9d20-10ffa5282a91",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Medlime Hasta Odası",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -31533,6 +34419,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Medova Estetik",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Dosteli Cd. No:52, Selçuklu",
+  "il": null,
+  "ilce": "Selçuklu",
+  "mahalle": null,
+  "telefon": "(0332) 223 05 47",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.946250915527344,
+  "lng": 32.50297164916992,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.946250915527344,32.50297164916992",
+  "yandex_url": "https://yandex.com/maps/?text=Medova Estetik&ll=32.50297164916992%2C37.946250915527344&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "3e81912b-9a3a-4c5c-8de7-3ab3da26da39",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Medova Hastanesi",
@@ -32183,7 +35098,9 @@
   "fsq_id": "57dfe72f498ee2e754de1cb9",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "df58e6df-ae7f-4bba-9252-ab3aa90a5753",
+  "alt": "muayenehane"
  },
  {
   "ad": "Meram Egitim Ve Araştırma Acil",
@@ -32213,6 +35130,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Meram Egitim ve Arastırma Hastanesi Acil Gece Poliklinigi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Hacışaban Mahallesi Yeniyol Caddesi, Meram",
+  "il": null,
+  "ilce": "Meram",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.86708450317383,
+  "lng": 32.48027801513672,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.86708450317383,32.48027801513672",
+  "yandex_url": "https://yandex.com/maps/?text=Meram Egitim ve Arastırma Hastanesi Acil Gece Poliklinigi&ll=32.48027801513672%2C37.86708450317383&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "1596c0b6-7cbb-40f6-ba9e-e1d477c368a1",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Meram Eğitim",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -32237,7 +35183,9 @@
   "fsq_id": "5c2c9b4165211f002cdb3a92",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "eac4342b-3cc9-4ce3-be88-f9d6e6389aab",
+  "alt": "muayenehane"
  },
  {
   "ad": "Meram Eğitim Araştırma (Zafer Ek Binası)",
@@ -32482,6 +35430,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Meram Eğitim Araştırma Hastanesi Zafer Semt Polikinliği",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "İhsaniye Mah, Ilgın",
+  "il": null,
+  "ilce": "Ilgın",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.2220458984375,
+  "lng": 32.06755065917969,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.2220458984375,32.06755065917969",
+  "yandex_url": "https://yandex.com/maps/?text=Meram Eğitim Araştırma Hastanesi Zafer Semt Polikinliği&ll=32.06755065917969%2C38.2220458984375&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "1354c653-910a-4861-8fd8-3b7fb0e293e6",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Meram Eğitim Araștırma Hastanesi Acil Kritik Yoğun Bakım",
@@ -32806,6 +35783,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Meram Sağlık Kabini",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Dr. Ahmet Özcan Cd. No:105/A, Meram",
+  "il": null,
+  "ilce": "Meram",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.85372543334961,
+  "lng": 32.48836135864258,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.85372543334961,32.48836135864258",
+  "yandex_url": "https://yandex.com/maps/?text=Meram Sağlık Kabini&ll=32.48836135864258%2C37.85372543334961&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "72114467-d23e-4954-8f38-ea67bb548f6c",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Meram Sağlık Ocağı",
@@ -34753,6 +37759,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Meram rezonans",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "İfa Sokak 3, Selçuklu",
+  "il": null,
+  "ilce": "Selçuklu",
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://meramrezonans.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.88373947143555,
+  "lng": 32.48946762084961,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.88373947143555,32.48946762084961",
+  "yandex_url": "https://yandex.com/maps/?text=Meram rezonans&ll=32.48946762084961%2C37.88373947143555&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "72b47611-d9c7-46c0-b9fc-617430b9006f",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Meram tıp fakültesi uyku odası",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -34832,6 +37867,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Mercek Plastik Kalıp Medikal  Makina San Tic Ltd Şti",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "10664. Sokak 31, Karatay",
+  "il": null,
+  "ilce": "Karatay",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.921329498291016,
+  "lng": 32.550479888916016,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.921329498291016,32.550479888916016",
+  "yandex_url": "https://yandex.com/maps/?text=Mercek Plastik Kalıp Medikal  Makina San Tic Ltd Şti&ll=32.550479888916016%2C37.921329498291016&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "be5bb124-1a53-4ad9-8fed-b331aafb865d",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Merkez Genel Cerrahi Polikliniği",
@@ -35021,6 +38085,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Mevlana Saglik Kabini",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Fetih Cd. Karatay Park Evleri No:204/B C Blok, Karatay",
+  "il": null,
+  "ilce": "Karatay",
+  "mahalle": null,
+  "telefon": "(0332) 502 04 42",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.86930465698242,
+  "lng": 32.52534103393555,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.86930465698242,32.52534103393555",
+  "yandex_url": "https://yandex.com/maps/?text=Mevlana Saglik Kabini&ll=32.52534103393555%2C37.86930465698242&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "3a09595d-3341-452e-9db6-d5deb8e5027b",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Mevlana Sağlık Kabini",
@@ -35317,7 +38410,9 @@
   "fsq_id": "5163fd3ee4b0e1b2145e4585",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "43917d83-5360-446d-b128-0c69f744f34f",
+  "alt": "muayenehane"
  },
  {
   "ad": "Mümtaz Koru Veremle Savaş Derneği",
@@ -35573,7 +38668,7 @@
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0332) 223 68 59",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -35587,7 +38682,8 @@
   "fsq_id": "550a9215498e5c0bd03b075f",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "edf9b7b0-4574-4b7e-a8dc-072dcdfdcbae"
  },
  {
   "ad": "N.E.Ü. Meram Tıp Fak. Hastanesi (Yeni Bina)",
@@ -36160,7 +39256,9 @@
   "fsq_id": "59ea23a795a7222dab15db1b",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "44822778-dcdd-4992-858f-27e7cd3dd5a5",
+  "alt": "muayenehane"
  },
  {
   "ad": "Nenehatun Sağlık Kabini",
@@ -36470,7 +39568,7 @@
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0332) 320 80 20",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -36484,7 +39582,9 @@
   "fsq_id": "5131f583e4b0ee8b2ea69c75",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "55a8e870-2bb6-4648-b671-8b08fa8b95d5",
+  "alt": "muayenehane"
  },
  {
   "ad": "Nilgörkem",
@@ -36520,12 +39620,12 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d104941735"
   ],
-  "adres": "şeker mh",
+  "adres": "Şefik Can Cd. no:73/A, Selçuklu",
   "il": null,
   "ilce": null,
   "mahalle": null,
   "telefon": null,
-  "web": null,
+  "web": "http://masajsalonunisa.com/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -36538,7 +39638,8 @@
   "fsq_id": "64e7b972ec311c5609356517",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "b77595fe-4b68-4419-9bfa-89f9530da69b"
  },
  {
   "ad": "Nisan Eczanesi",
@@ -36568,6 +39669,64 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Nizam osgb & cem soy",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Ali Ulvi Kurucu Caddesi 65G, Karatay",
+  "il": null,
+  "ilce": "Karatay",
+  "mahalle": null,
+  "telefon": "(0332) 236 17 09",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.88356399536133,
+  "lng": 32.50788879394531,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.88356399536133,32.50788879394531",
+  "yandex_url": "https://yandex.com/maps/?text=Nizam osgb & cem soy&ll=32.50788879394531%2C37.88356399536133&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "44ae7149-f93f-4a59-87dd-6d3b0d39dcec",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "No'lu Aile Saglıgı Merkezi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Hacı Sabit Mahllesi Muhtarlığı, Keçeciler Caddesi 147/A, Karatay",
+  "il": null,
+  "ilce": "Karatay",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.87723922729492,
+  "lng": 32.52843475341797,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.87723922729492,32.52843475341797",
+  "yandex_url": "https://yandex.com/maps/?text=No'lu Aile Saglıgı Merkezi&ll=32.52843475341797%2C37.87723922729492&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "51e4188d-7bf7-40b3-a87e-c4699fafcc04",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "No:405",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -36593,6 +39752,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Nolu Aile Saglıgı Merkezi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Meram Toki",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0332) 338 24 44",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.74445724487305,
+  "lng": 32.40660858154297,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.74445724487305,32.40660858154297",
+  "yandex_url": "https://yandex.com/maps/?text=Nolu Aile Saglıgı Merkezi&ll=32.40660858154297%2C37.74445724487305&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "d899a0d7-cded-4054-bd46-e92a60a82dcd",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Novafertil Tüp Bebek Merkezi",
@@ -36679,6 +39867,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "No’Lu Akıncılar Asm",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Selçuklu",
+  "il": null,
+  "ilce": "Selçuklu",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.90213394165039,
+  "lng": 32.464900970458984,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.90213394165039,32.464900970458984",
+  "yandex_url": "https://yandex.com/maps/?text=No’Lu Akıncılar Asm&ll=32.464900970458984%2C37.90213394165039&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "cd387223-3b42-46ab-a43b-3c5f29bf24af",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Numune  Hastanesi Göğüs Servisi",
@@ -36934,8 +40151,8 @@
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
-  "web": null,
+  "telefon": "(0332) 235 45 00",
+  "web": "http://www.konyanumunedh.saglik.gov.tr/yerleskeler/merkez-poliklinigi.html",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -36948,7 +40165,9 @@
   "fsq_id": "5ef225c6855630000849d248",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "ccf24d06-0380-4c50-a860-c544ecd36d24",
+  "alt": "muayenehane"
  },
  {
   "ad": "Numune Hastanesi Dahiliye Poliklinik",
@@ -38220,6 +41439,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "OT TOUCH",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Leylek Hasan Dede Sokak 2, Selçuklu",
+  "il": null,
+  "ilce": "Selçuklu",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.87803268432617,
+  "lng": 32.471927642822266,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.87803268432617,32.471927642822266",
+  "yandex_url": "https://yandex.com/maps/?text=OT TOUCH&ll=32.471927642822266%2C37.87803268432617&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "2c17eb22-d9b9-40fb-9563-7c60c3dbd37f",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Ocak Eczanesi",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -38389,12 +41637,12 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d104941735"
   ],
-  "adres": null,
+  "adres": "Gazi Caddesi 35, Çumra",
   "il": null,
   "ilce": null,
   "mahalle": null,
   "telefon": "(0332) 447 51 48",
-  "web": null,
+  "web": "http://www.okcueczanesi.com.tr/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -38407,7 +41655,9 @@
   "fsq_id": "53ddffe0498ef53400e300ed",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "0250d534-c6bf-409d-bc11-7fcee634f6ea",
+  "alt": "muayenehane"
  },
  {
   "ad": "Okçu Tekkesi",
@@ -38600,6 +41850,93 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Op Dr İ. Barış Çağlar",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "estetik",
+  "hizmet_ipuclari": [
+   "plastic_and_reconstructive_surgery"
+  ],
+  "adres": "Selçuklu",
+  "il": null,
+  "ilce": "Selçuklu",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.88393020629883,
+  "lng": 32.456783294677734,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.88393020629883,32.456783294677734",
+  "yandex_url": "https://yandex.com/maps/?text=Op Dr İ. Barış Çağlar&ll=32.456783294677734%2C37.88393020629883&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "735de016-7119-41fe-be9c-7f4880db72ac",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Op. Dr. Barış AYHAN",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Mh Akademi Meram Hastanesi, Beyşehir Cd. No:181, Meram",
+  "il": null,
+  "ilce": "Meram",
+  "mahalle": null,
+  "telefon": "(0332) 221 37 37",
+  "web": "http://www.akademihastaneleri.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.87934875488281,
+  "lng": 32.44856262207031,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.87934875488281,32.44856262207031",
+  "yandex_url": "https://yandex.com/maps/?text=Op. Dr. Barış AYHAN&ll=32.44856262207031%2C37.87934875488281&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "6b922146-5370-4091-ae79-8f947c81fa8a",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Op. Dr. Fethiye Şahin",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Furgan Dede Cd No:12, Meram",
+  "il": null,
+  "ilce": "Meram",
+  "mahalle": null,
+  "telefon": "(0850) 333 83 44",
+  "web": "https://www.emineren.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.86581802368164,
+  "lng": 32.491092681884766,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.86581802368164,32.491092681884766",
+  "yandex_url": "https://yandex.com/maps/?text=Op. Dr. Fethiye Şahin&ll=32.491092681884766%2C37.86581802368164&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "177ba3ac-936d-45c2-a469-f1872cf5a181",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Op. Dr. Göksen Sürücü",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -38625,6 +41962,93 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Op. Dr. Hakan Çepni",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Yeni Sokak 2, Meram",
+  "il": null,
+  "ilce": "Meram",
+  "mahalle": null,
+  "telefon": "(0332) 350 55 51",
+  "web": "http://www.drhakancepni.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.86103820800781,
+  "lng": 32.44331359863281,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.86103820800781,32.44331359863281",
+  "yandex_url": "https://yandex.com/maps/?text=Op. Dr. Hakan Çepni&ll=32.44331359863281%2C37.86103820800781&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "64b26356-b547-43a6-b871-8aa25248d9db",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Op. Dr. Necati Özçimen",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Gürz Sokak 1, Selçuklu",
+  "il": null,
+  "ilce": "Selçuklu",
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://konyatupbebek.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.86297607421875,
+  "lng": 32.44822692871094,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.86297607421875,32.44822692871094",
+  "yandex_url": "https://yandex.com/maps/?text=Op. Dr. Necati Özçimen&ll=32.44822692871094%2C37.86297607421875&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "43c6303a-4f95-4efa-9bfb-55256b122796",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Op. Dr. Necati Özçimen",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Gürz Sokak 1, Selçuklu",
+  "il": null,
+  "ilce": "Selçuklu",
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://konyatupbebek.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.89352035522461,
+  "lng": 32.49602127075195,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.89352035522461,32.49602127075195",
+  "yandex_url": "https://yandex.com/maps/?text=Op. Dr. Necati Özçimen&ll=32.49602127075195%2C37.89352035522461&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "45bb8ae1-6fbd-4084-a31e-29e87acf3d88",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Op. Dr. Nurten Yavuz",
@@ -39113,6 +42537,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Ortopedi ve Travmatoloji",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Şerafeddin Caddesi 95A, Karatay",
+  "il": null,
+  "ilce": "Karatay",
+  "mahalle": null,
+  "telefon": "(0332) 350 37 77",
+  "web": "https://tunccevatogun.blogspot.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.877159118652344,
+  "lng": 32.4941291809082,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.877159118652344,32.4941291809082",
+  "yandex_url": "https://yandex.com/maps/?text=Ortopedi ve Travmatoloji&ll=32.4941291809082%2C37.877159118652344&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "694e70eb-b2d6-4693-9cf9-638dc2ce9dc0",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Ortopedi ve Travmatoloji Bölümü",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -39471,6 +42924,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Ozel Medova Hastanesi İdari Bölümü",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Seyh, Selçuklu",
+  "il": null,
+  "ilce": "Selçuklu",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.94309997558594,
+  "lng": 32.496978759765625,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.94309997558594,32.496978759765625",
+  "yandex_url": "https://yandex.com/maps/?text=Ozel Medova Hastanesi İdari Bölümü&ll=32.496978759765625%2C37.94309997558594&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "8ec5cfbd-c369-42e2-8d59-c1a60caddfbd",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Ozel Portakal Cicegi Ozel Egitim Ve Rehabilitasyon Merkezi",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -39495,7 +42977,9 @@
   "fsq_id": "510f8769e4b0eaff86da4437",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "f0f07e5f-b8d0-482a-b59e-7109f6603364",
+  "alt": "muayenehane"
  },
  {
   "ad": "Ozlem Fizik Tedavi",
@@ -39712,6 +43196,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Payaza Medikal",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "DARÜLŞİFA SK OSİBA İŞHANI, Selçuklu",
+  "il": null,
+  "ilce": "Selçuklu",
+  "mahalle": null,
+  "telefon": "(0332) 351 06 85",
+  "web": "http://www.payazamedikal.com.tr",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.87760543823242,
+  "lng": 32.490028381347656,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.87760543823242,32.490028381347656",
+  "yandex_url": "https://yandex.com/maps/?text=Payaza Medikal&ll=32.490028381347656%2C37.87760543823242&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "e9659bce-fc3d-4f2d-9428-17b435c2880c",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Pediatri Servisi",
@@ -39957,6 +43470,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Peri Sokak Ağız Diş Sağlığı Polikliniği",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Yenişehir Mah. Peri Sok. No:2 Ennmeram iş merkezi 2 kat no:205, Meram",
+  "il": null,
+  "ilce": "Meram",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.85315704345703,
+  "lng": 32.47248077392578,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.85315704345703,32.47248077392578",
+  "yandex_url": "https://yandex.com/maps/?text=Peri Sokak Ağız Diş Sağlığı Polikliniği&ll=32.47248077392578%2C37.85315704345703&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "fa7fc6bb-ca72-48f0-928f-5d7867be537e",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Plastik Cerrahi",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -39981,7 +43523,9 @@
   "fsq_id": "512337b5e4b0a3b68b594def",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "23fa2b42-d6a4-48eb-a4b7-6720aebe85cb",
+  "alt": "muayenehane"
  },
  {
   "ad": "Plastik Cerrahi Bolumu",
@@ -40472,6 +44016,93 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Prof. Dr. Bahar Göktürk",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Zümrütova Sokak 1, Selçuklu",
+  "il": null,
+  "ilce": "Selçuklu",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.bahargokturk.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.94855880737305,
+  "lng": 32.49185562133789,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.94855880737305,32.49185562133789",
+  "yandex_url": "https://yandex.com/maps/?text=Prof. Dr. Bahar Göktürk&ll=32.49185562133789%2C37.94855880737305&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "be3074b2-3288-4ec1-bb74-8ce4a456c2ae",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Prof. Dr. Erdal Kalkan Beyin ve Sinir Cerrahisi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Dosteli Cd. No:52/1, Selçuklu",
+  "il": null,
+  "ilce": "Selçuklu",
+  "mahalle": null,
+  "telefon": "(0850) 333 83 44",
+  "web": "http://www.erdalkalkan.com.tr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.945152282714844,
+  "lng": 32.5024528503418,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.945152282714844,32.5024528503418",
+  "yandex_url": "https://yandex.com/maps/?text=Prof. Dr. Erdal Kalkan Beyin ve Sinir Cerrahisi&ll=32.5024528503418%2C37.945152282714844&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "13a30f26-88af-4e03-a304-3ee0314c2426",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Prof. Dr. Faik Türkmen",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Tuna Sokak Prestige Center, Yeni Meram Cd. No:8, Meram",
+  "il": null,
+  "ilce": "Meram",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.862083435058594,
+  "lng": 32.443939208984375,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.862083435058594,32.443939208984375",
+  "yandex_url": "https://yandex.com/maps/?text=Prof. Dr. Faik Türkmen&ll=32.443939208984375%2C37.862083435058594&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "1c960be7-b55a-4087-b594-218611e945b1",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Prof. Dr. Hakkı Polat muayenesi",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -40605,7 +44236,9 @@
   "fsq_id": "517a7c42e4b027b1594617d1",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "43685d03-ce09-4b93-9193-6b695350e105",
+  "alt": "muayenehane"
  },
  {
   "ad": "Prof. Dr. Ümmühan Teyze",
@@ -40633,6 +44266,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Prof.Dr. Mehmet Arazi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Farabi Hastanesi Ebru sok, Selçuklu",
+  "il": null,
+  "ilce": "Selçuklu",
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://farabihastanesi.com.tr/doktorlarimiz/prof-dr-mehmet-arazi",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.9791374206543,
+  "lng": 32.523048400878906,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.9791374206543,32.523048400878906",
+  "yandex_url": "https://yandex.com/maps/?text=Prof.Dr. Mehmet Arazi&ll=32.523048400878906%2C37.9791374206543&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "f64b076e-4e58-4daf-9f58-f7fa79450286",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Prof.Dr.Mehmet Arazi kliniği",
@@ -40878,6 +44540,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Proline Şener Taşdemir Ağız ve Diş Sağlığı Kliniği",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "ŞEHİT TUGRUL KÖSEOĞLU CAD NO 16J, Meram",
+  "il": null,
+  "ilce": "Meram",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.85098648071289,
+  "lng": 32.47771072387695,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.85098648071289,32.47771072387695",
+  "yandex_url": "https://yandex.com/maps/?text=Proline Şener Taşdemir Ağız ve Diş Sağlığı Kliniği&ll=32.47771072387695%2C37.85098648071289&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "214cb899-3c4e-4e22-9dca-556baeb9f53c",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Promed Medikal",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -40983,7 +44674,9 @@
   "fsq_id": "58df3f9dca10702209d58233",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "69f26197-a9f2-4536-a96f-0b90dea1826d",
+  "alt": "muayenehane"
  },
  {
   "ad": "Psikiyatri Kliniği",
@@ -42404,6 +46097,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Rumi Pulse Clinik",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Yeni Meram Caddesi 17, Meram",
+  "il": null,
+  "ilce": "Meram",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://rumipulse.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.86283874511719,
+  "lng": 32.44904708862305,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.86283874511719,32.44904708862305",
+  "yandex_url": "https://yandex.com/maps/?text=Rumi Pulse Clinik&ll=32.44904708862305%2C37.86283874511719&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "68da375e-3f14-4010-a542-677122177ec1",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Rutin",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -42782,6 +46504,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Safir Agiz ve Dis Sagligi Merkezi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Doç. Dr. Halil Ürün Cd. No:11/1, Selçuklu",
+  "il": null,
+  "ilce": "Selçuklu",
+  "mahalle": null,
+  "telefon": "(0332) 353 92 92",
+  "web": "https://safirdismerkezi.com.tr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.94791793823242,
+  "lng": 32.50566864013672,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.94791793823242,32.50566864013672",
+  "yandex_url": "https://yandex.com/maps/?text=Safir Agiz ve Dis Sagligi Merkezi&ll=32.50566864013672%2C37.94791793823242&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "6c1f14a7-1e03-43d3-ad1d-ff50c894eed0",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Saglik",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -42888,6 +46639,64 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Sanal Hastanem",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "İktap Sokak 4, Selçuklu",
+  "il": null,
+  "ilce": "Selçuklu",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.87788391113281,
+  "lng": 32.489036560058594,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.87788391113281,32.489036560058594",
+  "yandex_url": "https://yandex.com/maps/?text=Sanal Hastanem&ll=32.489036560058594%2C37.87788391113281&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "4d1a902d-d3a9-4ab5-8902-f7663ee5dcd3",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Sancak Saglik Kabini Ve Evde Bakim Hizmetleri",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Siyahgül Sokak 6B, Selçuklu",
+  "il": null,
+  "ilce": "Selçuklu",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.94860076904297,
+  "lng": 32.521820068359375,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.94860076904297,32.521820068359375",
+  "yandex_url": "https://yandex.com/maps/?text=Sancak Saglik Kabini Ve Evde Bakim Hizmetleri&ll=32.521820068359375%2C37.94860076904297&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "415f79e0-8230-49fe-8335-64035fc6fd2b",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Sarayönü 1 Nolu Ashi",
@@ -43052,6 +46861,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Sayberk Medical",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "İki Pınar Sokak 11, Selçuklu",
+  "il": null,
+  "ilce": "Selçuklu",
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://www.umitozcanmedikal.com.tr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.98474884033203,
+  "lng": 32.59807586669922,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.98474884033203,32.59807586669922",
+  "yandex_url": "https://yandex.com/maps/?text=Sayberk Medical&ll=32.59807586669922%2C37.98474884033203&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "7442c838-b16b-4bd0-9fcc-ebdd0b11c7c2",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Sağlık Evi",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -43077,6 +46915,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Sağlık Kapında",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Kaide Sokak 6C, Selçuklu",
+  "il": null,
+  "ilce": "Selçuklu",
+  "mahalle": null,
+  "telefon": "(0332) 324 20 02",
+  "web": "https://www.saglikkapinda.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.88190841674805,
+  "lng": 32.460147857666016,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.88190841674805,32.460147857666016",
+  "yandex_url": "https://yandex.com/maps/?text=Sağlık Kapında&ll=32.460147857666016%2C37.88190841674805&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "9333ec0b-d077-420a-be2c-052a67b9be5f",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Sağlık Kurulu",
@@ -43214,6 +47081,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Selcuk Unv Veteriner Klinigi Acil Servis",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "İstanbul Cad, Selçuklu",
+  "il": null,
+  "ilce": "Selçuklu",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.02873992919922,
+  "lng": 32.51317596435547,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.02873992919922,32.51317596435547",
+  "yandex_url": "https://yandex.com/maps/?text=Selcuk Unv Veteriner Klinigi Acil Servis&ll=32.51317596435547%2C38.02873992919922&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "a25db3fd-e01e-4771-9db1-61fe9786ff82",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Selcuk Üniversitesi Tıp Fakültesi Hastanesi Kbb",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -43266,6 +47162,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Selcuklu 26 Nolu Dumlupınar Aile Saglık Merkezi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Gülferhat Sk., Selçuklu",
+  "il": null,
+  "ilce": "Selçuklu",
+  "mahalle": null,
+  "telefon": "(0332) 251 18 57",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.928009033203125,
+  "lng": 32.50580978393555,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.928009033203125,32.50580978393555",
+  "yandex_url": "https://yandex.com/maps/?text=Selcuklu 26 Nolu Dumlupınar Aile Saglık Merkezi&ll=32.50580978393555%2C37.928009033203125&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "5babc934-1147-4f88-96dd-b1c008a69cd0",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Selen Sağlık Kabini",
@@ -43860,7 +47785,9 @@
   "fsq_id": "4fc81758e4b08eb1f532e4a6",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "1674497e-1183-46cc-8957-deb84c98fded",
+  "alt": "muayenehane"
  },
  {
   "ad": "Selçuk İşitme Merkezi",
@@ -44248,7 +48175,7 @@
    "4bf58dd8d48988d104941735",
    "4bf58dd8d48988d177941735"
   ],
-  "adres": null,
+  "adres": "Şehitlik Cd. 61/A, Selçuklu",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -44266,7 +48193,9 @@
   "fsq_id": "509e0f92e4b0577f9dc37a99",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "07d79654-c530-4d83-a539-5cbc5891c823",
+  "alt": "muayenehane"
  },
  {
   "ad": "Selçuklu Toplum Sağlığı Merkezi",
@@ -44978,6 +48907,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Sukur Cekic Dogal Terapi Merkezi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Meşeler Sokak 13A, Selçuklu",
+  "il": null,
+  "ilce": "Selçuklu",
+  "mahalle": null,
+  "telefon": "(0332) 247 11 21",
+  "web": "www.sukurcekic.com",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.88593292236328,
+  "lng": 32.456573486328125,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.88593292236328,32.456573486328125",
+  "yandex_url": "https://yandex.com/maps/?text=Sukur Cekic Dogal Terapi Merkezi&ll=32.456573486328125%2C37.88593292236328&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "639705f8-9eae-4f32-9abd-15004fca9e46",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Suriye Devlet Hastanesi",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -45003,6 +48961,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "SÜ Vet. Fak. Hayvan Hastanesi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Selçuk Üniversitesi, 42130, Ardıçlı, Selçuklu, Konya, Türkiye, Selçuklu",
+  "il": null,
+  "ilce": "Selçuklu",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.02915954589844,
+  "lng": 32.5105094909668,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.02915954589844,32.5105094909668",
+  "yandex_url": "https://yandex.com/maps/?text=SÜ Vet. Fak. Hayvan Hastanesi&ll=32.5105094909668%2C38.02915954589844&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "b2c96edd-8108-4866-a159-b3cd6d994234",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Sönmez Sağlık Kabini",
@@ -45248,6 +49235,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Tamerdent Agiz ve Dis Sagligi Poliklinigi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Demırcan Cd. 19/A, Selçuklu",
+  "il": null,
+  "ilce": "Selçuklu",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.929046630859375,
+  "lng": 32.48819351196289,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.929046630859375,32.48819351196289",
+  "yandex_url": "https://yandex.com/maps/?text=Tamerdent Agiz ve Dis Sagligi Poliklinigi&ll=32.48819351196289%2C37.929046630859375&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "86bc2cdc-8b9d-4b70-9bb0-770c09c72f9a",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Taş Kırma",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -45354,6 +49370,64 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Teknopest Çevre ve Sağlık Hizmetleri",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Uzunyol Sokak 11, Selçuklu",
+  "il": null,
+  "ilce": "Selçuklu",
+  "mahalle": null,
+  "telefon": "(0332) 322 23 71",
+  "web": "http://www.tekno-pest.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.87982940673828,
+  "lng": 32.475196838378906,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.87982940673828,32.475196838378906",
+  "yandex_url": "https://yandex.com/maps/?text=Teknopest Çevre ve Sağlık Hizmetleri&ll=32.475196838378906%2C37.87982940673828&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "08971a94-d436-4d48-9169-e570076eb7a2",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Teknotek Bilişim ve Güvenlik Sistemleri",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "şeyh sadrettin mahallesi, Karatay",
+  "il": null,
+  "ilce": "Karatay",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.87630844116211,
+  "lng": 32.500816345214844,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.87630844116211,32.500816345214844",
+  "yandex_url": "https://yandex.com/maps/?text=Teknotek Bilişim ve Güvenlik Sistemleri&ll=32.500816345214844%2C37.87630844116211&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "8bf23b1f-a720-4781-a3e1-ebf53ed6b08c",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Teksin Motor",
@@ -46059,6 +50133,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Türkiye Alzheimer Derneği Konya Şubesi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Cevher Dudayev Caddesi 4, Karatay",
+  "il": null,
+  "ilce": "Karatay",
+  "mahalle": null,
+  "telefon": "(0332) 350 59 69",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.90143966674805,
+  "lng": 32.51789093017578,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.90143966674805,32.51789093017578",
+  "yandex_url": "https://yandex.com/maps/?text=Türkiye Alzheimer Derneği Konya Şubesi&ll=32.51789093017578%2C37.90143966674805&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "69c3f92d-58c3-4aa9-b1d2-d40b96f3f19f",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Türkkızılayı Merkez",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -46713,6 +50816,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Uzm. Dr. Bedia Kara",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Selçuk Mahallesi, Metanet Sk. Esmira Plaza, No:1 Daire: 205, Selçuklu",
+  "il": null,
+  "ilce": "Selçuklu",
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://www.drbediakara.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.88064956665039,
+  "lng": 32.45438003540039,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.88064956665039,32.45438003540039",
+  "yandex_url": "https://yandex.com/maps/?text=Uzm. Dr. Bedia Kara&ll=32.45438003540039%2C37.88064956665039&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "a9cb3130-5b5b-4267-8f91-7f4ba480fcc9",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Uzm. Dr. Funda Öztürk Çocuk ve Genç Psikiyatristi",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -46745,6 +50877,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Uzm. Dr. Mehmet Kerem Uzun Fizik Tedavi ve Rehabilitasyon Kliniği",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Melikşah Cd. NO:106/A, Meram",
+  "il": null,
+  "ilce": "Meram",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.drkeremuzun.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.86682891845703,
+  "lng": 32.46014404296875,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.86682891845703,32.46014404296875",
+  "yandex_url": "https://yandex.com/maps/?text=Uzm. Dr. Mehmet Kerem Uzun Fizik Tedavi ve Rehabilitasyon Kliniği&ll=32.46014404296875%2C37.86682891845703&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "db21bb9c-bd53-4653-841a-ca057b70cc49",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Uzm. Dr. Necmettin Tüfekci Geleneksel ve Tamamlayıcı Tıp Uygulamaları",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -46775,7 +50936,9 @@
   "fsq_id": "640b15e178fab473ea080d46",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "042bae54-34ea-487c-98e3-0086570af3e5",
+  "alt": "muayenehane"
  },
  {
   "ad": "Uzm. Dr. Neslihan Arıkan Dermatoloji Kliniği",
@@ -46844,7 +51007,7 @@
   "ilce": "Karatay",
   "mahalle": null,
   "telefon": null,
-  "web": null,
+  "web": "http://sevimterzi.com/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -46857,7 +51020,38 @@
   "fsq_id": "6304c0913c027264f14b82bd",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "72b49a99-cd71-490a-88ea-26f82d11a97d",
+  "alt": "muayenehane"
+ },
+ {
+  "ad": "Uzm. Dr. Ülker Yiğit Aksoy",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Ebru Sokak 14, Selçuklu",
+  "il": null,
+  "ilce": "Selçuklu",
+  "mahalle": null,
+  "telefon": "(0332) 221 44 44",
+  "web": "https://www.drulkeraksoy.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.979278564453125,
+  "lng": 32.522804260253906,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.979278564453125,32.522804260253906",
+  "yandex_url": "https://yandex.com/maps/?text=Uzm. Dr. Ülker Yiğit Aksoy&ll=32.522804260253906%2C37.979278564453125&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "e5080356-b743-4349-a563-f073d1175512",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Uzm. Fzt. Fatih Çelik",
@@ -46884,7 +51078,8 @@
   "fsq_id": "6019c0e63bcd6c2d04650330",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "2d0acaf9-b1a2-4a46-9479-0638a7bb8760"
  },
  {
   "ad": "Uzman Diyetisyen ve Beslenme Uzmanı Konya",
@@ -46913,7 +51108,8 @@
   "fsq_id": "5af5a160b1ec13002c53c4dc",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "b945575e-58e5-4fc1-bea8-e0eb7da7a02f"
  },
  {
   "ad": "Uzman Doktor Elif Arıkan",
@@ -46941,6 +51137,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Uzman Dr Ezgi Ulu",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Akkonak Sk. No:4/C, Meram",
+  "il": null,
+  "ilce": "Meram",
+  "mahalle": null,
+  "telefon": "(0332) 350 37 67",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.86753463745117,
+  "lng": 32.463600158691406,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.86753463745117,32.463600158691406",
+  "yandex_url": "https://yandex.com/maps/?text=Uzman Dr Ezgi Ulu&ll=32.463600158691406%2C37.86753463745117&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "cd81b995-2684-4839-b796-17537ee88b18",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Uzman Psikolog Deniz Akıncı Konya",
@@ -47330,6 +51555,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Welltures Konya",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Ekmekkoçu Mah. Koçbeyaz Cad., Meram",
+  "il": null,
+  "ilce": "Meram",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.835025787353516,
+  "lng": 32.50274658203125,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.835025787353516,32.50274658203125",
+  "yandex_url": "https://yandex.com/maps/?text=Welltures Konya&ll=32.50274658203125%2C37.835025787353516&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "e4969884-6e91-477b-ad1c-a7ff9a052598",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Wom Kozmetik",
@@ -47987,7 +52241,7 @@
    "4bf58dd8d48988d104941735",
    "4bf58dd8d48988d177941735"
   ],
-  "adres": null,
+  "adres": "Rauf Denktaş Cd. No:57/C, Selçuklu",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -48005,7 +52259,9 @@
   "fsq_id": "535d06a2498e24794774b56c",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "79b4ab96-e519-466b-b6b3-09f19b48ba70",
+  "alt": "muayenehane"
  },
  {
   "ad": "Yemişoğlu Hacemat",
@@ -48527,6 +52783,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Yıldıray Medikal ",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Ferhuniye Mahallesi Mümtaz Koru Sokak No:1/H Selçuklu / Konya, Selçuklu",
+  "il": null,
+  "ilce": "Selçuklu",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.98276901245117,
+  "lng": 32.60909652709961,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.98276901245117,32.60909652709961",
+  "yandex_url": "https://yandex.com/maps/?text=Yıldıray Medikal &ll=32.60909652709961%2C37.98276901245117&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "bc27950b-9314-412f-ab48-c63c57db0d4c",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Yıldırım Sitesi Wc",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -48687,6 +52972,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Zeki Altindag Semt Polikinigi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Yeni İstanbul Cd., Selçuklu",
+  "il": null,
+  "ilce": "Selçuklu",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.93623352050781,
+  "lng": 32.51017379760742,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.93623352050781,32.51017379760742",
+  "yandex_url": "https://yandex.com/maps/?text=Zeki Altindag Semt Polikinigi&ll=32.51017379760742%2C37.93623352050781&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "4244b1c1-479a-43a1-bf06-86e51da1603a",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Zeki Altındağ Semt Polikliniği",
@@ -49909,6 +54223,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "dr.celalettinorduoglu",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Nişantaş Sokak 10B, Selçuklu",
+  "il": null,
+  "ilce": "Selçuklu",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.drcelalettinorduoglu.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.883541107177734,
+  "lng": 32.4897575378418,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.883541107177734,32.4897575378418",
+  "yandex_url": "https://yandex.com/maps/?text=dr.celalettinorduoglu&ll=32.4897575378418%2C37.883541107177734&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "9d540512-b51f-4d3b-8c3b-bb9e42eaaee2",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "dr.faruk sükan doğum ve çocuk hastanesi kan alma",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -50105,12 +54448,12 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d104941735"
   ],
-  "adres": "Kazaruni Sok",
+  "adres": "Hoca Hasan Sokak 3, Meram",
   "il": null,
   "ilce": null,
   "mahalle": null,
   "telefon": null,
-  "web": null,
+  "web": "https://www.elifpoliklinigi.com/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -50123,7 +54466,9 @@
   "fsq_id": "5281e13411d23e45e460a258",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "a47b4a7f-7df8-49ba-87e9-9a5348baf633",
+  "alt": "muayenehane"
  },
  {
   "ad": "endeskopi odasi",
@@ -50462,7 +54807,7 @@
   "ilce": null,
   "mahalle": null,
   "telefon": null,
-  "web": null,
+  "web": "https://trdoktor.com/konya-ozel-firdevs-ozcelik-agiz-ve-dis-sagligi-poliklinigi",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -50475,7 +54820,37 @@
   "fsq_id": "513ee208e4b0d0aa963cff00",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "7a8472e6-867e-4f67-8706-d6ee0c89b957"
+ },
+ {
+  "ad": "furkansaglikkabini",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Veysel Karani Caddesi 88J, Selçuklu",
+  "il": null,
+  "ilce": "Selçuklu",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.97100067138672,
+  "lng": 32.5227165222168,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.97100067138672,32.5227165222168",
+  "yandex_url": "https://yandex.com/maps/?text=furkansaglikkabini&ll=32.5227165222168%2C37.97100067138672&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "42e3b4e2-851a-4f42-9059-c217c749adec",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "gaziler",
@@ -50907,7 +55282,9 @@
   "fsq_id": "52415e3a11d235649ce505cd",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "db203d07-235c-4c6a-a10a-7bed47cccbbe",
+  "alt": "muayenehane"
  },
  {
   "ad": "ismil 5050 ashi",
@@ -51286,6 +55663,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "konya eğitim ve araştırma hastanesi 112 acil ambulansı",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Meram Eski Yol, Meram",
+  "il": null,
+  "ilce": "Meram",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.865543365478516,
+  "lng": 32.49329376220703,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.865543365478516,32.49329376220703",
+  "yandex_url": "https://yandex.com/maps/?text=konya eğitim ve araştırma hastanesi 112 acil ambulansı&ll=32.49329376220703%2C37.865543365478516&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "5f18e864-11c2-4f1c-bf17-8f9b87d0f2ce",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "konya hair",
@@ -52365,7 +56771,8 @@
   "fsq_id": "57274b62498e338924a8a44a",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "1a63077f-67f8-47e6-9405-c8e3ab31cf5e"
  },
  {
   "ad": "mevlana hastanesii",
@@ -52941,11 +57348,11 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d177941735"
   ],
-  "adres": null,
+  "adres": "Sedefkar Sokak 6F, Karatay",
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0332) 501 97 41",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -52959,7 +57366,9 @@
   "fsq_id": "522435e011d268bcf0f6e1d0",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "fc6d42d3-070e-45ce-a8a5-be1706d7d5fc",
+  "alt": "muayenehane"
  },
  {
   "ad": "piskolog",
@@ -53068,6 +57477,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "safa sağlık",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Atesbaz-ı Etliekmek Izgara Sulu Yemek, Dülgerler Sokak 3, Meram",
+  "il": null,
+  "ilce": "Meram",
+  "mahalle": null,
+  "telefon": "(0332) 351 17 00",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.859703063964844,
+  "lng": 32.445777893066406,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.859703063964844,32.445777893066406",
+  "yandex_url": "https://yandex.com/maps/?text=safa sağlık&ll=32.445777893066406%2C37.859703063964844&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "69df45ca-c923-46c1-8ab8-ff540ea257e9",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "safir dental diş laboratuvarı",
@@ -54446,7 +58884,9 @@
   "fsq_id": "50e6d318e4b057fd0e6a7b56",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "fdf4281f-e697-4bd9-bbbf-e7c7ed07a8b8",
+  "alt": "muayenehane"
  },
  {
   "ad": "Çizgi Üstü Medikal",
@@ -54855,6 +59295,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Çocuk Psikiyatri Konya",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Muhlis Koner Caddesi 21, Meram",
+  "il": null,
+  "ilce": "Meram",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.86501693725586,
+  "lng": 32.48047637939453,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.86501693725586,32.48047637939453",
+  "yandex_url": "https://yandex.com/maps/?text=Çocuk Psikiyatri Konya&ll=32.48047637939453%2C37.86501693725586&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "f1e1b23f-d598-4373-a4c0-c00a08208903",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Çocuk Sağlığı ve Hastalıkları Polikliniği 1",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -55068,7 +59537,9 @@
   "fsq_id": "59c9e5d5b37e2b7e2bbbf1a7",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "6bb983a2-791c-4a0f-8be7-a4f06f5c738a",
+  "alt": "muayenehane"
  },
  {
   "ad": "Çocuk ve Ergen Psikiyatrisi Polikliniği",
@@ -55104,7 +59575,7 @@
   "hizmet_ipuclari": [
    "58daa1558bbb0b01f18ec1f7"
   ],
-  "adres": "Beyhekim Devlet Hastanesi",
+  "adres": "Beyhekim Devlet Hastanesi, Turgut Özal Caddesi 14, Selçuklu",
   "il": null,
   "ilce": "Selçuklu, Konya",
   "mahalle": null,
@@ -55122,7 +59593,9 @@
   "fsq_id": "537ceca4498e89c92fc64d47",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "6170bf70-eab0-4af5-ab08-bc4bdeadbd21",
+  "alt": "muayenehane"
  },
  {
   "ad": "Çumra 01 Nolu Aile Sağlığı Merkezi",
@@ -55204,6 +59677,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Çumra 1 Nolu Çaybaşı Aile Sağlık Merkezi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Menekşe Cd. No:81, Çumra",
+  "il": null,
+  "ilce": "Çumra",
+  "mahalle": null,
+  "telefon": "(0332) 447 20 02",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.56554412841797,
+  "lng": 32.782630920410156,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.56554412841797,32.782630920410156",
+  "yandex_url": "https://yandex.com/maps/?text=Çumra 1 Nolu Çaybaşı Aile Sağlık Merkezi&ll=32.782630920410156%2C37.56554412841797&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "c533f24e-0340-422a-bf2d-f52e94f27c09",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Çumra 2 Nolu 112 ASHİ (5570)",
@@ -55320,12 +59822,12 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d196941735"
   ],
-  "adres": null,
+  "adres": "Hastane Caddesi 6, Çumra",
   "il": null,
   "ilce": "Çumra",
   "mahalle": null,
-  "telefon": null,
-  "web": null,
+  "telefon": "(0332) 447 50 01",
+  "web": "http://cumradh.saglik.gov.tr/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -55338,7 +59840,9 @@
   "fsq_id": "51a890f1498ea16e76a06c08",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "67d757dc-e35e-45a9-af69-a55a0eb7aa9a",
+  "alt": "muayenehane"
  },
  {
   "ad": "Çumra Devlet Hastanesi Acil Servis",
@@ -55616,6 +60120,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Çumra İşitme Cihazı Merkezi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "ŞEKER HOCA CAD NO:1/A, Çumra",
+  "il": null,
+  "ilce": "Çumra",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.57359313964844,
+  "lng": 32.74612045288086,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.57359313964844,32.74612045288086",
+  "yandex_url": "https://yandex.com/maps/?text=Çumra İşitme Cihazı Merkezi&ll=32.74612045288086%2C37.57359313964844&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "e4de3481-5bc1-4c7a-8860-02f4815af851",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Çıkıkçı Ali Amca",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -55812,12 +60345,12 @@
    "63be6904847c3692a84b9bc2",
    "63be6904847c3692a84b9bd9"
   ],
-  "adres": "Alavardı Mahallesi",
+  "adres": "Alavardı Mah.Yaka Cad, Bilgili Sk. No:1 Kat:2 Daire:3, Meram",
   "il": null,
   "ilce": null,
   "mahalle": null,
   "telefon": null,
-  "web": null,
+  "web": "https://www.doktortakvimi.com/omer-suna-2",
   "sosyal": [
    {
     "tur": "instagram",
@@ -55835,7 +60368,8 @@
   "fsq_id": "66880e0ce72b0a106c946434",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "db3c222d-423c-426d-bead-4865e16e159c"
  },
  {
   "ad": "Önal Sağlık Kabini",
@@ -56976,6 +61510,64 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Özel Durudent Ağız ve Diş Sağlığı Polikliniği",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Bosna, Beyhekim mahallesi Bahtıgüzel sokak no : 2c, Selçuklu",
+  "il": null,
+  "ilce": "Selçuklu",
+  "mahalle": null,
+  "telefon": "(0850) 242 41 42",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.99522399902344,
+  "lng": 32.512733459472656,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.99522399902344,32.512733459472656",
+  "yandex_url": "https://yandex.com/maps/?text=Özel Durudent Ağız ve Diş Sağlığı Polikliniği&ll=32.512733459472656%2C37.99522399902344&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "9bfe2ebc-4236-442d-8392-037e3072c397",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Özel Elif Polikiliniği",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Konya Bayındırlık ve İskan İl Müdürlüğü Bilgi İşlem Servisi, Abdülbasri Sokak 4, Selçuklu",
+  "il": null,
+  "ilce": "Selçuklu",
+  "mahalle": null,
+  "telefon": "(0332) 353 21 57",
+  "web": "http://www.elifpoliklinigi.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.83308410644531,
+  "lng": 32.04802703857422,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.83308410644531,32.04802703857422",
+  "yandex_url": "https://yandex.com/maps/?text=Özel Elif Polikiliniği&ll=32.04802703857422%2C37.83308410644531&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "3e801514-8fa6-4d3a-ac37-5e9ea4aa31ef",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Özel Emre Sağlık Kabini",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -57085,6 +61677,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Özel Filikon Fizik Tedavi Rehabilitasyon Merkezi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Mümtaz Koru Sk., Selçuklu",
+  "il": null,
+  "ilce": "Selçuklu",
+  "mahalle": null,
+  "telefon": "(0332) 353 69 00",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.87763977050781,
+  "lng": 32.490440368652344,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.87763977050781,32.490440368652344",
+  "yandex_url": "https://yandex.com/maps/?text=Özel Filikon Fizik Tedavi Rehabilitasyon Merkezi&ll=32.490440368652344%2C37.87763977050781&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "0a54d26a-3991-4c7a-8c28-c8f695a09b2d",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Özel Fizikon Fizik Tedavi Merkezi",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -57136,7 +61757,8 @@
   "fsq_id": "5805b9c438fa8258df52621c",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "62115623-098b-4af3-b607-914c0eb38f68"
  },
  {
   "ad": "Özel Gelişim Akademi",
@@ -58386,7 +63008,9 @@
   "fsq_id": "56287711498e9fa1b1be21ca",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "26e607a0-d49c-4e5c-b7c3-aee690e637a0",
+  "alt": "muayenehane"
  },
  {
   "ad": "Üroloji Servisi",
@@ -59751,6 +64375,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Şifa Akademisi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Metehan Caddesi Demirci İş Merkezi A-Blok Kat:5 No:506, Selçuklu",
+  "il": null,
+  "ilce": "Selçuklu",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.74992752075195,
+  "lng": 32.8468132019043,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.74992752075195,32.8468132019043",
+  "yandex_url": "https://yandex.com/maps/?text=Şifa Akademisi&ll=32.8468132019043%2C37.74992752075195&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "770abf4e-1ce1-4cca-b174-17bf63a372ef",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Şifa Medikal",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -59830,6 +64483,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "الدكتورة غولجان للأمراض النسائية",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "شمس تبريزي مقابل الصيدلية السورية عماد  HAKAN ECZANE , Karatay",
+  "il": null,
+  "ilce": "Karatay",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.87310028076172,
+  "lng": 32.49984359741211,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.87310028076172,32.49984359741211",
+  "yandex_url": "https://yandex.com/maps/?text=الدكتورة غولجان للأمراض النسائية&ll=32.49984359741211%2C37.87310028076172&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "4697ee22-8906-4118-88e5-79e6c4b7d5a5",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "💗💗HUZURDA💗💗",

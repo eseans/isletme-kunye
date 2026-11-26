@@ -54,6 +54,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Afyon Diş Doktoru",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "1. Sokak 2",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0272) 213 65 81",
+  "web": "http://www.afyondisdoktoru.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.75771713256836,
+  "lng": 30.546234130859375,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.75771713256836,30.546234130859375",
+  "yandex_url": "https://yandex.com/maps/?text=Afyon Diş Doktoru&ll=30.546234130859375%2C38.75771713256836&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "64658cbd-d704-4b33-8773-2b2a0a32ea94",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Afyonkarahisar Ağız ve Diş Sağlığı Merkezi",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -61,7 +90,7 @@
    "4bf58dd8d48988d178941735",
    "4bf58dd8d48988d196941735"
   ],
-  "adres": "Atatürk Cad.",
+  "adres": "Cahar Dudayev Cd. No:2",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -79,7 +108,8 @@
   "fsq_id": "5194a4a2498e537d5f9ef106",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "8dce4d7f-cb32-4a3a-8fa8-cddc1db76c6d"
  },
  {
   "ad": "Afyonkarahisar agiz ve Diş Sağlığı Merkezi",
@@ -244,6 +274,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Ballıpınar Diş Kliniği",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Rıhtım Botu Caddesi No:104/B, Emirdağ",
+  "il": null,
+  "ilce": "Emirdağ",
+  "mahalle": null,
+  "telefon": "(0272) 333 33 03",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.019996643066406,
+  "lng": 31.15299415588379,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.019996643066406,31.15299415588379",
+  "yandex_url": "https://yandex.com/maps/?text=Ballıpınar Diş Kliniği&ll=31.15299415588379%2C39.019996643066406&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "3c7cb005-1162-42f9-9c28-5e76c2e706b1",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Bekay Nayan Ağız ve Diş Sağlığı Merkezi",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -385,12 +444,12 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d178941735"
   ],
-  "adres": "Yeşilyol",
+  "adres": "halkbank yanı, Yeşil Yol Cd. no:3-a",
   "il": null,
   "ilce": null,
   "mahalle": null,
   "telefon": null,
-  "web": null,
+  "web": "https://dentafyon.com/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -403,7 +462,37 @@
   "fsq_id": "63b8182ab5cd2d087ea6748c",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "fbef1352-25aa-44a2-9f1d-5f12ad3ebe99"
+ },
+ {
+  "ad": "Dentepol Agiz ve Dis Sagligi Poliklinigi",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "vatan bilgisayar, Atatürk Blv. No:18/B karşısı 03030",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0272) 502 73 30",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.760833740234375,
+  "lng": 30.549062728881836,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.760833740234375,30.549062728881836",
+  "yandex_url": "https://yandex.com/maps/?text=Dentepol Agiz ve Dis Sagligi Poliklinigi&ll=30.549062728881836%2C38.760833740234375&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "ad01b619-be59-4896-95e7-f9a8102377c1",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Denthaus Diş Kliniği",
@@ -431,6 +520,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Dentist Ozge Sepin Donerkaya Diş Kliniği",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Dumlupınar mah. prof. kamil miras cad atakan apt. a blok 1B merkez",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.76123046875,
+  "lng": 30.54776382446289,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.76123046875,30.54776382446289",
+  "yandex_url": "https://yandex.com/maps/?text=Dentist Ozge Sepin Donerkaya Diş Kliniği&ll=30.54776382446289%2C38.76123046875&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "82712e31-16e6-4af8-86d4-7f5fc3d53603",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Dis Hekimi Şule Akdemir Gündüz",
@@ -848,7 +966,7 @@
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0272) 215 42 09",
   "web": "http://www.omerkanatkoksal.com",
   "sosyal": [],
   "calisma_saatleri": null,
@@ -862,7 +980,8 @@
   "fsq_id": "50506e1fe4b007a165eb418a",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "c32cd0c8-141a-4086-976a-7012e04f65a1"
  },
  {
   "ad": "Diş Hekimi.Ebru Önder",
@@ -925,11 +1044,11 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d178941735"
   ],
-  "adres": "Selçuklu Mahallesi",
+  "adres": "Selçuklu Mahallesi Şehit Erdal Hamamcı Caddesi No:4J",
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0272) 215 25 55",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -943,7 +1062,8 @@
   "fsq_id": "5fd374dd486f93257c6e6fb4",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "4cc5f5a7-f15a-4211-9836-d68fd8be1fcc"
  },
  {
   "ad": "Dişçi Ahmet",
@@ -1054,6 +1174,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Dr. Oktay Hosoglu",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Yeni Mah, Kısa Kürek Cad No:8/A, Emirdağ",
+  "il": null,
+  "ilce": "Emirdağ",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.0208625793457,
+  "lng": 31.15204620361328,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.0208625793457,31.15204620361328",
+  "yandex_url": "https://yandex.com/maps/?text=Dr. Oktay Hosoglu&ll=31.15204620361328%2C39.0208625793457&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "e810e330-7845-43be-9c1f-116c5045d449",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Dt. Adnan Kundak  Muayenehanesi",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -1106,6 +1255,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Ege Ağız ve Diş Sağlığı Polikliniği",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Yeni Saraçlar Çarşısı, 24. Sk. no 3",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0272) 215 86 05",
+  "web": "http://www.ballipinar.net",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.75556564331055,
+  "lng": 30.538326263427734,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.75556564331055,30.538326263427734",
+  "yandex_url": "https://yandex.com/maps/?text=Ege Ağız ve Diş Sağlığı Polikliniği&ll=30.538326263427734%2C38.75556564331055&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "3e06869e-ec8b-422f-b740-99bb387f96fc",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Ege Diş Polikliniği",
@@ -1168,7 +1346,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d178941735"
   ],
-  "adres": "Şirinevler Mahallesi",
+  "adres": "no, Yunus Emre Blv. No:41, Sandıklı",
   "il": null,
   "ilce": "Sandıklı",
   "mahalle": null,
@@ -1186,7 +1364,8 @@
   "fsq_id": "51dc23bd498ec9c605e9b39d",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "758a2e8a-eb17-4a04-a2af-dd1b46bbf396"
  },
  {
   "ad": "Gülseren Ağız ve Diş Sağlığı Polikliniği",
@@ -1214,6 +1393,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Kar Beyaz Inci Agiz Ve Dis Sagligi Poliklinigi",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Meydan Sk. no:34/b, Sandıklı",
+  "il": null,
+  "ilce": "Sandıklı",
+  "mahalle": null,
+  "telefon": "(0272) 512 55 05",
+  "web": "http://www.karbeyazinci.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.461570739746094,
+  "lng": 30.271177291870117,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.461570739746094,30.271177291870117",
+  "yandex_url": "https://yandex.com/maps/?text=Kar Beyaz Inci Agiz Ve Dis Sagligi Poliklinigi&ll=30.271177291870117%2C38.461570739746094&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "6e5c6db3-180a-4514-8a36-2f3133d443a2",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Karbeyaz İnci",
@@ -1297,6 +1505,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Nayan AĞIz Ve DİŞ SaĞLiĞI PolİKlİNİĞİ",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Güneş Hatun Cd. No:33 D:E",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.afyondishekimi.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.775909423828125,
+  "lng": 30.514205932617188,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.775909423828125,30.514205932617188",
+  "yandex_url": "https://yandex.com/maps/?text=Nayan AĞIz Ve DİŞ SaĞLiĞI PolİKlİNİĞİ&ll=30.514205932617188%2C38.775909423828125&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "0d5e0dcf-26ee-4b0e-bdba-514675abc043",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Nejlagül Diş Tedavi Merkezi",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -1322,6 +1559,93 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Orçun Yiğit Diş Kliniği",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": null,
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.75526809692383,
+  "lng": 30.540851593017578,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.75526809692383,30.540851593017578",
+  "yandex_url": "https://yandex.com/maps/?text=Orçun Yiğit Diş Kliniği&ll=30.540851593017578%2C38.75526809692383&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "1c9f2046-b411-4212-b300-1a5ef31a92b7",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Ozcelik International",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Dumlupınar mahallesi yeşil yol caddesi Fulya apartmanı Daire 10/A, 03200-Afyonkarahisar",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://beyhanozcelik.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.757049560546875,
+  "lng": 30.548736572265625,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.757049560546875,30.548736572265625",
+  "yandex_url": "https://yandex.com/maps/?text=Ozcelik International&ll=30.548736572265625%2C38.757049560546875&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "6579e888-db6a-41ed-9df8-32da5eb7e89d",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Ozel Kocatepe Agiz ve Dis Sagligi Poliklinigi",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Yeşil Yol Cd. 52/A",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0272) 213 14 44",
+  "web": "https://kocatepedis.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.75338363647461,
+  "lng": 30.545289993286133,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.75338363647461,30.545289993286133",
+  "yandex_url": "https://yandex.com/maps/?text=Ozel Kocatepe Agiz ve Dis Sagligi Poliklinigi&ll=30.545289993286133%2C38.75338363647461&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "0b40126c-7ba4-47f9-a04d-b356a5ec318d",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Park Hospital Ağız we Diş Sağlığı",
@@ -1375,7 +1699,8 @@
   "fsq_id": "5134b45fe4b041d1e24b7a83",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "e53b3fa7-a9c2-44b2-9d5a-3bad9d1f44f5"
  },
  {
   "ad": "Revir Plate",
@@ -1402,7 +1727,95 @@
   "fsq_id": "51a46ba2498ecc371f941ab4",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "b68e6da1-acfe-4b92-9c80-10442ed54444"
+ },
+ {
+  "ad": "Sağlam Diş Kliniği",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Okul Sk. 2/1, Çay",
+  "il": null,
+  "ilce": "Çay",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.59138870239258,
+  "lng": 31.020387649536133,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.59138870239258,31.020387649536133",
+  "yandex_url": "https://yandex.com/maps/?text=Sağlam Diş Kliniği&ll=31.020387649536133%2C38.59138870239258&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "5fe69099-625e-4bb1-b0f4-aac6bb653c7b",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Serteser Ağız ve Diş Sağlığı Polikliniği",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "2. Dumlupınar Cad. Acar Han",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0272) 215 44 36",
+  "web": "http://www.afyondis.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.75594711303711,
+  "lng": 30.540531158447266,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.75594711303711,30.540531158447266",
+  "yandex_url": "https://yandex.com/maps/?text=Serteser Ağız ve Diş Sağlığı Polikliniği&ll=30.540531158447266%2C38.75594711303711&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "7a95e979-5727-4df3-9a2e-93d77f6aea5c",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Soylu Dental Klinik",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Yeşil Yol Cd. Meltem Apt No 20 B",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.75947570800781,
+  "lng": 30.542634963989258,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.75947570800781,30.542634963989258",
+  "yandex_url": "https://yandex.com/maps/?text=Soylu Dental Klinik&ll=30.542634963989258%2C38.75947570800781&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "f384b2ed-7ff9-42fd-a274-08f0eaf17f03",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "USDENTAL DT. RECEP USLU",
@@ -1434,7 +1847,8 @@
   "fsq_id": "5b45f4ff9be522002c5e26fe",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "c8c7d2fc-c2ef-48ff-b92c-24388ebf7780"
  },
  {
   "ad": "USLU Diş Polikliniği",
@@ -1659,11 +2073,11 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d178941735"
   ],
-  "adres": null,
+  "adres": "Dumlupınar 2. Cd. 16/1",
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0272) 212 55 80",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -1677,7 +2091,8 @@
   "fsq_id": "51c99837498e72fbf1b837c2",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "d550ebe7-b3b3-4ea8-ade3-acfe25c6cb82"
  },
  {
   "ad": "diş hekimi ahmet sayar",
@@ -1740,11 +2155,11 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d178941735"
   ],
-  "adres": null,
+  "adres": "Konya Cd. NO:46/A, Emirdağ",
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0272) 442 43 00",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -1758,7 +2173,8 @@
   "fsq_id": "542ab2f1498e58df09168dda",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "b8c2488c-c44e-45a9-9deb-80e6bcef7534"
  },
  {
   "ad": "diş hekimi zafer dileyici",
@@ -1813,6 +2229,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Çağrı Mermer Ağız ve Diş Sağlığı Polikliniği",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "1. Cadde 1. Sokak 44",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.8701286315918,
+  "lng": 30.606529235839844,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.8701286315918,30.606529235839844",
+  "yandex_url": "https://yandex.com/maps/?text=Çağrı Mermer Ağız ve Diş Sağlığı Polikliniği&ll=30.606529235839844%2C38.8701286315918&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "bb987efc-271d-4b6e-be46-66e0d7466958",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Ömer Kanat Köksal Diş Polikliniği",
@@ -1920,7 +2365,8 @@
   "fsq_id": "517eab32e4b0192df70ab2e5",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "b7a35237-8154-4769-ba58-ea2d6b093034"
  },
  {
   "ad": "Özel Yilmaz Ulusoy Diş Polikliniği",

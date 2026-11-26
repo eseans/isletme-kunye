@@ -837,6 +837,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Ada Optik Giresun",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Çerkez Sokak 33",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.90775680541992,
+  "lng": 38.41577911376953,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.90775680541992,38.41577911376953",
+  "yandex_url": "https://yandex.com/maps/?text=Ada Optik Giresun&ll=38.41577911376953%2C40.90775680541992&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "42eb9b5c-3e96-4140-8f1b-1230c36ab6fa",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Ada Ultrasonografi",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -970,6 +999,64 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Aktar Baharat",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Cemal Gürsel Caddesi 30",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0454) 212 58 84",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.915313720703125,
+  "lng": 38.38327407836914,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.915313720703125,38.38327407836914",
+  "yandex_url": "https://yandex.com/maps/?text=Aktar Baharat&ll=38.38327407836914%2C40.915313720703125&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "ed7d4bfc-c131-4347-910b-bf78af22b45e",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Akyoma Tasbasi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "\"Akçalı Köyü,Taşbaşı\"",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.80219268798828,
+  "lng": 38.412681579589844,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.80219268798828,38.412681579589844",
+  "yandex_url": "https://yandex.com/maps/?text=Akyoma Tasbasi&ll=38.412681579589844%2C40.80219268798828&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "4604fec5-d2ed-4992-b8ea-a0982491852a",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Alper Yildirim Dis Hekimi",
@@ -1716,7 +1803,7 @@
   "il": null,
   "ilce": "Bulancak",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0454) 318 30 30",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -1730,7 +1817,9 @@
   "fsq_id": "5167e379498ef4aacdf0f423",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "afdf5bd0-78f1-447c-b5f0-efe3c46fabef",
+  "alt": "muayenehane"
  },
  {
   "ad": "Bulancak Devlet Hastanesi Ameliyathane",
@@ -2300,6 +2389,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Dereli Devlet Hastanesi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Kuşluğan Mevki No:13 D:1 Dereli Merkez, Dereli",
+  "il": null,
+  "ilce": "Dereli",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.73548126220703,
+  "lng": 38.45009994506836,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.73548126220703,38.45009994506836",
+  "yandex_url": "https://yandex.com/maps/?text=Dereli Devlet Hastanesi&ll=38.45009994506836%2C40.73548126220703&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "51e70189-cfee-4c99-8348-5f07d8caf91e",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Deva Eczanesi",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -2489,6 +2607,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Diyetisyen Berna Aydın",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Orhan Yılmaz Caddesi 79",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://www.instagram.coom/diyetisyenbernaaydin",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.915924072265625,
+  "lng": 38.384578704833984,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.915924072265625,38.384578704833984",
+  "yandex_url": "https://yandex.com/maps/?text=Diyetisyen Berna Aydın&ll=38.384578704833984%2C40.915924072265625&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "8e813249-6000-4ac2-8a7f-58a580634770",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Diyetisyen Elif Abanoz",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -2513,7 +2660,8 @@
   "fsq_id": "6806369e40439206213e3416",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "0e7ee20c-c954-4964-95fc-e8ed6df2acf2"
  },
  {
   "ad": "Diyetisyen Zehra Kılıçaslan",
@@ -2545,7 +2693,9 @@
   "fsq_id": "5d19e8f67950f70023ce1ee7",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "6db2ba1e-3b34-4ecc-8c9e-821816ca87bc",
+  "alt": "muayenehane"
  },
  {
   "ad": "Diş Ağrısı Nasıl Geçiyor Lannn. S.s.s.s",
@@ -2602,6 +2752,64 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Diş Hekimi Fatih Dizdar",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Osmaniye Mh Sinema Cd No.7 Giriskat",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0454) 216 15 15",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.9155158996582,
+  "lng": 38.39226531982422,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.9155158996582,38.39226531982422",
+  "yandex_url": "https://yandex.com/maps/?text=Diş Hekimi Fatih Dizdar&ll=38.39226531982422%2C40.9155158996582&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "b678f61f-309f-46c0-a496-533df5f17fb8",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Diş Hekimi Nazlıcan Bayraktar",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Kemal Şahan Cd. Özel İdare İş Hanı Kat:1 No:2, Espiye",
+  "il": null,
+  "ilce": "Espiye",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.instagram.com/dtnazlicanbayraktar",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.94906234741211,
+  "lng": 38.706298828125,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.94906234741211,38.706298828125",
+  "yandex_url": "https://yandex.com/maps/?text=Diş Hekimi Nazlıcan Bayraktar&ll=38.706298828125%2C40.94906234741211&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "1075d2e0-8748-482a-9665-213bb9a8acef",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Diş Tabibi Mehmet Esen",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -2656,6 +2864,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Doç Dr Mehmet Sipahi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "MS Clinic",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.mehmetsipahi.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.907894134521484,
+  "lng": 38.36289978027344,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.907894134521484,38.36289978027344",
+  "yandex_url": "https://yandex.com/maps/?text=Doç Dr Mehmet Sipahi&ll=38.36289978027344%2C40.907894134521484&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "08e05f46-c4a4-4c2e-8607-f301b6ecaacc",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Dogankent ASM",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -2680,7 +2917,9 @@
   "fsq_id": "56b098d0498ef763157ec9e1",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "a0de0db3-fb14-4a36-8ac9-e60a2c93efa6",
+  "alt": "muayenehane"
  },
  {
   "ad": "Dogankent Aile Sagligi Merkezi",
@@ -2951,6 +3190,64 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Dr. Özgür Botoks Klinik Giresun",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "estetik",
+  "hizmet_ipuclari": [
+   "plastic_and_reconstructive_surgery"
+  ],
+  "adres": "Yeşil Kent Sokak 3",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.91420364379883,
+  "lng": 38.338523864746094,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.91420364379883,38.338523864746094",
+  "yandex_url": "https://yandex.com/maps/?text=Dr. Özgür Botoks Klinik Giresun&ll=38.338523864746094%2C40.91420364379883&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "b842b3bf-b5e7-4284-8a03-8c38a8658117",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Dr. Özgür Botoks Klinik Giresun",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "estetik",
+  "hizmet_ipuclari": [
+   "plastic_and_reconstructive_surgery"
+  ],
+  "adres": "Yeşil Kent Sokak 3",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.915199279785156,
+  "lng": 38.38298416137695,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.915199279785156,38.38298416137695",
+  "yandex_url": "https://yandex.com/maps/?text=Dr. Özgür Botoks Klinik Giresun&ll=38.38298416137695%2C40.915199279785156&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "8589ae1b-50ca-4ef0-bfb5-f2454e878952",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Dr. Özgür Ecevit ÖZCAN Aile Sağlığı Merkezi",
@@ -3252,6 +3549,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Ege Psikoteknik Degerlendirme Merkezi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "İnönü Caddesi 11/1",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.913753509521484,
+  "lng": 38.38222122192383,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.913753509521484,38.38222122192383",
+  "yandex_url": "https://yandex.com/maps/?text=Ege Psikoteknik Degerlendirme Merkezi&ll=38.38222122192383%2C40.913753509521484&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "695254e0-5820-4af8-b23d-82e90f4913c2",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Endoskopi Ünitesi",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -3414,6 +3740,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Espiye Devlet Hastanesi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Adabük Mah. Yavuz Sultan Selim Cad., Keşap",
+  "il": null,
+  "ilce": "Keşap",
+  "mahalle": null,
+  "telefon": "(0454) 611 20 33",
+  "web": "https://espiyedh.saglik.gov.tr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.91473388671875,
+  "lng": 38.51470947265625,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.91473388671875,38.51470947265625",
+  "yandex_url": "https://yandex.com/maps/?text=Espiye Devlet Hastanesi&ll=38.51470947265625%2C40.91473388671875&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "b91fce79-6d7c-47b4-bb7a-dc6869ede5a0",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Espiye Devlet Hastanesi Cerrahi Servisi",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -3493,6 +3848,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Espiye Sağlık Ocağı",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Espiye",
+  "il": null,
+  "ilce": "Espiye",
+  "mahalle": null,
+  "telefon": "(0454) 611 48 22",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.947349548339844,
+  "lng": 38.6989860534668,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.947349548339844,38.6989860534668",
+  "yandex_url": "https://yandex.com/maps/?text=Espiye Sağlık Ocağı&ll=38.6989860534668%2C40.947349548339844&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "561d90f1-dab3-4c02-9281-5adcf3cf3e4a",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Espiye Toplum Sağlığı Merkezi",
@@ -4655,7 +5039,9 @@
   "fsq_id": "552f5d06498e588738048a98",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "35a669eb-c953-4b2b-a133-49a00b4e5701",
+  "alt": "muayenehane"
  },
  {
   "ad": "Giresun Belediyesi Sağlık Merkezi",
@@ -4871,7 +5257,9 @@
   "fsq_id": "53f4729e498eacab76830075",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "49d1e988-5b28-4cc9-a0cc-a19da8350370",
+  "alt": "muayenehane"
  },
  {
   "ad": "Giresun Fizik Tedavi Hastanesi",
@@ -4908,7 +5296,7 @@
    "4bf58dd8d48988d104941735",
    "4bf58dd8d48988d196941735"
   ],
-  "adres": null,
+  "adres": "Atatürk Blv. No: 325",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -4926,7 +5314,8 @@
   "fsq_id": "52f201a8498e9e25d637e6ca",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "8fc0f14d-cb97-49e5-b9b3-afdfc45e9992"
  },
  {
   "ad": "Giresun Gida Kontrol Laboratuvar Müdürlüğü",
@@ -5062,6 +5451,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Giresun Hayvan Hastanesi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Caner Sokak 7",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.giresunhayvanhastanesi.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.909629821777344,
+  "lng": 38.439144134521484,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.909629821777344,38.439144134521484",
+  "yandex_url": "https://yandex.com/maps/?text=Giresun Hayvan Hastanesi&ll=38.439144134521484%2C40.909629821777344&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "3748dfc4-6ab8-492e-b30d-01ebf29f62c2",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Giresun Kadın Doğum ve Çocuk Hastalıkları Eğitim Araştırma Hastanesi",
@@ -5576,6 +5994,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Giresun Valiliği Özel Giresun Bakım Merkezi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Baltama Sanayi Caddesi 222",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0454) 225 86 72",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.89009475708008,
+  "lng": 38.34600067138672,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.89009475708008,38.34600067138672",
+  "yandex_url": "https://yandex.com/maps/?text=Giresun Valiliği Özel Giresun Bakım Merkezi&ll=38.34600067138672%2C40.89009475708008&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "e787a59c-69ce-4190-bbc8-790751316333",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Giresun Yaşam Ortopedi-Medikal",
@@ -7655,7 +8102,9 @@
   "fsq_id": "50443da6e4b08ae7cb1d898b",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "22dc69d7-4663-4e6a-b9af-7065103d4a9f",
+  "alt": "muayenehane"
  },
  {
   "ad": "Kadın Hastanesi Pataloji Servisi",
@@ -7683,6 +8132,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Kale Medikal",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Çotanak Sk. No:2-4/A",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.912384033203125,
+  "lng": 38.34422302246094,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.912384033203125,38.34422302246094",
+  "yandex_url": "https://yandex.com/maps/?text=Kale Medikal&ll=38.34422302246094%2C40.912384033203125&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "5737935a-c525-4f83-b932-66668d1f1424",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Kan Merkezi",
@@ -8997,8 +9475,8 @@
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
-  "web": null,
+  "telefon": "(0454) 513 11 38",
+  "web": "http://www.goreledh.gov.tr",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -9011,7 +9489,9 @@
   "fsq_id": "56f115cccd10b74e65513679",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "b9004309-d6a6-4586-aa10-7aa75332e582",
+  "alt": "muayenehane"
  },
  {
   "ad": "Op. Dr. Ergun Özdemir Görele Devlet Hastanesi Urology Kliniği",
@@ -9066,6 +9546,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Op. Dr. Yusuf Ödemiş",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "estetik",
+  "hizmet_ipuclari": [
+   "plastic_and_reconstructive_surgery"
+  ],
+  "adres": "Kavcı İş Merkezi, Fatih Cd. No: 49/3",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0454) 202 05 55",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.915523529052734,
+  "lng": 38.38212203979492,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.915523529052734,38.38212203979492",
+  "yandex_url": "https://yandex.com/maps/?text=Op. Dr. Yusuf Ödemiş&ll=38.38212203979492%2C40.915523529052734&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "04aa3b72-44bd-4184-b0e9-d8eaa2da8c52",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Op.Dr.Ergun Özdemir Görele Devlet Hastanesi BALKON",
@@ -9986,6 +10495,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Saglik Ocagi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Sokakbaşı Cd. 23-29",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0454) 216 14 46",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.91793441772461,
+  "lng": 38.38920974731445,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.91793441772461,38.38920974731445",
+  "yandex_url": "https://yandex.com/maps/?text=Saglik Ocagi&ll=38.38920974731445%2C40.91793441772461&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "e754f221-3e70-40f9-a612-e912d2dbeb94",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Sanayi Sağlık Ocağı",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -10172,7 +10710,9 @@
   "fsq_id": "526fd92111d29fe1d7980c11",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "e2e6fcb0-6b76-4b61-91d0-a082777fb9b6",
+  "alt": "muayenehane"
  },
  {
   "ad": "T.C. Giresun Valiliği Bakım ve Rehabilitasyon Merkezi",
@@ -10199,7 +10739,9 @@
   "fsq_id": "526f6dba11d287bda029bbb1",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "8c0654b1-3115-4882-bba4-a8f34c4f411b",
+  "alt": "muayenehane"
  },
  {
   "ad": "T.c İlhan Özdemirgi",
@@ -10311,6 +10853,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Temmuz Sehitler Asm",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Gemiler",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.91310501098633,
+  "lng": 38.40005111694336,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.91310501098633,38.40005111694336",
+  "yandex_url": "https://yandex.com/maps/?text=Temmuz Sehitler Asm&ll=38.40005111694336%2C40.91310501098633&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "43eaebc0-1480-4753-8083-687ab2bd8386",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Teyyaredüzü Aile Sağlığı Merkezi",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -10398,12 +10969,12 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d177941735"
   ],
-  "adres": null,
+  "adres": "Plaj Sk. No:4, Tirebolu",
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
-  "web": null,
+  "telefon": "(0454) 430 00 33",
+  "web": "http://www.tirebolu1noluasm.com/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -10416,7 +10987,9 @@
   "fsq_id": "511250a7e4b076b27b777622",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "23b8f505-91f9-475b-9460-620ce58867e7",
+  "alt": "muayenehane"
  },
  {
   "ad": "Tirebolu 112",
@@ -10824,6 +11397,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Tirebolu oto hastanesi.",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "tirebolu giresun, Tirebolu",
+  "il": null,
+  "ilce": "Tirebolu",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.00722122192383,
+  "lng": 38.814395904541016,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.00722122192383,38.814395904541016",
+  "yandex_url": "https://yandex.com/maps/?text=Tirebolu oto hastanesi.&ll=38.814395904541016%2C41.00722122192383&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "063f84cd-9a43-4a01-99a7-b0c6109d26ef",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Tirebolu İlçe Sağlık Müdürlüğü",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -10934,7 +11536,9 @@
   "fsq_id": "55bf88df498ed9ea4430ce9c",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "6baf1b93-a0bd-4279-9706-c2eb1f14adb8",
+  "alt": "muayenehane"
  },
  {
   "ad": "Usg randevu sekreterliği",
@@ -11043,6 +11647,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Welltures Giresun",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Kapu Mah. Bekirpaşa Cad.",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.917659759521484,
+  "lng": 38.38731002807617,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.917659759521484,38.38731002807617",
+  "yandex_url": "https://yandex.com/maps/?text=Welltures Giresun&ll=38.38731002807617%2C40.917659759521484&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "fbee68cd-d532-494a-a383-151e3c8ae17b",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "YGBS Sporcu Sağlığı Merkezi",
@@ -11882,6 +12515,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "dr.cakmakci",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Güngör Aydınlatma, Fatih Caddesi 15",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://drcakmakci.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.9144401550293,
+  "lng": 38.384376525878906,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.9144401550293,38.384376525878906",
+  "yandex_url": "https://yandex.com/maps/?text=dr.cakmakci&ll=38.384376525878906%2C40.9144401550293&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "c22e9bb8-c184-4d69-a28b-84059c866d31",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "ekiz oto elektrik",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -12136,7 +12798,7 @@
   "ilce": null,
   "mahalle": null,
   "telefon": null,
-  "web": null,
+  "web": "http://giresunpsikolojikdanismanlik.com/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -12149,7 +12811,8 @@
   "fsq_id": "5cb110d36336be002c42690d",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "5074c53d-7298-4345-98b0-f305867b831e"
  },
  {
   "ad": "giresun özel ada hastanesi ORTOPEDİ VE TRAVMATOLOJİ BÖLÜMÜ",
@@ -12689,7 +13352,9 @@
   "fsq_id": "504da295e4b0838e31500cad",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "7ff410c0-caf6-43e5-9450-1805cadf28f0",
+  "alt": "muayenehane"
  },
  {
   "ad": "sağlık ocağı",
@@ -13148,7 +13813,9 @@
   "fsq_id": "56178d4f498e7d9d91ca30fd",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "40510a8c-c81e-4114-ad90-068c882735ed",
+  "alt": "muayenehane"
  },
  {
   "ad": "Çocuk Cerrahi Servis",
@@ -13850,7 +14517,9 @@
   "fsq_id": "57b9b6da498e5394bbea11b9",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "4e64eab9-5275-434a-a24f-4b7d267dcee8",
+  "alt": "muayenehane"
  },
  {
   "ad": "İlçe Sağlık Müdürlüğü",
@@ -14121,6 +14790,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Şifadünyası",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Arifbey Caddesi 15",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.918251037597656,
+  "lng": 38.3852424621582,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.918251037597656,38.3852424621582",
+  "yandex_url": "https://yandex.com/maps/?text=Şifadünyası&ll=38.3852424621582%2C40.918251037597656&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "175533b8-8fd9-4a40-9981-a1067e52565f",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "şehit asteğmen nizamettin şensoy aile sağlığı merkezi",

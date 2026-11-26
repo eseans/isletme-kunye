@@ -87,7 +87,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d178941735"
   ],
-  "adres": "Şah Mah.",
+  "adres": "Şah mahallesi mem u zin bulvarı 89/2 sümer apt kat:2, Cizre",
   "il": null,
   "ilce": "Cizre",
   "mahalle": null,
@@ -105,7 +105,8 @@
   "fsq_id": "59dc6e173c858d74074ceb72",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "4b1d80d1-6395-4e27-bff2-16bbc975d11f"
  },
  {
   "ad": "BİLDENT AĞIZ VE DİŞ SAĞLIĞI KLİNİĞİ",
@@ -162,6 +163,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "DENTASAN",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Karayel Apt, Dicle Cd. No:30, Cizre",
+  "il": null,
+  "ilce": "Cizre",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.33049392700195,
+  "lng": 42.18976974487305,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.33049392700195,42.18976974487305",
+  "yandex_url": "https://yandex.com/maps/?text=DENTASAN&ll=42.18976974487305%2C37.33049392700195&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "a3d8b122-a85d-4bf8-a861-dc0097de927b",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Delal Dental",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -186,7 +216,8 @@
   "fsq_id": "6461fe1242239d5412611f0a",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "89c664b0-b410-4c8c-8063-011052826f2b"
  },
  {
   "ad": "Deniz Yigit Agiz ve Dis Poliklinigi",
@@ -222,12 +253,12 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d178941735"
   ],
-  "adres": "Dicle Mahallesi",
+  "adres": "Sanayi Cd. No:29, Cizre",
   "il": null,
   "ilce": null,
   "mahalle": null,
   "telefon": null,
-  "web": null,
+  "web": "https://www.instagram.com/dicle.firat_cizre/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -240,7 +271,8 @@
   "fsq_id": "599ef069f96b2c34681f259d",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "4a8197ac-8b6d-48d4-afad-ab302cbdc40b"
  },
  {
   "ad": "Dicle-Fırat Ağız ve Diş Sağlığı Polikliniği",
@@ -546,6 +578,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Kardent Ağız ve Diş Sağlığı Kliniği",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Cizre",
+  "il": null,
+  "ilce": "Cizre",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.3266716003418,
+  "lng": 42.187591552734375,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.3266716003418,42.187591552734375",
+  "yandex_url": "https://yandex.com/maps/?text=Kardent Ağız ve Diş Sağlığı Kliniği&ll=42.187591552734375%2C37.3266716003418&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "815807d0-7e81-4720-ae70-a81b9ea6e447",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Prf Uzman Mesut",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -571,6 +632,64 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "SehriNuh Agiz ve Dis Sagligi Poliklinigi",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Bahçeli Evler Mahallesi B pet karşısı Sadık künefe yanı Cizre Caddesi, temuz bulvarı şelale park evleri No:15",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.51845169067383,
+  "lng": 42.4447021484375,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.51845169067383,42.4447021484375",
+  "yandex_url": "https://yandex.com/maps/?text=SehriNuh Agiz ve Dis Sagligi Poliklinigi&ll=42.4447021484375%2C37.51845169067383&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "c89e0e10-69e9-440b-853f-dee1d17d5dd2",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Shirin",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "61. Cadde 7, Silopi",
+  "il": null,
+  "ilce": "Silopi",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.24899673461914,
+  "lng": 42.468379974365234,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.24899673461914,42.468379974365234",
+  "yandex_url": "https://yandex.com/maps/?text=Shirin&ll=42.468379974365234%2C37.24899673461914&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "d1f3c787-bdd0-4834-bbd0-b12c8fc2e777",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Silopi Dent Diş Kliniği",
@@ -600,6 +719,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Umut DİŞ Labor",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "SİLOPİ, Silopi",
+  "il": null,
+  "ilce": "Silopi",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.24671936035156,
+  "lng": 42.469688415527344,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.24671936035156,42.469688415527344",
+  "yandex_url": "https://yandex.com/maps/?text=Umut DİŞ Labor&ll=42.469688415527344%2C37.24671936035156&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "c8ba97eb-6724-4b89-95aa-d983701650bd",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "WhiTe Dent",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -625,6 +773,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "dentiva diş kliniği",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Gala Kuaför Yanı, Bahçelievler Mahallesi Kadın Doğum Hastanesi, Karşısı Sirnak 73000",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.517513275146484,
+  "lng": 42.444149017333984,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.517513275146484,42.444149017333984",
+  "yandex_url": "https://yandex.com/maps/?text=dentiva diş kliniği&ll=42.444149017333984%2C37.517513275146484&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "d2bccf79-00f3-4754-b858-f6d5f1447b51",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "dişçide",
@@ -789,6 +966,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Özel Gül Dent Agız Ve Diş sağlığı Muayenesi",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Silopi",
+  "il": null,
+  "ilce": "Silopi",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.24835968017578,
+  "lng": 42.45981979370117,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.24835968017578,42.45981979370117",
+  "yandex_url": "https://yandex.com/maps/?text=Özel Gül Dent Agız Ve Diş sağlığı Muayenesi&ll=42.45981979370117%2C37.24835968017578&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "7c2737b4-c0f0-4845-a9d1-3b1584f92659",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Özel Sevgi Diş Polikliniği",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -867,7 +1073,8 @@
   "fsq_id": "66fb04e475fc042d3fa93c48",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "ddbe501f-ee0e-4391-8215-15d244d5d30f"
  },
  {
   "ad": "Özel Örüncü Ağız Ve Diş Sağlığı Polikliniği",
@@ -1010,6 +1217,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "İDİL DİŞ HekİMİ SevİNÇ DİŞ KlİNİĞİ",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Diş Hekimi DİŞ HEKİMİ, İdil Devlet Hstanesi karşısı, Hastane Cd., İdil",
+  "il": null,
+  "ilce": "İdil",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.34060287475586,
+  "lng": 41.90137481689453,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.34060287475586,41.90137481689453",
+  "yandex_url": "https://yandex.com/maps/?text=İDİL DİŞ HekİMİ SevİNÇ DİŞ KlİNİĞİ&ll=41.90137481689453%2C37.34060287475586&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "12596697-79ba-4f71-9e44-bfae9557d3ac",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "İdil Devlet Hastanesi Diş Polikliniği",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -1096,6 +1332,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Şırnak Ağız ve Diş Sağlığı Merkezi",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Cumhuriyet Mahallesi İl Özel İdare Karşısı Pk:73000 Merkez/ŞIRNAK",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0486) 216 61 12",
+  "web": "http://www.sirnakadsm.saglik.gov.tr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.52399444580078,
+  "lng": 42.456581115722656,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.52399444580078,42.456581115722656",
+  "yandex_url": "https://yandex.com/maps/?text=Şırnak Ağız ve Diş Sağlığı Merkezi&ll=42.456581115722656%2C37.52399444580078&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "fd7a0bd3-5019-4f28-b1c9-a19d323c63c2",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Şırnak Dt.Nurullah Kadırhan Ağız Diş Sağlığı Merkezi",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -1121,5 +1386,34 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Şırnak İl Sağlık Müdürlüğü Cizre Ağız Ve Dİş Sağlığı Merkezİ",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Cizre",
+  "il": null,
+  "ilce": "Cizre",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.3155403137207,
+  "lng": 42.19202423095703,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.3155403137207,42.19202423095703",
+  "yandex_url": "https://yandex.com/maps/?text=Şırnak İl Sağlık Müdürlüğü Cizre Ağız Ve Dİş Sağlığı Merkezİ&ll=42.19202423095703%2C37.3155403137207&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "6d2d3dad-2c58-4cd4-892d-2fa79424488c",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  }
 ]

@@ -60,7 +60,7 @@
   "hizmet_ipuclari": [
    "4d954af4a243a5684765b473"
   ],
-  "adres": null,
+  "adres": "Hakimiyet Cd. NO : 3 D:a, Tire",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -78,7 +78,8 @@
   "fsq_id": "56090d89498e16b73a88e17f",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "bff8e5ee-3578-4a22-8b4c-9296912fdacc"
  },
  {
   "ad": "Acar Veteriner Kliniği",
@@ -133,6 +134,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Adnan Menderes Üniversitesi Veteriner Fakültesi",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Efeler",
+  "il": null,
+  "ilce": "Efeler",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.82827377319336,
+  "lng": 27.792295455932617,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.82827377319336,27.792295455932617",
+  "yandex_url": "https://yandex.com/maps/?text=Adnan Menderes Üniversitesi Veteriner Fakültesi&ll=27.792295455932617%2C37.82827377319336&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "47760c7e-6b11-4221-9ad8-e7f2bc5c498c",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Adsyb",
@@ -216,6 +246,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Ahmetoglu Veteriner Klinigi",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Karşıyaka Caddesi 37A, Ödemiş",
+  "il": null,
+  "ilce": "Ödemiş",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.22011184692383,
+  "lng": 27.973426818847656,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.22011184692383,27.973426818847656",
+  "yandex_url": "https://yandex.com/maps/?text=Ahmetoglu Veteriner Klinigi&ll=27.973426818847656%2C38.22011184692383&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "3ab87634-c50e-43fe-86c3-2dcab8186c66",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Akademi Veteriner Kliniği",
   "sektor": "veteriner",
   "kategori": "veteriner",
@@ -224,7 +283,7 @@
    "4d954af4a243a5684765b473",
    "56aa371be4b08b9a8d573508"
   ],
-  "adres": null,
+  "adres": "Vali Konağı Blv. No:15/A, Efeler",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -242,7 +301,66 @@
   "fsq_id": "5d48219168f174000837fa07",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "89eb639d-26f3-4464-9bcc-9feddc604e80"
+ },
+ {
+  "ad": "Akyol VeterİNer KlİNİĞİ",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Atatürk (Yeni) Bulvarı 60, Milas",
+  "il": null,
+  "ilce": "Milas",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.40009689331055,
+  "lng": 27.65373992919922,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.40009689331055,27.65373992919922",
+  "yandex_url": "https://yandex.com/maps/?text=Akyol VeterİNer KlİNİĞİ&ll=27.65373992919922%2C37.40009689331055&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "c045eca4-68a0-4df0-b0af-97421b8aba35",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Ali Babanın Çiftliği - Ödemiş,İzmir",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Ödemiş Merkez, Ödemiş",
+  "il": null,
+  "ilce": "Ödemiş",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.22807312011719,
+  "lng": 27.976892471313477,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.22807312011719,27.976892471313477",
+  "yandex_url": "https://yandex.com/maps/?text=Ali Babanın Çiftliği - Ödemiş,İzmir&ll=27.976892471313477%2C38.22807312011719&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "bc57cd1e-d6b0-4593-92d7-2da6c8f9f395",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Anda Veteriner Kliniği",
@@ -274,7 +392,8 @@
   "fsq_id": "5b0e7c01418686003913a036",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "839a73f8-73bf-40b9-8637-aca182306655"
  },
  {
   "ad": "Angora Veteriner Kliniği",
@@ -304,13 +423,42 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Angora Veteriner Kliniği",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Efeler",
+  "il": null,
+  "ilce": "Efeler",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.823486328125,
+  "lng": 27.87343978881836,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.823486328125,27.87343978881836",
+  "yandex_url": "https://yandex.com/maps/?text=Angora Veteriner Kliniği&ll=27.87343978881836%2C37.823486328125&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "3025230f-8352-4c3a-a8fc-ea91af3f45bf",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Animalya Veteriner Kliniği",
   "sektor": "veteriner",
   "kategori": "veteriner",
   "hizmet_ipuclari": [
    "4d954af4a243a5684765b473"
   ],
-  "adres": null,
+  "adres": "537. Sk. No: 27 B, Nazilli",
   "il": null,
   "ilce": "nazilli",
   "mahalle": null,
@@ -328,7 +476,66 @@
   "fsq_id": "624b03435fce9f72957ba1be",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "ebf7a051-0071-410a-89eb-61fa7d5d8620"
+ },
+ {
+  "ad": "Anka Veteriner Kliniği",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "76. Sk. No:47/B, Nazilli",
+  "il": null,
+  "ilce": "Nazilli",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.91751480102539,
+  "lng": 28.31764030456543,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.91751480102539,28.31764030456543",
+  "yandex_url": "https://yandex.com/maps/?text=Anka Veteriner Kliniği&ll=28.31764030456543%2C37.91751480102539&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "aef85818-3aff-4e32-ac2f-18604cc8edee",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Anka Veteriner Kliniği",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Hastane Cd. No:34/B, Bayındır",
+  "il": null,
+  "ilce": "Bayındır",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.21995544433594,
+  "lng": 27.651042938232422,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.21995544433594,27.651042938232422",
+  "yandex_url": "https://yandex.com/maps/?text=Anka Veteriner Kliniği&ll=27.651042938232422%2C38.21995544433594&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "e90989b3-bcf2-435a-95f9-823fae95c665",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Arda Veteriner Kliniği",
@@ -337,7 +544,7 @@
   "hizmet_ipuclari": [
    "4d954af4a243a5684765b473"
   ],
-  "adres": null,
+  "adres": "altıntaş mh. 139sk. no.66.C, Nazilli",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -355,7 +562,8 @@
   "fsq_id": "576be77238fa0e9878596bc9",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "818b783c-29ed-470a-b9c9-f7c150010d39"
  },
  {
   "ad": "Army Veteriner Kliniği",
@@ -391,7 +599,7 @@
   "hizmet_ipuclari": [
    "4d954af4a243a5684765b473"
   ],
-  "adres": null,
+  "adres": "2006. Sk. No:3/B, Selçuk",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -409,7 +617,8 @@
   "fsq_id": "609136fcd7c7272119a7cd4b",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "8a64da57-4a6f-4aad-b415-973b550b66a3"
  },
  {
   "ad": "Arven Veteriner Kliniği",
@@ -436,7 +645,8 @@
   "fsq_id": "5bbf3c0767f62b002c165a0e",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "6e8a562e-317d-4a86-992d-22f8f02b0270"
  },
  {
   "ad": "Aryavet Veteriner Kliniği",
@@ -468,7 +678,37 @@
   "fsq_id": "56a5de08498e12d33048ecad",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "8d46acb4-c00d-4167-a68b-8fa7f90c0403"
+ },
+ {
+  "ad": "As-Vet Veteriner Kliniği/Ali Solak",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Cumhuriyet Mah, Kiraz",
+  "il": null,
+  "ilce": "Kiraz",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.22920227050781,
+  "lng": 28.207136154174805,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.22920227050781,28.207136154174805",
+  "yandex_url": "https://yandex.com/maps/?text=As-Vet Veteriner Kliniği/Ali Solak&ll=28.207136154174805%2C38.22920227050781&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "b61cbeca-150e-4be4-820f-7bfec79527a1",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Asli Veterinerlik Muayenesi",
@@ -524,6 +764,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Ateş Veteriner Kliniği",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Zafer Atatürk Caddesi NO: 123 D:126C, Ödemiş",
+  "il": null,
+  "ilce": "Ödemiş",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.228172302246094,
+  "lng": 27.986825942993164,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.228172302246094,27.986825942993164",
+  "yandex_url": "https://yandex.com/maps/?text=Ateş Veteriner Kliniği&ll=27.986825942993164%2C38.228172302246094&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "91a6aa48-03a4-4140-8ddb-b8874532a1d2",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Atilla Katırcı Veteriner Hekim",
@@ -613,7 +882,7 @@
   "hizmet_ipuclari": [
    "4d954af4a243a5684765b473"
   ],
-  "adres": null,
+  "adres": "Atatürk Caddesi 141A, Çine",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -631,7 +900,8 @@
   "fsq_id": "567120bc38fa2b0ac56d2f4a",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "fcb3675c-1ffb-46cf-8605-6a538302882e"
  },
  {
   "ad": "Aydoğdu Veteriner Kliniği",
@@ -715,6 +985,64 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Aydın Doğa Veteriner Kliniği",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Efekent Blv. Egelux residance a blok no 25I, Efeler",
+  "il": null,
+  "ilce": "Efeler",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.851680755615234,
+  "lng": 27.81667137145996,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.851680755615234,27.81667137145996",
+  "yandex_url": "https://yandex.com/maps/?text=Aydın Doğa Veteriner Kliniği&ll=27.81667137145996%2C37.851680755615234&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "e7797683-ba60-4d74-98d7-eb5992b1ed26",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Aydın Elta-Vet Veteriner Kliniği",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "1838 Sk No:1/C, Efeler",
+  "il": null,
+  "ilce": "Efeler",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://eltaveteriner.com.tr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.860015869140625,
+  "lng": 27.807527542114258,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.860015869140625,27.807527542114258",
+  "yandex_url": "https://yandex.com/maps/?text=Aydın Elta-Vet Veteriner Kliniği&ll=27.807527542114258%2C37.860015869140625&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "73b070e4-dd97-4d84-a632-56e48c3465a4",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Aydın Güven Veteriner Kliniği",
   "sektor": "veteriner",
   "kategori": "veteriner",
@@ -739,7 +1067,124 @@
   "fsq_id": "660e90d82585026f9c9a4b4f",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "ac242bab-2b73-4cd2-a095-7e27761adeac"
+ },
+ {
+  "ad": "Aydın Kuşçuluk",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "UMURLU/AYDIN, Efeler",
+  "il": null,
+  "ilce": "Efeler",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.aydinkusculuk.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.85079574584961,
+  "lng": 27.957962036132812,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.85079574584961,27.957962036132812",
+  "yandex_url": "https://yandex.com/maps/?text=Aydın Kuşçuluk&ll=27.957962036132812%2C37.85079574584961&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "cd94f36c-e64e-4836-8f22-8564b2e45ec8",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Aydın Menderes Üniversitesi Hayvan Hastanesi",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Efeler",
+  "il": null,
+  "ilce": "Efeler",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.83367919921875,
+  "lng": 27.80185890197754,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.83367919921875,27.80185890197754",
+  "yandex_url": "https://yandex.com/maps/?text=Aydın Menderes Üniversitesi Hayvan Hastanesi&ll=27.80185890197754%2C37.83367919921875&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "f0a85d6b-0de4-4357-860c-49c28f4c5aa7",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Aydın Merkez Veteriner Kliniği",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "218. Sk. No:6 D:1A, Efeler",
+  "il": null,
+  "ilce": "Efeler",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.84434127807617,
+  "lng": 27.850332260131836,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.84434127807617,27.850332260131836",
+  "yandex_url": "https://yandex.com/maps/?text=Aydın Merkez Veteriner Kliniği&ll=27.850332260131836%2C37.84434127807617&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "bc3e3f27-4f26-4e33-9c6e-39be012ebaac",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Aydın Veteriner Hekimleri Odası",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Kurtuluş Çine Cad, 1959. Sk. No:29 D:1, Efeler",
+  "il": null,
+  "ilce": "Efeler",
+  "mahalle": null,
+  "telefon": "(0256) 214 04 36",
+  "web": "http://aydinvho.org.tr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.846473693847656,
+  "lng": 27.84023094177246,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.846473693847656,27.84023094177246",
+  "yandex_url": "https://yandex.com/maps/?text=Aydın Veteriner Hekimleri Odası&ll=27.84023094177246%2C37.846473693847656&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "2bf687b8-04eb-4f7a-a75b-665b52f43d82",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Aydın Veteriner Kliniği",
@@ -767,6 +1212,122 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Aydın Vetpet",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Yörük Ali Efe Blv. No:25/B, Efeler",
+  "il": null,
+  "ilce": "Efeler",
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://aydinvetpet.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.853675842285156,
+  "lng": 27.81037139892578,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.853675842285156,27.81037139892578",
+  "yandex_url": "https://yandex.com/maps/?text=Aydın Vetpet&ll=27.81037139892578%2C37.853675842285156&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "e22f5ac4-4617-45a2-9502-397b570b3fa1",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Aydınyaprak Veteriner Kliniği",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Tevfik Fikret Cd. No32/A, Efeler",
+  "il": null,
+  "ilce": "Efeler",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.84250259399414,
+  "lng": 27.836732864379883,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.84250259399414,27.836732864379883",
+  "yandex_url": "https://yandex.com/maps/?text=Aydınyaprak Veteriner Kliniği&ll=27.836732864379883%2C37.84250259399414&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "591095d3-424a-4087-b2a3-3c207cf7c2b9",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Aziz Döner Veterinerlik&Tarım&Hayvancılık",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "ödemiş, Odemis",
+  "il": null,
+  "ilce": "Odemis",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.22807312011719,
+  "lng": 27.976892471313477,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.22807312011719,27.976892471313477",
+  "yandex_url": "https://yandex.com/maps/?text=Aziz Döner Veterinerlik&Tarım&Hayvancılık&ll=27.976892471313477%2C38.22807312011719&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "addb1cc6-0d0f-49e9-b03c-250302170cc2",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Aziz Döner Veterinerlik&Tarım&Hayvancılık",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "ödemiş, Odemis",
+  "il": null,
+  "ilce": "Odemis",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.245235443115234,
+  "lng": 28.010780334472656,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.245235443115234,28.010780334472656",
+  "yandex_url": "https://yandex.com/maps/?text=Aziz Döner Veterinerlik&Tarım&Hayvancılık&ll=28.010780334472656%2C38.245235443115234&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "31e3aef5-2058-4f61-9993-f9ac7cbadc7a",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "BUDAKLI VETERİNER KLİNİĞİ",
@@ -821,6 +1382,93 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Bay - Tar Veteriner Kliniği",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "4086 sk No :15/A, Efeler",
+  "il": null,
+  "ilce": "Efeler",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.84854507446289,
+  "lng": 27.960487365722656,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.84854507446289,27.960487365722656",
+  "yandex_url": "https://yandex.com/maps/?text=Bay - Tar Veteriner Kliniği&ll=27.960487365722656%2C37.84854507446289&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "cc8f2b5b-d362-418e-b963-22651a41bf47",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Bayaslan Veteriner Kliniği",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Hürriyet Cd. No:290, Nazilli",
+  "il": null,
+  "ilce": "Nazilli",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.908050537109375,
+  "lng": 28.323768615722656,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.908050537109375,28.323768615722656",
+  "yandex_url": "https://yandex.com/maps/?text=Bayaslan Veteriner Kliniği&ll=28.323768615722656%2C37.908050537109375&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "cfbfc018-b927-4e14-bb3c-021c3bbcd60d",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Baykal Veteriner Kliniği",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Hükümet Önü Caddesi 27D, Bayındır",
+  "il": null,
+  "ilce": "Bayındır",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.220157623291016,
+  "lng": 27.651540756225586,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.220157623291016,27.651540756225586",
+  "yandex_url": "https://yandex.com/maps/?text=Baykal Veteriner Kliniği&ll=27.651540756225586%2C38.220157623291016&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "c4f912a8-d7d8-41b0-833d-70f08eeb1b05",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Baykara Veteriner Kliniği",
@@ -931,6 +1579,64 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Bereket veteriner kliniği",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "karaburç mahallesi , Kiraz",
+  "il": null,
+  "ilce": "Kiraz",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.233036041259766,
+  "lng": 28.298856735229492,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.233036041259766,28.298856735229492",
+  "yandex_url": "https://yandex.com/maps/?text=Bereket veteriner kliniği&ll=28.298856735229492%2C38.233036041259766&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "ff56396d-0066-4107-8331-d55c62c88924",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Birgi Veteriner Kliniği",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Şht. Öz Polat Cd. No:91 D:93, Ödemiş",
+  "il": null,
+  "ilce": "Ödemiş",
+  "mahalle": null,
+  "telefon": "(0232) 545 42 50",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.221534729003906,
+  "lng": 27.97547149658203,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.221534729003906,27.97547149658203",
+  "yandex_url": "https://yandex.com/maps/?text=Birgi Veteriner Kliniği&ll=27.97547149658203%2C38.221534729003906&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "33972d46-f1fc-4fec-bc1e-9af32574d187",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Bucak Veterinerlik",
   "sektor": "veteriner",
   "kategori": "veteriner",
@@ -964,7 +1670,7 @@
   "hizmet_ipuclari": [
    "4d954af4a243a5684765b473"
   ],
-  "adres": null,
+  "adres": "2025. Sokak 8A, Efeler",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -982,7 +1688,8 @@
   "fsq_id": "5e664cc9d9921f0008bc32bd",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "fb9f141d-8b00-4781-93a8-3d5b1b32031e"
  },
  {
   "ad": "Bulvarveterinerklinigi",
@@ -1048,7 +1755,8 @@
   "fsq_id": "5aa2d46b8c812a40bb9896a0",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "d27615b1-a7f8-4c58-81c8-5bdefe1de580"
  },
  {
   "ad": "Böcekli Veteriner Kliniği",
@@ -1075,7 +1783,8 @@
   "fsq_id": "55783c50498e26da4d3dc091",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "71f968ac-c3fa-4be6-a72e-436575902b5e"
  },
  {
   "ad": "Can Dostum Veteriner Kliniği",
@@ -1159,6 +1868,151 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Canvet Veterinerlik Hizmetleri ve Medikal Ürünler San Tic LtdŞti ",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Atatürk Caddesi 18, Kiraz",
+  "il": null,
+  "ilce": "Kiraz",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.23126983642578,
+  "lng": 28.21162986755371,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.23126983642578,28.21162986755371",
+  "yandex_url": "https://yandex.com/maps/?text=Canvet Veterinerlik Hizmetleri ve Medikal Ürünler San Tic LtdŞti &ll=28.21162986755371%2C38.23126983642578&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "17678287-1feb-49b1-a56a-c0dcd05bf806",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Central Vet",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Emine Tümer Sokak 4, Kuşadası",
+  "il": null,
+  "ilce": "Kuşadası",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.centralveteriner.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.86471939086914,
+  "lng": 27.26931381225586,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.86471939086914,27.26931381225586",
+  "yandex_url": "https://yandex.com/maps/?text=Central Vet&ll=27.26931381225586%2C37.86471939086914&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "9703107f-ce12-408a-a970-4bac49019359",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Class Pet Shop",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "türkmen mahallesi turgut özal bulvarı ada modern sitesi, Kuşadası",
+  "il": null,
+  "ilce": "Kuşadası",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.869232177734375,
+  "lng": 27.274789810180664,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.869232177734375,27.274789810180664",
+  "yandex_url": "https://yandex.com/maps/?text=Class Pet Shop&ll=27.274789810180664%2C37.869232177734375&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "550e0934-9693-4906-86c9-da421c8a8255",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Cozum Veteriner Klinigi",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Şehit Ozpolat caddesi no:47-49/B, Ödemiş",
+  "il": null,
+  "ilce": "Ödemiş",
+  "mahalle": null,
+  "telefon": "(0232) 544 44 16",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.22337341308594,
+  "lng": 27.977252960205078,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.22337341308594,27.977252960205078",
+  "yandex_url": "https://yandex.com/maps/?text=Cozum Veteriner Klinigi&ll=27.977252960205078%2C38.22337341308594&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "e9039902-0c69-417d-a7a9-7e85bb717e37",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "DEHA Veteriner Kliniği",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Çam Sk NO:5/A, Tire",
+  "il": null,
+  "ilce": "Tire",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.09750747680664,
+  "lng": 27.72085189819336,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.09750747680664,27.72085189819336",
+  "yandex_url": "https://yandex.com/maps/?text=DEHA Veteriner Kliniği&ll=27.72085189819336%2C38.09750747680664&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "b9cf82dd-b0c0-427a-9be5-b5ecf7d567aa",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "DEVA VETERİNER POLiKLİNİĞİ",
   "sektor": "veteriner",
   "kategori": "veteriner",
@@ -1186,6 +2040,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Dagdeviren Veteriner Klinigi",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Çine Cd. no:6/b, Koçarlı",
+  "il": null,
+  "ilce": "Koçarlı",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.763206481933594,
+  "lng": 27.708202362060547,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.763206481933594,27.708202362060547",
+  "yandex_url": "https://yandex.com/maps/?text=Dagdeviren Veteriner Klinigi&ll=27.708202362060547%2C37.763206481933594&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "aaacaa23-6570-48c2-b281-57a6b7223a04",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Danaci-Vet Veteriner Kliniği",
   "sektor": "veteriner",
   "kategori": "veteriner",
@@ -1211,6 +2094,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Danacı Vetlife",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Bağarası Cd., Söke",
+  "il": null,
+  "ilce": "Söke",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.75044250488281,
+  "lng": 27.412126541137695,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.75044250488281,27.412126541137695",
+  "yandex_url": "https://yandex.com/maps/?text=Danacı Vetlife&ll=27.412126541137695%2C37.75044250488281&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "d5c44e74-6894-4f51-ae8b-ea90caf82194",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Davutlar Veteriner Kliniği",
@@ -1245,6 +2157,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Davutlar Veteriner Kliniği",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Menderes Cd. no:73, Kuşadası",
+  "il": null,
+  "ilce": "Kuşadası",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.davutlarvet.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.733238220214844,
+  "lng": 27.28782844543457,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.733238220214844,27.28782844543457",
+  "yandex_url": "https://yandex.com/maps/?text=Davutlar Veteriner Kliniği&ll=27.28782844543457%2C37.733238220214844&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "b89a7445-638f-49e7-9e18-99d1fae9e415",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Demir Veteriner Polikliniği",
   "sektor": "veteriner",
   "kategori": "veteriner",
@@ -1272,6 +2213,64 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Demir Veterinerlik Aydın",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Muradım Yapı Koop. Sitesi, Efeler mah. Reyhan cad, 1401. Sk. 1C, Efeler",
+  "il": null,
+  "ilce": "Efeler",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.84367752075195,
+  "lng": 27.825557708740234,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.84367752075195,27.825557708740234",
+  "yandex_url": "https://yandex.com/maps/?text=Demir Veterinerlik Aydın&ll=27.825557708740234%2C37.84367752075195&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "35ce749e-d737-4856-9b1a-9ce8cf89f84f",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Demİr Veteriner Klİnİğİ",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Manyası Cd. No:91, Ödemiş",
+  "il": null,
+  "ilce": "Ödemiş",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.230865478515625,
+  "lng": 27.96567726135254,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.230865478515625,27.96567726135254",
+  "yandex_url": "https://yandex.com/maps/?text=Demİr Veteriner Klİnİğİ&ll=27.96567726135254%2C38.230865478515625&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "171c28ce-fc45-4211-b596-f0f3f99f66e7",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Deniz Veteriner Kliniği",
   "sektor": "veteriner",
   "kategori": "veteriner",
@@ -1297,6 +2296,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Deniz Veteriner Kliniği",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Turan Mh. 19 Mayıs Blv, 348. Sk. no:15/b, Nazilli",
+  "il": null,
+  "ilce": "Nazilli",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.915916442871094,
+  "lng": 28.329490661621094,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.915916442871094,28.329490661621094",
+  "yandex_url": "https://yandex.com/maps/?text=Deniz Veteriner Kliniği&ll=28.329490661621094%2C37.915916442871094&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "6ef7c6ad-1ee1-4680-aacd-676c0c7906a2",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Derman Veteriner Kliniği",
@@ -1354,6 +2382,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Dizayn Profil",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "SANAYİ SİTESİ 28 SK NO 37, Ödemiş",
+  "il": null,
+  "ilce": "Ödemiş",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.21795654296875,
+  "lng": 27.970224380493164,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.21795654296875,27.970224380493164",
+  "yandex_url": "https://yandex.com/maps/?text=Dizayn Profil&ll=27.970224380493164%2C38.21795654296875&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "f182d96d-0875-471a-983f-3952f3e3f203",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "DoctorPet Veteriner Kliniği",
   "sektor": "veteriner",
   "kategori": "veteriner",
@@ -1379,7 +2436,66 @@
   "fsq_id": "67e5449e64f10a2f9ce009cd",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "71d820eb-590b-4a9e-b658-d3f53fcd755c"
+ },
+ {
+  "ad": "Dokuz Eylul Universitesi Kiraz Veteriner Fakultesi",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Kiraz Sokak 3, Kiraz",
+  "il": null,
+  "ilce": "Kiraz",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.22988510131836,
+  "lng": 28.204923629760742,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.22988510131836,28.204923629760742",
+  "yandex_url": "https://yandex.com/maps/?text=Dokuz Eylul Universitesi Kiraz Veteriner Fakultesi&ll=28.204923629760742%2C38.22988510131836&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "bce4b57b-1da1-4442-bde3-3e07c91b0544",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Dost PetShop",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Ata mahallesi, Çevre Blv. No:78, Efeler",
+  "il": null,
+  "ilce": "Efeler",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.dostpetshop.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.83296585083008,
+  "lng": 27.857177734375,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.83296585083008,27.857177734375",
+  "yandex_url": "https://yandex.com/maps/?text=Dost PetShop&ll=27.857177734375%2C37.83296585083008&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "1a2adc79-aba5-42c5-847d-b8c923d26d54",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Dost Veteriner Kliniği",
@@ -1409,13 +2525,42 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Dost Veteriner Kliniği",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "ismet inonu bul, Efeler",
+  "il": null,
+  "ilce": "Efeler",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.817481994628906,
+  "lng": 27.829511642456055,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.817481994628906,27.829511642456055",
+  "yandex_url": "https://yandex.com/maps/?text=Dost Veteriner Kliniği&ll=27.829511642456055%2C37.817481994628906&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "df14a6bc-d28b-4d0a-8a20-85c50ac9b780",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Doğa Veteriner Kliniği",
   "sektor": "veteriner",
   "kategori": "veteriner",
   "hizmet_ipuclari": [
    "4d954af4a243a5684765b473"
   ],
-  "adres": null,
+  "adres": "Beş Eylül Cd. No:2A, Nazilli",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -1433,7 +2578,8 @@
   "fsq_id": "548ebf15498e656189707bce",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "a0e47219-1776-4756-b866-3cf1016f89d7"
  },
  {
   "ad": "Doğa Veteriner Kliniği",
@@ -1460,7 +2606,37 @@
   "fsq_id": "5b01a7f95f68b90039a1ba03",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "fce149f5-6626-481d-a2f2-de30f7093116"
+ },
+ {
+  "ad": "Dr. Dolittle Veteriner Saglik Merkezi",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Türkmen Mahallesi, Candan Tarhan Bulvarı No :160, Kuşadası",
+  "il": null,
+  "ilce": "Kuşadası",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.drdolittleveterinerlik.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.86403274536133,
+  "lng": 27.26750946044922,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.86403274536133,27.26750946044922",
+  "yandex_url": "https://yandex.com/maps/?text=Dr. Dolittle Veteriner Saglik Merkezi&ll=27.26750946044922%2C37.86403274536133&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "ff4dc533-265c-4a02-9be5-1180a213eb8a",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Dr. Dollitle Veteriner Kliniği",
@@ -1514,7 +2690,8 @@
   "fsq_id": "56934a34498eff2f81b15de0",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "e247d874-3893-437c-993e-1912e01dd6ad"
  },
  {
   "ad": "EFE VETERİNER KLİNİĞİ",
@@ -1541,7 +2718,66 @@
   "fsq_id": "53c67636498e3c9a5c97aa1d",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "058bde63-da7a-4e12-9092-9bf256f8ac1d"
+ },
+ {
+  "ad": "EGE YEM & Petshop",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Şht. Pyd. Er Mehmet Ali Tosun Bulvarı 120, Efeler",
+  "il": null,
+  "ilce": "Efeler",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.82345962524414,
+  "lng": 27.87527847290039,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.82345962524414,27.87527847290039",
+  "yandex_url": "https://yandex.com/maps/?text=EGE YEM & Petshop&ll=27.87527847290039%2C37.82345962524414&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "b88148c5-18bf-41f4-b63a-8a8135f7293d",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "ETİK Veteriner Kliniği",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Namık Kemal Caddesi 13, Efeler",
+  "il": null,
+  "ilce": "Efeler",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.84952926635742,
+  "lng": 27.959016799926758,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.84952926635742,27.959016799926758",
+  "yandex_url": "https://yandex.com/maps/?text=ETİK Veteriner Kliniği&ll=27.959016799926758%2C37.84952926635742&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "89b97ab4-59f5-4965-a7af-4ab8dc650d31",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Ece Veteriner Kliniği",
@@ -1595,7 +2831,8 @@
   "fsq_id": "621f572d26a54a489c6831db",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "42f912fb-dc9d-49ba-acef-9d5d343f8e38"
  },
  {
   "ad": "Efe Pati Veteriner Kliniği",
@@ -1623,6 +2860,93 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Efe Veteriner",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Gümüş Pala Cd. 96/A, Tire",
+  "il": null,
+  "ilce": "Tire",
+  "mahalle": null,
+  "telefon": "(0232) 512 05 55",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.08778381347656,
+  "lng": 27.735933303833008,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.08778381347656,27.735933303833008",
+  "yandex_url": "https://yandex.com/maps/?text=Efe Veteriner&ll=27.735933303833008%2C38.08778381347656&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "60f59744-b01c-453e-87fd-77b31c907b55",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Efe Veteriner Kliniği",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Kemer Mah, Efeler",
+  "il": null,
+  "ilce": "Efeler",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.86003875732422,
+  "lng": 27.8167667388916,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.86003875732422,27.8167667388916",
+  "yandex_url": "https://yandex.com/maps/?text=Efe Veteriner Kliniği&ll=27.8167667388916%2C37.86003875732422&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "9ff9ebff-cb76-4704-80d3-e658286be4bc",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Efe Veteriner Kliniği",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Ayko 1. Cd. No:2, Efeler",
+  "il": null,
+  "ilce": "Efeler",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.85862731933594,
+  "lng": 27.821359634399414,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.85862731933594,27.821359634399414",
+  "yandex_url": "https://yandex.com/maps/?text=Efe Veteriner Kliniği&ll=27.821359634399414%2C37.85862731933594&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "954646d4-3e54-402f-b031-0252634e9664",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Efe Veteriner Muayenehanesi",
@@ -1734,13 +3058,42 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Ege Veteriner Kliniği",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Bayındır",
+  "il": null,
+  "ilce": "Bayındır",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.22244644165039,
+  "lng": 27.6506404876709,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.22244644165039,27.6506404876709",
+  "yandex_url": "https://yandex.com/maps/?text=Ege Veteriner Kliniği&ll=27.6506404876709%2C38.22244644165039&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "eb31f4b8-1a4e-4df7-9a47-b5bc05a8f4a2",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Egemen Veteriner Klinigi",
   "sektor": "veteriner",
   "kategori": "veteriner",
   "hizmet_ipuclari": [
    "4d954af4a243a5684765b473"
   ],
-  "adres": null,
+  "adres": "Çine Caddesi 19, Efeler",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -1758,7 +3111,8 @@
   "fsq_id": "55713b3b498e7e23ce268af9",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "3c6ced90-a275-4ce5-9134-c2cfae80e121"
  },
  {
   "ad": "Egetek Veteriner ve Poliklinik Hizmetleri",
@@ -1767,7 +3121,7 @@
   "hizmet_ipuclari": [
    "4d954af4a243a5684765b473"
   ],
-  "adres": null,
+  "adres": "187/1. Sk. No:14, Nazilli",
   "il": null,
   "ilce": "Nazilli",
   "mahalle": null,
@@ -1785,7 +3139,8 @@
   "fsq_id": "543773d8498e898648fdf32c",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "2403af82-ca6e-44fd-ba82-2467484c5505"
  },
  {
   "ad": "Eke Veteriner Kliniği",
@@ -1869,6 +3224,64 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Elevage de Breton'el",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Nazilli Organize sanayi, Nazilli",
+  "il": null,
+  "ilce": "Nazilli",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.debretonel.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.892433166503906,
+  "lng": 28.308799743652344,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.892433166503906,28.308799743652344",
+  "yandex_url": "https://yandex.com/maps/?text=Elevage de Breton'el&ll=28.308799743652344%2C37.892433166503906&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "e7c80cc0-a12f-497c-817a-06bdf4c4411e",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Elit Veteriner Kliniği",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Şht. Mustafa Arslan Blv. No:57, Nazilli",
+  "il": null,
+  "ilce": "Nazilli",
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://www.elitveteriner.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.91236114501953,
+  "lng": 28.309661865234375,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.91236114501953,28.309661865234375",
+  "yandex_url": "https://yandex.com/maps/?text=Elit Veteriner Kliniği&ll=28.309661865234375%2C37.91236114501953&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "f518af0d-e5b3-4b76-8575-0cfad0ee4330",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Elit Veteriner Polikliniği",
   "sektor": "veteriner",
   "kategori": "veteriner",
@@ -1935,7 +3348,7 @@
   "ilce": null,
   "mahalle": null,
   "telefon": null,
-  "web": null,
+  "web": "https://www.esenveterinerklinigi.com/",
   "sosyal": [
    {
     "tur": "instagram",
@@ -1953,7 +3366,8 @@
   "fsq_id": "5bfd4a3956c89f002c54da76",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "9bec2995-7483-4897-808d-2b4a0f3a7f77"
  },
  {
   "ad": "Etik Veteriner kliniği",
@@ -2038,6 +3452,93 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "FEED LİFE Tarım ve Hayancılık",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Asya Sokak 14, Tire",
+  "il": null,
+  "ilce": "Tire",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.feedlifetarim.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.13618087768555,
+  "lng": 27.864147186279297,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.13618087768555,27.864147186279297",
+  "yandex_url": "https://yandex.com/maps/?text=FEED LİFE Tarım ve Hayancılık&ll=27.864147186279297%2C38.13618087768555&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "fad537f2-297c-47bd-bdc9-35a882277415",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "FEED LİFE Tarım ve Hayancılık",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Asya Sokak 14, Tire",
+  "il": null,
+  "ilce": "Tire",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.feedlifetarim.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.120086669921875,
+  "lng": 27.871530532836914,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.120086669921875,27.871530532836914",
+  "yandex_url": "https://yandex.com/maps/?text=FEED LİFE Tarım ve Hayancılık&ll=27.871530532836914%2C38.120086669921875&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "eccad017-258c-4767-8b8c-175b6c67c3a0",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "FarmPal Çine ",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "https://maps.app.goo.gl/LUeeJWvqgfU1enbYA, Çine",
+  "il": null,
+  "ilce": "Çine",
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://www.youtube.com/channel/UCmBIc9yK3ThzOBK7c_W0D9w/posts?pvf=CAI%253D",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.61423110961914,
+  "lng": 28.06014060974121,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.61423110961914,28.06014060974121",
+  "yandex_url": "https://yandex.com/maps/?text=FarmPal Çine &ll=28.06014060974121%2C37.61423110961914&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "6336c0f0-ff2e-4396-85d9-2e700b1ab82f",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Filik Veteriner Kliniği",
   "sektor": "veteriner",
   "kategori": "veteriner",
@@ -2089,7 +3590,37 @@
   "fsq_id": "61911ec5fc8a821ac0e9bcb0",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "5c85cad8-075d-4533-a8a4-38deae328625"
+ },
+ {
+  "ad": "Friends Veterinary Clinic",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Kahramanlar Cd., Kuşadası",
+  "il": null,
+  "ilce": "Kuşadası",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.852989196777344,
+  "lng": 27.260761260986328,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.852989196777344,27.260761260986328",
+  "yandex_url": "https://yandex.com/maps/?text=Friends Veterinary Clinic&ll=27.260761260986328%2C37.852989196777344&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "466b7647-6e44-455f-83e9-813929ce650c",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Gaser Veteriner  Kliniği",
@@ -2117,6 +3648,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Genc-Vet Veterinerlik",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Yeşim Sk. No:42, Ödemiş",
+  "il": null,
+  "ilce": "Ödemiş",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.226016998291016,
+  "lng": 27.976402282714844,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.226016998291016,27.976402282714844",
+  "yandex_url": "https://yandex.com/maps/?text=Genc-Vet Veterinerlik&ll=27.976402282714844%2C38.226016998291016&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "c69f3502-cefc-4463-8058-42c18823f519",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Gencvet",
@@ -2254,6 +3814,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Gmg pharma Petshop",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Beşgöz Cd. 64/A, Ödemiş",
+  "il": null,
+  "ilce": "Ödemiş",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.22299575805664,
+  "lng": 27.978986740112305,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.22299575805664,27.978986740112305",
+  "yandex_url": "https://yandex.com/maps/?text=Gmg pharma Petshop&ll=27.978986740112305%2C38.22299575805664&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "684f0e15-7746-4e18-b2d4-6a5812cabe06",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "GÖKTÜRK VETERİNERLİK",
   "sektor": "veteriner",
   "kategori": "veteriner",
@@ -2279,6 +3868,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Gökçe Veteriner Kliniği",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Ulus Meydanı No:11-B, Ödemiş",
+  "il": null,
+  "ilce": "Ödemiş",
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://instagram.com/gokceveteriner?igshid=YmMyMTA2M2Y%3D",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.22947311401367,
+  "lng": 27.977664947509766,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.22947311401367,27.977664947509766",
+  "yandex_url": "https://yandex.com/maps/?text=Gökçe Veteriner Kliniği&ll=27.977664947509766%2C38.22947311401367&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "961d9e75-8d97-4da0-abd3-52dc83c2811d",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Gözüm Veteriner Kliniği",
@@ -2362,6 +3980,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Halikarnas Veteriner Kliniği",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Aydın Cd. No:82C, Söke",
+  "il": null,
+  "ilce": "Söke",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.75824737548828,
+  "lng": 27.409753799438477,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.75824737548828,27.409753799438477",
+  "yandex_url": "https://yandex.com/maps/?text=Halikarnas Veteriner Kliniği&ll=27.409753799438477%2C37.75824737548828&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "825ba0c4-6eca-4f04-bff7-fd8401fccb04",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Hayat Veteriner Klinigi",
   "sektor": "veteriner",
   "kategori": "veteriner",
@@ -2386,7 +4033,8 @@
   "fsq_id": "5bacacfd67f62b002cacc502",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "87569db5-fd9d-427e-9237-165eae28faae"
  },
  {
   "ad": "Hayat Veteriner Kliniği Tire",
@@ -2498,6 +4146,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Istasyon Veteriner Poliklinigi",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Mahallesi, Alpaslan Sk. No:3, Ödemiş",
+  "il": null,
+  "ilce": "Ödemiş",
+  "mahalle": null,
+  "telefon": "(0232) 508 38 58",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.22553253173828,
+  "lng": 27.96599769592285,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.22553253173828,27.96599769592285",
+  "yandex_url": "https://yandex.com/maps/?text=Istasyon Veteriner Poliklinigi&ll=27.96599769592285%2C38.22553253173828&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "9ff4aa4e-1f57-44bb-9678-89c17a482b8b",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "KAR-VET karadeniz veteriner muayenehanesi",
   "sektor": "veteriner",
   "kategori": "veteriner",
@@ -2579,13 +4256,42 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Kar-Vet Veterinerlik Hizmetleri",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Jandarma Caddesi 4b, Efeler",
+  "il": null,
+  "ilce": "Efeler",
+  "mahalle": null,
+  "telefon": "(0256) 231 13 71",
+  "web": "https://karvet.com.tr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.845481872558594,
+  "lng": 27.872987747192383,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.845481872558594,27.872987747192383",
+  "yandex_url": "https://yandex.com/maps/?text=Kar-Vet Veterinerlik Hizmetleri&ll=27.872987747192383%2C37.845481872558594&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "7d4437ac-7d53-48a4-b7ee-2ee88577c2c4",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Karaboğa Veteriner Kliniği",
   "sektor": "veteriner",
   "kategori": "veteriner",
   "hizmet_ipuclari": [
    "4d954af4a243a5684765b473"
   ],
-  "adres": null,
+  "adres": "219. Sk. 24/A, Çine",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -2603,7 +4309,8 @@
   "fsq_id": "521f11b3498e4d9163705f95",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "7b7d509e-1a0c-46e7-849d-25bac18749a1"
  },
  {
   "ad": "Karcıoğlu Veteriner Kliniği",
@@ -2714,6 +4421,64 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Kaymakci Veteriner Klinigi",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Kazım Dirik Cd. No:35, Ödemiş",
+  "il": null,
+  "ilce": "Ödemiş",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.165287017822266,
+  "lng": 28.116920471191406,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.165287017822266,28.116920471191406",
+  "yandex_url": "https://yandex.com/maps/?text=Kaymakci Veteriner Klinigi&ll=28.116920471191406%2C38.165287017822266&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "8db8b4bb-cdef-491f-af4d-38bba31fcfdb",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Keskin Veteriner Klinigi",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Muğla Cd. 48 a, Bozdoğan",
+  "il": null,
+  "ilce": "Bozdoğan",
+  "mahalle": null,
+  "telefon": "(0256) 414 35 00",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.669769287109375,
+  "lng": 28.310197830200195,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.669769287109375,28.310197830200195",
+  "yandex_url": "https://yandex.com/maps/?text=Keskin Veteriner Klinigi&ll=28.310197830200195%2C37.669769287109375&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "c67ed3c6-d5ed-4b35-846b-ac36d562f7be",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Koala Pet Shop & Pet Kuaför",
   "sektor": "veteriner",
   "kategori": "veteriner",
@@ -2747,7 +4512,7 @@
   "hizmet_ipuclari": [
    "4d954af4a243a5684765b473"
   ],
-  "adres": null,
+  "adres": "Anadolu Blv. no:4 ba b blok, Efeler",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -2765,7 +4530,37 @@
   "fsq_id": "611a5bb8d1ed4f5a4670e7bb",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "49bd379f-91e2-40ee-b6e0-617f4c6d0394"
+ },
+ {
+  "ad": "Kumbur Veteriner Kliniği",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Yasemin Sokak 2, Söke",
+  "il": null,
+  "ilce": "Söke",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.704261779785156,
+  "lng": 27.5413818359375,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.704261779785156,27.5413818359375",
+  "yandex_url": "https://yandex.com/maps/?text=Kumbur Veteriner Kliniği&ll=27.5413818359375%2C37.704261779785156&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "dfe9f388-b019-474a-bad5-778d7ba19b07",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Kusadasi Central Veteriner Kliniği",
@@ -2795,6 +4590,93 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Kusadasi Modern Veterinary Clinic",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "301. Sk. No. 3, Kuşadası",
+  "il": null,
+  "ilce": "Kuşadası",
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://kusadasicagdasvet.wordpress.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.86728286743164,
+  "lng": 27.264684677124023,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.86728286743164,27.264684677124023",
+  "yandex_url": "https://yandex.com/maps/?text=Kusadasi Modern Veterinary Clinic&ll=27.264684677124023%2C37.86728286743164&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "d2e5d47b-32a4-4ce1-a11b-f87b96e74ff4",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Kusadası Cagdas Veteriner Klinigi",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "301. Sokak 3, Kuşadası",
+  "il": null,
+  "ilce": "Kuşadası",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.85969543457031,
+  "lng": 27.26567840576172,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.85969543457031,27.26567840576172",
+  "yandex_url": "https://yandex.com/maps/?text=Kusadası Cagdas Veteriner Klinigi&ll=27.26567840576172%2C37.85969543457031&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "9a0cdc7d-f8d8-476d-aa83-4bf0aa76c6d4",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Kuşadası Asvet Veteriner Kliniği",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Candan Tarhan Blv. 98/A, Kuşadası",
+  "il": null,
+  "ilce": "Kuşadası",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.asvetkusadasi.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.861122131347656,
+  "lng": 27.266027450561523,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.861122131347656,27.266027450561523",
+  "yandex_url": "https://yandex.com/maps/?text=Kuşadası Asvet Veteriner Kliniği&ll=27.266027450561523%2C37.861122131347656&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "e4fdc0c9-6f13-4628-a6c5-2d70ed77c98c",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Kuşadası CAN-VET",
   "sektor": "veteriner",
   "kategori": "veteriner",
@@ -2819,7 +4701,8 @@
   "fsq_id": "603d5f1f43bcda6171734c3f",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "4617ef2f-5263-4b84-b3f9-9ebc18405e04"
  },
  {
   "ad": "Kuşadası Umut Veteriner Kliniği",
@@ -2903,6 +4786,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Kuşadası Öz Genç Veteriner Kliniği",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Toplum Sk., Kuşadası",
+  "il": null,
+  "ilce": "Kuşadası",
+  "mahalle": null,
+  "telefon": "(0256) 614 75 71",
+  "web": "https://www.instagram.com/kusadasiozgencvet",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.85801696777344,
+  "lng": 27.267250061035156,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.85801696777344,27.267250061035156",
+  "yandex_url": "https://yandex.com/maps/?text=Kuşadası Öz Genç Veteriner Kliniği&ll=27.267250061035156%2C37.85801696777344&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "6385606c-e2ce-4940-9de1-7414de10d7c1",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "KÖY-VET",
   "sektor": "veteriner",
   "kategori": "veteriner",
@@ -2955,6 +4867,64 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Külah Veteriner Kliniği",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Karşıyaka Cd. No:4, Ödemiş",
+  "il": null,
+  "ilce": "Ödemiş",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.22331237792969,
+  "lng": 27.97283935546875,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.22331237792969,27.97283935546875",
+  "yandex_url": "https://yandex.com/maps/?text=Külah Veteriner Kliniği&ll=27.97283935546875%2C38.22331237792969&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "c612ecf1-e8ba-4292-b281-b02b77aff488",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Kırca Veteriner Kliniği",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Yüksel Yalova Cd. No:31, Söke",
+  "il": null,
+  "ilce": "Söke",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.75019454956055,
+  "lng": 27.40675926208496,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.75019454956055,27.40675926208496",
+  "yandex_url": "https://yandex.com/maps/?text=Kırca Veteriner Kliniği&ll=27.40675926208496%2C37.75019454956055&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "d3772cfb-7980-46c3-a9d0-f5362ed57106",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Latmos Veteriner Kliniği",
@@ -3011,6 +4981,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Mavi Pati Veteriner Klinigi",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "İnönü Blv. No:8 D:B, Tire",
+  "il": null,
+  "ilce": "Tire",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.10118865966797,
+  "lng": 27.725112915039062,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.10118865966797,27.725112915039062",
+  "yandex_url": "https://yandex.com/maps/?text=Mavi Pati Veteriner Klinigi&ll=27.725112915039062%2C38.10118865966797&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "a7d29252-bc1e-48e8-9a38-eea838509e9b",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Melih's ofis",
   "sektor": "veteriner",
   "kategori": "veteriner",
@@ -3036,6 +5035,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Melissa Akvaryum",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Akar Sk. 7/A, Söke",
+  "il": null,
+  "ilce": "Söke",
+  "mahalle": null,
+  "telefon": "(0256) 512 12 07",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.7502555847168,
+  "lng": 27.402799606323242,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.7502555847168,27.402799606323242",
+  "yandex_url": "https://yandex.com/maps/?text=Melissa Akvaryum&ll=27.402799606323242%2C37.7502555847168&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "19dd9ef4-8ac4-46ca-8aee-4b24145be659",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Merkez Veteriner Kliniği",
@@ -3143,7 +5171,8 @@
   "fsq_id": "61f12cf8d48093409be7f0e0",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "916bc800-8d89-4993-94f0-f72cfb4a0081"
  },
  {
   "ad": "Muhsin Veteriner Polikliniği",
@@ -3170,7 +5199,8 @@
   "fsq_id": "576c2132cd10a371fed95444",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "0ae070db-45fb-47b6-ac3e-f88e54c8c3e6"
  },
  {
   "ad": "Mustafa Demir Veteriner Kliniği",
@@ -3251,7 +5281,8 @@
   "fsq_id": "56f27811498e244e4c3b7275",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "ca215821-0d14-4f9e-b9a7-e79efeda9e57"
  },
  {
   "ad": "Novi Veteriner Kliniği",
@@ -3318,7 +5349,7 @@
   "il": null,
   "ilce": "KİRAZ",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0232) 572 33 31",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -3332,7 +5363,8 @@
   "fsq_id": "52b48fae11d29419ad78b370",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "f9d93269-b533-4a73-a55f-7d17aeaf5c3d"
  },
  {
   "ad": "Oba Vet Veteriner Kliniği",
@@ -3389,6 +5421,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Olea Veteriner Kliniği",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Şirin Evler Cd. No:33D, İncirliova",
+  "il": null,
+  "ilce": "İncirliova",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.85211181640625,
+  "lng": 27.728769302368164,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.85211181640625,27.728769302368164",
+  "yandex_url": "https://yandex.com/maps/?text=Olea Veteriner Kliniği&ll=27.728769302368164%2C37.85211181640625&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "725d3bf2-d96a-4d65-9b96-fe025290482a",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Olida Veteriner Kliniği",
   "sektor": "veteriner",
   "kategori": "veteriner",
@@ -3422,7 +5483,7 @@
   "hizmet_ipuclari": [
    "4d954af4a243a5684765b473"
   ],
-  "adres": null,
+  "adres": "A, Namık Kemal Cd. No:1, Selçuk",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -3440,7 +5501,8 @@
   "fsq_id": "5a1c1814f96b2c105e48c9f4",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "1eecca10-7c63-4440-84e0-bade64ff2fdd"
  },
  {
   "ad": "Oz_Vet Veteriner Kliniği",
@@ -3472,7 +5534,37 @@
   "fsq_id": "5d6cd2be8eab2200085aef68",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "9ebaa06c-e0f6-42b9-83e6-51217cf57d19"
+ },
+ {
+  "ad": "Papağanhane Pet Shop",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Pullukçu Sk. Osman Pullukçu Apt No:3/D, Söke",
+  "il": null,
+  "ilce": "Söke",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.75319290161133,
+  "lng": 27.408390045166016,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.75319290161133,27.408390045166016",
+  "yandex_url": "https://yandex.com/maps/?text=Papağanhane Pet Shop&ll=27.408390045166016%2C37.75319290161133&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "b960ceeb-79d5-4984-9a47-90b8cbbdcb29",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Pati Veteriner Klinigi",
@@ -3501,6 +5593,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Pati Veteriner Klinigi",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Aydın Cd. 111A, Söke",
+  "il": null,
+  "ilce": "Söke",
+  "mahalle": null,
+  "telefon": "(0256) 512 78 77",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.76090621948242,
+  "lng": 27.412736892700195,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.76090621948242,27.412736892700195",
+  "yandex_url": "https://yandex.com/maps/?text=Pati Veteriner Klinigi&ll=27.412736892700195%2C37.76090621948242&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "1557de4d-fc34-417a-8d83-c22cc581819f",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Pati Veteriner Kliniği",
@@ -3581,7 +5702,8 @@
   "fsq_id": "67daa87674edf7395fa39faa",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "8ac0a2c8-fa8c-416c-ab13-0d6707d22c58"
  },
  {
   "ad": "Pet Clinic Veteriner Kliniği",
@@ -3635,7 +5757,66 @@
   "fsq_id": "5f09ed414535ca165940c8b3",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "148024e7-bad5-4776-b74c-dd8626565736"
+ },
+ {
+  "ad": "PetShop Center pet kuaför2",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "aydın kuşadası kadınlar denizi, Kuşadası",
+  "il": null,
+  "ilce": "Kuşadası",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.84724426269531,
+  "lng": 27.244516372680664,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.84724426269531,27.244516372680664",
+  "yandex_url": "https://yandex.com/maps/?text=PetShop Center pet kuaför2&ll=27.244516372680664%2C37.84724426269531&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "5c1d55e8-be2c-4f9d-90e6-29b25223b14a",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Petchi PetMarket PetKuafor",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": "pet-kuafor",
+  "hizmet_ipuclari": [
+   "pet_groomer"
+  ],
+  "adres": "Davutlar Yolu Caddesi 61, Kuşadası",
+  "il": null,
+  "ilce": "Kuşadası",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.771846771240234,
+  "lng": 27.267776489257812,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.771846771240234,27.267776489257812",
+  "yandex_url": "https://yandex.com/maps/?text=Petchi PetMarket PetKuafor&ll=27.267776489257812%2C37.771846771240234&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "f9a72309-55bf-4e56-af44-f2e536b51ea4",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Pethane Veteriner Kliniği",
@@ -3670,6 +5851,93 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Petilidunya",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "5. Sokak 4, Çekmeköy",
+  "il": null,
+  "ilce": "Çekmeköy",
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://www.petilidunya.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.718570709228516,
+  "lng": 28.124980926513672,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.718570709228516,28.124980926513672",
+  "yandex_url": "https://yandex.com/maps/?text=Petilidunya&ll=28.124980926513672%2C37.718570709228516&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "2b3ad8b7-dd0e-4782-ae56-e596eb84bc53",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Petlantis Köpek Oteli",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": " . , Kuşadası",
+  "il": null,
+  "ilce": "Kuşadası",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://petlantiskopekciftligi.blogspot.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.82953643798828,
+  "lng": 27.369308471679688,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.82953643798828,27.369308471679688",
+  "yandex_url": "https://yandex.com/maps/?text=Petlantis Köpek Oteli&ll=27.369308471679688%2C37.82953643798828&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "95d1ae7a-3366-43ab-9bfe-3d52fecebf36",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Petshop center",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Yüksel Yalova Cd, 15. Sk. 501 46, Kuşadası",
+  "il": null,
+  "ilce": "Kuşadası",
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://www.google.com.tr/search?q=%C5%9Funki+konum&ie=UTF-8&oe=UTF-8&hl=tr-tr&client=safari#",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.8416862487793,
+  "lng": 27.24709129333496,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.8416862487793,27.24709129333496",
+  "yandex_url": "https://yandex.com/maps/?text=Petshop center&ll=27.24709129333496%2C37.8416862487793&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "eb5b98ef-816d-4638-b823-ce862232d17d",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Pipet Veteriner Kliniği",
   "sektor": "veteriner",
   "kategori": "veteriner",
@@ -3681,7 +5949,7 @@
   "ilce": "Efeler",
   "mahalle": null,
   "telefon": null,
-  "web": null,
+  "web": "http://instagram.com/pipetvetklinigi",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -3694,7 +5962,37 @@
   "fsq_id": "591b0f0ada5ede17565552f9",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "a8b0eb5b-b792-4bc8-b109-543c529ca95a"
+ },
+ {
+  "ad": "Plus veteriner kliniği",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Doğu, Çevre Blv. no:86B D:18, Efeler",
+  "il": null,
+  "ilce": "Efeler",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.833045959472656,
+  "lng": 27.857566833496094,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.833045959472656,27.857566833496094",
+  "yandex_url": "https://yandex.com/maps/?text=Plus veteriner kliniği&ll=27.857566833496094%2C37.833045959472656&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "b4efa13b-82b7-4be2-a8e3-acf80eea4a08",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Podovet Veteriner Kliniği",
@@ -3724,6 +6022,93 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Polivet Veteriner Klinigi",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Şen Sk. No:9, Köşk",
+  "il": null,
+  "ilce": "Köşk",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.85459899902344,
+  "lng": 28.05082893371582,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.85459899902344,28.05082893371582",
+  "yandex_url": "https://yandex.com/maps/?text=Polivet Veteriner Klinigi&ll=28.05082893371582%2C37.85459899902344&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "76b4b264-eee1-4c37-8332-775c1e6485ef",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Pufi Veteriner Kliniği",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Akçay Sk. no:5A, Söke",
+  "il": null,
+  "ilce": "Söke",
+  "mahalle": null,
+  "telefon": "(0256) 512 33 23",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.74739074707031,
+  "lng": 27.409530639648438,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.74739074707031,27.409530639648438",
+  "yandex_url": "https://yandex.com/maps/?text=Pufi Veteriner Kliniği&ll=27.409530639648438%2C37.74739074707031&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "6c39d996-e64c-4603-a8e1-c4904260af38",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Sabri Veteriner Polikliniği",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "D310 No:3, Ödemiş",
+  "il": null,
+  "ilce": "Ödemiş",
+  "mahalle": null,
+  "telefon": "(0232) 599 26 26",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.227474212646484,
+  "lng": 27.96734046936035,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.227474212646484,27.96734046936035",
+  "yandex_url": "https://yandex.com/maps/?text=Sabri Veteriner Polikliniği&ll=27.96734046936035%2C38.227474212646484&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "d6de4cb3-66d8-4d5b-9c88-8ac1a8a3dfbe",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Savaş Veteriner Hekim",
   "sektor": "veteriner",
   "kategori": "veteriner",
@@ -3751,6 +6136,93 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Savuran Veteriner Kliniği",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Karşıyaka Cd., Ödemiş",
+  "il": null,
+  "ilce": "Ödemiş",
+  "mahalle": null,
+  "telefon": "(0232) 544 50 02",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.22698974609375,
+  "lng": 27.974470138549805,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.22698974609375,27.974470138549805",
+  "yandex_url": "https://yandex.com/maps/?text=Savuran Veteriner Kliniği&ll=27.974470138549805%2C38.22698974609375&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "ab222ecc-48ba-449e-9f9d-2f1f7012dc59",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Sayik Sigorta Ve Veterinerlik",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "İncirliova",
+  "il": null,
+  "ilce": "İncirliova",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.851383209228516,
+  "lng": 27.723613739013672,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.851383209228516,27.723613739013672",
+  "yandex_url": "https://yandex.com/maps/?text=Sayik Sigorta Ve Veterinerlik&ll=27.723613739013672%2C37.851383209228516&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "a95dbd6e-2236-4c24-a132-d977e0574e0b",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Sayık Veteriner Klinigi",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Cumhuriyet Mah., İncirliova",
+  "il": null,
+  "ilce": "İncirliova",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.85130310058594,
+  "lng": 27.74256134033203,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.85130310058594,27.74256134033203",
+  "yandex_url": "https://yandex.com/maps/?text=Sayık Veteriner Klinigi&ll=27.74256134033203%2C37.85130310058594&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "99f7339e-28cf-469f-ae10-8558b0271d1c",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Sedat Veteriner Klinigi",
   "sektor": "veteriner",
   "kategori": "veteriner",
@@ -3776,6 +6248,64 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Selçuk Veteriner Kliniği",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "1019. Sk. 8/B, Selçuk",
+  "il": null,
+  "ilce": "Selçuk",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.94783401489258,
+  "lng": 27.371383666992188,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.94783401489258,27.371383666992188",
+  "yandex_url": "https://yandex.com/maps/?text=Selçuk Veteriner Kliniği&ll=27.371383666992188%2C37.94783401489258&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "b3a70e40-8dd9-4584-9c85-5d007df1117b",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Sila Veteriner Klinigi",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Sevinç Sk. No:13/A, Tire",
+  "il": null,
+  "ilce": "Tire",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.silaveteriner.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.098018646240234,
+  "lng": 27.72010040283203,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.098018646240234,27.72010040283203",
+  "yandex_url": "https://yandex.com/maps/?text=Sila Veteriner Klinigi&ll=27.72010040283203%2C38.098018646240234&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "d0dd1a4c-6cc6-480e-b2bf-c24404083729",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Soydağ Veteriner Kliniği",
@@ -3815,7 +6345,7 @@
   "il": null,
   "ilce": "Söke",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0256) 518 69 94",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -3829,7 +6359,37 @@
   "fsq_id": "5901e338c876c82edb47e55e",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "bd97bb63-3cb5-4f0e-a3c4-c5a074da3a10"
+ },
+ {
+  "ad": "Söke Ares Veteriner Kliniği",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "İncir Sk. no:14/A, Söke",
+  "il": null,
+  "ilce": "Söke",
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://g.co/kgs/FRtAU77",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.751564025878906,
+  "lng": 27.414592742919922,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.751564025878906,27.414592742919922",
+  "yandex_url": "https://yandex.com/maps/?text=Söke Ares Veteriner Kliniği&ll=27.414592742919922%2C37.751564025878906&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "88d728e6-ec15-4ce2-b2c4-3c86104d51c2",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Söke Pet Veteriner Kliniği",
@@ -3856,7 +6416,8 @@
   "fsq_id": "603500a1fe2d7137da5596dd",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "96d2366d-e365-4292-a6ab-b59911f81e67"
  },
  {
   "ad": "Söke-Vet Veteriner Polikliniği",
@@ -3919,7 +6480,7 @@
   "hizmet_ipuclari": [
    "4d954af4a243a5684765b473"
   ],
-  "adres": "Zeybek Mahallesi",
+  "adres": "1514. Sk., Efeler",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -3942,7 +6503,8 @@
   "fsq_id": "5751d31f498e0c4487e5f961",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "182504ba-6a54-4b24-a703-802199c9b316"
  },
  {
   "ad": "Tezcan Vet.",
@@ -3970,6 +6532,64 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Tire Empati Veteriner Kliniği",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Fahrettin Altay Cd. no:64 A - 7, Tire",
+  "il": null,
+  "ilce": "Tire",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.09132385253906,
+  "lng": 27.721324920654297,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.09132385253906,27.721324920654297",
+  "yandex_url": "https://yandex.com/maps/?text=Tire Empati Veteriner Kliniği&ll=27.721324920654297%2C38.09132385253906&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "63effb33-da28-4cbf-83c9-f09e840ee16e",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Tire Robin Veteriner Kliniği",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Süleyman Şah Cd. 10/A, Tire",
+  "il": null,
+  "ilce": "Tire",
+  "mahalle": null,
+  "telefon": "(0232) 511 41 51",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.09800338745117,
+  "lng": 27.726747512817383,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.09800338745117,27.726747512817383",
+  "yandex_url": "https://yandex.com/maps/?text=Tire Robin Veteriner Kliniği&ll=27.726747512817383%2C38.09800338745117&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "8b8059a3-55a6-4795-89ec-9a77d14dc573",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Tire Yöre Veteriner Kliniği",
@@ -4053,6 +6673,64 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Tropheus 09efe Üretim",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Adnan Menderes Blv. No:53, Efeler",
+  "il": null,
+  "ilce": "Efeler",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.84269714355469,
+  "lng": 27.8448543548584,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.84269714355469,27.8448543548584",
+  "yandex_url": "https://yandex.com/maps/?text=Tropheus 09efe Üretim&ll=27.8448543548584%2C37.84269714355469&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "9b0a5465-92f3-4f95-a4ab-613bea4a8ca7",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Tum Vet Veteriner Klinigi",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Çine Cd. 19/B, Efeler",
+  "il": null,
+  "ilce": "Efeler",
+  "mahalle": null,
+  "telefon": "(0256) 226 87 49",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.83739471435547,
+  "lng": 27.838010787963867,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.83739471435547,27.838010787963867",
+  "yandex_url": "https://yandex.com/maps/?text=Tum Vet Veteriner Klinigi&ll=27.838010787963867%2C37.83739471435547&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "6acc2e6e-cfdf-4419-abdc-13903d1c00e5",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Turhan Veteriner Kliniği",
   "sektor": "veteriner",
   "kategori": "veteriner",
@@ -4078,6 +6756,93 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Turhan Veteriner Kliniği",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "İhsan Hala, Türkmen Mahallesi Candan Tarhan Bulvarı, Çetin Emeç Cd. apt. 9/1b, Kuşadası",
+  "il": null,
+  "ilce": "Kuşadası",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.859920501708984,
+  "lng": 27.266328811645508,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.859920501708984,27.266328811645508",
+  "yandex_url": "https://yandex.com/maps/?text=Turhan Veteriner Kliniği&ll=27.266328811645508%2C37.859920501708984&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "22ec30a3-2224-45ac-bbe0-15f5ea85f44d",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "TuğVet Veteriner Kliniği",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Sefa Sk. no:31-33A, Ödemiş",
+  "il": null,
+  "ilce": "Ödemiş",
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://www.instagram.com/tugvetveterinerklinigi?igsh=MWJ3YXJ5cTR1anQ5ZA%3D%3D",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.23270034790039,
+  "lng": 27.97393226623535,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.23270034790039,27.97393226623535",
+  "yandex_url": "https://yandex.com/maps/?text=TuğVet Veteriner Kliniği&ll=27.97393226623535%2C38.23270034790039&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "5b363025-7062-4115-ada6-22d6facafadc",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Türkmen Veteri̇ner Kli̇ni̇ği̇",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Muzaffer Şerif Cd No:16, Ödemiş",
+  "il": null,
+  "ilce": "Ödemiş",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.23017883300781,
+  "lng": 27.963048934936523,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.23017883300781,27.963048934936523",
+  "yandex_url": "https://yandex.com/maps/?text=Türkmen Veteri̇ner Kli̇ni̇ği̇&ll=27.963048934936523%2C38.23017883300781&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "0ef09c01-f6bd-4fbb-9de7-1b7729264b29",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "TİRE VETERİNER KLİNİĞi",
@@ -4192,7 +6957,8 @@
   "fsq_id": "5b641e71bfc6d0002c18c748",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "915f4491-fad0-414c-b8c2-7914e8315443"
  },
  {
   "ad": "Umut-Vet",
@@ -4327,7 +7093,8 @@
   "fsq_id": "6481c422ef8fd170376a5c48",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "a581c9c7-5771-498c-8870-866cc98ebff1"
  },
  {
   "ad": "Venüs Veteriner Kliniği",
@@ -4388,7 +7155,8 @@
   "fsq_id": "5ee5e66f4595790008327eb2",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "c41853b8-8c61-4b47-b102-62d3bd80ff45"
  },
  {
   "ad": "Vet International Animal Health Center",
@@ -4445,6 +7213,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Vet-Gen Veteriner Muayenehanesi",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Batı Aydın Blv. 40 A, Efeler",
+  "il": null,
+  "ilce": "Efeler",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.83525085449219,
+  "lng": 27.839923858642578,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.83525085449219,27.839923858642578",
+  "yandex_url": "https://yandex.com/maps/?text=Vet-Gen Veteriner Muayenehanesi&ll=27.839923858642578%2C37.83525085449219&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "ff7f417c-920e-46fe-92c7-878ac0d79f94",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Vet-Life Veteriner Kliniği",
   "sektor": "veteriner",
   "kategori": "veteriner",
@@ -4469,7 +7266,8 @@
   "fsq_id": "50656835498e20f422e9186b",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "68a5c5c3-c4a4-4f2d-aa4b-25259bfdd3cb"
  },
  {
   "ad": "VetLine",
@@ -4673,12 +7471,12 @@
   "hizmet_ipuclari": [
    "4d954af4a243a5684765b473"
   ],
-  "adres": "Koçarlı Yolu Üzeri",
+  "adres": "Yıldırım Beyazıt Cd. no:23/A, İncirliova",
   "il": null,
   "ilce": "İncirliova",
   "mahalle": null,
   "telefon": null,
-  "web": null,
+  "web": "https://www.google.com/search?q=VETER%C4%B0NOVA+Veteriner+Klini%C4%9Fi+7%2F24&stick=H4sIAAAAAAAA_-NgU1I1qDA0SUpNTjEzNjNMMTEyNTW0AgoZpSRbGplZJBkbpKYk",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -4691,7 +7489,95 @@
   "fsq_id": "63fa1ff56dcea1186bcdeb88",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "f4eccb91-403c-4359-9cc5-62b62e2e806e"
+ },
+ {
+  "ad": "Vethan",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Gazi Cd., Ödemiş",
+  "il": null,
+  "ilce": "Ödemiş",
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://plus.google.com/105816986247000952149/about",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.23045349121094,
+  "lng": 27.97098159790039,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.23045349121094,27.97098159790039",
+  "yandex_url": "https://yandex.com/maps/?text=Vethan&ll=27.97098159790039%2C38.23045349121094&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "a56dbc98-2d11-4c8c-9f6f-b9b2e5d93979",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Vetinternational Animal Health Center",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Turgut Özal 2. Cadde 14/13, Kuşadası",
+  "il": null,
+  "ilce": "Kuşadası",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.vetinternational.com.tr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.85922622680664,
+  "lng": 27.26854705810547,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.85922622680664,27.26854705810547",
+  "yandex_url": "https://yandex.com/maps/?text=Vetinternational Animal Health Center&ll=27.26854705810547%2C37.85922622680664&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "9b7bd843-6230-4232-9962-13adca5b3a87",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Vetkocapinar VeterİNer KlİNİĞİ",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Fevzi Çakmak Cd. 5/1, Milas",
+  "il": null,
+  "ilce": "Milas",
+  "mahalle": null,
+  "telefon": "(0252) 542 30 04",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.400672912597656,
+  "lng": 27.655336380004883,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.400672912597656,27.655336380004883",
+  "yandex_url": "https://yandex.com/maps/?text=Vetkocapinar VeterİNer KlİNİĞİ&ll=27.655336380004883%2C37.400672912597656&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "008c831b-8175-4b87-b27b-c2f390ddafeb",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Vetmarin",
@@ -4718,8 +7604,67 @@
   "fsq_id": "526fd2bf11d2d475559b327f",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05",
-  "logo": "https://www.vetmarin.com/wp-content/uploads/2026/03/cropped-favicon-180x180.jpg"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.vetmarin.com/wp-content/uploads/2026/03/cropped-favicon-180x180.jpg",
+  "overture_id": "211cba47-bb60-4896-820c-518c8277c2e1"
+ },
+ {
+  "ad": "Vetmarın",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Hülya Koçyiğit Bulvarı, Kuşadası",
+  "il": null,
+  "ilce": "Kuşadası",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.87939453125,
+  "lng": 27.269134521484375,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.87939453125,27.269134521484375",
+  "yandex_url": "https://yandex.com/maps/?text=Vetmarın&ll=27.269134521484375%2C37.87939453125&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "10a432e5-9776-4318-942b-9331f60c9563",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Vini Veteriner Kliniği",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Davutlar Yolu Caddesi 26, Kuşadası",
+  "il": null,
+  "ilce": "Kuşadası",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.72230911254883,
+  "lng": 27.231639862060547,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.72230911254883,27.231639862060547",
+  "yandex_url": "https://yandex.com/maps/?text=Vini Veteriner Kliniği&ll=27.231639862060547%2C37.72230911254883&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "f9a43256-2efb-4852-9738-d26ce0018d9e",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Vitamin Vet Veteriner Kliniği",
@@ -4854,7 +7799,8 @@
   "fsq_id": "5906d9766bdee61383c64be0",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "33c5df8a-4675-438f-887f-17d372e8f8e9"
  },
  {
   "ad": "Yaşam Veteriner Kliniği Tanı Ve Tedavi Merkezi",
@@ -4884,6 +7830,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Yilmaz Yem and Pet Shop",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "17, Abuhayat Cd., Selçuk",
+  "il": null,
+  "ilce": "Selçuk",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.94417953491211,
+  "lng": 27.373050689697266,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.94417953491211,27.373050689697266",
+  "yandex_url": "https://yandex.com/maps/?text=Yilmaz Yem and Pet Shop&ll=27.373050689697266%2C37.94417953491211&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "4b071f1d-c369-4625-ad27-7d30e95718ad",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Yonka",
   "sektor": "veteriner",
   "kategori": "veteriner",
@@ -4909,6 +7884,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Yöre Veteriner Kliniği",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Aydın Koçarlı Yolu, 09970, Çakırbeyli, Koçarlı, Türkiye, Kocarlı",
+  "il": null,
+  "ilce": "Kocarlı",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.754119873046875,
+  "lng": 27.82854652404785,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.754119873046875,27.82854652404785",
+  "yandex_url": "https://yandex.com/maps/?text=Yöre Veteriner Kliniği&ll=27.82854652404785%2C37.754119873046875&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "f99c3fa8-8c7c-4920-a2d9-4194b266844c",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Yöre Veteriner Polikliniği",
@@ -4944,7 +7948,7 @@
   "hizmet_ipuclari": [
    "4d954af4a243a5684765b473"
   ],
-  "adres": null,
+  "adres": "230. Sk. No:12, Çine",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -4962,7 +7966,8 @@
   "fsq_id": "515ab8dee4b03f6bd3eef0f8",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "37abbd96-4f5e-456a-be97-7e27fd296947"
  },
  {
   "ad": "Yöre Veterinerlik Pınarlı Şubesi",
@@ -4990,6 +7995,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Yörevet",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Cihan Caddesi 16, Tire",
+  "il": null,
+  "ilce": "Tire",
+  "mahalle": null,
+  "telefon": "(0232) 511 16 77",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.09334182739258,
+  "lng": 27.739301681518555,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.09334182739258,27.739301681518555",
+  "yandex_url": "https://yandex.com/maps/?text=Yörevet&ll=27.739301681518555%2C38.09334182739258&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "e79b23d8-be58-4cb5-a101-12135066d290",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Yörük Medikal",
@@ -5079,7 +8113,7 @@
   "hizmet_ipuclari": [
    "4d954af4a243a5684765b473"
   ],
-  "adres": null,
+  "adres": "Nuri Güngör Cd. No:7B, Çine",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -5097,7 +8131,8 @@
   "fsq_id": "5bc33d2c18d43b002cc43c86",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "5eb0fb8f-a270-4a67-a732-c008ed50189a"
  },
  {
   "ad": "ata veteriner kliniği",
@@ -5124,7 +8159,8 @@
   "fsq_id": "5d0be03c96effb0030e35f4d",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "a6bfd5aa-6080-43b8-92a5-ca418a0d22e0"
  },
  {
   "ad": "ay-vet",
@@ -5205,7 +8241,8 @@
   "fsq_id": "56226fb8498e6d66780d0c65",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "407c2c2e-56a7-41fe-983e-14288ae755b9"
  },
  {
   "ad": "balci veteriner kliniği",
@@ -5260,6 +8297,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "can veteriner kliniği",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "19 Mayıs Caddesi 4A, Tire",
+  "il": null,
+  "ilce": "Tire",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.09497833251953,
+  "lng": 27.72589683532715,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.09497833251953,27.72589683532715",
+  "yandex_url": "https://yandex.com/maps/?text=can veteriner kliniği&ll=27.72589683532715%2C38.09497833251953&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "8a11b4b8-0aa2-4c4b-a272-acc49aec8446",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "canvet veteriner klinigi -selimiye",
@@ -5425,6 +8491,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "kosovali_petshop",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "İnönü Bulvarı 13, Tire",
+  "il": null,
+  "ilce": "Tire",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.101844787597656,
+  "lng": 27.72762107849121,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.101844787597656,27.72762107849121",
+  "yandex_url": "https://yandex.com/maps/?text=kosovali_petshop&ll=27.72762107849121%2C38.101844787597656&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "5e44648a-43c6-4f8c-b9f2-58994939c51e",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "med veteriner kliniği",
   "sektor": "veteriner",
   "kategori": "veteriner",
@@ -5485,7 +8580,7 @@
   "hizmet_ipuclari": [
    "4d954af4a243a5684765b473"
   ],
-  "adres": null,
+  "adres": "Samsun Caddesi 43C, Ödemiş",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -5503,7 +8598,8 @@
   "fsq_id": "55e3249c498ef4c732b22872",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "55dc09c9-988b-43af-bee2-9488c3b68d61"
  },
  {
   "ad": "pandora veteriner kliniği",
@@ -5512,12 +8608,12 @@
   "hizmet_ipuclari": [
    "4d954af4a243a5684765b473"
   ],
-  "adres": null,
+  "adres": "Ferit Demirel Ali Çallı Sk. No:5 D:3, Kuşadası",
   "il": null,
   "ilce": null,
   "mahalle": null,
   "telefon": null,
-  "web": null,
+  "web": "http://www.kusadasipandoraveterinerklinigi.com/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -5530,7 +8626,8 @@
   "fsq_id": "5882185d38730349af18efad",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "faf42815-03ab-4a65-82f6-36ba542bde2c"
  },
  {
   "ad": "polivet mithat kayhanlar",
@@ -5803,6 +8900,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "ÇArŞI VeterİNer KlİNİĞİ Ve İLaÇLari",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Mimar Sinan Cd. no:18/A, Nazilli",
+  "il": null,
+  "ilce": "Nazilli",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.91682052612305,
+  "lng": 28.327943801879883,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.91682052612305,28.327943801879883",
+  "yandex_url": "https://yandex.com/maps/?text=ÇArŞI VeterİNer KlİNİĞİ Ve İLaÇLari&ll=28.327943801879883%2C37.91682052612305&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "0e380a58-a8ac-4ad3-8947-6442c51c4a8d",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Çakır Veteriner Kliniği",
   "sektor": "veteriner",
   "kategori": "veteriner",
@@ -5884,6 +9010,93 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Çatal-Vet Veteriner Kliniği",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Yeşim Sokak 38, Ödemiş",
+  "il": null,
+  "ilce": "Ödemiş",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.22805404663086,
+  "lng": 27.976911544799805,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.22805404663086,27.976911544799805",
+  "yandex_url": "https://yandex.com/maps/?text=Çatal-Vet Veteriner Kliniği&ll=27.976911544799805%2C38.22805404663086&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "873e7976-401e-48c9-bf6f-0bfd70847995",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Çavdar Veteriner Kliniği",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Pazartepe Cd. No:19/C, Yenipazar",
+  "il": null,
+  "ilce": "Yenipazar",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.82299041748047,
+  "lng": 28.197494506835938,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.82299041748047,28.197494506835938",
+  "yandex_url": "https://yandex.com/maps/?text=Çavdar Veteriner Kliniği&ll=28.197494506835938%2C37.82299041748047&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "9e5f7b8d-3211-414d-b3e5-ac925929ca06",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Çavdar Çiftliği",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Ödemiş , Ödemiş",
+  "il": null,
+  "ilce": "Ödemiş",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.21928405761719,
+  "lng": 27.97223663330078,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.21928405761719,27.97223663330078",
+  "yandex_url": "https://yandex.com/maps/?text=Çavdar Çiftliği&ll=27.97223663330078%2C38.21928405761719&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "6be40c90-6b10-4e17-857f-55152bc4d057",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Çayağzı Veteriner Kliniği Dr.mehmet Öğretici",
   "sektor": "veteriner",
   "kategori": "veteriner",
@@ -5944,7 +9157,7 @@
   "hizmet_ipuclari": [
    "4d954af4a243a5684765b473"
   ],
-  "adres": null,
+  "adres": "Enstitü Cd. No:16/D, Tire",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -5962,7 +9175,8 @@
   "fsq_id": "51fa801b498e0a7716c9b7b4",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "9d462f38-a79c-4a05-a037-d3d99df77808"
  },
  {
   "ad": "ÖZGÜLER VETERİNERLİK",
@@ -6047,6 +9261,64 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Ödemiş Elit Veteriner Polikliniği",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Beşgöz Caddesi 66A, Ödemiş",
+  "il": null,
+  "ilce": "Ödemiş",
+  "mahalle": null,
+  "telefon": "(0232) 504 60 03",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.22418212890625,
+  "lng": 27.973480224609375,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.22418212890625,27.973480224609375",
+  "yandex_url": "https://yandex.com/maps/?text=Ödemiş Elit Veteriner Polikliniği&ll=27.973480224609375%2C38.22418212890625&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "fc8e2099-e817-4fec-9bc1-ac740743bc5b",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Ödemiş Kuluçka & Civciv",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "ödemiş, Ödemiş",
+  "il": null,
+  "ilce": "Ödemiş",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.odemiskulucka.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.227561950683594,
+  "lng": 27.97409439086914,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.227561950683594,27.97409439086914",
+  "yandex_url": "https://yandex.com/maps/?text=Ödemiş Kuluçka & Civciv&ll=27.97409439086914%2C38.227561950683594&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "c87c6965-7159-491b-bfc3-3ab5e25b6816",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Ödemiş VETBİR",
   "sektor": "veteriner",
   "kategori": "veteriner",
@@ -6074,17 +9346,75 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Ödemiş Vetbir",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Kırlangıç Sk., Ödemiş",
+  "il": null,
+  "ilce": "Ödemiş",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.226959228515625,
+  "lng": 27.974458694458008,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.226959228515625,27.974458694458008",
+  "yandex_url": "https://yandex.com/maps/?text=Ödemiş Vetbir&ll=27.974458694458008%2C38.226959228515625&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "0b08a366-4e55-4a31-8bd1-5493be52f03a",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Ödemiş acil veteriner kliniği",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Ödemiş",
+  "il": null,
+  "ilce": "Ödemiş",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.22807312011719,
+  "lng": 27.976892471313477,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.22807312011719,27.976892471313477",
+  "yandex_url": "https://yandex.com/maps/?text=Ödemiş acil veteriner kliniği&ll=27.976892471313477%2C38.22807312011719&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "21c541af-9b65-4e8c-9cf7-6b0f133fb82f",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Öz Deva Veteriner Klinigi",
   "sektor": "veteriner",
   "kategori": "veteriner",
   "hizmet_ipuclari": [
    "4d954af4a243a5684765b473"
   ],
-  "adres": null,
+  "adres": "Aydınoğlu Cd. No:25, Tire",
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0232) 512 19 63",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -6098,7 +9428,8 @@
   "fsq_id": "55b0f8ae498eb1724017df77",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "a1e8b229-ece1-4d13-bf60-af5e1b165434"
  },
  {
   "ad": "Özel Vetipak Veteriner Kliniği",
@@ -6125,7 +9456,37 @@
   "fsq_id": "66b9bb4a4a9755191a9ec002",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "7b44b9ac-53b4-4c57-b1af-037a50662f37"
+ },
+ {
+  "ad": "Özer Veteriner Kliniği",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Egemenlik Blv. No:89 D:C, Efeler",
+  "il": null,
+  "ilce": "Efeler",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.84477233886719,
+  "lng": 27.84920310974121,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.84477233886719,27.84920310974121",
+  "yandex_url": "https://yandex.com/maps/?text=Özer Veteriner Kliniği&ll=27.84920310974121%2C37.84477233886719&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "ff65afb6-e637-427d-b211-30c12edf4793",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Özgür'ün Yeri(Kliniği)",
@@ -6233,7 +9594,8 @@
   "fsq_id": "5594f9be498e5de2c625b04f",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "e74765b0-5a3a-4c80-8e40-0c1f1fc23b22"
  },
  {
   "ad": "Özsarı Veteriner Kliniği",
@@ -6290,6 +9652,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Öztürk Veteriner Muayenehanesi",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Çarşı mah. Fatih sultan Mehmet cad. No:25, Köşk",
+  "il": null,
+  "ilce": "Köşk",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.8590087890625,
+  "lng": 28.057689666748047,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.8590087890625,28.057689666748047",
+  "yandex_url": "https://yandex.com/maps/?text=Öztürk Veteriner Muayenehanesi&ll=28.057689666748047%2C37.8590087890625&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "df52d154-bb14-4cf5-a1c0-a7bce244f2b7",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Özvet Veteriner Kliniği",
   "sektor": "veteriner",
   "kategori": "veteriner",
@@ -6315,6 +9706,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Üçel Veteriner Kliniği",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Hükümet Önü Cd. No:5, Bayındır",
+  "il": null,
+  "ilce": "Bayındır",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.220069885253906,
+  "lng": 27.649250030517578,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.220069885253906,27.649250030517578",
+  "yandex_url": "https://yandex.com/maps/?text=Üçel Veteriner Kliniği&ll=27.649250030517578%2C38.220069885253906&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "792d7624-aaa1-4134-b07c-61479c95cf7e",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "öztürk veteriner kliniği",
@@ -6398,17 +9818,46 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "İlke Veteriner Kliniği",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Girne Blv. No:13 D:2A, Efeler",
+  "il": null,
+  "ilce": "Efeler",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.855979919433594,
+  "lng": 27.82676124572754,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.855979919433594,27.82676124572754",
+  "yandex_url": "https://yandex.com/maps/?text=İlke Veteriner Kliniği&ll=27.82676124572754%2C37.855979919433594&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "64be4637-c587-47ec-8e4c-53d83e60c8e0",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Şah Veteriner Kliniği",
   "sektor": "veteriner",
   "kategori": "veteriner",
   "hizmet_ipuclari": [
    "4d954af4a243a5684765b473"
   ],
-  "adres": null,
+  "adres": "Garaj Caddesi 38B, Efeler",
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0256) 212 78 34",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -6422,7 +9871,66 @@
   "fsq_id": "56368a92498e7a765279df66",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "84e488eb-88d7-4350-a63a-594aeb1f304b"
+ },
+ {
+  "ad": "Şahansoy Veteriner Kliniği",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Karahayıt Küme Evler, 35750, Bademli, Ödemiş, Türkiye, Ödemiş",
+  "il": null,
+  "ilce": "Ödemiş",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.116249084472656,
+  "lng": 28.07663917541504,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.116249084472656,28.07663917541504",
+  "yandex_url": "https://yandex.com/maps/?text=Şahansoy Veteriner Kliniği&ll=28.07663917541504%2C38.116249084472656&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "958b2bc3-a3d8-4e33-b930-8d0ec1279e75",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Şans Veteriner Kliniği",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "1003. Sk. No:18, Efeler",
+  "il": null,
+  "ilce": "Efeler",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.837039947509766,
+  "lng": 27.844730377197266,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.837039947509766,27.844730377197266",
+  "yandex_url": "https://yandex.com/maps/?text=Şans Veteriner Kliniği&ll=27.844730377197266%2C37.837039947509766&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "4863393b-a181-4aee-b346-cbc7acac139a",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Şehr-İ Pati Veteriner Kliniği",
@@ -6449,6 +9957,36 @@
   "fsq_id": "5c5c3ddd1acf11002cb80e8d",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "0e6af905-c063-44cd-8a9e-d5b990ce37b2"
+ },
+ {
+  "ad": "Şifa Veteriner Kliniği",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "1859. Sk No:59 A, Nazilli",
+  "il": null,
+  "ilce": "Nazilli",
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://www.instagram.com/sifavet_nazilli?igsh=YmVzOXNsNXU5M2to&utm_source=qr",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.923912048339844,
+  "lng": 28.336585998535156,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.923912048339844,28.336585998535156",
+  "yandex_url": "https://yandex.com/maps/?text=Şifa Veteriner Kliniği&ll=28.336585998535156%2C37.923912048339844&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "c6a54427-92b8-401d-b392-0c17bb8e8805",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  }
 ]

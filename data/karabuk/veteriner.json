@@ -11,7 +11,7 @@
   "ilce": "MERKEZ",
   "mahalle": null,
   "telefon": null,
-  "web": null,
+  "web": "http://tr-tr.facebook.com/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -24,7 +24,37 @@
   "fsq_id": "67690928f5ec6421e5a857d3",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "8ab84966-4ee2-4134-ad4a-b50eaf6d5746"
+ },
+ {
+  "ad": "Agrovet Veteriner Klinigi",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Özgür Sk. No: 1/2, Safranbolu",
+  "il": null,
+  "ilce": "Safranbolu",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.25676345825195,
+  "lng": 32.6748161315918,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.25676345825195,32.6748161315918",
+  "yandex_url": "https://yandex.com/maps/?text=Agrovet Veteriner Klinigi&ll=32.6748161315918%2C41.25676345825195&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "3dc80719-949e-4c34-9f80-ad482e511fdd",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Alpay Veteriner Kliniği",
@@ -33,11 +63,11 @@
   "hizmet_ipuclari": [
    "4d954af4a243a5684765b473"
   ],
-  "adres": "Atatürk Mah",
+  "adres": "Atatürk Mahallesi, Kızıltan Ulukavak Caddesi zambak sok No:5, Safranbolu",
   "il": null,
   "ilce": "Safranbolu",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0370) 413 00 62",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -51,7 +81,8 @@
   "fsq_id": "5991739f2955134db19e06bb",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "445726a3-8901-4960-a72e-2b3414c73096"
  },
  {
   "ad": "Alpay Veteriner kliniği",
@@ -159,7 +190,8 @@
   "fsq_id": "608017c248e2826af6489218",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "38061c1c-072f-4cea-86dd-786de17aaf1c"
  },
  {
   "ad": "Deva",
@@ -267,7 +299,8 @@
   "fsq_id": "5ece7a140ac2020008e2a293",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "41c92653-28ef-4723-ab3d-fe98b5c20212"
  },
  {
   "ad": "Elit Veteriner Kliniği",
@@ -294,7 +327,37 @@
   "fsq_id": "5b964894471d6e002c49ede3",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "2e467c8d-a4b2-4e40-8d9c-840aedb21c9b"
+ },
+ {
+  "ad": "Güneş Veteriner Kliniği",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Mercan apartmanı, Yıldırım Kemal Cd. no:28",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://www.instagram.com/gunesveterinerklinigikarabuk/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.2098274230957,
+  "lng": 32.622154235839844,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.2098274230957,32.622154235839844",
+  "yandex_url": "https://yandex.com/maps/?text=Güneş Veteriner Kliniği&ll=32.622154235839844%2C41.2098274230957&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "7760b308-e55e-4e55-8df2-100f9faa7b53",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Mert Veteriner Kliniği",
@@ -324,6 +387,64 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Mert veteriner kliniği",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Eflani",
+  "il": null,
+  "ilce": "Eflani",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.421974182128906,
+  "lng": 32.95242691040039,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.421974182128906,32.95242691040039",
+  "yandex_url": "https://yandex.com/maps/?text=Mert veteriner kliniği&ll=32.95242691040039%2C41.421974182128906&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "a28fab92-5b92-4203-8d05-705a218c827f",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Ovacuma Veteriner Klinigi",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Ovacuma Yolu, Safranbolu",
+  "il": null,
+  "ilce": "Safranbolu",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.44771957397461,
+  "lng": 32.75311279296875,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.44771957397461,32.75311279296875",
+  "yandex_url": "https://yandex.com/maps/?text=Ovacuma Veteriner Klinigi&ll=32.75311279296875%2C41.44771957397461&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "92cdd5d0-1d65-4cf2-bde5-322a4247091b",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Safran Petlife Veteriner Klinigi",
   "sektor": "veteriner",
   "kategori": "veteriner",
@@ -349,6 +470,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Safranbolu Veteriner",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Baysal Sokak 33A, Safranbolu",
+  "il": null,
+  "ilce": "Safranbolu",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.24821472167969,
+  "lng": 32.68319320678711,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.24821472167969,32.68319320678711",
+  "yandex_url": "https://yandex.com/maps/?text=Safranbolu Veteriner&ll=32.68319320678711%2C41.24821472167969&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "62ccf566-a4ae-4303-aba6-bf5af1614980",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Safranbolu Veteriner Kliniği",
@@ -384,11 +534,11 @@
   "hizmet_ipuclari": [
    "4d954af4a243a5684765b473"
   ],
-  "adres": "Emek mahalles",
+  "adres": "Muradiye Cd. No:9/2, Safranbolu",
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0370) 502 22 92",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -402,7 +552,66 @@
   "fsq_id": "5d6a534e92ab45000840c38a",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "17335ad6-ab56-49d3-9524-3566c1c1b36d"
+ },
+ {
+  "ad": "Yaşam Veteriner Kliniği",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Cumhuriyet Cd. NO:15D, Safranbolu",
+  "il": null,
+  "ilce": "Safranbolu",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.24946594238281,
+  "lng": 32.684776306152344,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.24946594238281,32.684776306152344",
+  "yandex_url": "https://yandex.com/maps/?text=Yaşam Veteriner Kliniği&ll=32.684776306152344%2C41.24946594238281&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "8c3580e1-e4db-48bd-a239-a45db4cfa0af",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "drmozkan_vet",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Hürriyet Caddesi 25",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.19422912597656,
+  "lng": 32.61589813232422,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.19422912597656,32.61589813232422",
+  "yandex_url": "https://yandex.com/maps/?text=drmozkan_vet&ll=32.61589813232422%2C41.19422912597656&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "b386f052-c12d-4f55-a5a7-cfff6d4f0f76",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "günvet veteriner kliniği",
@@ -411,12 +620,12 @@
   "hizmet_ipuclari": [
    "4d954af4a243a5684765b473"
   ],
-  "adres": "Hükümet Cad",
+  "adres": "Hükümet Caddesi 60E, Eflani",
   "il": null,
   "ilce": null,
   "mahalle": null,
   "telefon": null,
-  "web": null,
+  "web": "http://www.gunvet.com/hakkimizda.html",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -429,7 +638,37 @@
   "fsq_id": "54e0a34a498edc3a9862d92e",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "c2cca6d3-90bf-4a8b-938f-3dcbb3a15907"
+ },
+ {
+  "ad": "ÇErkeŞ VeterİNer KlİNİĞİ",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "KALEÖNÜ CADDESİ NO:9, Çerkeş",
+  "il": null,
+  "ilce": "Çerkeş",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.81153869628906,
+  "lng": 32.893959045410156,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.81153869628906,32.893959045410156",
+  "yandex_url": "https://yandex.com/maps/?text=ÇErkeŞ VeterİNer KlİNİĞİ&ll=32.893959045410156%2C40.81153869628906&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "99ea4bb7-0439-4579-8d11-327331025855",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Öztürk Veteriner Kliniği",
@@ -483,7 +722,8 @@
   "fsq_id": "6065f0fdcbf3ac0ad925dcc7",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "ccae3717-488b-4de8-ad80-2908863bd5cf"
  },
  {
   "ad": "Şeker Veteriner Kliniği",

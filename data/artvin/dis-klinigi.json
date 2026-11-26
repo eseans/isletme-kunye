@@ -34,7 +34,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d178941735"
   ],
-  "adres": null,
+  "adres": "Nurettin Çarmıklı Cd. No:21 A, Arhavi",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -52,7 +52,8 @@
   "fsq_id": "62f3a28468d7090157db26be",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "cfd2f885-5dd4-4a39-aed8-e5c9050dbf70"
  },
  {
   "ad": "Artvin Ağız Ve Diş Sağlığı Merkezi",
@@ -61,7 +62,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d178941735"
   ],
-  "adres": null,
+  "adres": "Çağal Sk. No:2",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -79,7 +80,8 @@
   "fsq_id": "566abe82498ed74375f431d6",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "36e76d07-d6da-41a2-99b5-68dc3b377a3b"
  },
  {
   "ad": "Artvin Diş Hastanesi",
@@ -352,6 +354,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Dt. Arıtay Altıntaş",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Musazade Mah Şh. Ast. Mehmet Altanlar Cad. No:5, Arhavi",
+  "il": null,
+  "ilce": "Arhavi",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.35033416748047,
+  "lng": 41.30967712402344,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.35033416748047,41.30967712402344",
+  "yandex_url": "https://yandex.com/maps/?text=Dt. Arıtay Altıntaş&ll=41.30967712402344%2C41.35033416748047&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "d3903a15-b847-406b-90b2-b34885a91357",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "DİŞ HEKİMİ Cihan KAĞANOĞLU",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -436,6 +467,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Yunus Kambur İrem Nergiz Muayenehanesi",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Sahil Mahallesi 34. Cadde No:172-A Selimoğlu Apt, Fındıklı",
+  "il": null,
+  "ilce": "Fındıklı",
+  "mahalle": null,
+  "telefon": "(0464) 511 40 20",
+  "web": "http://dtyunuskambur.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.26774215698242,
+  "lng": 41.136993408203125,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.26774215698242,41.136993408203125",
+  "yandex_url": "https://yandex.com/maps/?text=Yunus Kambur İrem Nergiz Muayenehanesi&ll=41.136993408203125%2C41.26774215698242&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "5e399675-baa0-4013-a854-391bdfaeafc1",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "diş hekimi Turhan YILMAZLAR",

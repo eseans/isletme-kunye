@@ -78,7 +78,8 @@
   "fsq_id": "519f7334498ecc219f5da896",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "cdccfb1b-dbaf-4e82-98fc-7e42d61e8b28"
  },
  {
   "ad": "Ardahan İmaj 2 Erkek Kuaförü",
@@ -243,6 +244,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Bay Makas Erkek Kuaforu",
+  "sektor": "kuafor",
+  "kategori": "kuafor",
+  "alt": "berber",
+  "hizmet_ipuclari": [
+   "barber"
+  ],
+  "adres": "Kazım Karabekir Cd. No:20",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.10921859741211,
+  "lng": 42.70260238647461,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.10921859741211,42.70260238647461",
+  "yandex_url": "https://yandex.com/maps/?text=Bay Makas Erkek Kuaforu&ll=42.70260238647461%2C41.10921859741211&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "73a7e2ee-5f22-4ef2-8213-55de57dfa4d8",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Berna Bayan Kuaför",
   "sektor": "kuafor",
   "kategori": "kuafor",
@@ -402,7 +432,9 @@
   "fsq_id": "56502a3e498e8d6ebc865b73",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "409927b0-3034-4a2b-b75a-cac5b3792d89",
+  "alt": "berber"
  },
  {
   "ad": "ELİT HAİR CLUB ⚔",
@@ -835,6 +867,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Karizma erkek kuaför 2",
+  "sektor": "kuafor",
+  "kategori": "kuafor",
+  "alt": "berber",
+  "hizmet_ipuclari": [
+   "barber"
+  ],
+  "adres": "Alparslan Cd. No:79, Posof",
+  "il": null,
+  "ilce": "Posof",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.5098762512207,
+  "lng": 42.72770690917969,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.5098762512207,42.72770690917969",
+  "yandex_url": "https://yandex.com/maps/?text=Karizma erkek kuaför 2&ll=42.72770690917969%2C41.5098762512207&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "12f2a18e-39a5-4aa2-ab11-1f057d65a9a3",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Klas Ersin Erkek Kuaförü",

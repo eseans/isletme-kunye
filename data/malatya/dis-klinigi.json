@@ -108,6 +108,64 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Altunsuyu Dent",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Battalgazi Sokak 16, Battalgazi",
+  "il": null,
+  "ilce": "Battalgazi",
+  "mahalle": null,
+  "telefon": "(0422) 324 88 67",
+  "web": "http://www.altunsuyudent.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.3448486328125,
+  "lng": 38.32573699951172,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.3448486328125,38.32573699951172",
+  "yandex_url": "https://yandex.com/maps/?text=Altunsuyu Dent&ll=38.32573699951172%2C38.3448486328125&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "40165534-bd59-41a2-bc47-2f54b0d51d4f",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Aydent Malatya Ağız ve Diş Sağlığı Polikliniği",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Gülümser Cd No:54/A, Yeşilyurt",
+  "il": null,
+  "ilce": "Yeşilyurt",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.33712387084961,
+  "lng": 38.278785705566406,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.33712387084961,38.278785705566406",
+  "yandex_url": "https://yandex.com/maps/?text=Aydent Malatya Ağız ve Diş Sağlığı Polikliniği&ll=38.278785705566406%2C38.33712387084961&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "0e1c0ec3-4ad5-4d55-b279-87d3a680c6fb",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Ağız ve Diş Hastalıkları Fırat Semt Polikliniği",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -195,12 +253,12 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d178941735"
   ],
-  "adres": null,
+  "adres": "Hastane Cd. No:10/A, Battalgazi",
   "il": null,
   "ilce": null,
   "mahalle": null,
   "telefon": "(0422) 324 82 82",
-  "web": null,
+  "web": "http://www.crowndental.com.tr/",
   "sosyal": [
    {
     "tur": "instagram",
@@ -218,7 +276,8 @@
   "fsq_id": "5a54e5b9a35dce5caa10bea1",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "9b4a85a6-068d-458f-a953-41659b4a1ba8"
  },
  {
   "ad": "DENTAMALATYA",
@@ -245,7 +304,8 @@
   "fsq_id": "5368e244498ea0cb80cc3b3d",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "78f1def1-658c-4e04-a466-fe9080fffd3d"
  },
  {
   "ad": "DR. Agah ALTUNSUYU-DİŞ HEKİMİ",
@@ -301,6 +361,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Denta Adress Ağız ve Diş Polikliniği",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "İnönü Caddesi 153A, Battalgazi",
+  "il": null,
+  "ilce": "Battalgazi",
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://www.dentaadress.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.34779357910156,
+  "lng": 38.30402374267578,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.34779357910156,38.30402374267578",
+  "yandex_url": "https://yandex.com/maps/?text=Denta Adress Ağız ve Diş Polikliniği&ll=38.30402374267578%2C38.34779357910156&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "49f2ff0d-ca88-4524-98b8-cb04eba2ea57",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Denta Malatya",
@@ -363,12 +452,12 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d178941735"
   ],
-  "adres": null,
+  "adres": "Barguzu Cd. 100/4, Yeşilyurt",
   "il": null,
   "ilce": null,
   "mahalle": null,
   "telefon": null,
-  "web": null,
+  "web": "http://www.dentaparis.com/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -381,7 +470,8 @@
   "fsq_id": "65a4c913db92f76277f093e0",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "0f25176a-7536-4a3c-b109-45381107cf02"
  },
  {
   "ad": "Denta Rose",
@@ -438,18 +528,76 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Dentamalatya Agiz ve Dis Sagligi Poliklinigi",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Yeşilyurt",
+  "il": null,
+  "ilce": "Yeşilyurt",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.33269119262695,
+  "lng": 38.27927780151367,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.33269119262695,38.27927780151367",
+  "yandex_url": "https://yandex.com/maps/?text=Dentamalatya Agiz ve Dis Sagligi Poliklinigi&ll=38.27927780151367%2C38.33269119262695&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "91e510a6-aabf-4604-b957-0e033c591aaf",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Dentamalatya Ağız Ve Diş Sağlığı Polikliniği Çilesiz",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": " Çilesiz Mah. Fahrikayahan Bulvarı, Mıhlıdut Sk. No:15/1/A Yeşilyurt Malatya, Yeşilyurt",
+  "il": null,
+  "ilce": "Yeşilyurt",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://dentamalatya.net/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.32900619506836,
+  "lng": 38.27219772338867,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.32900619506836,38.27219772338867",
+  "yandex_url": "https://yandex.com/maps/?text=Dentamalatya Ağız Ve Diş Sağlığı Polikliniği Çilesiz&ll=38.27219772338867%2C38.32900619506836&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "eb3e30b5-d6a1-43b4-ab91-9ac30e6bdc76",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Dentapark",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
   "hizmet_ipuclari": [
    "4bf58dd8d48988d178941735"
   ],
-  "adres": null,
+  "adres": "Sıtmapınarı (Sevgi Hastanesi Yanı, Göksoku Sk. No: 5 Merkez, Battalgazi",
   "il": null,
   "ilce": null,
   "mahalle": null,
   "telefon": null,
-  "web": null,
+  "web": "http://www.dentapark.com/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -462,7 +610,8 @@
   "fsq_id": "52207e4411d21d8bc109db39",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "e33827a1-3ed8-4749-816c-ff34a90c9c75"
  },
  {
   "ad": "Dentaş Diş Lab.",
@@ -1032,6 +1181,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Diş Hekimi Emre Kiziroğlu",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Tekel Sokak 31, Battalgazi",
+  "il": null,
+  "ilce": "Battalgazi",
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://www.emrekiziroglu.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.35039520263672,
+  "lng": 38.302242279052734,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.35039520263672,38.302242279052734",
+  "yandex_url": "https://yandex.com/maps/?text=Diş Hekimi Emre Kiziroğlu&ll=38.302242279052734%2C38.35039520263672&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "0eb13e77-60a2-4826-9bd6-7402661bdca8",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Diş Hekimi Ercan Erdogan",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -1151,7 +1329,7 @@
   "ilce": null,
   "mahalle": null,
   "telefon": null,
-  "web": null,
+  "web": "https://www.doktortakvimi.com/erkan-sekerci/dis-hekimi/malatya?utm_source=google&utm_medium=gmb&utm_campaign=163646&utm_content=website",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -1164,7 +1342,8 @@
   "fsq_id": "531adf60498e84795fcee1ce",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "21e45056-ef2b-4860-a6a1-3f82acc6d8f2"
  },
  {
   "ad": "Diş Hekimi Gökhan Türkoğlu",
@@ -1224,7 +1403,8 @@
   "fsq_id": "69e56cd46e1fd203e2f0724c",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "e61db415-c21a-4326-8d52-3cb5b7a0842f"
  },
  {
   "ad": "Diş Hekimi Gözde İrem Bakırcıoğlu Malatya",
@@ -1363,6 +1543,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Diş Hekimi Mehmet Duran",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Bilginler Apt, Emeksiz Cad. Kat:1, Battalgazi",
+  "il": null,
+  "ilce": "Battalgazi",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.347530364990234,
+  "lng": 38.3140869140625,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.347530364990234,38.3140869140625",
+  "yandex_url": "https://yandex.com/maps/?text=Diş Hekimi Mehmet Duran&ll=38.3140869140625%2C38.347530364990234&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "01c4cd6c-90a8-4a1f-a8c8-e0779c4e9620",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Diş Hekimi Mehmet İnal",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -1496,6 +1705,64 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Diş Hekimi Naim zengin",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Tecde mh güngör cd gül Zehra sitesi altı 84 /a Yeşilyurt /Malatya , Yeşilyurt",
+  "il": null,
+  "ilce": "Yeşilyurt",
+  "mahalle": null,
+  "telefon": "(0422) 503 62 50",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.3489990234375,
+  "lng": 38.31981658935547,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.3489990234375,38.31981658935547",
+  "yandex_url": "https://yandex.com/maps/?text=Diş Hekimi Naim zengin&ll=38.31981658935547%2C38.3489990234375&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "5ff227da-6800-48ab-98bc-a35d49170488",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Diş Hekimi Neslihan Yamancan",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Mehmet Buyruk Cd. İpekçi Apartmanı No:10/2, Battalgazi",
+  "il": null,
+  "ilce": "Battalgazi",
+  "mahalle": null,
+  "telefon": "(0422) 322 47 99",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.347618103027344,
+  "lng": 38.3291130065918,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.347618103027344,38.3291130065918",
+  "yandex_url": "https://yandex.com/maps/?text=Diş Hekimi Neslihan Yamancan&ll=38.3291130065918%2C38.347618103027344&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "6bc5a78c-0f1c-4755-9f7b-c5f9fc68a394",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Diş Hekimi Nida Taş",
@@ -1666,11 +1933,11 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d178941735"
   ],
-  "adres": null,
+  "adres": "ALGÜL APT, İnönü Cd. NO 151 KAT 1 DAİRE 4, Battalgazi",
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0422) 321 10 20",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -1684,7 +1951,8 @@
   "fsq_id": "523ac00e11d2aeac70bf3932",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "a976baa6-901f-4dc4-85e6-18e382f6ce7e"
  },
  {
   "ad": "Diş Hekimi Önder",
@@ -2172,6 +2440,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Diş kliniği-Diş hekimi Murat Tokdemir",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "İsmetiye mah. mina sk. 1/33 MEHMET ILICAK İŞ MRK., Battalgazi",
+  "il": null,
+  "ilce": "Battalgazi",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.34695816040039,
+  "lng": 38.319679260253906,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.34695816040039,38.319679260253906",
+  "yandex_url": "https://yandex.com/maps/?text=Diş kliniği-Diş hekimi Murat Tokdemir&ll=38.319679260253906%2C38.34695816040039&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "947b701c-48b7-4aa6-81fd-162e38a11b8e",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Dişçi Gökmen Özdal Muayenehanesi",
@@ -2670,7 +2967,7 @@
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0422) 322 87 66",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -2684,7 +2981,8 @@
   "fsq_id": "66a7ab884d05870502ac0e0f",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "a6270162-d749-4776-8853-d014350c20ac"
  },
  {
   "ad": "Durudent Ağız Ve Diş Sağlığı Polikliniği",
@@ -2930,6 +3228,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Esdent Malatya",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Ismetiye Mahallesi Ismetiye Sokak Yildirim Is Merkezi Zemin Kat, Battalgazi",
+  "il": null,
+  "ilce": "Battalgazi",
+  "mahalle": null,
+  "telefon": "(0422) 325 81 67",
+  "web": "http://www.esdent.com.tr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.350406646728516,
+  "lng": 38.31407928466797,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.350406646728516,38.31407928466797",
+  "yandex_url": "https://yandex.com/maps/?text=Esdent Malatya&ll=38.31407928466797%2C38.350406646728516&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "8ee40cd4-cf5a-452f-b30b-f31dbbd8c720",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Eyüp Kaya Diş Kliniği",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -3063,6 +3390,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Gökdent Doğa Cadde",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Doğa Cadde AVM, İnönü Cd. No: 144 Z30, Battalgazi",
+  "il": null,
+  "ilce": "Battalgazi",
+  "mahalle": null,
+  "telefon": "(0422) 322 21 85",
+  "web": "http://www.gokdent.com.tr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.34811782836914,
+  "lng": 38.30429458618164,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.34811782836914,38.30429458618164",
+  "yandex_url": "https://yandex.com/maps/?text=Gökdent Doğa Cadde&ll=38.30429458618164%2C38.34811782836914&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "c7e09648-7301-48dd-87b1-94cfb6370396",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Gökmen kenan ozdal & murat canbek",
@@ -3254,6 +3610,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Lifedent Ağız ve Dişsağlığı  polikliniği Malatya",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Bebek Sokak 12, Battalgazi",
+  "il": null,
+  "ilce": "Battalgazi",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.vedatcavdar.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.2244873046875,
+  "lng": 38.42509841918945,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.2244873046875,38.42509841918945",
+  "yandex_url": "https://yandex.com/maps/?text=Lifedent Ağız ve Dişsağlığı  polikliniği Malatya&ll=38.42509841918945%2C38.2244873046875&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "1075e88a-4d8b-4d14-952c-0e1eba5d6c6d",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Lumına Dental",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -3265,7 +3650,7 @@
   "ilce": null,
   "mahalle": null,
   "telefon": null,
-  "web": null,
+  "web": "https://www.luminadentalgrup.com/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -3278,7 +3663,8 @@
   "fsq_id": "665f307882bf0d3cd2684db9",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "9916a4b2-5879-43af-9b8c-18cd85691ce8"
  },
  {
   "ad": "MEF DENTAL GRUP",
@@ -3441,7 +3827,8 @@
   "fsq_id": "51c13f8d498e1ae3dcfe1811",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "dd4f0216-bad9-4657-98af-02096b9fce2b"
  },
  {
   "ad": "Malatya Clinicdent Global Özel Ağız Ve Diş Sağlığı Kliniği",
@@ -3498,6 +3885,64 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Malatya Diş Hekimi Naim Zengin",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Güngör Cd. No:84/A, Yeşilyurt",
+  "il": null,
+  "ilce": "Yeşilyurt",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.321529388427734,
+  "lng": 38.274932861328125,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.321529388427734,38.274932861328125",
+  "yandex_url": "https://yandex.com/maps/?text=Malatya Diş Hekimi Naim Zengin&ll=38.274932861328125%2C38.321529388427734&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "8cc97e1c-ee19-4d46-a3bd-1b3f71477c89",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Malatya Uzman Diş Hekimi",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Çilesiz Fahri Kayahan bulvarı no 82/c, Battalgazi",
+  "il": null,
+  "ilce": "Battalgazi",
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://uzman-dis-hekimi-busra-arikan.business.site/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.3488883972168,
+  "lng": 38.319854736328125,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.3488883972168,38.319854736328125",
+  "yandex_url": "https://yandex.com/maps/?text=Malatya Uzman Diş Hekimi&ll=38.319854736328125%2C38.3488883972168&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "4e4b6cec-5a21-4a6a-88c6-b0bc49dac876",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Mehmet Efe Bayrak",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -3550,6 +3995,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Melikşah Ersoy Diş Kliniği",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Hasanbey Caddesi 263A, Yeşilyurt",
+  "il": null,
+  "ilce": "Yeşilyurt",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.331966400146484,
+  "lng": 38.29051971435547,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.331966400146484,38.29051971435547",
+  "yandex_url": "https://yandex.com/maps/?text=Melikşah Ersoy Diş Kliniği&ll=38.29051971435547%2C38.331966400146484&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "f51d04bb-7193-4242-afda-a13233af42ec",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Murat CANBEK Diş Kliniği",
@@ -3765,7 +4239,8 @@
   "fsq_id": "5ba23ea4b399f7002c92575a",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "340e19a1-2eb8-4e9f-8717-d91f93be8062"
  },
  {
   "ad": "Palancıoğlu Diş Kliniği Serhan Palancıoğlu",
@@ -3828,12 +4303,12 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d178941735"
   ],
-  "adres": "Mövenpick Otel Yanı",
+  "adres": "İnönü Caddesi 175, Yeşilyurt",
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
-  "web": null,
+  "telefon": "(0422) 322 30 30",
+  "web": "https://malatyaroyaldental.com/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -3846,7 +4321,8 @@
   "fsq_id": "653a7e04a2e0926f08568923",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "48276e8b-9b48-4505-8551-82c709249bc2"
  },
  {
   "ad": "Royal Dental",
@@ -3873,7 +4349,8 @@
   "fsq_id": "54e882f8498e2ce914716a0a",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "8f877ecd-c4d6-485d-9b26-0263c9d19434"
  },
  {
   "ad": "Senayi Tantekin Diş Hekimi",
@@ -3927,7 +4404,8 @@
   "fsq_id": "67d9606655688c4d917db8aa",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "d27df4eb-43b6-43b6-85a1-a65e4b63cf67"
  },
  {
   "ad": "Star Dental Ağız ve Diş Sağlığı Polikliniği",
@@ -3968,12 +4446,12 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d178941735"
   ],
-  "adres": null,
+  "adres": "B, Emeksiz Cad. No:96/A, Battalgazi",
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
-  "web": null,
+  "telefon": "(0422) 325 54 44",
+  "web": "https://studiodental44.business.site/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -3986,7 +4464,8 @@
   "fsq_id": "5dd3a44849c75a00084334a0",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "664a88e5-cb53-4593-9e7c-b54d00b43717"
  },
  {
   "ad": "Sıtmapınarı Dentapark Şubesi",
@@ -4070,6 +4549,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Uzman Dis Hekimi Zeynep Korkmaz",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Fahri Kayahan Blv. No:82/C, Yeşilyurt",
+  "il": null,
+  "ilce": "Yeşilyurt",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.332786560058594,
+  "lng": 38.283912658691406,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.332786560058594,38.283912658691406",
+  "yandex_url": "https://yandex.com/maps/?text=Uzman Dis Hekimi Zeynep Korkmaz&ll=38.283912658691406%2C38.332786560058594&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "79ea401d-b72a-40e8-a1b6-a6e0cd61b188",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Villadent",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -4149,6 +4657,64 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Zerdent Dis Malzemeleri",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Tuna Sokak No 13 D D:6, Battalgazi",
+  "il": null,
+  "ilce": "Battalgazi",
+  "mahalle": null,
+  "telefon": "(0422) 323 60 95",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.34917449951172,
+  "lng": 38.30744552612305,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.34917449951172,38.30744552612305",
+  "yandex_url": "https://yandex.com/maps/?text=Zerdent Dis Malzemeleri&ll=38.30744552612305%2C38.34917449951172&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "b86ae1c6-e700-415a-9efb-95499815d3bb",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Zümer Dent Ağız ve Diş Sağlığı Polikliniği",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Karakaş Sokak 16/b, Battalgazi",
+  "il": null,
+  "ilce": "Battalgazi",
+  "mahalle": null,
+  "telefon": "(0422) 325 07 70",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.3485221862793,
+  "lng": 38.30713653564453,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.3485221862793,38.30713653564453",
+  "yandex_url": "https://yandex.com/maps/?text=Zümer Dent Ağız ve Diş Sağlığı Polikliniği&ll=38.30713653564453%2C38.3485221862793&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "c693ef4f-79d0-4f47-8437-54ef6134f8ed",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "active diş sagligi merkezi",
@@ -4377,7 +4943,7 @@
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0422) 324 20 25",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -4391,7 +4957,8 @@
   "fsq_id": "5679472b498ed9939ed7e455",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "6ce1028e-a724-4ba4-b758-a3ca88f3c00d"
  },
  {
   "ad": "diş hekimi nazan uyanık",
@@ -4499,7 +5066,8 @@
   "fsq_id": "54478330498e6f6f9972c219",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "9f2e687e-b029-40ec-8cd4-e53931e40dc8"
  },
  {
   "ad": "islamoğlu diş hekimi",
@@ -4859,7 +5427,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d178941735"
   ],
-  "adres": "Paşaköşkü Mah.",
+  "adres": "Paşaköşkü Mah. Asır Sok. No.2, D:A, Battalgazi",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -4877,7 +5445,37 @@
   "fsq_id": "5e0727a253f5420008a1df7e",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "f2fd9b11-fbf9-408e-8d32-62f9727b03c1"
+ },
+ {
+  "ad": "Özel Safir Ağız ve Diş Sağlığı Polikliniği",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Fahri Kayahan Blv. NO:39/A, Yeşilyurt",
+  "il": null,
+  "ilce": "Yeşilyurt",
+  "mahalle": null,
+  "telefon": "(0422) 504 00 00",
+  "web": "http://www.safirdent.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.337947845458984,
+  "lng": 38.272403717041016,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.337947845458984,38.272403717041016",
+  "yandex_url": "https://yandex.com/maps/?text=Özel Safir Ağız ve Diş Sağlığı Polikliniği&ll=38.272403717041016%2C38.337947845458984&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "634671a2-d36f-40ec-b95a-5c506e159874",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Özel Yaşam Ağız ve Diş Sağlığı Merkezi",

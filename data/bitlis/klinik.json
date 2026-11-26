@@ -461,6 +461,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Ahlat İlçe Sağlık Müdürlüğü",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Mazlum Yegül Caddesi 2A, Ahlat",
+  "il": null,
+  "ilce": "Ahlat",
+  "mahalle": null,
+  "telefon": "(0434) 412 40 95",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.75873947143555,
+  "lng": 42.487159729003906,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.75873947143555,42.487159729003906",
+  "yandex_url": "https://yandex.com/maps/?text=Ahlat İlçe Sağlık Müdürlüğü&ll=42.487159729003906%2C38.75873947143555&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "6776712b-c8a8-4f55-82fa-5cd27a6d2a18",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Altınova Aile Sağlığı Merkezi",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -1111,6 +1140,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Bitlis Merkez 6 Nolu Yükseliş Aile Sağlığı Merkezi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Yükseliş Mh.",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.411956787109375,
+  "lng": 42.0993537902832,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.411956787109375,42.0993537902832",
+  "yandex_url": "https://yandex.com/maps/?text=Bitlis Merkez 6 Nolu Yükseliş Aile Sağlığı Merkezi&ll=42.0993537902832%2C38.411956787109375&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "e61c92f0-2577-4bb8-9ddb-586fa7456453",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Bitlis Merkez 6 Nolu Yükseliş Asm",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -1625,6 +1683,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Fizyomedtr",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Tatvan Center İş Merkezi Kat:6 No:84, Tatvan",
+  "il": null,
+  "ilce": "Tatvan",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.50407409667969,
+  "lng": 42.28261947631836,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.50407409667969,42.28261947631836",
+  "yandex_url": "https://yandex.com/maps/?text=Fizyomedtr&ll=42.28261947631836%2C38.50407409667969&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "65bbcbc9-5332-4fd5-8e3e-44633db6b184",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Genel Yoğun Bakim",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -1811,7 +1898,9 @@
   "fsq_id": "52cfbf9b11d243740334494c",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "459faf19-18a8-49b5-996c-be54db792622",
+  "alt": "muayenehane"
  },
  {
   "ad": "Güroymak Tatvan Van yolu",
@@ -2303,6 +2392,64 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Muş Devlet Hastanesi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Saray Mahallesi, Tekel Depoları Yanı , Bitlis Yolu Üzeri",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0436) 212 06 70",
+  "web": "http://musdh.gov.tr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.393409729003906,
+  "lng": 42.103599548339844,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.393409729003906,42.103599548339844",
+  "yandex_url": "https://yandex.com/maps/?text=Muş Devlet Hastanesi&ll=42.103599548339844%2C38.393409729003906&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "7face380-30cf-4474-b835-3c1d54643e70",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Nurs Lokman Hekim Bitlis",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Kasaplar çarşısı",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.40079879760742,
+  "lng": 42.10969924926758,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.40079879760742,42.10969924926758",
+  "yandex_url": "https://yandex.com/maps/?text=Nurs Lokman Hekim Bitlis&ll=42.10969924926758%2C38.40079879760742&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "019536ba-50fb-4da8-a9a8-cdf44d0baa40",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Op. Dr. Celil Bağcı Kadın Hastalıkları ve Doğum Uzmanı",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -2329,6 +2476,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Op. Dr. Salih Serin Kadın Hastalıkları ve Doğum",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Kültür Mahallesi Efil Sokak No 2 Adalet Plaza Kat 3 No 49-50, Tatvan",
+  "il": null,
+  "ilce": "Tatvan",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.salihserin.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.50579071044922,
+  "lng": 42.28021240234375,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.50579071044922,42.28021240234375",
+  "yandex_url": "https://yandex.com/maps/?text=Op. Dr. Salih Serin Kadın Hastalıkları ve Doğum&ll=42.28021240234375%2C38.50579071044922&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "69926368-5eca-459b-b1c3-fbd59a1bf2f1",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Ozel Tatvan Can Hastanesi",
@@ -2467,6 +2643,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Saglik Eczanesi Adilcevaz",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "ORTA MAH, Adilcevaz",
+  "il": null,
+  "ilce": "Adilcevaz",
+  "mahalle": null,
+  "telefon": "(0434) 311 23 78",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.817115783691406,
+  "lng": 42.730003356933594,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.817115783691406,42.730003356933594",
+  "yandex_url": "https://yandex.com/maps/?text=Saglik Eczanesi Adilcevaz&ll=42.730003356933594%2C38.817115783691406&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "4c135c1c-0b6e-4b44-91ff-63cf147649c7",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Saglık Ocağı",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -2527,7 +2732,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d196941735"
   ],
-  "adres": "Bitlis Tatvan yolu üzeri  rahova mevki",
+  "adres": "Rahova Cam, 138. Sokak 24, Tatvan",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -2545,7 +2750,9 @@
   "fsq_id": "574ea4fc498e7fb46613d198",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "d62cf22e-00c4-4a52-a570-9809433d06be",
+  "alt": "muayenehane"
  },
  {
   "ad": "Tatvan 1 No'lu Sağlık Ocağı",
@@ -3224,6 +3431,64 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Welltures Bitlis",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Zeydan Mah. Nur Cad.",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.401737213134766,
+  "lng": 42.10919952392578,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.401737213134766,42.10919952392578",
+  "yandex_url": "https://yandex.com/maps/?text=Welltures Bitlis&ll=42.10919952392578%2C38.401737213134766&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "fbfb23cd-4893-4b7a-8d3e-a3aad64e3577",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Yaşam Medikal",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Cumhuriyet Cd., Tatvan",
+  "il": null,
+  "ilce": "Tatvan",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.50074005126953,
+  "lng": 42.28189468383789,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.50074005126953,42.28189468383789",
+  "yandex_url": "https://yandex.com/maps/?text=Yaşam Medikal&ll=42.28189468383789%2C38.50074005126953&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "8892e060-cb5a-459d-bb18-ecf017889cbd",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Yeni Eczane",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -3581,11 +3846,11 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d196941735"
   ],
-  "adres": "Tatvan",
+  "adres": "İstiklal Cd. No:91, Tatvan",
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0434) 828 05 25",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -3599,7 +3864,9 @@
   "fsq_id": "504c7f6de4b01028dcd45420",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "5b04b7f7-f929-46b4-8803-40ca2bdafcfe",
+  "alt": "muayenehane"
  },
  {
   "ad": "tatvan akeri hastane",
@@ -3681,6 +3948,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "ÇAĞRi VeterİNer KlİNİĞİ",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Pınarbaşı mah. Reşadiye durağı BİTLİS/TATVAN, Tatvan",
+  "il": null,
+  "ilce": "Tatvan",
+  "mahalle": null,
+  "telefon": "(0434) 827 33 79",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.49168395996094,
+  "lng": 42.27568817138672,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.49168395996094,42.27568817138672",
+  "yandex_url": "https://yandex.com/maps/?text=ÇAĞRi VeterİNer KlİNİĞİ&ll=42.27568817138672%2C38.49168395996094&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "9362b102-be39-4b95-bd65-71fad055b8db",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Çiçek Eczanesi",

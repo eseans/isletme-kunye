@@ -1,5 +1,34 @@
 [
  {
+  "ad": "Barden Spa Sauna ",
+  "sektor": "spa-masaj",
+  "kategori": "spa-masaj",
+  "alt": "spa",
+  "hizmet_ipuclari": [
+   "spa"
+  ],
+  "adres": "Siirt Caddesi 126, Kurtalan",
+  "il": null,
+  "ilce": "Kurtalan",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.92749786376953,
+  "lng": 41.9423942565918,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.92749786376953,41.9423942565918",
+  "yandex_url": "https://yandex.com/maps/?text=Barden Spa Sauna &ll=41.9423942565918%2C37.92749786376953&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "a272b59d-dc62-49c6-90cf-bee903c04bb6",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "CITYBEAUTY",
   "sektor": "spa-masaj",
   "kategori": "spa-masaj",
@@ -53,7 +82,9 @@
   "fsq_id": "52f258e2498efb754b40d134",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "bd0f3b21-53e9-4965-9095-21cce8d22447",
+  "alt": "spa"
  },
  {
   "ad": "HOF SPA",

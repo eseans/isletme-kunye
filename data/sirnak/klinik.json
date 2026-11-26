@@ -618,7 +618,8 @@
   "fsq_id": "5444e2f9498eaaa9f16ac227",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "cd2b5810-8ce7-4cec-a41b-16b63b6cb4f6"
  },
  {
   "ad": "Cizre 4 Nolu ASM",
@@ -673,6 +674,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Cizre Deng Işitme Merkezi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "234. Cadde",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.516578674316406,
+  "lng": 42.44468307495117,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.516578674316406,42.44468307495117",
+  "yandex_url": "https://yandex.com/maps/?text=Cizre Deng Işitme Merkezi&ll=42.44468307495117%2C37.516578674316406&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "da9b6bdc-c4c4-48c7-a4d5-f47bb07a1efe",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Cizre Devlet Hastanesi",
@@ -1079,6 +1109,64 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Cizre/Melin/Güzellik&Estetik",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "deresokak, Cizre",
+  "il": null,
+  "ilce": "Cizre",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.3241081237793,
+  "lng": 42.1963996887207,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.3241081237793,42.1963996887207",
+  "yandex_url": "https://yandex.com/maps/?text=Cizre/Melin/Güzellik&Estetik&ll=42.1963996887207%2C37.3241081237793&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "2d1dabf3-ebd9-47ac-95e9-9fbcb3c62328",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Cizrefizyoterapi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Mesut Sokak 1, Cizre",
+  "il": null,
+  "ilce": "Cizre",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.33314895629883,
+  "lng": 42.196449279785156,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.33314895629883,42.196449279785156",
+  "yandex_url": "https://yandex.com/maps/?text=Cizrefizyoterapi&ll=42.196449279785156%2C37.33314895629883&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "cf8fed92-c80f-4469-87e7-8232ac263a9e",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Coxaven Venom",
@@ -1952,7 +2040,9 @@
   "fsq_id": "5852a7d90393cc0b7030e3e8",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "0c15a4b9-7830-4b53-8e99-32f76aa8c8f8",
+  "alt": "muayenehane"
  },
  {
   "ad": "Karalar Sağlık Ocağı",
@@ -2088,6 +2178,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Melin güzellik merkezi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "cizre, Cizre",
+  "il": null,
+  "ilce": "Cizre",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.33285140991211,
+  "lng": 42.18899154663086,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.33285140991211,42.18899154663086",
+  "yandex_url": "https://yandex.com/maps/?text=Melin güzellik merkezi&ll=42.18899154663086%2C37.33285140991211&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "b48674d6-9524-4c08-be25-ed1a13aa57c6",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Memuzin Aile Sagligi Merkezi",
@@ -2304,6 +2423,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Seydent Ağız ve Diş Sağlığı Kliniği",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "billur sokak, Dicle mahallesi nurullah caddesi, Ekinciler Sk. apartmanı kat 1, Cizre",
+  "il": null,
+  "ilce": "Cizre",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.32880783081055,
+  "lng": 42.190677642822266,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.32880783081055,42.190677642822266",
+  "yandex_url": "https://yandex.com/maps/?text=Seydent Ağız ve Diş Sağlığı Kliniği&ll=42.190677642822266%2C37.32880783081055&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "9be15f7b-c59a-4eb8-9245-42c3317a3480",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Silopi 2 No'lu Acil Sağlık Hizmetleri Istasyonu",
@@ -2559,7 +2707,7 @@
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0486) 518 38 21",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -2573,7 +2721,9 @@
   "fsq_id": "573f2a9e498e3928201f06d0",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "5d1a8f39-ae6e-471a-8405-cdfab1e66e69",
+  "alt": "muayenehane"
  },
  {
   "ad": "Silopi Toplum Sağlığı Merkezi",
@@ -2601,6 +2751,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Silopi-Kadın doğum",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "101 avm karşısı.cumhuriyet cad., Silopi",
+  "il": null,
+  "ilce": "Silopi",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.24969482421875,
+  "lng": 42.469398498535156,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.24969482421875,42.469398498535156",
+  "yandex_url": "https://yandex.com/maps/?text=Silopi-Kadın doğum&ll=42.469398498535156%2C37.24969482421875&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "d820a7af-89dd-410c-a3a9-06327d0cebe2",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Sirnak Silopi",
@@ -2642,7 +2821,7 @@
   "ilce": null,
   "mahalle": null,
   "telefon": null,
-  "web": null,
+  "web": "https://instagram.com/tanrikulupsikoteknik?igshid=1hmaqxq18hwcc",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -2655,7 +2834,8 @@
   "fsq_id": "5ef4bf391d851300085736ed",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "c07c311f-8175-4213-84d2-8efc6d1f089f"
  },
  {
   "ad": "Uludere Devlet Hastanesi",
@@ -2710,6 +2890,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Uzm. Dr. Nailya Erzen - Cildiye Kliniği",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Dicle Caddesi 25, Cizre",
+  "il": null,
+  "ilce": "Cizre",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.31596374511719,
+  "lng": 42.19308853149414,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.31596374511719,42.19308853149414",
+  "yandex_url": "https://yandex.com/maps/?text=Uzm. Dr. Nailya Erzen - Cildiye Kliniği&ll=42.19308853149414%2C37.31596374511719&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "613e520f-8558-492e-a765-a517daa570f0",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Uzman Klinik Psikolog Vefa Doğan",
@@ -3411,7 +3620,9 @@
   "fsq_id": "5a97df6ebb8d3651041f8a3e",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "24feae1b-4306-4989-a7e6-a29ef04bc974",
+  "alt": "muayenehane"
  },
  {
   "ad": "İdil Devlet Hastanesi Acil Servis",
@@ -3520,6 +3731,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "İdil itfaiye/fire Department",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Alanya Caddesi 13, İdil",
+  "il": null,
+  "ilce": "İdil",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.idilbld.gow.tr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.34446716308594,
+  "lng": 41.88426971435547,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.34446716308594,41.88426971435547",
+  "yandex_url": "https://yandex.com/maps/?text=İdil itfaiye/fire Department&ll=41.88426971435547%2C37.34446716308594&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "eed3cf5b-9ac3-4f0c-a74a-bbc412d2e696",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "İsmail Ebuliz A.S.M",
@@ -4140,7 +4380,8 @@
   "fsq_id": "56064aaf498eb09398e4f269",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "1a4948b6-6ad9-4ba6-adcd-d54ef3bdb483"
  },
  {
   "ad": "şenoba sağlık ocağı",

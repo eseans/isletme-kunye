@@ -1,12 +1,70 @@
 [
  {
+  "ad": "Diyetisyen Merve Saatci",
+  "sektor": "diyetisyen",
+  "kategori": "diyetisyen",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "nutrition_service"
+  ],
+  "adres": "İsmail Bey Mahallesi Taşçeşme Sokak Cevizli İş Merkezi Kat:1 Daire:2 (Eminevim Üzeri), Tosya",
+  "il": null,
+  "ilce": "Tosya",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.016197204589844,
+  "lng": 34.039249420166016,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.016197204589844,34.039249420166016",
+  "yandex_url": "https://yandex.com/maps/?text=Diyetisyen Merve Saatci&ll=34.039249420166016%2C41.016197204589844&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "91301c56-9f77-4de8-99b8-b493030e8a73",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Doru Beslenme ve Diyet Kliniği",
+  "sektor": "diyetisyen",
+  "kategori": "diyetisyen",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "nutrition_service"
+  ],
+  "adres": "Barbaros Sokak Aktekke Mahallesi No:6 Daire:8 Belediye Yanı Mng Kargo Üzeri",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0366) 212 73 75",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.381874084472656,
+  "lng": 33.78074645996094,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.381874084472656,33.78074645996094",
+  "yandex_url": "https://yandex.com/maps/?text=Doru Beslenme ve Diyet Kliniği&ll=33.78074645996094%2C41.381874084472656&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "6de0738b-e284-4795-869d-78ba0a8684f5",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Toprak Beslenme Ve Yaşam Merkezi",
   "sektor": "diyetisyen",
   "kategori": "diyetisyen",
   "hizmet_ipuclari": [
    "58daa1558bbb0b01f18ec1d0"
   ],
-  "adres": "İnönü Mah Aydın sok",
+  "adres": "Aydın Sk. No 15",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -24,6 +82,7 @@
   "fsq_id": "5e24b52461ce630008df1b5d",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "040add2f-8c88-4492-a897-6514442e4ea9"
  }
 ]

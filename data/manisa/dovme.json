@@ -134,7 +134,8 @@
   "fsq_id": "657c12cf2735e30a2d7d188f",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "0a5f37da-0ac4-4b30-b730-f5764e6dac3e"
  },
  {
   "ad": "Arifink Tatto",
@@ -222,7 +223,8 @@
   "fsq_id": "5c93a4ee1c0b34002c781ff5",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "b23fdd05-7790-433d-aa25-5c72aee039da"
  },
  {
   "ad": "Bozal Ink Tattoo & Piercing - Bozköy",
@@ -249,7 +251,8 @@
   "fsq_id": "6327154529f27d0575c4f503",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "0181e4db-7ad1-4b03-8745-63e702f27b36"
  },
  {
   "ad": "Bozal Ink Tattoo & Piercing - Peker",
@@ -304,6 +307,64 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "By Ariza Tattoo Piercing Studio",
+  "sektor": "dovme",
+  "kategori": "dovme",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "tattoo_and_piercing"
+  ],
+  "adres": "Konuk Cd. no:47 D:1, Şehzadeler",
+  "il": null,
+  "ilce": "Şehzadeler",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.61463165283203,
+  "lng": 27.429332733154297,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.61463165283203,27.429332733154297",
+  "yandex_url": "https://yandex.com/maps/?text=By Ariza Tattoo Piercing Studio&ll=27.429332733154297%2C38.61463165283203&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "28642c1a-131c-4176-8be2-3d9d85d0b19f",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "By Dogan Tattoo Permanent makeup",
+  "sektor": "dovme",
+  "kategori": "dovme",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "tattoo_and_piercing"
+  ],
+  "adres": "Mithatpaşa Caddesi 104, Salihli",
+  "il": null,
+  "ilce": "Salihli",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.4847297668457,
+  "lng": 28.13595962524414,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.4847297668457,28.13595962524414",
+  "yandex_url": "https://yandex.com/maps/?text=By Dogan Tattoo Permanent makeup&ll=28.13595962524414%2C38.4847297668457&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "6d9c05ea-16fc-40ee-bf54-afd91f8f996e",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "By Doğan Dövme Kalıcı Makyaj",
@@ -484,7 +545,7 @@
   "ilce": null,
   "mahalle": null,
   "telefon": null,
-  "web": null,
+  "web": "https://www.cleopatraink.com/studios/manisa-tattoo-and-piercing-studio/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -497,7 +558,8 @@
   "fsq_id": "62a10cc8b26d43726830d597",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "724daa35-7b56-48d5-b535-99888d7620c8"
  },
  {
   "ad": "Corner Tattoo By Tuncay Hasanoglu",
@@ -668,7 +730,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d1de931735"
   ],
-  "adres": "Manisa Merkez",
+  "adres": "Merkez Bufe, Uzunyol Caddesi 116/A, Şehzadeler",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -686,7 +748,37 @@
   "fsq_id": "607f1d8f1d09fb207d43c640",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "ab6de230-3ab9-4e31-bfa2-d2fe05773404"
+ },
+ {
+  "ad": "Eros Tattoo and Piercing",
+  "sektor": "dovme",
+  "kategori": "dovme",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "tattoo_and_piercing"
+  ],
+  "adres": "1201. Sk. 1/24, Şehzadeler",
+  "il": null,
+  "ilce": "Şehzadeler",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.61311721801758,
+  "lng": 27.434877395629883,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.61311721801758,27.434877395629883",
+  "yandex_url": "https://yandex.com/maps/?text=Eros Tattoo and Piercing&ll=27.434877395629883%2C38.61311721801758&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "09914f5c-3f74-41a3-8432-5dfdb6fe35cd",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Es Tattoo Uncubozköy",
@@ -713,7 +805,8 @@
   "fsq_id": "57ab2774498e8edeffaf6b95",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "5fd0a1f5-2d7e-44df-8ae7-100961cadc71"
  },
  {
   "ad": "Escobar Tattoo",
@@ -740,7 +833,8 @@
   "fsq_id": "59aac781f0ca95663b97f5d0",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "49707327-b680-47c2-abbc-1c39aae2e881"
  },
  {
   "ad": "Fade Tattoo Airlines",
@@ -879,6 +973,64 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Heaven Tattoo Piercing Studio",
+  "sektor": "dovme",
+  "kategori": "dovme",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "tattoo_and_piercing"
+  ],
+  "adres": "Gazi Osman Paşa Cd. No:63 D:b, Şehzadeler",
+  "il": null,
+  "ilce": "Şehzadeler",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.616355895996094,
+  "lng": 27.432802200317383,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.616355895996094,27.432802200317383",
+  "yandex_url": "https://yandex.com/maps/?text=Heaven Tattoo Piercing Studio&ll=27.432802200317383%2C38.616355895996094&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "e3254140-6534-4c6b-8647-77d2f79586fd",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Inko.co",
+  "sektor": "dovme",
+  "kategori": "dovme",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "tattoo_and_piercing"
+  ],
+  "adres": "Konuk Caddesi 1, Şehzadeler",
+  "il": null,
+  "ilce": "Şehzadeler",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.61432647705078,
+  "lng": 27.433277130126953,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.61432647705078,27.433277130126953",
+  "yandex_url": "https://yandex.com/maps/?text=Inko.co&ll=27.433277130126953%2C38.61432647705078&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "8b181ad4-0a27-434b-8ecd-f8cc9f12a8bb",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Joker Tattoo Piercing",
   "sektor": "dovme",
   "kategori": "dovme",
@@ -960,6 +1112,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Koda Tattoo",
+  "sektor": "dovme",
+  "kategori": "dovme",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "tattoo_and_piercing"
+  ],
+  "adres": "Konuk Cd. No:52, z:02, Şehzadeler",
+  "il": null,
+  "ilce": "Şehzadeler",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.614566802978516,
+  "lng": 27.428543090820312,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.614566802978516,27.428543090820312",
+  "yandex_url": "https://yandex.com/maps/?text=Koda Tattoo&ll=27.428543090820312%2C38.614566802978516&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "1fddbbdd-6510-4cac-b2bc-b10a3bcead75",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Kokocan Tatto",
   "sektor": "dovme",
   "kategori": "dovme",
@@ -987,6 +1168,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Lavink Art",
+  "sektor": "dovme",
+  "kategori": "dovme",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "tattoo_and_piercing"
+  ],
+  "adres": "Uncubozköy mahallesi 5515 sokak Manisa Meydan Avm A 4 Blok / Kat : 7 Daire : 82, Yunusemre",
+  "il": null,
+  "ilce": "Yunusemre",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.61112976074219,
+  "lng": 27.38185691833496,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.61112976074219,27.38185691833496",
+  "yandex_url": "https://yandex.com/maps/?text=Lavink Art&ll=27.38185691833496%2C38.61112976074219&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "cbc3535f-25f8-407a-890f-96126408f729",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Liya Tattoo & Piercing",
   "sektor": "dovme",
   "kategori": "dovme",
@@ -1012,6 +1222,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Meshood İnka Tattoo",
+  "sektor": "dovme",
+  "kategori": "dovme",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "tattoo_and_piercing"
+  ],
+  "adres": "Çimentepe Cd. No:57/2, Şehzadeler",
+  "il": null,
+  "ilce": "Şehzadeler",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.61345291137695,
+  "lng": 27.42816162109375,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.61345291137695,27.42816162109375",
+  "yandex_url": "https://yandex.com/maps/?text=Meshood İnka Tattoo&ll=27.42816162109375%2C38.61345291137695&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "9abfb269-35b6-4632-8a53-ce305fc08c22",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Mesut Tattoo",
@@ -1092,7 +1331,37 @@
   "fsq_id": "57cc0d2d498eeafce778dba4",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "8c2f883f-e6cd-4ab2-a9af-bc3c18334cd9"
+ },
+ {
+  "ad": "Murat Gürel Art",
+  "sektor": "dovme",
+  "kategori": "dovme",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "tattoo_and_piercing"
+  ],
+  "adres": "Müskebi Caddesi 8, Bodrum",
+  "il": null,
+  "ilce": "Bodrum",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.muratgurel.net/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.61800003051758,
+  "lng": 27.430686950683594,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.61800003051758,27.430686950683594",
+  "yandex_url": "https://yandex.com/maps/?text=Murat Gürel Art&ll=27.430686950683594%2C38.61800003051758&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "8393f41d-5d5e-489a-9598-936c65f9b311",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Murat Gürel Tattoo & Piercing Studio",
@@ -1230,6 +1499,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Redline Tattoo",
+  "sektor": "dovme",
+  "kategori": "dovme",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "tattoo_and_piercing"
+  ],
+  "adres": "Atatürk Blv. No:259, Turgutlu",
+  "il": null,
+  "ilce": "Turgutlu",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.493629455566406,
+  "lng": 27.704036712646484,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.493629455566406,27.704036712646484",
+  "yandex_url": "https://yandex.com/maps/?text=Redline Tattoo&ll=27.704036712646484%2C38.493629455566406&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "7c6d8121-b87d-42f8-979d-a0d3578e5959",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Royalty Tattoo Studio",
   "sektor": "dovme",
   "kategori": "dovme",
@@ -1290,7 +1588,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d1de931735"
   ],
-  "adres": "Sevgi Yolu",
+  "adres": "Turan Caddesi 4, Salihli",
   "il": null,
   "ilce": "Salihli",
   "mahalle": null,
@@ -1308,7 +1606,8 @@
   "fsq_id": "55682c28498e46b5ca4ffd05",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "f2d5a3e3-de50-4dad-a9e8-7890c352e229"
  },
  {
   "ad": "SDT Tattoo",
@@ -1552,6 +1851,64 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Tattoo CAFE",
+  "sektor": "dovme",
+  "kategori": "dovme",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "tattoo_and_piercing"
+  ],
+  "adres": "1701. Sokak, Şehzadeler",
+  "il": null,
+  "ilce": "Şehzadeler",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.61309814453125,
+  "lng": 27.42609977722168,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.61309814453125,27.42609977722168",
+  "yandex_url": "https://yandex.com/maps/?text=Tattoo CAFE&ll=27.42609977722168%2C38.61309814453125&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "88db4681-20a9-4768-9ece-32365b1baf02",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Tattoo CAFE",
+  "sektor": "dovme",
+  "kategori": "dovme",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "tattoo_and_piercing"
+  ],
+  "adres": "1701. Sokak, Şehzadeler",
+  "il": null,
+  "ilce": "Şehzadeler",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.61589431762695,
+  "lng": 27.430715560913086,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.61589431762695,27.430715560913086",
+  "yandex_url": "https://yandex.com/maps/?text=Tattoo CAFE&ll=27.430715560913086%2C38.61589431762695&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "8a94fd9f-f894-42fc-9c3b-2d06da5c08d2",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Tattoo ES Art Manisa",
@@ -1823,6 +2180,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "ssstattopiercing",
+  "sektor": "dovme",
+  "kategori": "dovme",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "tattoo_and_piercing"
+  ],
+  "adres": "Belediye Cd. 51 D D:146, Şehzadeler",
+  "il": null,
+  "ilce": "Şehzadeler",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.615447998046875,
+  "lng": 27.428205490112305,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.615447998046875,27.428205490112305",
+  "yandex_url": "https://yandex.com/maps/?text=ssstattopiercing&ll=27.428205490112305%2C38.615447998046875&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "fb8b6690-4d95-49a6-bc69-638112914a1d",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "tatto cafe",

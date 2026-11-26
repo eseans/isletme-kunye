@@ -594,6 +594,64 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Cankırı Can Eczanesi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Kastamonu Caddesi 220A",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.622047424316406,
+  "lng": 33.606956481933594,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.622047424316406,33.606956481933594",
+  "yandex_url": "https://yandex.com/maps/?text=Cankırı Can Eczanesi&ll=33.606956481933594%2C40.622047424316406&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "caa3f67b-fbea-4054-8294-1e05eccb43a5",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Coşkuner Ağız ve Diş Sağlığı Polikliniği",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Şht. Mustafa Demir Cd. Akçakaya Vizyon Sitesi B Blok 1/19",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0376) 213 87 87",
+  "web": "http://www.ahsendent.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.598541259765625,
+  "lng": 33.6253776550293,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.598541259765625,33.6253776550293",
+  "yandex_url": "https://yandex.com/maps/?text=Coşkuner Ağız ve Diş Sağlığı Polikliniği&ll=33.6253776550293%2C40.598541259765625&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "03b82afb-b14f-49cb-8963-33f89cadc26e",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Cumhuriyet aile sağlığı merkezi",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -619,6 +677,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "DENT18 Diş Kliniği",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Cumhuriyet Mahallesi Şehit Pilot Erdem Öztürk sokak Abalı 2 Apt. No:9/2",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0376) 212 10 37",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.59827423095703,
+  "lng": 33.61760711669922,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.59827423095703,33.61760711669922",
+  "yandex_url": "https://yandex.com/maps/?text=DENT18 Diş Kliniği&ll=33.61760711669922%2C40.59827423095703&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "17c3a19c-97df-441f-81e9-316a842ad333",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Dahiliye",
@@ -978,7 +1065,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d104941735"
   ],
-  "adres": null,
+  "adres": "İKİZLER İŞ MERKEZİ Kat:5 No:26 Cumhuriyet Mahallesi Merkez/Çankırı Merkez Çankırı TR, Necip Fazıl Kısakürek Sk.",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -996,7 +1083,8 @@
   "fsq_id": "5634a773498ef8307ee23319",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "25a78a78-9e48-4b16-ace1-c484af5d4c37"
  },
  {
   "ad": "Fulya Eczanesi",
@@ -1009,7 +1097,7 @@
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0376) 212 59 09",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -1023,7 +1111,38 @@
   "fsq_id": "4f995bb0e4b05f758d44f2d1",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "f41b6ac4-a06d-4c42-a8e5-f6d5b0b5d98c",
+  "alt": "muayenehane"
+ },
+ {
+  "ad": "Fulya Eczanesi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Cankiri",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0376) 212 59 09",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.6473503112793,
+  "lng": 33.681800842285156,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.6473503112793,33.681800842285156",
+  "yandex_url": "https://yandex.com/maps/?text=Fulya Eczanesi&ll=33.681800842285156%2C40.6473503112793&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "1cb05766-7797-4725-a8c8-280b299d3dd8",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Fızyoalpha",
@@ -1077,7 +1196,9 @@
   "fsq_id": "553cad21498ee3ac12e48e07",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "b25e4592-53bf-4f0e-9835-9b031cd6cda8",
+  "alt": "muayenehane"
  },
  {
   "ad": "Gerede Devlet Hastanesi",
@@ -1131,7 +1252,8 @@
   "fsq_id": "588f3f5c5490d32cb92383c6",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "818ed467-afc5-473f-8e8a-22dbd1c845b1"
  },
  {
   "ad": "Hastahane",
@@ -1917,6 +2039,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Oksijen Bilişim",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Şehit Teğmen Mehmet Ata Sokak 1/d",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.60115432739258,
+  "lng": 33.61666488647461,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.60115432739258,33.61666488647461",
+  "yandex_url": "https://yandex.com/maps/?text=Oksijen Bilişim&ll=33.61666488647461%2C40.60115432739258&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "665ecb00-3dce-4b87-b6aa-ba3be1096dcc",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Orası",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -2269,6 +2420,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Taşmescit Aile Sağlığı Merkezi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": null,
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.599159240722656,
+  "lng": 33.609676361083984,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.599159240722656,33.609676361083984",
+  "yandex_url": "https://yandex.com/maps/?text=Taşmescit Aile Sağlığı Merkezi&ll=33.609676361083984%2C40.599159240722656&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "159524be-444f-44cb-bdaa-68dffa91b39f",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Tokat Dis Hastanesi",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -2459,6 +2639,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Welltures Çankırı",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": " Karataş Mah. Kayabaşı Cad.",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.60603713989258,
+  "lng": 33.61052703857422,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.60603713989258,33.61052703857422",
+  "yandex_url": "https://yandex.com/maps/?text=Welltures Çankırı&ll=33.61052703857422%2C40.60603713989258&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "ae67550d-025b-4bbb-80f8-788c5ade61ef",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Yapraklı ASM",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -2565,6 +2774,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Zubeyde Hanim Aile Saglik Merkezi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Şehit P.Er Zübeyde Hanım Aile Sağlığı Merkezi, Şht. Selami Işık Cd. No:2/4-5",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0376) 213 62 42",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.59571838378906,
+  "lng": 33.630462646484375,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.59571838378906,33.630462646484375",
+  "yandex_url": "https://yandex.com/maps/?text=Zubeyde Hanim Aile Saglik Merkezi&ll=33.630462646484375%2C40.59571838378906&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "af079ef2-0024-4a93-94f7-277571f965a9",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "akbük sağlık ocağı",
@@ -2969,7 +3207,8 @@
   "fsq_id": "61e01750b353fd29f7a83343",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "005d11e9-3423-4bac-8293-f978068e0624"
  },
  {
   "ad": "Çankırı Aksu Mah Aile Sağlık Merkezi",
@@ -3470,6 +3709,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Çankırı Kaya Tuzu",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "cumhuriyet mah. özel karatekin hastanesi arkası",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.tuzcankiri.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.601158142089844,
+  "lng": 33.61656951904297,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.601158142089844,33.61656951904297",
+  "yandex_url": "https://yandex.com/maps/?text=Çankırı Kaya Tuzu&ll=33.61656951904297%2C40.601158142089844&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "62846e5f-5b74-4bd5-ac25-9c64507dada8",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Çankırı Merkez Sağlık Kompleksi",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -3900,7 +4168,9 @@
   "fsq_id": "4f168a85e4b0678415d831d6",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "f55cfa1f-107f-46b0-8dd4-0cc9586133bb",
+  "alt": "muayenehane"
  },
  {
   "ad": "Özel Karatekin Hastahanesi - Morg",
@@ -4392,5 +4662,63 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Şifalı TUZCU çankırı",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Ahmet Talat Onay Bulvarı",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.61206817626953,
+  "lng": 33.6332893371582,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.61206817626953,33.6332893371582",
+  "yandex_url": "https://yandex.com/maps/?text=Şifalı TUZCU çankırı&ll=33.6332893371582%2C40.61206817626953&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "2f2cfbbe-bf70-47a3-bc20-681a5aafd189",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Şifalı TUZCU çankırı",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Ahmet Talat Onay Bulvarı",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.59846878051758,
+  "lng": 33.620758056640625,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.59846878051758,33.620758056640625",
+  "yandex_url": "https://yandex.com/maps/?text=Şifalı TUZCU çankırı&ll=33.620758056640625%2C40.59846878051758&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "7c462dae-a0e9-435b-b666-0b4552599ed2",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  }
 ]

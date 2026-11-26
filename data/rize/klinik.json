@@ -483,7 +483,9 @@
   "fsq_id": "503b0531e4b0c7c1fba77aee",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "5b86db66-c754-43cd-b0fe-9fb0ada3ff0d",
+  "alt": "muayenehane"
  },
  {
   "ad": "Alfa Bioenerji(terapi) Merkezi",
@@ -699,7 +701,9 @@
   "fsq_id": "5795e727498e62c81aecf0cd",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "2c481daa-480f-4113-80dd-337267b03b34",
+  "alt": "muayenehane"
  },
  {
   "ad": "Ankara Hacettepe",
@@ -781,6 +785,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Araştırma Hastanesi Rize Taksi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "islampaşa mahallesi",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.03585433959961,
+  "lng": 40.563720703125,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.03585433959961,40.563720703125",
+  "yandex_url": "https://yandex.com/maps/?text=Araştırma Hastanesi Rize Taksi&ll=40.563720703125%2C41.03585433959961&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "3f751606-10cf-4b37-8f32-0a7d44d79ef9",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Ardesen Aile Hekimligi",
@@ -978,12 +1011,12 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d177941735"
   ],
-  "adres": "Piriçelebi Mahallesi",
+  "adres": "Atatürk Caddesi 306/d",
   "il": null,
   "ilce": null,
   "mahalle": null,
   "telefon": "(0462) 253 53 61",
-  "web": null,
+  "web": "http://asilkaradenizisitme.com/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -996,7 +1029,9 @@
   "fsq_id": "56dd9e59498e714be41fedbf",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "3ce17bf3-ab95-4a9b-866f-90253209a57a",
+  "alt": "muayenehane"
  },
  {
   "ad": "Atakoy Ruh Sinir Hastaliklari Hastanesi",
@@ -1078,7 +1113,9 @@
   "fsq_id": "57c54afdcd10eb183495a9f3",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "b5d2c584-eec6-416e-815d-7589b7b13b91",
+  "alt": "muayenehane"
  },
  {
   "ad": "Ayder Medikal",
@@ -1403,6 +1440,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Biotex Medikal",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "2 Nolu Şehitler Caddesi 11",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0464) 300 01 01",
+  "web": "https://www.bio-tex.com.tr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.919464111328125,
+  "lng": 40.421810150146484,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.919464111328125,40.421810150146484",
+  "yandex_url": "https://yandex.com/maps/?text=Biotex Medikal&ll=40.421810150146484%2C40.919464111328125&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "799e4c75-cd70-4d97-88be-89534c2a0a79",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Biyokimya Laboratuvarı",
@@ -2026,6 +2092,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Doç. Dr. Beril Gürlek Kadın Doğum Uzmanı",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Mora Plaza, Kat:6 Ofis:604",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0464) 502 35 53",
+  "web": "http://www.drberilgurlek.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.026275634765625,
+  "lng": 40.51457977294922,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.026275634765625,40.51457977294922",
+  "yandex_url": "https://yandex.com/maps/?text=Doç. Dr. Beril Gürlek Kadın Doğum Uzmanı&ll=40.51457977294922%2C41.026275634765625&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "746f7b7f-35d8-4492-b212-69b169207641",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Doğumhane",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -2050,7 +2145,9 @@
   "fsq_id": "50efef22e4b05bd3e6684c79",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "f33d8ac7-cdee-41ed-85ce-0e5fdaa98b35",
+  "alt": "muayenehane"
  },
  {
   "ad": "Dr. Elif Yurtsever Kadın Hastalıkları Ve Doğum Kliniği",
@@ -2867,6 +2964,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Hacamat merkezi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "irfanlı mah yaşam sitesi b blok , Of",
+  "il": null,
+  "ilce": "Of",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.9427490234375,
+  "lng": 40.262168884277344,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.9427490234375,40.262168884277344",
+  "yandex_url": "https://yandex.com/maps/?text=Hacamat merkezi&ll=40.262168884277344%2C40.9427490234375&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "3b245f09-f200-4b79-a960-3707b0b8de73",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Halk Diş Laboratuvarı",
@@ -3897,6 +4023,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "KaradenİZ İŞİTme CİHazlari",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "HAMİDİYE MÜCAVİR MEVKİİ KAÇKAR SOKAK MAVİ AY A BLOK 36E, Hamidiye Köyü Yolu, Pazar",
+  "il": null,
+  "ilce": "Pazar",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.179115295410156,
+  "lng": 40.94378662109375,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.179115295410156,40.94378662109375",
+  "yandex_url": "https://yandex.com/maps/?text=KaradenİZ İŞİTme CİHazlari&ll=40.94378662109375%2C41.179115295410156&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "dc4ee073-c616-4dcc-b6ae-f42aa2e6c18e",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Karanlık Odalar",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -4139,6 +4294,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Kaçkar OSGB",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Rutin Sok No:1 D:3, Ardeşen",
+  "il": null,
+  "ilce": "Ardeşen",
+  "mahalle": null,
+  "telefon": "(0464) 715 55 99",
+  "web": "http://www.kackarosgb.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.19008255004883,
+  "lng": 40.98337936401367,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.19008255004883,40.98337936401367",
+  "yandex_url": "https://yandex.com/maps/?text=Kaçkar OSGB&ll=40.98337936401367%2C41.19008255004883&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "415e06c8-629a-4762-94cc-ad0e9af7c64c",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Kbb Servisi",
@@ -4548,6 +4732,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Merkez 2 Nolu Saglık Ocagı",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Atatürk Cad",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0464) 213 03 65",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.022743225097656,
+  "lng": 40.52870559692383,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.022743225097656,40.52870559692383",
+  "yandex_url": "https://yandex.com/maps/?text=Merkez 2 Nolu Saglık Ocagı&ll=40.52870559692383%2C41.022743225097656&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "63c76241-443a-4b65-9fa6-4755363ce28f",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Merkez 7 Nolu (Çaykent) ASHİ",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -4656,6 +4869,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "MesDent Dis Klinigi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "İbrahim Karaoğlanoğlu Caddesi 3",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.026451110839844,
+  "lng": 40.51770782470703,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.026451110839844,40.51770782470703",
+  "yandex_url": "https://yandex.com/maps/?text=MesDent Dis Klinigi&ll=40.51770782470703%2C41.026451110839844&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "a5cb5145-b095-4957-a296-5e414aa112b3",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Mikrobiyoloji Araştırma Laboratuvarı",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -4708,6 +4950,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Mpgcare International Health Tourism",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Menderes Bulvarı 290A",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0850) 259 55 53",
+  "web": "http://www.mpgcare.com/en/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.02545928955078,
+  "lng": 40.53644943237305,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.02545928955078,40.53644943237305",
+  "yandex_url": "https://yandex.com/maps/?text=Mpgcare International Health Tourism&ll=40.53644943237305%2C41.02545928955078&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "4004ddfb-1842-45a4-885b-5337222b6f66",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Mr",
@@ -5360,6 +5631,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Opr.Dr Elif Yurtsever",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Cumhuriyet Caddesi 7",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0464) 214 90 17",
+  "web": "http://www.drelifyurtsever.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.00572967529297,
+  "lng": 40.509239196777344,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.00572967529297,40.509239196777344",
+  "yandex_url": "https://yandex.com/maps/?text=Opr.Dr Elif Yurtsever&ll=40.509239196777344%2C41.00572967529297&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "7c1753f3-69df-4453-aa19-4a8662a9cb24",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Ormanlı Sağlık Evi",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -5412,6 +5712,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Pazar 1 Nolu Asm",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Eski Rize Hopa Yolu No:34, Pazar",
+  "il": null,
+  "ilce": "Pazar",
+  "mahalle": null,
+  "telefon": "(0464) 612 17 99",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.1801643371582,
+  "lng": 40.88247299194336,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.1801643371582,40.88247299194336",
+  "yandex_url": "https://yandex.com/maps/?text=Pazar 1 Nolu Asm&ll=40.88247299194336%2C41.1801643371582&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "dee2dbe3-76d6-46d9-a9aa-1dea83030049",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Pazar 112 Acil Sağlık Hizmetleri Istasyonu",
@@ -6410,7 +6739,9 @@
   "fsq_id": "559cd70f498ee3039d00eb20",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "b73c89c0-6d2b-4c55-a24a-0ba9bbe4f39a",
+  "alt": "muayenehane"
  },
  {
   "ad": "Rize",
@@ -6419,12 +6750,12 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d196941735"
   ],
-  "adres": null,
+  "adres": "Piri Reis Cd. No:4A",
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
-  "web": null,
+  "telefon": "(0464) 214 90 17",
+  "web": "https://www.instagram.com/alazvet/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -6437,7 +6768,9 @@
   "fsq_id": "5bd9826ea35dce002c84fcd0",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "db3d652a-3e4b-43c4-9443-bdcb13ed9b58",
+  "alt": "muayenehane"
  },
  {
   "ad": "Rize",
@@ -7848,6 +8181,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Rize Sen Optik",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Hisar Sokak 2B",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.0296516418457,
+  "lng": 40.51362991333008,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.0296516418457,40.51362991333008",
+  "yandex_url": "https://yandex.com/maps/?text=Rize Sen Optik&ll=40.51362991333008%2C41.0296516418457&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "fea6dc88-2c32-46ee-845e-064077df2663",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Rize TSM",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -8415,6 +8777,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Saç Ekimi Trabzon",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Gazipaşa Caddesi 15, Ortahisar",
+  "il": null,
+  "ilce": "Ortahisar",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.trabzonsacekim.com.tr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.0248908996582,
+  "lng": 40.52449417114258,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.0248908996582,40.52449417114258",
+  "yandex_url": "https://yandex.com/maps/?text=Saç Ekimi Trabzon&ll=40.52449417114258%2C41.0248908996582&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "0b13b003-fad9-4f47-a772-8c27c84c0938",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Sağlık Ocağı",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -8928,6 +9319,64 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Uzm. Dr. Cahit Şahin, Çocuk Doktoru, Çocuk Sağlığı ve Hastalıkları Uzmanı",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Mora Plaza, Ulubatlı Sk. Kat:5 Ofis:505",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.02635192871094,
+  "lng": 40.51448440551758,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.02635192871094,40.51448440551758",
+  "yandex_url": "https://yandex.com/maps/?text=Uzm. Dr. Cahit Şahin, Çocuk Doktoru, Çocuk Sağlığı ve Hastalıkları Uzmanı&ll=40.51448440551758%2C41.02635192871094&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "722fcb35-508a-41bb-bb0b-337165df38fe",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Uzm.Dr.Yücehan Albayrak",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Piriçelebi mahallesi Ulubatlı sokak Mora plaza merkez /Rize",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://yucehanalbayrak.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.02606964111328,
+  "lng": 40.51449203491211,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.02606964111328,40.51449203491211",
+  "yandex_url": "https://yandex.com/maps/?text=Uzm.Dr.Yücehan Albayrak&ll=40.51449203491211%2C41.02606964111328&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "9a9a080a-ef23-49bb-ad30-9fdeb11e05d1",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Uğur Grup Medikal",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -9413,6 +9862,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "dr.selimyurtsever",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Ulubatlı Sokak 20",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.02606964111328,
+  "lng": 40.51449203491211,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.02606964111328,40.51449203491211",
+  "yandex_url": "https://yandex.com/maps/?text=dr.selimyurtsever&ll=40.51449203491211%2C41.02606964111328&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "af4cb1a5-994c-4820-a87a-7e1ed3405c4e",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "dörtyol sağlık evi",
@@ -11143,6 +11621,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Özel Rize Merkez Ağız ve Diş Sağlığı Polikliniği",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Cumhuriyet Cd. No:50 D:1",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.03413772583008,
+  "lng": 40.509761810302734,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.03413772583008,40.509761810302734",
+  "yandex_url": "https://yandex.com/maps/?text=Özel Rize Merkez Ağız ve Diş Sağlığı Polikliniği&ll=40.509761810302734%2C41.03413772583008&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "43260baa-7e6f-40e6-891a-19ec141f1ca2",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Özel Rize Ruh Sağlığı Merkezi",

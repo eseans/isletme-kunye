@@ -2113,7 +2113,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d194941735"
   ],
-  "adres": "Bucak Devlet Hastanesi",
+  "adres": "2728. Sk., Bucak",
   "il": null,
   "ilce": "Bucak",
   "mahalle": null,
@@ -2131,7 +2131,8 @@
   "fsq_id": "555db07e498e26f75230218b",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "93ee1b41-c71a-48a9-9f0c-5454d3c444bc"
  },
  {
   "ad": "Bucak Devlet Hastanesi Ameliyathane Servisi",
@@ -3111,7 +3112,9 @@
   "fsq_id": "54b52bc0498e02457c4e2f00",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "c9220816-8e8a-490c-8f69-8568e19724b6",
+  "alt": "muayenehane"
  },
  {
   "ad": "Burdur Devlet Hastanesi 506 Nolu Oda",
@@ -3789,6 +3792,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Burdur Mehmet Akif Ersoy Ünversitesi Diş Hastanesi ",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Bahçeli evler mahallesi mithat paşa caddesi",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0248) 213 46 00",
+  "web": "https://dishastanesi.mehmetakif.edu.tr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.715450286865234,
+  "lng": 30.271608352661133,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.715450286865234,30.271608352661133",
+  "yandex_url": "https://yandex.com/maps/?text=Burdur Mehmet Akif Ersoy Ünversitesi Diş Hastanesi &ll=30.271608352661133%2C37.715450286865234&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "faf72cd1-3b22-4c76-81aa-241549596050",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Burdur Merkez 1 Nolu 112 ASHİ",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -4440,7 +4472,9 @@
   "fsq_id": "541c9d89498e3fbc998821af",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "aca54449-7694-4c21-b540-35ed68cde8ff",
+  "alt": "muayenehane"
  },
  {
   "ad": "Devlet Hastanesi Yeni Dogan Servisi",
@@ -4503,7 +4537,7 @@
   "hizmet_ipuclari": [
    "590a0744340a5803fd8508c3"
   ],
-  "adres": null,
+  "adres": "Sia Kent Ofis Park, Süleyman Demirel Blv. No:10, Bucak",
   "il": null,
   "ilce": "Bucak",
   "mahalle": null,
@@ -4521,7 +4555,37 @@
   "fsq_id": "5f5bca8449517e2355b42317",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "179a7056-2392-4d4a-8545-c609e2e2d252"
+ },
+ {
+  "ad": "Diyetisyen Mustafa Yöntem",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Hoca Ahmet Yesevi Blv. No:9 D:4, Bucak",
+  "il": null,
+  "ilce": "Bucak",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.45723342895508,
+  "lng": 30.591022491455078,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.45723342895508,30.591022491455078",
+  "yandex_url": "https://yandex.com/maps/?text=Diyetisyen Mustafa Yöntem&ll=30.591022491455078%2C37.45723342895508&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "968d7b94-810d-4535-9f91-d4bcb34d3873",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Diş hekimi Sercan SENCER",
@@ -5064,6 +5128,64 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Evciler Ilce Devlet Hastanesi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Fati̇h Mahallesi̇, Evciler",
+  "il": null,
+  "ilce": "Evciler",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.03947448730469,
+  "lng": 29.893545150756836,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.03947448730469,29.893545150756836",
+  "yandex_url": "https://yandex.com/maps/?text=Evciler Ilce Devlet Hastanesi&ll=29.893545150756836%2C38.03947448730469&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "7a8bdff7-bb8f-4dc9-b853-015564a08594",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Evciler Ilce Devlet Hastanesi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Fati̇h Mahallesi̇, Evciler",
+  "il": null,
+  "ilce": "Evciler",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.032962799072266,
+  "lng": 29.892974853515625,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.032962799072266,29.892974853515625",
+  "yandex_url": "https://yandex.com/maps/?text=Evciler Ilce Devlet Hastanesi&ll=29.892974853515625%2C38.032962799072266&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "793da087-dbfe-46cd-ab13-79be82f1e6a6",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "FH Headquarters Burdur Şube",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -5145,18 +5267,76 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "FizyoEnerji",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Topraklık Caddesi 47",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.72450637817383,
+  "lng": 30.27588653564453,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.72450637817383,30.27588653564453",
+  "yandex_url": "https://yandex.com/maps/?text=FizyoEnerji&ll=30.27588653564453%2C37.72450637817383&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "a55f018c-7cc8-4128-bb58-c73a2642f325",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "FizyoEnerji",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Topraklık Caddesi 54",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.72773742675781,
+  "lng": 30.262353897094727,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.72773742675781,30.262353897094727",
+  "yandex_url": "https://yandex.com/maps/?text=FizyoEnerji&ll=30.262353897094727%2C37.72773742675781&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "6589a8e4-7cac-4a89-8744-d678bdfa6e5b",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "FizyoMed's",
   "sektor": "klinik",
   "kategori": "klinik",
   "hizmet_ipuclari": [
    "5744ccdfe4b0c0459246b4af"
   ],
-  "adres": null,
+  "adres": "Fevzi Paşa Caddesi 1",
   "il": null,
   "ilce": null,
   "mahalle": null,
   "telefon": null,
-  "web": null,
+  "web": "http://www.fizyomeds.com/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -5169,7 +5349,8 @@
   "fsq_id": "5a93efaae96d0c2e5b8a35f1",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "201371ed-7618-4527-b154-d29f014ccfdc"
  },
  {
   "ad": "Fizyomed's",
@@ -5223,7 +5404,8 @@
   "fsq_id": "5b61603535811b002cb31cc2",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "33ae9cd3-9d6e-42b2-a957-b5df3f767616"
  },
  {
   "ad": "Fizyoterapist Taha Uysal",
@@ -5251,6 +5433,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Gulem Isitme Merkezi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Bucak Yeni Devlet Hastanesi Karşısı, Bucak",
+  "il": null,
+  "ilce": "Bucak",
+  "mahalle": null,
+  "telefon": "(0248) 325 14 55",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.45747756958008,
+  "lng": 30.592910766601562,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.45747756958008,30.592910766601562",
+  "yandex_url": "https://yandex.com/maps/?text=Gulem Isitme Merkezi&ll=30.592910766601562%2C37.45747756958008&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "445be9e1-073c-4756-a0f9-6be968e5e050",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Gökçek 112",
@@ -6415,6 +6626,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Kısla Mahallesi Dis Hastanesi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "17. Sokak",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.75278091430664,
+  "lng": 30.332374572753906,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.75278091430664,30.332374572753906",
+  "yandex_url": "https://yandex.com/maps/?text=Kısla Mahallesi Dis Hastanesi&ll=30.332374572753906%2C37.75278091430664&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "44dc996d-dfad-4120-bf77-39546ed8a644",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Kızılkaya Sağlık Ocağı",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -6844,7 +7084,8 @@
   "fsq_id": "515c3124e4b03192d81268f3",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "a41d3fde-79d4-4157-bc0b-850a27134b12"
  },
  {
   "ad": "Merkez 3 nolu Ashi 112",
@@ -6952,7 +7193,9 @@
   "fsq_id": "587cc56a8ae3636a09c3309d",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "ccaf96e5-e753-46bc-be31-be59082df1a7",
+  "alt": "muayenehane"
  },
  {
   "ad": "Mine Hanım Engelli Gündüz Bakım Evi",
@@ -7034,6 +7277,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Mübeccel Sayılı Özel Eğitim Ve Rehabilitasyon Merkezi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "İsmail Boyacıoğlu Caddesi 198",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0248) 242 95 85",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.695655822753906,
+  "lng": 30.19940757751465,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.695655822753906,30.19940757751465",
+  "yandex_url": "https://yandex.com/maps/?text=Mübeccel Sayılı Özel Eğitim Ve Rehabilitasyon Merkezi&ll=30.19940757751465%2C37.695655822753906&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "582a59e0-fdc4-47fc-86a6-d69f96774683",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Nazo'nun kalbi",
@@ -7252,6 +7524,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Ozel Ritim Saglik Kabini",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Yahya Kemal Caddesi 99",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.714908599853516,
+  "lng": 30.250024795532227,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.714908599853516,30.250024795532227",
+  "yandex_url": "https://yandex.com/maps/?text=Ozel Ritim Saglik Kabini&ll=30.250024795532227%2C37.714908599853516&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "e46b9f10-1fdb-4f44-a5e9-d7f0fc9420c1",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Patoloji Laboratuarı",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -7330,7 +7631,9 @@
   "fsq_id": "524ad9e811d2b90cec57bd15",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "41635b57-d656-4f54-b698-9b36951f857a",
+  "alt": "muayenehane"
  },
  {
   "ad": "Psikolog Nur Akın Psikolojik Danışmanlık Merkezi",
@@ -7636,11 +7939,11 @@
   "hizmet_ipuclari": [
    "522e32fae4b09b556e370f19"
   ],
-  "adres": "Devlet Hastanesi Karşısı",
+  "adres": "Tepecik Cd. No:9, Bucak",
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0248) 325 42 22",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -7654,7 +7957,8 @@
   "fsq_id": "56796323498ec34bf97641eb",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "ac5c6b14-5dbd-4c8a-ac90-d47605090756"
  },
  {
   "ad": "Sülekler Köyü Sağlık Ocağı",
@@ -7954,6 +8258,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Terapi Ofis Isparta",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Gazi Kemal Mahallesi 1302 Sokak No:35 Daire:15 Merkez Isparta",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.terapiofis.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.72019958496094,
+  "lng": 30.25287628173828,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.72019958496094,30.25287628173828",
+  "yandex_url": "https://yandex.com/maps/?text=Terapi Ofis Isparta&ll=30.25287628173828%2C37.72019958496094&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "97d5a767-8f72-4497-bfd1-3e31149d7335",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Türk Kızılayı Kan Bağışlama Tırı",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -8061,7 +8394,66 @@
   "fsq_id": "56f5231b498e1e3f575b7e67",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "52d036ec-d889-46f7-8e4a-35ae1a71b6cc"
+ },
+ {
+  "ad": "Uzm. Dr. Huriye Esra GÖÇER",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Burdur Devlet Hastanesi",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.drhuriyeesragocer.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.729373931884766,
+  "lng": 30.26142692565918,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.729373931884766,30.26142692565918",
+  "yandex_url": "https://yandex.com/maps/?text=Uzm. Dr. Huriye Esra GÖÇER&ll=30.26142692565918%2C37.729373931884766&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "0d5b8cf8-fe5d-4003-a754-d31af07bfc84",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Uzm. Dr. Huriye Esra GÖÇER",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Burdur Devlet Hastanesi",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.drhuriyeesragocer.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.71712875366211,
+  "lng": 30.28232192993164,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.71712875366211,30.28232192993164",
+  "yandex_url": "https://yandex.com/maps/?text=Uzm. Dr. Huriye Esra GÖÇER&ll=30.28232192993164%2C37.71712875366211&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "063a4a4a-71d1-4a53-b06c-4a19d225031f",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Vehbi Kara İş Sağlığı Ve Güvenliği Merkezi",
@@ -8387,7 +8779,8 @@
   "fsq_id": "583c662f23188e7d9da54e43",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "3154da83-14ff-4d4a-bf99-5d16509b185e"
  },
  {
   "ad": "Zuhal",
@@ -8877,6 +9270,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "gulayozkanf.d.m",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "İstasyon Caddesi 1",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.71957015991211,
+  "lng": 30.28191566467285,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.71957015991211,30.28191566467285",
+  "yandex_url": "https://yandex.com/maps/?text=gulayozkanf.d.m&ll=30.28191566467285%2C37.71957015991211&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "e3f3cbc2-34ec-47ae-add1-8a993ea3173c",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "hastahane",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -9288,12 +9710,12 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d196941735"
   ],
-  "adres": null,
+  "adres": "Karakol Sk. No:1, Yeşilova",
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
-  "web": null,
+  "telefon": "(0248) 618 14 46",
+  "web": "https://burdurism.saglik.gov.tr/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -9306,7 +9728,9 @@
   "fsq_id": "52de30ac498eae895e3114b9",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "87fdcd6b-0a1a-4ff4-b3a1-14c164878c22",
+  "alt": "muayenehane"
  },
  {
   "ad": "yeşilova merkez sağlık ocağı",
@@ -9576,7 +10000,9 @@
   "fsq_id": "5818903638fae952812e3c51",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "e1283971-0993-4524-ac91-9fc891dffa90",
+  "alt": "muayenehane"
  },
  {
   "ad": "Özel Academi Hastanesi",
@@ -9606,6 +10032,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Özel Ata Hastanesi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Cumhuriyet Caddesi 44, Bucak",
+  "il": null,
+  "ilce": "Bucak",
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://www.atahastanesi.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.45669937133789,
+  "lng": 30.592397689819336,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.45669937133789,30.592397689819336",
+  "yandex_url": "https://yandex.com/maps/?text=Özel Ata Hastanesi&ll=30.592397689819336%2C37.45669937133789&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "ffce5569-f09f-4339-9792-2c53dc65a8f9",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Özel Bucak Yaşlı Bakım Merkezi",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -9631,6 +10086,64 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Özel Bucak İlgi Sağlık Kabini",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Süleyman Demirel Bulvarı 95, Bucak",
+  "il": null,
+  "ilce": "Bucak",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.45616149902344,
+  "lng": 30.588294982910156,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.45616149902344,30.588294982910156",
+  "yandex_url": "https://yandex.com/maps/?text=Özel Bucak İlgi Sağlık Kabini&ll=30.588294982910156%2C37.45616149902344&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "5933757b-2ef2-4405-a007-648b65f5e431",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Özel Bucak İlgi Sağlık Kabini",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Süleyman Demirel Bulvarı 95, Bucak",
+  "il": null,
+  "ilce": "Bucak",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.45635223388672,
+  "lng": 30.581892013549805,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.45635223388672,30.581892013549805",
+  "yandex_url": "https://yandex.com/maps/?text=Özel Bucak İlgi Sağlık Kabini&ll=30.581892013549805%2C37.45635223388672&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "ed5f1371-1494-4f03-a408-dda989bc527e",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Özel Burdur Uzman Diyaliz Merkezi",

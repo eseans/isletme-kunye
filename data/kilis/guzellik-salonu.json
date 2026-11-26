@@ -106,7 +106,8 @@
   "fsq_id": "59b50dc0b54618784f455f17",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "c3a85bf2-edaa-4235-aa53-6f40f765507c"
  },
  {
   "ad": "Aspava Erkek Kuaförü",
@@ -305,7 +306,7 @@
   "hizmet_ipuclari": [
    "4f04aa0c2fb6e1c99f3db0b8"
   ],
-  "adres": "Büyük Kütah Mah.",
+  "adres": "Cumhuriyet Cd. No:35",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -323,7 +324,8 @@
   "fsq_id": "5597d0aa498e4caa7377f66d",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "ebdd3083-1969-4e1d-94f9-a2cd64fcba10"
  },
  {
   "ad": "Elitte Güzellik Salonu",
@@ -350,7 +352,9 @@
   "fsq_id": "5cc1c9d041b6c90025b17045",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "764b3078-3972-4198-8e0a-db39ef852055",
+  "alt": "tirnak"
  },
  {
   "ad": "Emel güzellik merkezi",
@@ -378,6 +382,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Emre Sevindi Hair Palace",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Hüseyin Happani Sokak No4/B",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.71113967895508,
+  "lng": 37.13280487060547,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.71113967895508,37.13280487060547",
+  "yandex_url": "https://yandex.com/maps/?text=Emre Sevindi Hair Palace&ll=37.13280487060547%2C36.71113967895508&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "2cfddb88-75cf-4c07-ac21-f9a652fcf4e9",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Enliva Güzellik Salonu",
@@ -431,7 +464,8 @@
   "fsq_id": "5677dc52498eed25e7d5f967",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "0aaf59f2-49e3-4b8d-a1c8-00f2362b988d"
  },
  {
   "ad": "Gizem Erkek Kuaförü",
@@ -1057,7 +1091,8 @@
   "fsq_id": "5852708a3cccc6187a308376",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "338a82fd-f297-4781-8a57-fc701ac5d928"
  },
  {
   "ad": "Nil Güzellik Salonu",
@@ -1735,6 +1770,93 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Ünlü Masör Bünyamin Yılmaz",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Fevzi çakmak sok c6 ",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.71784973144531,
+  "lng": 37.10686111450195,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.71784973144531,37.10686111450195",
+  "yandex_url": "https://yandex.com/maps/?text=Ünlü Masör Bünyamin Yılmaz&ll=37.10686111450195%2C36.71784973144531&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "d5e85d62-cc28-4597-865d-52899dafeaf8",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Ünlü Masör Bünyamin Yılmaz",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Mareşal Fevzi Çakmak Caddesi 6",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.71562957763672,
+  "lng": 37.13828659057617,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.71562957763672,37.13828659057617",
+  "yandex_url": "https://yandex.com/maps/?text=Ünlü Masör Bünyamin Yılmaz&ll=37.13828659057617%2C36.71562957763672&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "5a814731-0713-4c87-8162-0136da9a9f94",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Ünlü Masör Bünyamin Yılmaz",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Mareşal Fevzi Çakmak Caddesi 6",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.711891174316406,
+  "lng": 37.13756561279297,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.711891174316406,37.13756561279297",
+  "yandex_url": "https://yandex.com/maps/?text=Ünlü Masör Bünyamin Yılmaz&ll=37.13756561279297%2C36.711891174316406&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "aff5a502-f557-4106-b4a6-57691fceffa7",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "İç Nizamiye",

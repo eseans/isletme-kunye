@@ -1,5 +1,34 @@
 [
  {
+  "ad": "Adiyaman Diyetisyen Fatos Ilhan",
+  "sektor": "diyetisyen",
+  "kategori": "diyetisyen",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "nutrition_service"
+  ],
+  "adres": "Adıyaman Diyetisyen, 112. Sk. No:11",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.765560150146484,
+  "lng": 38.275733947753906,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.765560150146484,38.275733947753906",
+  "yandex_url": "https://yandex.com/maps/?text=Adiyaman Diyetisyen Fatos Ilhan&ll=38.275733947753906%2C37.765560150146484&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "cc9b4991-1965-4690-9dca-ab1db8d1bcad",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Adıyaman Diyetisyen",
   "sektor": "diyetisyen",
   "kategori": "diyetisyen",
@@ -24,7 +53,8 @@
   "fsq_id": "5d4ee6d378bb0e00074b9fc1",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "f73f0224-f30a-409a-a1ff-f2913ae9354b"
  },
  {
   "ad": "Bozbey Beslenme Merkezi",

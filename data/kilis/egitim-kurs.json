@@ -6,7 +6,7 @@
   "hizmet_ipuclari": [
    "52e81612bcbc57f1066b7a42"
   ],
-  "adres": "Hacı Cümbüş Camii Yanı",
+  "adres": "7 Aralık Sk. No:2",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -24,7 +24,9 @@
   "fsq_id": "57fe027a498ee8e0832f1c09",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "91f0dbd5-b4e1-432e-a42f-8d066a246509",
+  "alt": "surucu-kursu"
  },
  {
   "ad": "7 Aralik Sürücü Kursu",
@@ -87,12 +89,12 @@
   "hizmet_ipuclari": [
    "52e81612bcbc57f1066b7a48"
   ],
-  "adres": null,
+  "adres": "Malazgirt Cad. No:36",
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
-  "web": null,
+  "telefon": "(0348) 813 32 32",
+  "web": "http://amerikankulturkilis.com/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -105,7 +107,9 @@
   "fsq_id": "56a0c038498e77da8f9fcb2d",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "93c210ae-2b56-4be1-8168-ee26b7f70f85",
+  "alt": "dil-kursu"
  },
  {
   "ad": "Elbeyli Sürücü Kursu",
@@ -163,6 +167,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Hassa Bayırlı Sürücü Kursu",
+  "sektor": "egitim-kurs",
+  "kategori": "egitim-kurs",
+  "alt": "surucu-kursu",
+  "hizmet_ipuclari": [
+   "driving_school"
+  ],
+  "adres": "Bintaş Cd. No:15B, Hassa",
+  "il": null,
+  "ilce": "Hassa",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.79880905151367,
+  "lng": 36.523807525634766,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.79880905151367,36.523807525634766",
+  "yandex_url": "https://yandex.com/maps/?text=Hassa Bayırlı Sürücü Kursu&ll=36.523807525634766%2C36.79880905151367&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "bf93ccb6-365e-4dc7-bbbd-b85029bb10bd",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Hassa Elbeyli Sürücü Kursu",
   "sektor": "egitim-kurs",
   "kategori": "egitim-kurs",
@@ -214,7 +247,9 @@
   "fsq_id": "58025b4e38fabbb13599008d",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "c9f13985-a2f0-4fcb-9448-3b594cd62ef9",
+  "alt": "dans"
  },
  {
   "ad": "Herdem Müzik Evi",
@@ -248,6 +283,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Kilis Özgür Motorlu Taşıtlar Sürücü Kursu",
+  "sektor": "egitim-kurs",
+  "kategori": "egitim-kurs",
+  "alt": "surucu-kursu",
+  "hizmet_ipuclari": [
+   "driving_school"
+  ],
+  "adres": "Mehmet Paşa Sokak 28",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0348) 814 13 14",
+  "web": "http://www.kilisozgursurucukursu.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.71611022949219,
+  "lng": 37.119651794433594,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.71611022949219,37.119651794433594",
+  "yandex_url": "https://yandex.com/maps/?text=Kilis Özgür Motorlu Taşıtlar Sürücü Kursu&ll=37.119651794433594%2C36.71611022949219&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "16f97e55-8ec6-4ab7-bcc1-b39b6a8d8f45",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "KİLİS SÜRÜCÜ KURSU",
@@ -304,6 +368,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Lavinya Çocuk Kulübü",
+  "sektor": "egitim-kurs",
+  "kategori": "egitim-kurs",
+  "alt": "etut",
+  "hizmet_ipuclari": [
+   "tutoring_service"
+  ],
+  "adres": "Mehmet Rıfat Kazancıoğlu Mah. Süleyman Karakuş Sk. No:21/1",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.lavinyacocuk.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.713008880615234,
+  "lng": 37.12822723388672,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.713008880615234,37.12822723388672",
+  "yandex_url": "https://yandex.com/maps/?text=Lavinya Çocuk Kulübü&ll=37.12822723388672%2C36.713008880615234&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "92996e6b-3d8c-48fc-8270-7aebba29d25d",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Optimal Fit Clinic",
   "sektor": "egitim-kurs",
   "kategori": "egitim-kurs",
@@ -329,6 +422,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Ozgur Surucu Kursu",
+  "sektor": "egitim-kurs",
+  "kategori": "egitim-kurs",
+  "alt": "surucu-kursu",
+  "hizmet_ipuclari": [
+   "driving_school"
+  ],
+  "adres": "Mehmet Paşa Sk. No:28",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.kilisozgursurucukursu.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.71611785888672,
+  "lng": 37.11968994140625,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.71611785888672,37.11968994140625",
+  "yandex_url": "https://yandex.com/maps/?text=Ozgur Surucu Kursu&ll=37.11968994140625%2C36.71611785888672&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "da78fe5a-0fa9-476c-80d6-a5daf224a89b",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Paşa Sürücü Kursu",
@@ -391,7 +513,7 @@
   "hizmet_ipuclari": [
    "52e81612bcbc57f1066b7a42"
   ],
-  "adres": "Ekrem Çetin Mah",
+  "adres": "Ahmet Taner Kışlalı Blv.,Ekrem Çetin, 79000 Kilis Merkez/Kilis",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -409,7 +531,38 @@
   "fsq_id": "54a46711498e98a2020a38e9",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "5f8494e4-c508-4e5e-9f62-367f3ab6918e",
+  "alt": "surucu-kursu"
+ },
+ {
+  "ad": "aliler sürücü kursu",
+  "sektor": "egitim-kurs",
+  "kategori": "egitim-kurs",
+  "alt": "surucu-kursu",
+  "hizmet_ipuclari": [
+   "driving_school"
+  ],
+  "adres": "Ekrem Çetin Mahallesi, İstiklal Caddesi",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.kilisfirmarehberi.com/kilisalilersurucukursu.asp",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.72728729248047,
+  "lng": 37.09878921508789,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.72728729248047,37.09878921508789",
+  "yandex_url": "https://yandex.com/maps/?text=aliler sürücü kursu&ll=37.09878921508789%2C36.72728729248047&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "a6cb32be-0266-481b-8ac4-d824d91a10e6",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "gdjfhb",
@@ -520,6 +673,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Şenay Sürücü Kursu",
+  "sektor": "egitim-kurs",
+  "kategori": "egitim-kurs",
+  "alt": "surucu-kursu",
+  "hizmet_ipuclari": [
+   "driving_school"
+  ],
+  "adres": "İstiklal Caddesi",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.7241096496582,
+  "lng": 37.09889602661133,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.7241096496582,37.09889602661133",
+  "yandex_url": "https://yandex.com/maps/?text=Şenay Sürücü Kursu&ll=37.09889602661133%2C36.7241096496582&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "f2e6952c-c45c-4d83-b128-25e9f59a0ee2",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "مؤسسة اقرأ التعليمية",

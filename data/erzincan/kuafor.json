@@ -349,7 +349,8 @@
   "fsq_id": "50211f00e4b03e641c136976",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "3b3abeef-53b7-47f5-8e55-b04842c40891"
  },
  {
   "ad": "Bay Class",
@@ -836,7 +837,8 @@
   "fsq_id": "5331bc3f498e930633e50bfb",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "0ef1b929-8ca4-4e70-a2d2-c6718ddc89e2"
  },
  {
   "ad": "Black&White",
@@ -984,7 +986,7 @@
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0446) 214 99 03",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -998,7 +1000,8 @@
   "fsq_id": "53d24d5d498ec009411d7133",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "c90000fa-12c4-40ec-b4f6-6d66f1862297"
  },
  {
   "ad": "Charisma barber",
@@ -1682,6 +1685,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Fenomen Kuaför Salonu",
+  "sektor": "kuafor",
+  "kategori": "kuafor",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "hair_salon"
+  ],
+  "adres": "755. Sk.",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.74588394165039,
+  "lng": 39.494258880615234,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.74588394165039,39.494258880615234",
+  "yandex_url": "https://yandex.com/maps/?text=Fenomen Kuaför Salonu&ll=39.494258880615234%2C39.74588394165039&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "e348af54-a1e4-4f9b-9379-be70708c35e6",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Fenomen Saç Sakal Tasarım",
   "sektor": "kuafor",
   "kategori": "kuafor",
@@ -1715,7 +1747,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d110951735"
   ],
-  "adres": null,
+  "adres": "365. Sk. No:5",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -1733,7 +1765,8 @@
   "fsq_id": "55dd911b498e71e307671863",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "e26bf215-3339-4fb3-a5e8-2168131e55e8"
  },
  {
   "ad": "Gazel merve kuaför salonu",
@@ -2084,7 +2117,8 @@
   "fsq_id": "566412ae498eec3250f550c3",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "fad38fad-ec28-4d48-bb58-55c43c62cb8a"
  },
  {
   "ad": "Karizma 24",
@@ -2111,7 +2145,9 @@
   "fsq_id": "520d0cf8498eb0a679e8ee9f",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "1aaaaea7-6bd7-461e-a6ff-1172ccbd3186",
+  "alt": "berber"
  },
  {
   "ad": "Karizma Erkek Kuaförü",
@@ -2388,7 +2424,8 @@
   "fsq_id": "5532393d498ee29a127d1c57",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "1cd67b19-5bed-415b-a192-c161dd3679a1"
  },
  {
   "ad": "Kuaför Fatih",
@@ -2633,6 +2670,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Kuaför Yusuf",
+  "sektor": "kuafor",
+  "kategori": "kuafor",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "hair_salon"
+  ],
+  "adres": "785. Sk. No:24",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.745845794677734,
+  "lng": 39.497344970703125,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.745845794677734,39.497344970703125",
+  "yandex_url": "https://yandex.com/maps/?text=Kuaför Yusuf&ll=39.497344970703125%2C39.745845794677734&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "7aaf3415-2774-46fa-9efb-d60d9452ba62",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Kuaför Özgül",
@@ -3011,7 +3077,9 @@
   "fsq_id": "5c618e7df1936e002c0a1032",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "a95e1312-4a1a-43e5-b139-49285858853a",
+  "alt": "berber"
  },
  {
   "ad": "Maxim Kuaför",
@@ -3066,6 +3134,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Mega Bayan Kuaförü",
+  "sektor": "kuafor",
+  "kategori": "kuafor",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "hair_salon"
+  ],
+  "adres": "Ordu Cd. No:6",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0446) 223 56 43",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.74781799316406,
+  "lng": 39.491329193115234,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.74781799316406,39.491329193115234",
+  "yandex_url": "https://yandex.com/maps/?text=Mega Bayan Kuaförü&ll=39.491329193115234%2C39.74781799316406&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "6a6aa580-2403-4da6-a53a-5dc5d60d1d05",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Melih kuaför",
@@ -3502,6 +3599,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Salon Elit",
+  "sektor": "kuafor",
+  "kategori": "kuafor",
+  "alt": "berber",
+  "hizmet_ipuclari": [
+   "barber"
+  ],
+  "adres": null,
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.748809814453125,
+  "lng": 39.48775863647461,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.748809814453125,39.48775863647461",
+  "yandex_url": "https://yandex.com/maps/?text=Salon Elit&ll=39.48775863647461%2C39.748809814453125&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "da10d985-8deb-40ac-8d34-e63fa660ced5",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Salon Elit erkek kuaförü",
   "sektor": "kuafor",
   "kategori": "kuafor",
@@ -3607,7 +3733,9 @@
   "fsq_id": "59a2ec5446e1b6498820fb28",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "9f40ac85-b1cf-43a8-95c5-8b48313d48b0",
+  "alt": "berber"
  },
  {
   "ad": "Saloon Trend",
@@ -3959,7 +4087,9 @@
   "fsq_id": "54bd0a6b498e3e13bd4b66ef",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "0f5e1fac-8cbd-4e2e-9c13-85fa50ac0485",
+  "alt": "berber"
  },
  {
   "ad": "Tanrıverdi Kuaför Salonu",
@@ -4283,7 +4413,8 @@
   "fsq_id": "5301b528498eed325ad9e750",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "347bf8d9-6e8b-475d-b069-af1095608d32"
  },
  {
   "ad": "Yıldırım Erkek Kuaförü",
@@ -4904,7 +5035,8 @@
   "fsq_id": "52b56668498e6898af58e818",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "4305aa09-384a-4c13-849c-0a1b940046c3"
  },
  {
   "ad": "paris kuofor",

@@ -115,12 +115,12 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d178941735"
   ],
-  "adres": null,
+  "adres": "Kordon Cd. No:8 D:21, Marmaris",
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
-  "web": null,
+  "telefon": "(0252) 413 76 00",
+  "web": "http://www.akdentmarmaris.com/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -133,7 +133,8 @@
   "fsq_id": "51dadffb498e40b217892854",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "32a3c872-6840-4d2e-9cf3-0e8afc0f15f5"
  },
  {
   "ad": "Akdent Ağız ve Diş Sağlığı Polikliniği",
@@ -241,7 +242,8 @@
   "fsq_id": "517e8e0de4b0a1998957dc1b",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "755e6965-0fe2-4b75-96d5-f0248ae6bad7"
  },
  {
   "ad": "Andac Gumus",
@@ -648,7 +650,8 @@
   "fsq_id": "62f959003c32182f5341cf60",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "ca76007c-0502-4951-b6fe-c6f013513c9f"
  },
  {
   "ad": "Caretta Dental",
@@ -688,8 +691,8 @@
   "il": null,
   "ilce": "Marmaris",
   "mahalle": null,
-  "telefon": null,
-  "web": null,
+  "telefon": "(0252) 417 75 75",
+  "web": "http://www.celebidental.com/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -702,7 +705,8 @@
   "fsq_id": "680fbb8e171d2b5aeeaf5326",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "6763beb5-fcb8-4693-a9f3-77af553802c1"
  },
  {
   "ad": "Cemre Dalaman Ağız Ve Diş Sağlığı",
@@ -729,7 +733,8 @@
   "fsq_id": "6adcb46bdd018f7cf5e4a6be",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "2bbc9b44-e934-407e-b652-db0864215202"
  },
  {
   "ad": "Cemre Dalaman Ağız Ve Diş Sağlığı Kliniği",
@@ -867,6 +872,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Dalyan Dentist",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Sağlık Sk. No:2, Ortaca",
+  "il": null,
+  "ilce": "Ortaca",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://dalyandentist.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.83150863647461,
+  "lng": 28.6390323638916,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.83150863647461,28.6390323638916",
+  "yandex_url": "https://yandex.com/maps/?text=Dalyan Dentist&ll=28.6390323638916%2C36.83150863647461&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "b86351e4-37a2-41cf-af43-f56e758ac50c",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Dc Dental Clinic",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -891,7 +925,8 @@
   "fsq_id": "667e8a858d7ad73d61f1643b",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "b603b7b4-5971-4853-98f9-e3df97b0ff8a"
  },
  {
   "ad": "Dc Dental Clinic Bodrum",
@@ -1029,6 +1064,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Denta Alfa Marmaris",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "56. Sokak 7, Marmaris",
+  "il": null,
+  "ilce": "Marmaris",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.dentaalpha.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.85555648803711,
+  "lng": 28.269189834594727,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.85555648803711,28.269189834594727",
+  "yandex_url": "https://yandex.com/maps/?text=Denta Alfa Marmaris&ll=28.269189834594727%2C36.85555648803711&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "fe63140f-b3cc-4aff-a9c1-8f4b796e66ab",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Denta Maris Giray Çerezcioglu",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -1137,6 +1201,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Dental Bozburun",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "201/1. Sokak 8, Marmaris",
+  "il": null,
+  "ilce": "Marmaris",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.dental.bozburun.eu/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.80232620239258,
+  "lng": 28.228897094726562,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.80232620239258,28.228897094726562",
+  "yandex_url": "https://yandex.com/maps/?text=Dental Bozburun&ll=28.228897094726562%2C36.80232620239258&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "6290e2a2-cfdd-4cdb-bfa2-a653d85352fa",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Dental Center Turkey",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -1175,7 +1268,7 @@
   "ilce": "Ortaca",
   "mahalle": null,
   "telefon": null,
-  "web": null,
+  "web": "http://dentalcentresarigerme.com/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -1188,7 +1281,37 @@
   "fsq_id": "64d770ccecdb35583b523ff6",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "fed514b1-b316-4a77-9ba9-8075151eee04"
+ },
+ {
+  "ad": "Dental Clinic Basak Kosargelir Nur Kadriye Okur",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "258. Sk. No 4, Ortaca",
+  "il": null,
+  "ilce": "Ortaca",
+  "mahalle": null,
+  "telefon": "(0252) 282 50 84",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.83566665649414,
+  "lng": 28.76569366455078,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.83566665649414,28.76569366455078",
+  "yandex_url": "https://yandex.com/maps/?text=Dental Clinic Basak Kosargelir Nur Kadriye Okur&ll=28.76569366455078%2C36.83566665649414&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "e9c1fa57-066a-44e2-9f50-1bee9456758b",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Dental Clinic Diş Doktoru Attila Göçer",
@@ -1326,18 +1449,47 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Dentalp Ağız Ve Diş Sağlığı Polikliniği",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Atatürk-1. Bulvar 29, Menteşe",
+  "il": null,
+  "ilce": "Menteşe",
+  "mahalle": null,
+  "telefon": "(0252) 214 26 13",
+  "web": "http://www.dentalp.com.tr",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.21099853515625,
+  "lng": 28.356449127197266,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.21099853515625,28.356449127197266",
+  "yandex_url": "https://yandex.com/maps/?text=Dentalp Ağız Ve Diş Sağlığı Polikliniği&ll=28.356449127197266%2C37.21099853515625&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "35326ca5-72ba-49a7-82aa-6b8d269d8f7e",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Dentamaris",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
   "hizmet_ipuclari": [
    "4bf58dd8d48988d178941735"
   ],
-  "adres": null,
+  "adres": "Eski Datça Yolu No:26 / 11, Marmaris",
   "il": null,
   "ilce": null,
   "mahalle": null,
   "telefon": "(0252) 413 04 04",
-  "web": null,
+  "web": "http://www.dentamaris.com/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -1350,7 +1502,8 @@
   "fsq_id": "50631181e4b0df36bf69be2c",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "1d4efe72-d459-49aa-89aa-c23c9e313e2b"
  },
  {
   "ad": "Dentamaris Dental Clinic",
@@ -1407,6 +1560,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Dentist Aras Selçuk",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Org. Mustafa Muğlalı Cd. 86 Sk No:1 Kat:1, Marmaris",
+  "il": null,
+  "ilce": "Marmaris",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://dentistmarmaris.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.855140686035156,
+  "lng": 28.26655387878418,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.855140686035156,28.26655387878418",
+  "yandex_url": "https://yandex.com/maps/?text=Dentist Aras Selçuk&ll=28.26655387878418%2C36.855140686035156&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "5ab5354c-34c9-4af7-9b8c-7a4c35685690",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Dentist Basak",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -1461,6 +1643,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Dentist Erhan Ertik",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Cumhuriyet Blv. No:8-2, Marmaris",
+  "il": null,
+  "ilce": "Marmaris",
+  "mahalle": null,
+  "telefon": "(0252) 412 63 00",
+  "web": "http://www.marmariscitydental.net/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.84174728393555,
+  "lng": 28.249845504760742,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.84174728393555,28.249845504760742",
+  "yandex_url": "https://yandex.com/maps/?text=Dentist Erhan Ertik&ll=28.249845504760742%2C36.84174728393555&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "bcb46e22-ae30-4e73-bf2f-a5d1fcf5800e",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Dentist Erkim Eroğlu",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -1486,6 +1697,64 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Dentist H. Sever Gunay",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Sarıana Mahallesi, Mustafa Kemal Paşa Caddesi Taş Apt, No:12 Kat:1, Marmaris",
+  "il": null,
+  "ilce": "Marmaris",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.dtsevergunay.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.85635757446289,
+  "lng": 28.274553298950195,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.85635757446289,28.274553298950195",
+  "yandex_url": "https://yandex.com/maps/?text=Dentist H. Sever Gunay&ll=28.274553298950195%2C36.85635757446289&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "c113866d-9e55-4e11-b75e-ebe07ca4c02d",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Dentist Marmaris Dental Clinic Necip Albayrak",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "18. Sk., Marmaris",
+  "il": null,
+  "ilce": "Marmaris",
+  "mahalle": null,
+  "telefon": "(0252) 412 13 00",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.85578155517578,
+  "lng": 28.27841567993164,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.85578155517578,28.27841567993164",
+  "yandex_url": "https://yandex.com/maps/?text=Dentist Marmaris Dental Clinic Necip Albayrak&ll=28.27841567993164%2C36.85578155517578&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "af38e31e-170f-4555-856f-f9301f1ca550",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Dentist Onur",
@@ -1552,8 +1821,8 @@
   "il": null,
   "ilce": "Marmaris",
   "mahalle": null,
-  "telefon": null,
-  "web": null,
+  "telefon": "(0252) 413 51 28",
+  "web": "http://dentmarmaris.com.tr/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -1566,7 +1835,8 @@
   "fsq_id": "59565f129ec399621885caa3",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "078d2355-29f3-43ab-a034-40db4615b20f"
  },
  {
   "ad": "Dis Hekimi Ali Erenel",
@@ -1764,12 +2034,12 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d178941735"
   ],
-  "adres": null,
+  "adres": "Tepe Mah.61 sk.Tokgöz Apt. No:6/11 Deniz Bank Üstü 47800 Marmaris, Marmaris",
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
-  "web": null,
+  "telefon": "(0252) 412 52 50",
+  "web": "http://www.marmarisdental.com/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -1782,7 +2052,8 @@
   "fsq_id": "5034b419e4b098e3f989ee7c",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "999d61fb-83ac-4923-8896-0e0e024d1381"
  },
  {
   "ad": "Disci Erhan",
@@ -2007,11 +2278,11 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d178941735"
   ],
-  "adres": null,
+  "adres": "Hasan Işık Cd. Zühre apt D:1, Marmaris",
   "il": null,
   "ilce": "MARMARIS",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0850) 474 63 19",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -2025,7 +2296,8 @@
   "fsq_id": "5885b500b792070fe860bf7c",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "886010b0-03ed-4216-8165-e3ccae431bf1"
  },
  {
   "ad": "Diş Hekimi Akvan Kibar",
@@ -2052,7 +2324,8 @@
   "fsq_id": "65f6169f03b19e4a67298166",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "444094f2-bcc8-4859-a647-63c30aeb9c5b"
  },
  {
   "ad": "Diş Hekimi Alev Kumbaracı",
@@ -2376,7 +2649,8 @@
   "fsq_id": "60e591142b1e106f83695432",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "fd4dd431-e596-4e68-a5be-782fc285beee"
  },
  {
   "ad": "Diş Hekimi Burcu Pilav UNATCI",
@@ -2602,6 +2876,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Diş Hekimi Ebru Aslan",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Aykan şeker sk no:4B, Ula",
+  "il": null,
+  "ilce": "Ula",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.05115509033203,
+  "lng": 28.3684024810791,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.05115509033203,28.3684024810791",
+  "yandex_url": "https://yandex.com/maps/?text=Diş Hekimi Ebru Aslan&ll=28.3684024810791%2C37.05115509033203&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "8230647c-2eaf-4d07-b9a4-a5c0c3025d72",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Diş Hekimi Eda Saraçoğlu Parmaksız",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -2797,7 +3100,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d178941735"
   ],
-  "adres": null,
+  "adres": "Atatürk Caddesi 6, Datça",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -2815,7 +3118,8 @@
   "fsq_id": "54706f6f498e557cbf63a4a4",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "59c3b7d5-9b4b-43a9-9580-82a773f6e16e"
  },
  {
   "ad": "Diş Hekimi Günay Karakoyun",
@@ -2955,7 +3259,8 @@
   "fsq_id": "67c573d2b599fb24f6dedc17",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "f01a8299-1881-430a-95ba-1fbb340e6ff0"
  },
  {
   "ad": "Diş Hekimi Hasan Kılıç",
@@ -3120,6 +3425,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Diş Hekimi Mehmet Sertöz",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Emirbeyazıt Mah. Zübeyde Hanım Cad. Mugla Modern Sitesi A Blok Kat.1 D.3, Menteşe",
+  "il": null,
+  "ilce": "Menteşe",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.20836639404297,
+  "lng": 28.358619689941406,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.20836639404297,28.358619689941406",
+  "yandex_url": "https://yandex.com/maps/?text=Diş Hekimi Mehmet Sertöz&ll=28.358619689941406%2C37.20836639404297&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "a8f625b4-5f58-4b0e-9261-214ab9bb51eb",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Diş Hekimi Meltem Hazarhun",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -3198,7 +3532,8 @@
   "fsq_id": "51f250d1498e8b82343eb892",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "3992695f-d661-4570-a438-6d5e571038fd"
  },
  {
   "ad": "Diş Hekimi Mustafa Çam",
@@ -3211,7 +3546,7 @@
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0252) 373 54 83",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -3225,7 +3560,37 @@
   "fsq_id": "528f5e7f498e10da644de7c1",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "f57eeea7-01a9-4b6e-8f44-25823fa1437b"
+ },
+ {
+  "ad": "Diş Hekimi Osman Uslu",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "İsmet Çatak Cd. No:10, Menteşe",
+  "il": null,
+  "ilce": "Menteşe",
+  "mahalle": null,
+  "telefon": "(0252) 212 73 97",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.21430969238281,
+  "lng": 28.36615753173828,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.21430969238281,28.36615753173828",
+  "yandex_url": "https://yandex.com/maps/?text=Diş Hekimi Osman Uslu&ll=28.36615753173828%2C37.21430969238281&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "11690d34-6101-4ef2-b982-c21658b6bdce",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Diş Hekimi Safile Çakır Keskin",
@@ -3252,7 +3617,37 @@
   "fsq_id": "6516c3875cadfe515260d47c",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "624777a0-8e88-4ae7-ab98-21220c75037c"
+ },
+ {
+  "ad": "Diş Hekimi Selen Ece KARABULUT",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Adnan Menderes Cd. No:25/A, Milas",
+  "il": null,
+  "ilce": "Milas",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.23741149902344,
+  "lng": 27.59972381591797,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.23741149902344,27.59972381591797",
+  "yandex_url": "https://yandex.com/maps/?text=Diş Hekimi Selen Ece KARABULUT&ll=27.59972381591797%2C37.23741149902344&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "d4af6e28-d6a4-4122-9770-5d48e1552500",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Diş Hekimi Selçuk Kamacı",
@@ -3415,6 +3810,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Diş Hekimi Zekai Burak Borluk",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Turgut Özal Cd. No:7/A, Milas",
+  "il": null,
+  "ilce": "Milas",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://dishekimizekaiburak.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.308631896972656,
+  "lng": 27.779645919799805,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.308631896972656,27.779645919799805",
+  "yandex_url": "https://yandex.com/maps/?text=Diş Hekimi Zekai Burak Borluk&ll=27.779645919799805%2C37.308631896972656&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "14e6e8c8-0ccf-4bfa-afb4-ae78c2a646cd",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Diş Hekimi Özgür Yıldırımoğlu",
@@ -3714,6 +4138,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Diş hekimi Kerime Gökkara",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Zafer Cd. no:36/5, Milas",
+  "il": null,
+  "ilce": "Milas",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.30856704711914,
+  "lng": 27.778615951538086,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.30856704711914,27.778615951538086",
+  "yandex_url": "https://yandex.com/maps/?text=Diş hekimi Kerime Gökkara&ll=27.778615951538086%2C37.30856704711914&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "b26f3ec7-0f69-4135-b17a-abfe69253020",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Diş hekimi Serkan Çelebi-Dentist",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -3738,7 +4191,8 @@
   "fsq_id": "4dd2c77dfa7611af69e52c4a",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "5cf16422-582a-42e3-9605-fdf6238b6b83"
  },
  {
   "ad": "Diş hekimi İlayda Kurban",
@@ -3955,6 +4409,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Dişçi Emre Yüksel",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Menteşe",
+  "il": null,
+  "ilce": "Menteşe",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.21453094482422,
+  "lng": 28.366056442260742,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.21453094482422,28.366056442260742",
+  "yandex_url": "https://yandex.com/maps/?text=Dişçi Emre Yüksel&ll=28.366056442260742%2C37.21453094482422&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "e04cda43-af9a-47cb-9f13-6ef4bebca8f9",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Dişçi Erinç",
@@ -4200,6 +4683,93 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Dr. Emre Yuksel",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Emirbeyazıt Mh. Zübeyde Hanım Cd. No:12/6 Üntaş Residence B Blok Daire 6, Menteşe",
+  "il": null,
+  "ilce": "Menteşe",
+  "mahalle": null,
+  "telefon": "(0252) 214 40 60",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.21168518066406,
+  "lng": 28.361330032348633,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.21168518066406,28.361330032348633",
+  "yandex_url": "https://yandex.com/maps/?text=Dr. Emre Yuksel&ll=28.361330032348633%2C37.21168518066406&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "81699605-c0a2-40a2-bbdd-5dfd955ed92b",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Dr. Kemal Baycan",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Ulusal Egemenlik Cd. no.21/3, Marmaris",
+  "il": null,
+  "ilce": "Marmaris",
+  "mahalle": null,
+  "telefon": "(0252) 412 05 55",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.857486724853516,
+  "lng": 28.27065658569336,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.857486724853516,28.27065658569336",
+  "yandex_url": "https://yandex.com/maps/?text=Dr. Kemal Baycan&ll=28.27065658569336%2C36.857486724853516&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "51ab0b67-af6c-43d5-9046-3eb33e066d97",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Dr. Merih Ozyer",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Yeni Yeni, Kordon Cd. No:34 D:2, Marmaris",
+  "il": null,
+  "ilce": "Marmaris",
+  "mahalle": null,
+  "telefon": "(0252) 413 70 86",
+  "web": "http://www.marisdental.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.85258483886719,
+  "lng": 28.27210235595703,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.85258483886719,28.27210235595703",
+  "yandex_url": "https://yandex.com/maps/?text=Dr. Merih Ozyer&ll=28.27210235595703%2C36.85258483886719&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "1ceb329a-9fbf-4b03-ae4d-31db4e2fbcb3",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Dr. Tunç Akman",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -4225,6 +4795,93 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Dr. Umut Baris Baykara",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "İsmet Çatak Cd. kasapoglu apt no 16-2, Menteşe",
+  "il": null,
+  "ilce": "Menteşe",
+  "mahalle": null,
+  "telefon": "(0252) 212 77 44",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.215843200683594,
+  "lng": 28.369606018066406,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.215843200683594,28.369606018066406",
+  "yandex_url": "https://yandex.com/maps/?text=Dr. Umut Baris Baykara&ll=28.369606018066406%2C37.215843200683594&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "8706b25c-519b-42a5-b794-7a94971056dc",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Dr. Yilmaz Ozbek",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Mahallesi, Kadıağa Cd. No:34 D:2, Milas",
+  "il": null,
+  "ilce": "Milas",
+  "mahalle": null,
+  "telefon": "(0252) 513 38 82",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.31421661376953,
+  "lng": 27.779218673706055,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.31421661376953,27.779218673706055",
+  "yandex_url": "https://yandex.com/maps/?text=Dr. Yilmaz Ozbek&ll=27.779218673706055%2C37.31421661376953&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "52d73b0f-389e-4280-b047-9552a6cfecef",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Dr. Özge Kolkesen Şahin",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Mustafa Muğlalı Cad. Çavuşoğlu Apt, No:50/2, Marmaris",
+  "il": null,
+  "ilce": "Marmaris",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://linktr.ee/drozgedentalclinic",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.85407638549805,
+  "lng": 28.265214920043945,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.85407638549805,28.265214920043945",
+  "yandex_url": "https://yandex.com/maps/?text=Dr. Özge Kolkesen Şahin&ll=28.265214920043945%2C36.85407638549805&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "99b1a963-d8c4-4f41-80e8-b79634cee952",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Dr. Özgür Çetiner Güzellik Polikniliği",
@@ -4335,6 +4992,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Dt Betul Cetinkaya",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "gar sok 1/1, Köyceğiz",
+  "il": null,
+  "ilce": "Köyceğiz",
+  "mahalle": null,
+  "telefon": "(0850) 811 31 37",
+  "web": "https://www.instagram.com/bestsmiledentalclinic/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.97158432006836,
+  "lng": 28.686296463012695,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.97158432006836,28.686296463012695",
+  "yandex_url": "https://yandex.com/maps/?text=Dt Betul Cetinkaya&ll=28.686296463012695%2C36.97158432006836&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "94a61018-0e95-4096-91a1-216ddc55290c",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Dt. Akif Şener Diş Kliniği",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -4389,6 +5075,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Dt. Buğra CAN",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Cumhuriyet (merkez) cad No9, Marmaris",
+  "il": null,
+  "ilce": "Marmaris",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.774810791015625,
+  "lng": 28.247894287109375,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.774810791015625,28.247894287109375",
+  "yandex_url": "https://yandex.com/maps/?text=Dt. Buğra CAN&ll=28.247894287109375%2C36.774810791015625&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "c10e243f-baaf-422b-928a-40541d693507",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Dt. Didem Fidan Diş Hekimi",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -4441,6 +5156,151 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Dt. Merve Gündüz Kanat Diş Kliniği | Menteşe Diş Hekimi",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Hürriyet Sk. No:13/A, Orhaniye Mah, Öner Apartmanı, Menteşe",
+  "il": null,
+  "ilce": "Menteşe",
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://dtmervegunduzkanat.com.tr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.213226318359375,
+  "lng": 28.36647605895996,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.213226318359375,28.36647605895996",
+  "yandex_url": "https://yandex.com/maps/?text=Dt. Merve Gündüz Kanat Diş Kliniği | Menteşe Diş Hekimi&ll=28.36647605895996%2C37.213226318359375&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "cbf07b44-5d6a-4618-8ab2-efeeb34c75c5",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Dt. Sevket Cankurt",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "48. Sk. No:5 D:1, Marmaris",
+  "il": null,
+  "ilce": "Marmaris",
+  "mahalle": null,
+  "telefon": "(0252) 413 22 44",
+  "web": "http://www.marmarisdentaloffice.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.85600662231445,
+  "lng": 28.27166748046875,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.85600662231445,28.27166748046875",
+  "yandex_url": "https://yandex.com/maps/?text=Dt. Sevket Cankurt&ll=28.27166748046875%2C36.85600662231445&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "374a27e6-b7a9-4886-b2cc-f6d5e8a7341b",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Dt. Sinem Uçar",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Orhaniye Mahallesi İsmet Çatak Cad, Savran Sk. iş merkezi No:10 D:25, Menteşe",
+  "il": null,
+  "ilce": "Menteşe",
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://www.instagram.com/p/Cglack5qszK/?igshid=YmMyMTA2M2Y%3D",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.21430969238281,
+  "lng": 28.365985870361328,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.21430969238281,28.365985870361328",
+  "yandex_url": "https://yandex.com/maps/?text=Dt. Sinem Uçar&ll=28.365985870361328%2C37.21430969238281&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "b37b6526-bfdc-4d7b-a673-2085283839df",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Dt. Şule Dülger",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Hasan Işık Cd. No:4, Marmaris",
+  "il": null,
+  "ilce": "Marmaris",
+  "mahalle": null,
+  "telefon": "(0252) 412 88 44",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.851436614990234,
+  "lng": 28.26528549194336,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.851436614990234,28.26528549194336",
+  "yandex_url": "https://yandex.com/maps/?text=Dt. Şule Dülger&ll=28.26528549194336%2C36.851436614990234&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "1dd3ecc9-afe8-4949-957f-51bbc3b78931",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Dt.Burcu Pilavcı Unat",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "İskele, İş bankası üstü, Atatürk Cd. D:kat:1 daire:1, Datça",
+  "il": null,
+  "ilce": "Datça",
+  "mahalle": null,
+  "telefon": "(0252) 712 25 16",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.72626876831055,
+  "lng": 27.685871124267578,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.72626876831055,27.685871124267578",
+  "yandex_url": "https://yandex.com/maps/?text=Dt.Burcu Pilavcı Unat&ll=27.685871124267578%2C36.72626876831055&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "3a6470dd-f757-4a4d-98e1-cd44daabb343",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Dt.Umut Barış Baykara",
@@ -4554,6 +5414,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "DİŞ HekİMİ BurÇİN H.KadioĞLu",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Ahmet Taner Kışlalı Cd. no:39 daire:1, Milas",
+  "il": null,
+  "ilce": "Milas",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.3079948425293,
+  "lng": 27.779991149902344,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.3079948425293,27.779991149902344",
+  "yandex_url": "https://yandex.com/maps/?text=DİŞ HekİMİ BurÇİN H.KadioĞLu&ll=27.779991149902344%2C37.3079948425293&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "0bffb49f-6d6a-452e-9bba-078e5f2f5586",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Dış Hekimi Fahri Maral",
@@ -4691,6 +5580,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Estetica Köşk - Özel Estetik 4 Ağız ve Diş Sağlığı Polikliniği",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Mahallesi, Cumhuriyet Cd. No:2, Milas",
+  "il": null,
+  "ilce": "Milas",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.31174087524414,
+  "lng": 27.781070709228516,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.31174087524414,27.781070709228516",
+  "yandex_url": "https://yandex.com/maps/?text=Estetica Köşk - Özel Estetik 4 Ağız ve Diş Sağlığı Polikliniği&ll=27.781070709228516%2C37.31174087524414&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "f9c1717c-1da7-4d5c-94f2-8533e33c70e5",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Fethiye Ağız ve Diş Sağlığı Merkezi",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -4772,6 +5690,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Hakan ÖZDEN Diş Kliniği (Hakan ÖZDEN's Dental Clinic)",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Atatürk Bulv./114. Sok. Çiçek Apt. No:3, Ortaca",
+  "il": null,
+  "ilce": "Ortaca",
+  "mahalle": null,
+  "telefon": "(0252) 282 05 50",
+  "web": "https://hakanozdental.com/en/home/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.839027404785156,
+  "lng": 28.764808654785156,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.839027404785156,28.764808654785156",
+  "yandex_url": "https://yandex.com/maps/?text=Hakan ÖZDEN Diş Kliniği (Hakan ÖZDEN's Dental Clinic)&ll=28.764808654785156%2C36.839027404785156&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "cfda7ba7-6414-4d85-ad2f-a38da45e4002",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Halil Kizikli Dis Hekimi",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -4851,6 +5798,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Hesire Ağız ve Diş Sağlığı Polikliniği",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Hasan Ali Yücel Cd. No:24/A, Menteşe",
+  "il": null,
+  "ilce": "Menteşe",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.21079635620117,
+  "lng": 28.364938735961914,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.21079635620117,28.364938735961914",
+  "yandex_url": "https://yandex.com/maps/?text=Hesire Ağız ve Diş Sağlığı Polikliniği&ll=28.364938735961914%2C37.21079635620117&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "afb02afa-9636-44d0-a46e-fe00dad0482e",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Hesi̇re Di̇ş Poli̇kli̇ni̇ği̇",
@@ -5243,7 +6219,7 @@
   "ilce": null,
   "mahalle": null,
   "telefon": null,
-  "web": null,
+  "web": "http://www.marmarismile.com/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -5256,7 +6232,95 @@
   "fsq_id": "5d57b488127e2f0008da6163",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "c357e2e7-842c-4811-bced-290a834fd73a"
+ },
+ {
+  "ad": "Marmaris Agiz ve Dis Sagligi Merkezi",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "226. Sk., Marmaris",
+  "il": null,
+  "ilce": "Marmaris",
+  "mahalle": null,
+  "telefon": "(0252) 417 10 14",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.85036087036133,
+  "lng": 28.240665435791016,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.85036087036133,28.240665435791016",
+  "yandex_url": "https://yandex.com/maps/?text=Marmaris Agiz ve Dis Sagligi Merkezi&ll=28.240665435791016%2C36.85036087036133&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "21ac4f84-368b-4aab-a1dd-886b252ccc3a",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Marmaris Dental Clinic",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Hasan Işık Cd., Marmaris",
+  "il": null,
+  "ilce": "Marmaris",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.marmarisdentalclinicturkey.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.85130310058594,
+  "lng": 28.26525115966797,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.85130310058594,28.26525115966797",
+  "yandex_url": "https://yandex.com/maps/?text=Marmaris Dental Clinic&ll=28.26525115966797%2C36.85130310058594&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "b7ef9698-b5ab-46ee-91e7-975544dc1bfc",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Marmaris Dental Clinic - Dt. Ece Gökçe",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Marmaris",
+  "il": null,
+  "ilce": "Marmaris",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.85606384277344,
+  "lng": 28.233539581298828,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.85606384277344,28.233539581298828",
+  "yandex_url": "https://yandex.com/maps/?text=Marmaris Dental Clinic - Dt. Ece Gökçe&ll=28.233539581298828%2C36.85606384277344&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "78914b16-72ba-4115-88e2-e6f1f2bfd981",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Marmaris Dental Clinic Dt. Ece Gökçe",
@@ -5396,7 +6460,8 @@
   "fsq_id": "66d62dfd3a3a374ac0869e23",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "8a0e24be-491f-4f65-8e78-910a06067fe4"
  },
  {
   "ad": "Marmaris Ortadonti Dişçi",
@@ -5451,6 +6516,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Marmaris Smile Center",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Kemal Seyfettin Elgin Bulvarı 54, Marmaris",
+  "il": null,
+  "ilce": "Marmaris",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.846988677978516,
+  "lng": 28.257036209106445,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.846988677978516,28.257036209106445",
+  "yandex_url": "https://yandex.com/maps/?text=Marmaris Smile Center&ll=28.257036209106445%2C36.846988677978516&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "6f9ec009-ae4d-4284-b6fe-8b3762d08c93",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Mustafa Gökten Diş Kliniği",
@@ -5531,7 +6625,8 @@
   "fsq_id": "5146b85be4b02de952cd5b8a",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "1a35986d-fbcc-4a02-bb95-0c299aa418ae"
  },
  {
   "ad": "Nail Uzun Diş Kliniği",
@@ -5669,6 +6764,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Ortaca Dental Clinic",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Ortaca",
+  "il": null,
+  "ilce": "Ortaca",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.83566665649414,
+  "lng": 28.76569366455078,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.83566665649414,28.76569366455078",
+  "yandex_url": "https://yandex.com/maps/?text=Ortaca Dental Clinic&ll=28.76569366455078%2C36.83566665649414&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "f6b3ff0a-ff16-48c2-a169-4708e35edb23",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Ortaca Devlet Hastanesi Diş Polikinlikinliği",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -5749,6 +6873,64 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Perfect Dental Clinic",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Merkez, Marmaris, Muğla, Türkiye, Marmaris",
+  "il": null,
+  "ilce": "Marmaris",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.perfectsmiledesign.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.8523063659668,
+  "lng": 28.24446678161621,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.8523063659668,28.24446678161621",
+  "yandex_url": "https://yandex.com/maps/?text=Perfect Dental Clinic&ll=28.24446678161621%2C36.8523063659668&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "bb323a38-dad6-4726-a2cd-221e25b28056",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Perfect Smile Norway",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "marmaris Turkey , Marmaris, Turkey, 48700, Marmaris",
+  "il": null,
+  "ilce": "Marmaris",
+  "mahalle": null,
+  "telefon": "(0479) 700 98 35",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.854190826416016,
+  "lng": 28.25408935546875,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.854190826416016,28.25408935546875",
+  "yandex_url": "https://yandex.com/maps/?text=Perfect Smile Norway&ll=28.25408935546875%2C36.854190826416016&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "abce9328-b1d0-42fa-829e-421a32ebc537",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Perla Ağız ve Diş Sağlığı Polikliniği",
@@ -5972,6 +7154,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Tandlæge i Marmaris Tyrkiet -  Dentist Marmaris Albayrak",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Marmaris",
+  "il": null,
+  "ilce": "Marmaris",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.dentistinturkey.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.85353469848633,
+  "lng": 28.280738830566406,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.85353469848633,28.280738830566406",
+  "yandex_url": "https://yandex.com/maps/?text=Tandlæge i Marmaris Tyrkiet -  Dentist Marmaris Albayrak&ll=28.280738830566406%2C36.85353469848633&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "3e8867a1-e316-400b-afc7-6bda5714e806",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "The Dentist",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -6080,6 +7291,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Uzm. Çocuk Diş Hekimi Esra Bulut & Uzm. Diş Hekimi İrfan Bulut",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Mi Plaza, Atatürk Blv. No:145 Kat:3 Daire:20, Ortaca",
+  "il": null,
+  "ilce": "Ortaca",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.835655212402344,
+  "lng": 28.771543502807617,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.835655212402344,28.771543502807617",
+  "yandex_url": "https://yandex.com/maps/?text=Uzm. Çocuk Diş Hekimi Esra Bulut & Uzm. Diş Hekimi İrfan Bulut&ll=28.771543502807617%2C36.835655212402344&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "6fb8ed4a-7470-4704-a27a-177ccedb179e",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Uğur Başeğmez Diş Polikliniği",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -6105,6 +7345,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Vital Dent Ağız ve Diş Sağlığı Polikliniği",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "İsmet Kamil Öner Caddesi 18A, Marmaris",
+  "il": null,
+  "ilce": "Marmaris",
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://vitaldentadsp.com/tr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.846858978271484,
+  "lng": 28.25550651550293,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.846858978271484,28.25550651550293",
+  "yandex_url": "https://yandex.com/maps/?text=Vital Dent Ağız ve Diş Sağlığı Polikliniği&ll=28.25550651550293%2C36.846858978271484&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "718b8d61-4dec-4673-94fd-e655ce0456ad",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Yatağan Devlet Hastahanesi Diş Polikliniği",
@@ -6161,6 +7430,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Yiğit Dental Clinic",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "165. Sk. No:10A D:1, Marmaris",
+  "il": null,
+  "ilce": "Marmaris",
+  "mahalle": null,
+  "telefon": "(0252) 413 07 03",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.847206115722656,
+  "lng": 28.256622314453125,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.847206115722656,28.256622314453125",
+  "yandex_url": "https://yandex.com/maps/?text=Yiğit Dental Clinic&ll=28.256622314453125%2C36.847206115722656&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "da9c3500-d464-40c0-8018-a695d40fdf10",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Yiğit Özel Diş Polikliniği",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -6215,6 +7513,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Yıl Milas Devlet Hastanesi Diş Polikliniği",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Milas",
+  "il": null,
+  "ilce": "Milas",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.33314895629883,
+  "lng": 27.761865615844727,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.33314895629883,27.761865615844727",
+  "yandex_url": "https://yandex.com/maps/?text=Yıl Milas Devlet Hastanesi Diş Polikliniği&ll=27.761865615844727%2C37.33314895629883&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "7408f600-dbc2-4708-894d-fa929fce7386",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Yılmaz ÖZBEK Diş Kliniği",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -6267,6 +7594,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Zirve Dental Marmaris",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Atatürk Cd. 6A, Marmaris",
+  "il": null,
+  "ilce": "Marmaris",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.zirvedentalmarmaris.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.853065490722656,
+  "lng": 28.268465042114258,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.853065490722656,28.268465042114258",
+  "yandex_url": "https://yandex.com/maps/?text=Zirve Dental Marmaris&ll=28.268465042114258%2C36.853065490722656&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "26f2c300-cb14-4cea-bcaa-5123bcb14d6a",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "a.gezer ofis",
@@ -6620,6 +7976,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "diş hekimi gözde salman özyer",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Atatürk Ortaokulu karşısı, Marmaris",
+  "il": null,
+  "ilce": "Marmaris",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.8563232421875,
+  "lng": 28.273462295532227,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.8563232421875,28.273462295532227",
+  "yandex_url": "https://yandex.com/maps/?text=diş hekimi gözde salman özyer&ll=28.273462295532227%2C36.8563232421875&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "e26b8d20-749f-4669-9eff-bcff89f856ff",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "diş hekimi hakan özden",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -6653,7 +8038,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d178941735"
   ],
-  "adres": "İsmet Paşa Mahhallesi",
+  "adres": "Zafer Cd. No:6, Milas",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -6671,7 +8056,8 @@
   "fsq_id": "53cfdc72498e46dec2e34899",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "fee45fb5-f742-42fa-96e3-4baaf069ac9a"
  },
  {
   "ad": "diş hekimi şule  esençay",
@@ -6833,7 +8219,8 @@
   "fsq_id": "58820c8b51d19e79a1a6655f",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "f4610b8a-875b-4016-b891-90007f8527fa"
  },
  {
   "ad": "seher sayın ortodonti",
@@ -7143,7 +8530,7 @@
   "il": null,
   "ilce": "Marmaris",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0252) 413 03 47",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -7157,7 +8544,8 @@
   "fsq_id": "54e599d8498e63425a7fe2cb",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "52fb30d2-bdca-4c46-80a9-dbecce21f838"
  },
  {
   "ad": "Özel Marmaris Diş Polikliniği",
@@ -7212,6 +8600,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Özel Nice Dent Marmaris Ağız ve Diş Sağlığı Polikliniği",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Ayhanlar Cd. no:9/A, Marmaris",
+  "il": null,
+  "ilce": "Marmaris",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.847877502441406,
+  "lng": 28.248655319213867,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.847877502441406,28.248655319213867",
+  "yandex_url": "https://yandex.com/maps/?text=Özel Nice Dent Marmaris Ağız ve Diş Sağlığı Polikliniği&ll=28.248655319213867%2C36.847877502441406&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "662db9d2-f0c7-422f-b11f-8bcbe63053b5",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Özel Perinur Çelerkaya Diş Polikliniği",
@@ -7347,6 +8764,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "İkizler Diş Kliniği",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Atatürk Cd., Yatağan",
+  "il": null,
+  "ilce": "Yatağan",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.342918395996094,
+  "lng": 28.13872718811035,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.342918395996094,28.13872718811035",
+  "yandex_url": "https://yandex.com/maps/?text=İkizler Diş Kliniği&ll=28.13872718811035%2C37.342918395996094&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "57149bfa-50d0-4905-8bdf-577394fe3af4",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "İkizler Diş Polikliniği",

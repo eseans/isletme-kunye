@@ -1,5 +1,34 @@
 [
  {
+  "ad": "Alucra Veteriner Kliniği",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Alucra",
+  "il": null,
+  "ilce": "Alucra",
+  "mahalle": null,
+  "telefon": "(0454) 751 35 40",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.32048416137695,
+  "lng": 38.76370620727539,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.32048416137695,38.76370620727539",
+  "yandex_url": "https://yandex.com/maps/?text=Alucra Veteriner Kliniği&ll=38.76370620727539%2C40.32048416137695&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "c55368cb-0c31-4ca9-9de0-4dd3224fbde6",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Hannan Veteriner Kliniği",
   "sektor": "veteriner",
   "kategori": "veteriner",
@@ -25,6 +54,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Kartal Veteriner Muayenehanesi",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Kelkit",
+  "il": null,
+  "ilce": "Kelkit",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.127601623535156,
+  "lng": 39.434593200683594,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.127601623535156,39.434593200683594",
+  "yandex_url": "https://yandex.com/maps/?text=Kartal Veteriner Muayenehanesi&ll=39.434593200683594%2C40.127601623535156&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "998dfa15-697e-4db8-b835-83816edd5de3",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Kartalşifa Özel Veteriner Muayenehanesi",

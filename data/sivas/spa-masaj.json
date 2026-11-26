@@ -28,6 +28,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Büyük Otel Spa Merkezi",
+  "sektor": "spa-masaj",
+  "kategori": "spa-masaj",
+  "alt": "spa",
+  "hizmet_ipuclari": [
+   "spa"
+  ],
+  "adres": "İstasyon Cd.",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0346) 225 47 63",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.750343322753906,
+  "lng": 37.01750946044922,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.750343322753906,37.01750946044922",
+  "yandex_url": "https://yandex.com/maps/?text=Büyük Otel Spa Merkezi&ll=37.01750946044922%2C39.750343322753906&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "aaf7b5f6-5ef2-4d8f-8418-8be7da07f81d",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Büyük Otel Spa Wellness",
   "sektor": "spa-masaj",
   "kategori": "spa-masaj",
@@ -193,6 +222,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Meydan hamamı",
+  "sektor": "spa-masaj",
+  "kategori": "spa-masaj",
+  "alt": "spa",
+  "hizmet_ipuclari": [
+   "spa"
+  ],
+  "adres": "27-Şemsi Sivasi Cd. no. 13",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0346) 221 44 18",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.7500114440918,
+  "lng": 37.02107620239258,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.7500114440918,37.02107620239258",
+  "yandex_url": "https://yandex.com/maps/?text=Meydan hamamı&ll=37.02107620239258%2C39.7500114440918&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "fa549bd3-726a-48b5-ac8e-aebdbe10c2ed",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Sivas Sıcak Çermik G-2 Banyosu",
   "sektor": "spa-masaj",
   "kategori": "spa-masaj",
@@ -244,7 +302,9 @@
   "fsq_id": "511bf773e4b0a04251fffbd6",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "e43149d1-a91e-41cb-9f26-411d841b38d0",
+  "alt": "spa"
  },
  {
   "ad": "Çamlıca Hotel Thermal",

@@ -1,5 +1,63 @@
 [
  {
+  "ad": "Alaa Spa&Wellness",
+  "sektor": "spa-masaj",
+  "kategori": "spa-masaj",
+  "alt": "spa",
+  "hizmet_ipuclari": [
+   "spa"
+  ],
+  "adres": "Ankamall Costa Coffe, Mevlana Bulvarı 2, Yenimahalle",
+  "il": null,
+  "ilce": "Yenimahalle",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.alaaspa.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.930206298828125,
+  "lng": 33.255767822265625,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.930206298828125,33.255767822265625",
+  "yandex_url": "https://yandex.com/maps/?text=Alaa Spa&Wellness&ll=33.255767822265625%2C39.930206298828125&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "e236eba9-2d77-48c7-aad1-40cd3723eba9",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Elmadağ hamamı",
+  "sektor": "spa-masaj",
+  "kategori": "spa-masaj",
+  "alt": "spa",
+  "hizmet_ipuclari": [
+   "spa"
+  ],
+  "adres": "Atatürk Blv. No:4, Elmadağ",
+  "il": null,
+  "ilce": "Elmadağ",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.922210693359375,
+  "lng": 33.226539611816406,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.922210693359375,33.226539611816406",
+  "yandex_url": "https://yandex.com/maps/?text=Elmadağ hamamı&ll=33.226539611816406%2C39.922210693359375&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "77859f82-8d7e-46fd-91cb-a9432a023017",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Furkan Oto Yıkama",
   "sektor": "spa-masaj",
   "kategori": "spa-masaj",
@@ -25,5 +83,34 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Yildiz hamami",
+  "sektor": "spa-masaj",
+  "kategori": "spa-masaj",
+  "alt": "spa",
+  "hizmet_ipuclari": [
+   "spa"
+  ],
+  "adres": "Hürriyet Caddesi 15",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.842533111572266,
+  "lng": 33.50309753417969,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.842533111572266,33.50309753417969",
+  "yandex_url": "https://yandex.com/maps/?text=Yildiz hamami&ll=33.50309753417969%2C39.842533111572266&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "1e1618fe-0350-4ae7-8915-286991eb24b3",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  }
 ]

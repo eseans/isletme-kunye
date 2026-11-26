@@ -51,7 +51,9 @@
   "fsq_id": "513393cce4b04f77498611f2",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "e589aae1-e5cf-446b-a711-c763189e2e47",
+  "alt": "spa"
  },
  {
   "ad": "Royal Özçelik Spa&fitness",
@@ -78,7 +80,9 @@
   "fsq_id": "5ab7c3a9112c6c7638e4ded3",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "696b7e55-8867-48bc-815e-679d2b1e4439",
+  "alt": "spa"
  },
  {
   "ad": "Rönesans Hotel",
@@ -137,6 +141,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "mazlum ağa hamamı",
+  "sektor": "spa-masaj",
+  "kategori": "spa-masaj",
+  "alt": "spa",
+  "hizmet_ipuclari": [
+   "spa"
+  ],
+  "adres": null,
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.61079025268555,
+  "lng": 43.089149475097656,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.61079025268555,43.089149475097656",
+  "yandex_url": "https://yandex.com/maps/?text=mazlum ağa hamamı&ll=43.089149475097656%2C40.61079025268555&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "a471d3d6-2df3-4893-a71a-6db63f725fe7",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "İsmail Aytemiz Bulvarı",

@@ -621,6 +621,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Bereket Veteriner Kliniği",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Hanak",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.09972381591797,
+  "lng": 42.86308670043945,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.09972381591797,42.86308670043945",
+  "yandex_url": "https://yandex.com/maps/?text=Bereket Veteriner Kliniği&ll=42.86308670043945%2C41.09972381591797&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "e6ba48bd-0eba-4ac2-8e96-9910f482e207",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Beslenme Ve Diyet Polikliniği",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -754,6 +783,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Damal Gençlik Hizmetleri Spor İlçe Müdürlüğü",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Atatürk Caddesi 14, Damal",
+  "il": null,
+  "ilce": "Damal",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://ardahan.gsb.gov.tr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.340789794921875,
+  "lng": 42.83920669555664,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.340789794921875,42.83920669555664",
+  "yandex_url": "https://yandex.com/maps/?text=Damal Gençlik Hizmetleri Spor İlçe Müdürlüğü&ll=42.83920669555664%2C41.340789794921875&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "5cbd22b6-418f-436e-9bf2-be72f8291ab2",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Damal Ilçe Sağlık Ocağı",
@@ -1482,7 +1540,9 @@
   "fsq_id": "5a7eeb103731ee397395e3be",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "c83d6aa2-7d01-44d2-b071-0041f277425e",
+  "alt": "muayenehane"
  },
  {
   "ad": "TANAP LOT-1 Revir",
@@ -1699,6 +1759,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Çildir Toplum Sağliği Merkezi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "ESFENDER KORKMAZ CADDESİ YENİ MAHALLE ÇILDIR/ARDAHAN, Çıldır",
+  "il": null,
+  "ilce": "Çıldır",
+  "mahalle": null,
+  "telefon": "(0478) 311 22 79",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.12623977661133,
+  "lng": 43.13890838623047,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.12623977661133,43.13890838623047",
+  "yandex_url": "https://yandex.com/maps/?text=Çildir Toplum Sağliği Merkezi&ll=43.13890838623047%2C41.12623977661133&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "e3d1c8e2-3d74-465f-9525-93bdb25c9b69",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Çıldır Devlet Hastanesi",

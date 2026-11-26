@@ -655,6 +655,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Besa Teknik Iş Sağliği Ve Güvenliği",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Sümerbank Caddesi 20B",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0446) 223 23 72",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.744266510009766,
+  "lng": 39.49488830566406,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.744266510009766,39.49488830566406",
+  "yandex_url": "https://yandex.com/maps/?text=Besa Teknik Iş Sağliği Ve Güvenliği&ll=39.49488830566406%2C39.744266510009766&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "e64d2c40-ca37-4047-a525-2d6b7d313dc9",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Cerrahi Kan Alma",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -680,6 +709,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "DURU OPTİK",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "13 ŞUBAT CADDESİ (DÖRTYOL)",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0446) 224 04 44",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.74226760864258,
+  "lng": 39.49059295654297,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.74226760864258,39.49059295654297",
+  "yandex_url": "https://yandex.com/maps/?text=DURU OPTİK&ll=39.49059295654297%2C39.74226760864258&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "8b166082-f86f-443d-913b-7e9fd2cd0e26",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Dahiliye Kan Alma",
@@ -979,6 +1037,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Dt. Isil Erdemir",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Şht. Yüzbaşı Fatih Devravut Cd. No:15",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.74557876586914,
+  "lng": 39.493194580078125,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.74557876586914,39.493194580078125",
+  "yandex_url": "https://yandex.com/maps/?text=Dt. Isil Erdemir&ll=39.493194580078125%2C39.74557876586914&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "b7197cbe-a83c-44fd-9add-7eaa54a041bc",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Dünya Göz Hastanesi Erzincan Şubesi",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -1084,7 +1171,9 @@
   "fsq_id": "548708b9498eb82fd666207f",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "b73bcab7-5d07-4d87-9f83-9c9330d47261",
+  "alt": "muayenehane"
  },
  {
   "ad": "Erzinca",
@@ -1111,7 +1200,9 @@
   "fsq_id": "67478ae039e78e31fd077462",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "c7cba6aa-d0e2-4ff9-925d-c87869170bdd",
+  "alt": "muayenehane"
  },
  {
   "ad": "Erzinca G.Mengücek EAH",
@@ -1166,6 +1257,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Erzincan Akupunktur Merkezi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Kırklar Caddesi 4",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.74712371826172,
+  "lng": 39.50110626220703,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.74712371826172,39.50110626220703",
+  "yandex_url": "https://yandex.com/maps/?text=Erzincan Akupunktur Merkezi&ll=39.50110626220703%2C39.74712371826172&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "4323581c-2381-4c49-9477-f47354d61914",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Erzincan Asker Hastanesi",
@@ -1601,6 +1721,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Erzincan Yaşam Medikal",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Araştırma Hastanesi Karşısı ",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.83466339111328,
+  "lng": 39.254066467285156,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.83466339111328,39.254066467285156",
+  "yandex_url": "https://yandex.com/maps/?text=Erzincan Yaşam Medikal&ll=39.254066467285156%2C39.83466339111328&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "35b938ed-02ff-4ea0-9368-f1bbb330165e",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Erzincan merkez 3 nolu Ashi",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -1761,6 +1910,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Erzincanbebekspa",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Ali Kemali Caddesi 7",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.74765396118164,
+  "lng": 39.4953727722168,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.74765396118164,39.4953727722168",
+  "yandex_url": "https://yandex.com/maps/?text=Erzincanbebekspa&ll=39.4953727722168%2C39.74765396118164&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "f53ffb9f-142e-4a4a-9787-e6ecb1155158",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Erzıncan Askerı Hastane",
@@ -2033,6 +2211,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Günkar Çevre Sağlığı & İlaçlama",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Fatih Caddesi 17",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.74562454223633,
+  "lng": 39.49321746826172,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.74562454223633,39.49321746826172",
+  "yandex_url": "https://yandex.com/maps/?text=Günkar Çevre Sağlığı & İlaçlama&ll=39.49321746826172%2C39.74562454223633&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "061b5c68-b8a1-4d89-adf8-f50b2623f6fc",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Gürver Güzellik Merkezi",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -2221,7 +2428,9 @@
   "fsq_id": "5b97a04b27cbd10025fd8da5",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "814b2657-e3c5-41fa-8aa9-128a55eb6dbd",
+  "alt": "muayenehane"
  },
  {
   "ad": "Kan Bağış Merkezi",
@@ -3170,6 +3379,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Net Optik",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Eregenekon Mah.",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0446) 228 48 48",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.756370544433594,
+  "lng": 39.46593475341797,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.756370544433594,39.46593475341797",
+  "yandex_url": "https://yandex.com/maps/?text=Net Optik&ll=39.46593475341797%2C39.756370544433594&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "d2f9b792-e040-42f3-9637-e2d4beb32336",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Nöroloji Polk.",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -3203,7 +3441,7 @@
   "hizmet_ipuclari": [
    "63be6904847c3692a84b9bbe"
   ],
-  "adres": null,
+  "adres": "Şht. Yüzbaşı Fatih Devravut Cd. No:19 D:203",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -3221,7 +3459,9 @@
   "fsq_id": "655f45584e61b806210c5674",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "bf09ff1e-6229-4c01-9a17-a326a7813cfb",
+  "alt": "muayenehane"
  },
  {
   "ad": "Op.Dr. Özgür Doğan Kadın Hastalıkları Ve Doğum Uzmanı",
@@ -3276,6 +3516,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Ozan Cengiz Diş Kliniği",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Ordu caddesi, 352. Sk. No:1",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0446) 224 66 01",
+  "web": "http://www.ozancengiz.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.74919509887695,
+  "lng": 39.49153137207031,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.74919509887695,39.49153137207031",
+  "yandex_url": "https://yandex.com/maps/?text=Ozan Cengiz Diş Kliniği&ll=39.49153137207031%2C39.74919509887695&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "35d72148-b3f1-4fa9-a0eb-edd5d05f6047",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Polican24 Özel Bakım Merkezi",
@@ -3791,6 +4060,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Uzman Dr. Haticetul Kubra Sari",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Şht. Yüzbaşı Fatih Devravut Cd. No:19 Kat:2",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.7454719543457,
+  "lng": 39.494110107421875,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.7454719543457,39.494110107421875",
+  "yandex_url": "https://yandex.com/maps/?text=Uzman Dr. Haticetul Kubra Sari&ll=39.494110107421875%2C39.7454719543457&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "23eb8bfc-ec4a-4db2-9c9a-0671a81cade1",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Yavuz Selim Halk Sagligi Merkezi",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -4274,7 +4572,9 @@
   "fsq_id": "52e645d3498ecd2910290b64",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "7d3a32f6-6522-4b8e-a4a3-2828ae2db424",
+  "alt": "muayenehane"
  },
  {
   "ad": "mengucek Gazi eğitim ve araştırma hastanesi diyaliz ünitesi",

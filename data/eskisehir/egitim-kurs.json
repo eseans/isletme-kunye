@@ -52,7 +52,9 @@
   "fsq_id": "585e84ced8b0ed65590880d1",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "2eccfb45-2ab1-4d45-83ca-6c314931d299",
+  "alt": "sanat"
  },
  {
   "ad": "Adalar Sürücü Kursu",
@@ -79,7 +81,9 @@
   "fsq_id": "55001c84498e5b63bb31305b",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "6d1f37eb-717f-42ab-9f3a-7ecabd228137",
+  "alt": "surucu-kursu"
  },
  {
   "ad": "Aguss Dil Okulu",
@@ -107,6 +111,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Akadomi Sanat",
+  "sektor": "egitim-kurs",
+  "kategori": "egitim-kurs",
+  "alt": "muzik",
+  "hizmet_ipuclari": [
+   "music_school"
+  ],
+  "adres": "Öğretmenler Blv No:93/C, Odunpazarı",
+  "il": null,
+  "ilce": "Odunpazarı",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.akadomi.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.76736068725586,
+  "lng": 30.503156661987305,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.76736068725586,30.503156661987305",
+  "yandex_url": "https://yandex.com/maps/?text=Akadomi Sanat&ll=30.503156661987305%2C39.76736068725586&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "7f19e3d9-904e-47e2-8af1-eb0d7953a7ea",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Aktaş ingilizce",
@@ -248,7 +281,38 @@
   "fsq_id": "56641087498e59f4a3ed0d0b",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "d299c505-aa37-4db3-82f0-9e828c4ae55b",
+  "alt": "dil-kursu"
+ },
+ {
+  "ad": "American Life Dil Okulları Eskişehir",
+  "sektor": "egitim-kurs",
+  "kategori": "egitim-kurs",
+  "alt": "dil-kursu",
+  "hizmet_ipuclari": [
+   "language_school"
+  ],
+  "adres": "İstiklal mahallesi çınarcık Sokak no:24, Odunpazarı",
+  "il": null,
+  "ilce": "Odunpazarı",
+  "mahalle": null,
+  "telefon": "(0222) 234 42 42",
+  "web": "https://www.americanlife.com.tr/eskisehir/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.77642059326172,
+  "lng": 30.515132904052734,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.77642059326172,30.515132904052734",
+  "yandex_url": "https://yandex.com/maps/?text=American Life Dil Okulları Eskişehir&ll=30.515132904052734%2C39.77642059326172&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "c79344e6-e1af-4819-a4c7-67309b570c91",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "American Life Eskişehir",
@@ -283,6 +347,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Amerikan Kultur Yabanci Dil Kurslari",
+  "sektor": "egitim-kurs",
+  "kategori": "egitim-kurs",
+  "alt": "dil-kursu",
+  "hizmet_ipuclari": [
+   "language_school"
+  ],
+  "adres": "Yılmaz Büyükerşen Blv No:38, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": "(0222) 220 90 80",
+  "web": "http://eskisehiramerikankultur.com.tr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.782920837402344,
+  "lng": 30.512001037597656,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.782920837402344,30.512001037597656",
+  "yandex_url": "https://yandex.com/maps/?text=Amerikan Kultur Yabanci Dil Kurslari&ll=30.512001037597656%2C39.782920837402344&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "8d2398f9-e259-4f45-a8de-556d1a73a9b8",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Amerikan Kültür Derneği Dil Okulları",
   "sektor": "egitim-kurs",
   "kategori": "egitim-kurs",
@@ -312,8 +405,10 @@
   "fsq_id": "4f9bca16e4b061449276ca96",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05",
-  "logo": "https://amerikankultur.com/assets/images/Akdlogo.png"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://amerikankultur.com/assets/images/Akdlogo.png",
+  "overture_id": "41ab2f61-8f39-4e7a-b0ef-20877de72938",
+  "alt": "dil-kursu"
  },
  {
   "ad": "Anadolu Merkez Sürücü Kursu",
@@ -394,7 +489,67 @@
   "fsq_id": "4e7872b8aeb726a0e65ace14",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "7f87ee8a-5d81-4870-9d72-8bdcb2043e95",
+  "alt": "muzik"
+ },
+ {
+  "ad": "Anadolu Üniversitesi Halk Dansları Topluluğu",
+  "sektor": "egitim-kurs",
+  "kategori": "egitim-kurs",
+  "alt": "dans",
+  "hizmet_ipuclari": [
+   "dance_studio"
+  ],
+  "adres": "Eskişehir, Türkiye, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": "(0222) 335 05 80",
+  "web": "https://halkbilim.anadolu.edu.tr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.79283905029297,
+  "lng": 30.49993133544922,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.79283905029297,30.49993133544922",
+  "yandex_url": "https://yandex.com/maps/?text=Anadolu Üniversitesi Halk Dansları Topluluğu&ll=30.49993133544922%2C39.79283905029297&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "7ec80f7a-d440-4c82-9c75-be2d7e3a55f6",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Anadolu Üniversitesi Halk Dansları Topluluğu",
+  "sektor": "egitim-kurs",
+  "kategori": "egitim-kurs",
+  "alt": "dans",
+  "hizmet_ipuclari": [
+   "dance_studio"
+  ],
+  "adres": "Eskişehir, Türkiye, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": "(0222) 335 05 80",
+  "web": "https://halkbilim.anadolu.edu.tr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.78253936767578,
+  "lng": 30.506649017333984,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.78253936767578,30.506649017333984",
+  "yandex_url": "https://yandex.com/maps/?text=Anadolu Üniversitesi Halk Dansları Topluluğu&ll=30.506649017333984%2C39.78253936767578&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "670a537b-dd3e-4701-901f-9ddcf10c47e7",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Ananı Siktiğim",
@@ -451,6 +606,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Anne Baba Bebek Sanat Evi",
+  "sektor": "egitim-kurs",
+  "kategori": "egitim-kurs",
+  "alt": "sanat",
+  "hizmet_ipuclari": [
+   "art_school"
+  ],
+  "adres": "Sümer mahallesi 905.sok No:5/1, Odunpazarı",
+  "il": null,
+  "ilce": "Odunpazarı",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.76693344116211,
+  "lng": 30.48678970336914,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.76693344116211,30.48678970336914",
+  "yandex_url": "https://yandex.com/maps/?text=Anne Baba Bebek Sanat Evi&ll=30.48678970336914%2C39.76693344116211&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "63044296-6bfb-478d-a12f-439549815020",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Ardil Language School",
   "sektor": "egitim-kurs",
   "kategori": "egitim-kurs",
@@ -476,6 +660,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Ardil İngilizce Kursları",
+  "sektor": "egitim-kurs",
+  "kategori": "egitim-kurs",
+  "alt": "dil-kursu",
+  "hizmet_ipuclari": [
+   "language_school"
+  ],
+  "adres": "Postane Sk. No:7, Odunpazarı",
+  "il": null,
+  "ilce": "Odunpazarı",
+  "mahalle": null,
+  "telefon": "(0222) 231 18 00",
+  "web": "http://www.ardil.com",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.77021026611328,
+  "lng": 30.51938247680664,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.77021026611328,30.51938247680664",
+  "yandex_url": "https://yandex.com/maps/?text=Ardil İngilizce Kursları&ll=30.51938247680664%2C39.77021026611328&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "fc4c16b7-b267-4ced-adfb-ce0af3c02e7a",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Arinna Dans ve Sanat Merkezi",
@@ -559,6 +772,64 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Atayurt Okulları Müzik",
+  "sektor": "egitim-kurs",
+  "kategori": "egitim-kurs",
+  "alt": "muzik",
+  "hizmet_ipuclari": [
+   "music_school"
+  ],
+  "adres": "Bursa yolu 10.km Aşağısöğütönü mevki , Odunpazarı",
+  "il": null,
+  "ilce": "Odunpazarı",
+  "mahalle": null,
+  "telefon": "(0222) 315 03 60",
+  "web": "http://www.atayurt.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.80558395385742,
+  "lng": 30.444856643676758,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.80558395385742,30.444856643676758",
+  "yandex_url": "https://yandex.com/maps/?text=Atayurt Okulları Müzik&ll=30.444856643676758%2C39.80558395385742&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "9ef3bfbe-c371-40c0-bc86-f0933291d67a",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Atom Sanat Akademisi",
+  "sektor": "egitim-kurs",
+  "kategori": "egitim-kurs",
+  "alt": "sanat",
+  "hizmet_ipuclari": [
+   "art_school"
+  ],
+  "adres": "Goncagüller Sk., Odunpazarı",
+  "il": null,
+  "ilce": "Odunpazarı",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://instagram.com/atomkisiselgelisim",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.744781494140625,
+  "lng": 30.540937423706055,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.744781494140625,30.540937423706055",
+  "yandex_url": "https://yandex.com/maps/?text=Atom Sanat Akademisi&ll=30.540937423706055%2C39.744781494140625&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "e7ac5fb9-1bb8-4e6a-86a1-362dfd61cfc0",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Avandil",
   "sektor": "egitim-kurs",
   "kategori": "egitim-kurs",
@@ -569,7 +840,7 @@
   "il": null,
   "ilce": "Odunpazarı",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0222) 222 12 00",
   "web": "http://avandilmerkezi.com",
   "sosyal": [],
   "calisma_saatleri": null,
@@ -583,7 +854,9 @@
   "fsq_id": "543d9926498e0492a2370474",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "6f6afc99-4b40-470b-a7e3-ac3e286fea13",
+  "alt": "dil-kursu"
  },
  {
   "ad": "Ay Yıldız Sürücü Kursu",
@@ -610,7 +883,67 @@
   "fsq_id": "53988234498ef07707deb84a",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "ae9b6403-1506-4d85-9fcf-dc0f2be47d1f",
+  "alt": "surucu-kursu"
+ },
+ {
+  "ad": "Aytaç Karausta Müzik Akademisi",
+  "sektor": "egitim-kurs",
+  "kategori": "egitim-kurs",
+  "alt": "muzik",
+  "hizmet_ipuclari": [
+   "music_school"
+  ],
+  "adres": "Nayman Sk. 9/1, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.77938461303711,
+  "lng": 30.51541519165039,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.77938461303711,30.51541519165039",
+  "yandex_url": "https://yandex.com/maps/?text=Aytaç Karausta Müzik Akademisi&ll=30.51541519165039%2C39.77938461303711&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "6554ca89-ace4-4f8f-9734-5f50e69dcf54",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "BE ART Gallerie",
+  "sektor": "egitim-kurs",
+  "kategori": "egitim-kurs",
+  "alt": "sanat",
+  "hizmet_ipuclari": [
+   "art_school"
+  ],
+  "adres": "Bademliova Sk. 7A, Odunpazarı",
+  "il": null,
+  "ilce": "Odunpazarı",
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://www.beartgallerie.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.76723098754883,
+  "lng": 30.483095169067383,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.76723098754883,30.483095169067383",
+  "yandex_url": "https://yandex.com/maps/?text=BE ART Gallerie&ll=30.483095169067383%2C39.76723098754883&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "0700afdb-dc19-4004-beb5-9da3d2049b65",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Bach.çe Akademi Osmangazi",
@@ -642,7 +975,9 @@
   "fsq_id": "6176e4ca9e66817e565e199a",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "34d012a6-04fd-49e4-a646-5d20c75da2cf",
+  "alt": "muzik"
  },
  {
   "ad": "Bach.çe Sanat Akademi",
@@ -675,7 +1010,9 @@
   "fsq_id": "5399e1be498e71ce2a467cba",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "e775fd7c-ca1f-440b-bb3e-e4f7ff84aac2",
+  "alt": "muzik"
  },
  {
   "ad": "Bach.çe Sanat Akademi Batıkent",
@@ -735,7 +1072,67 @@
   "fsq_id": "597f059f75a6ea23e97b90f0",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "e891e481-861d-479f-bec2-e801bcf423d1",
+  "alt": "dil-kursu"
+ },
+ {
+  "ad": "Bağlar Sürücü Kursu",
+  "sektor": "egitim-kurs",
+  "kategori": "egitim-kurs",
+  "alt": "surucu-kursu",
+  "hizmet_ipuclari": [
+   "driving_school"
+  ],
+  "adres": "Üniversite Cad No:15/A, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.baglarsurucukursu.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.78215408325195,
+  "lng": 30.51251792907715,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.78215408325195,30.51251792907715",
+  "yandex_url": "https://yandex.com/maps/?text=Bağlar Sürücü Kursu&ll=30.51251792907715%2C39.78215408325195&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "42eb7ad2-d6a0-41ee-8ea4-5fe450646d69",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Başarılı Yurt Dışı Dil Eğitimleri",
+  "sektor": "egitim-kurs",
+  "kategori": "egitim-kurs",
+  "alt": "dil-kursu",
+  "hizmet_ipuclari": [
+   "language_school"
+  ],
+  "adres": "Adalar Sokak 10, Odunpazarı",
+  "il": null,
+  "ilce": "Odunpazarı",
+  "mahalle": null,
+  "telefon": "(0222) 210 00 04",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.77669906616211,
+  "lng": 30.516633987426758,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.77669906616211,30.516633987426758",
+  "yandex_url": "https://yandex.com/maps/?text=Başarılı Yurt Dışı Dil Eğitimleri&ll=30.516633987426758%2C39.77669906616211&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "e656519c-879a-406a-9066-80d4669234ad",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Beyaz Altın Sürücü Kursu",
@@ -762,7 +1159,9 @@
   "fsq_id": "4f0c2585e4b0261c93e15d95",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "778abb3b-dd7f-401c-a333-2265c90cf2ce",
+  "alt": "surucu-kursu"
  },
  {
   "ad": "Bilgiç Psikoteknik",
@@ -794,7 +1193,9 @@
   "fsq_id": "5df200a2442f8900081cae3f",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "9ad54546-298e-4fbf-9920-9d95683ad463",
+  "alt": "surucu-kursu"
  },
  {
   "ad": "Biricik Dil",
@@ -826,7 +1227,9 @@
   "fsq_id": "5c34486344f4190025f6b29b",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "02c84936-f7e4-4454-af66-cad8dcf238af",
+  "alt": "dil-kursu"
  },
  {
   "ad": "Blacksteps Dance Center",
@@ -856,6 +1259,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Blacksteps Dance Center",
+  "sektor": "egitim-kurs",
+  "kategori": "egitim-kurs",
+  "alt": "dans",
+  "hizmet_ipuclari": [
+   "dance_studio"
+  ],
+  "adres": "Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://www.instagram.com/blacksteps_dance/?hl=tr",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.78269958496094,
+  "lng": 30.49371910095215,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.78269958496094,30.49371910095215",
+  "yandex_url": "https://yandex.com/maps/?text=Blacksteps Dance Center&ll=30.49371910095215%2C39.78269958496094&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "630a033b-7584-4026-abc8-07cb758c30f1",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "British Town-Bemar Kariyer",
   "sektor": "egitim-kurs",
   "kategori": "egitim-kurs",
@@ -880,7 +1312,67 @@
   "fsq_id": "5b6b16a23fcee8002c4acd3d",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "536b830c-e3de-4bff-9a43-f02745974435",
+  "alt": "dil-kursu"
+ },
+ {
+  "ad": "Britishtown",
+  "sektor": "egitim-kurs",
+  "kategori": "egitim-kurs",
+  "alt": "dil-kursu",
+  "hizmet_ipuclari": [
+   "language_school"
+  ],
+  "adres": "İki Eylül Caddesi, Başan Sk. No:4, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": "(0222) 210 00 77",
+  "web": "http://www.britishtown.com.tr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.77534484863281,
+  "lng": 30.51766586303711,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.77534484863281,30.51766586303711",
+  "yandex_url": "https://yandex.com/maps/?text=Britishtown&ll=30.51766586303711%2C39.77534484863281&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "c9c26c44-85d1-4566-8ad1-e405e9534d73",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Brooklyn Academy",
+  "sektor": "egitim-kurs",
+  "kategori": "egitim-kurs",
+  "alt": "dil-kursu",
+  "hizmet_ipuclari": [
+   "language_school"
+  ],
+  "adres": "Koza Blv No:11E, Odunpazarı",
+  "il": null,
+  "ilce": "Odunpazarı",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.74087905883789,
+  "lng": 30.527925491333008,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.74087905883789,30.527925491333008",
+  "yandex_url": "https://yandex.com/maps/?text=Brooklyn Academy&ll=30.527925491333008%2C39.74087905883789&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "ca457cbc-1193-4711-baa7-4ae1ee8f8fac",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Büyükşehir Dil Acamedy",
@@ -908,6 +1400,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Calisto Dans Sporları Merkezi",
+  "sektor": "egitim-kurs",
+  "kategori": "egitim-kurs",
+  "alt": "dans",
+  "hizmet_ipuclari": [
+   "dance_studio"
+  ],
+  "adres": "İskender Sk. no :9, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.calistodans.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.77710723876953,
+  "lng": 30.5107479095459,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.77710723876953,30.5107479095459",
+  "yandex_url": "https://yandex.com/maps/?text=Calisto Dans Sporları Merkezi&ll=30.5107479095459%2C39.77710723876953&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "d9127ac6-445a-4d86-99f0-f0bc04b79bca",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "DAVID BECKHAM",
@@ -1016,6 +1537,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Dance Eskisehir",
+  "sektor": "egitim-kurs",
+  "kategori": "egitim-kurs",
+  "alt": "dans",
+  "hizmet_ipuclari": [
+   "dance_studio"
+  ],
+  "adres": "Nayman Sk. No:8, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.eskisehirdanset.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.779258728027344,
+  "lng": 30.51535987854004,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.779258728027344,30.51535987854004",
+  "yandex_url": "https://yandex.com/maps/?text=Dance Eskisehir&ll=30.51535987854004%2C39.779258728027344&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "1d6abb41-3187-4b5e-bc6d-aea4858d7cf1",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Dans Salonu",
@@ -1158,6 +1708,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Danskeyfi111",
+  "sektor": "egitim-kurs",
+  "kategori": "egitim-kurs",
+  "alt": "dans",
+  "hizmet_ipuclari": [
+   "dance_studio"
+  ],
+  "adres": "No 46, Vural Sokak, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://sites.google.com/view/danskeyfi111",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.7906379699707,
+  "lng": 30.522329330444336,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.7906379699707,30.522329330444336",
+  "yandex_url": "https://yandex.com/maps/?text=Danskeyfi111&ll=30.522329330444336%2C39.7906379699707&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "7e7303fb-129e-494b-a990-cdbb9494336e",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Dayusa Sportif Yaşam Merkezi",
   "sektor": "egitim-kurs",
   "kategori": "egitim-kurs",
@@ -1183,7 +1762,8 @@
   "fsq_id": "4d6f631a0d996dcbad4ab58e",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "64afbc8b-d3f4-41c5-b999-c64d5705315a"
  },
  {
   "ad": "Demirok Sürücü Kursu",
@@ -1211,6 +1791,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Demirok Sürücü Kursu",
+  "sektor": "egitim-kurs",
+  "kategori": "egitim-kurs",
+  "alt": "surucu-kursu",
+  "hizmet_ipuclari": [
+   "driving_school"
+  ],
+  "adres": "Esen Sk. No:24, Odunpazarı",
+  "il": null,
+  "ilce": "Odunpazarı",
+  "mahalle": null,
+  "telefon": "(0222) 220 98 96",
+  "web": "http://www.demiroksurucukursu.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.77382278442383,
+  "lng": 30.515897750854492,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.77382278442383,30.515897750854492",
+  "yandex_url": "https://yandex.com/maps/?text=Demirok Sürücü Kursu&ll=30.515897750854492%2C39.77382278442383&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "9f5a17d1-5af0-4c15-966b-326e9de88b7a",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Deutschkurs",
@@ -1294,6 +1903,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Dilara Pak Sanat Akademisi",
+  "sektor": "egitim-kurs",
+  "kategori": "egitim-kurs",
+  "alt": "sanat",
+  "hizmet_ipuclari": [
+   "art_school"
+  ],
+  "adres": "Petunya Sk. No;14, Odunpazarı",
+  "il": null,
+  "ilce": "Odunpazarı",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.76066970825195,
+  "lng": 30.49236297607422,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.76066970825195,30.49236297607422",
+  "yandex_url": "https://yandex.com/maps/?text=Dilara Pak Sanat Akademisi&ll=30.49236297607422%2C39.76066970825195&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "c4a133aa-843f-4600-849d-8a434e8536e6",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Dilsem Yabancı Dil Kursu",
   "sektor": "egitim-kurs",
   "kategori": "egitim-kurs",
@@ -1318,7 +1956,9 @@
   "fsq_id": "4faa9e0de4b04f8c94435f3f",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "97d24de6-892f-4a80-b160-6d977f895054",
+  "alt": "dil-kursu"
  },
  {
   "ad": "Diyafram Müzik",
@@ -1377,6 +2017,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Dogan Driving Course",
+  "sektor": "egitim-kurs",
+  "kategori": "egitim-kurs",
+  "alt": "surucu-kursu",
+  "hizmet_ipuclari": [
+   "driving_school"
+  ],
+  "adres": "Şair Fuzuli Cd. No:4 D:1-2-3-4, Odunpazarı",
+  "il": null,
+  "ilce": "Odunpazarı",
+  "mahalle": null,
+  "telefon": "(0222) 234 44 88",
+  "web": "http://www.esdogansurucukursu.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.77656936645508,
+  "lng": 30.517230987548828,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.77656936645508,30.517230987548828",
+  "yandex_url": "https://yandex.com/maps/?text=Dogan Driving Course&ll=30.517230987548828%2C39.77656936645508&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "316c2849-718d-4c8f-a940-f54b95ff811c",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Dörtler Sürücü Kursu",
   "sektor": "egitim-kurs",
   "kategori": "egitim-kurs",
@@ -1401,7 +2070,38 @@
   "fsq_id": "510b9d39e4b0256d6b12e2d5",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "628443d3-1a47-46cc-b349-3b3f8d1c62e7",
+  "alt": "surucu-kursu"
+ },
+ {
+  "ad": "Düet Sanat Merkezi",
+  "sektor": "egitim-kurs",
+  "kategori": "egitim-kurs",
+  "alt": "muzik",
+  "hizmet_ipuclari": [
+   "music_school"
+  ],
+  "adres": "Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.duetsanat.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.78534698486328,
+  "lng": 30.501319885253906,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.78534698486328,30.501319885253906",
+  "yandex_url": "https://yandex.com/maps/?text=Düet Sanat Merkezi&ll=30.501319885253906%2C39.78534698486328&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "231d239c-3d7b-406b-b6f8-6d8466fc36cb",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Düzgün Sürücü Kursu",
@@ -1458,6 +2158,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "ESOGÜ is Tömer",
+  "sektor": "egitim-kurs",
+  "kategori": "egitim-kurs",
+  "alt": "dil-kursu",
+  "hizmet_ipuclari": [
+   "language_school"
+  ],
+  "adres": "Eskisehir Osmangazi University, Turkish Language Teaching, Application & Research Center, Department of Foreign Languages Building, B-2 Block 1st Floor, Meselik Campus, Odunpazarı",
+  "il": null,
+  "ilce": "Odunpazarı",
+  "mahalle": null,
+  "telefon": "(0222) 227 79 88",
+  "web": "http://tomer.ogu.edu.tr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.75191879272461,
+  "lng": 30.479228973388672,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.75191879272461,30.479228973388672",
+  "yandex_url": "https://yandex.com/maps/?text=ESOGÜ is Tömer&ll=30.479228973388672%2C39.75191879272461&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "7ed7297b-42b8-42bc-83c4-edbff514bba9",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Ecemiz Sürücü Kursu",
   "sektor": "egitim-kurs",
   "kategori": "egitim-kurs",
@@ -1483,6 +2212,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Ef Eskişehir",
+  "sektor": "egitim-kurs",
+  "kategori": "egitim-kurs",
+  "alt": "dil-kursu",
+  "hizmet_ipuclari": [
+   "language_school"
+  ],
+  "adres": "Universite Cad, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.786590576171875,
+  "lng": 30.508892059326172,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.786590576171875,30.508892059326172",
+  "yandex_url": "https://yandex.com/maps/?text=Ef Eskişehir&ll=30.508892059326172%2C39.786590576171875&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "dfeff006-187f-4c3b-b01e-0e17f16a5d78",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Ekhad",
@@ -1549,7 +2307,7 @@
   "il": null,
   "ilce": "Tepebaşı",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0222) 322 33 99",
   "web": "http://www.eskisehielitsurucukursu.com",
   "sosyal": [
    {
@@ -1568,7 +2326,9 @@
   "fsq_id": "5db5cfb17974a50008244842",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "8d6d6ef6-04b5-41a5-ac4f-4b1ee100a2a8",
+  "alt": "surucu-kursu"
  },
  {
   "ad": "Elit Sürücü Kursu Uluönder Şubesi",
@@ -1596,6 +2356,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "English House Yabancı Dil Kursu",
+  "sektor": "egitim-kurs",
+  "kategori": "egitim-kurs",
+  "alt": "dil-kursu",
+  "hizmet_ipuclari": [
+   "language_school"
+  ],
+  "adres": "Eskibağlar mah Prof. Dr, Yılmaz Büyükerşen Blv no:30/1, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.eskisehirenglishhouse.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.78263473510742,
+  "lng": 30.512331008911133,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.78263473510742,30.512331008911133",
+  "yandex_url": "https://yandex.com/maps/?text=English House Yabancı Dil Kursu&ll=30.512331008911133%2C39.78263473510742&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "4f85a9b1-a8f8-4c39-bdf0-0d59806b5546",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "English Lesson",
@@ -1652,6 +2441,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "English Test",
+  "sektor": "egitim-kurs",
+  "kategori": "egitim-kurs",
+  "alt": "dil-kursu",
+  "hizmet_ipuclari": [
+   "language_school"
+  ],
+  "adres": "Sahil Yolu Sk No 80, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": "(0222) 221 68 54",
+  "web": "http://www.ingilizcetest.com.tr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.776668548583984,
+  "lng": 30.511009216308594,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.776668548583984,30.511009216308594",
+  "yandex_url": "https://yandex.com/maps/?text=English Test&ll=30.511009216308594%2C39.776668548583984&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "7a67d945-6b7a-4f84-b0ec-6eb9f0790854",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "English Time | Dil Okulu & Yurtdışı Eğitim Danışmanlığı",
   "sektor": "egitim-kurs",
   "kategori": "egitim-kurs",
@@ -1676,7 +2494,9 @@
   "fsq_id": "515951bee4b0a71b1290b456",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "f48ab9e0-22c6-4104-a7b3-16e0c25f9369",
+  "alt": "dil-kursu"
  },
  {
   "ad": "English Weekend Lesson",
@@ -1762,7 +2582,9 @@
   "fsq_id": "5139ec22e4b07cfa51976ad7",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "1d885756-a374-4c57-8865-39f5b68af88d",
+  "alt": "muzik"
  },
  {
   "ad": "Es Tempo Sürücü Kursu",
@@ -1789,7 +2611,9 @@
   "fsq_id": "50cc60fbe4b0881a722efd21",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "a929e1e0-5c1f-4785-9677-63ede1ae3b4c",
+  "alt": "surucu-kursu"
  },
  {
   "ad": "Es Yalçın Sürücü Kursu",
@@ -1964,6 +2788,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Eskişehir Dil Koleji",
+  "sektor": "egitim-kurs",
+  "kategori": "egitim-kurs",
+  "alt": "dil-kursu",
+  "hizmet_ipuclari": [
+   "language_school"
+  ],
+  "adres": "Abacı Sokak 50, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": "(0222) 330 63 30",
+  "web": "http://www.eskisehirdilkoleji.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.78310012817383,
+  "lng": 30.504070281982422,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.78310012817383,30.504070281982422",
+  "yandex_url": "https://yandex.com/maps/?text=Eskişehir Dil Koleji&ll=30.504070281982422%2C39.78310012817383&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "e7558998-4525-48ce-ad22-b4155fd6646f",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Eskişehir Doğan Src ve Psikoteknik Merkezi",
   "sektor": "egitim-kurs",
   "kategori": "egitim-kurs",
@@ -2002,7 +2855,7 @@
   "ilce": "Tepebaşı",
   "mahalle": null,
   "telefon": "(0222) 281 00 25",
-  "web": null,
+  "web": "https://eskisehirefesurucukursu.com/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -2015,7 +2868,96 @@
   "fsq_id": "624c293577736646b1b62cd0",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "559a5990-d61a-4116-ab8d-165013aa9eef",
+  "alt": "surucu-kursu"
+ },
+ {
+  "ad": "Eskişehir Ehliyet Kursu",
+  "sektor": "egitim-kurs",
+  "kategori": "egitim-kurs",
+  "alt": "surucu-kursu",
+  "hizmet_ipuclari": [
+   "driving_school"
+  ],
+  "adres": "İstiklal Dilekli Sokak Akman Apt No:3 D:No: 11, Odunpazarı",
+  "il": null,
+  "ilce": "Odunpazarı",
+  "mahalle": null,
+  "telefon": "(0222) 220 51 52",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.7738151550293,
+  "lng": 30.516878128051758,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.7738151550293,30.516878128051758",
+  "yandex_url": "https://yandex.com/maps/?text=Eskişehir Ehliyet Kursu&ll=30.516878128051758%2C39.7738151550293&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "d19d0ce3-949c-4aa4-ad1a-f9ba32b63b02",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Eskişehir Es Yalçın İş Makineleri Operatörlük Kursu",
+  "sektor": "egitim-kurs",
+  "kategori": "egitim-kurs",
+  "alt": "surucu-kursu",
+  "hizmet_ipuclari": [
+   "driving_school"
+  ],
+  "adres": "İki Eylül Cd. Kızılay İş Merkezi Kat: 4 No: 5 B, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": "(0222) 234 44 48",
+  "web": "http://esyalcinsurucukursu.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.7757453918457,
+  "lng": 30.517894744873047,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.7757453918457,30.517894744873047",
+  "yandex_url": "https://yandex.com/maps/?text=Eskişehir Es Yalçın İş Makineleri Operatörlük Kursu&ll=30.517894744873047%2C39.7757453918457&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "c60e7edc-10b5-43a7-aebb-8cb97c6b9570",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Eskişehir Haller Sürücü Kursu",
+  "sektor": "egitim-kurs",
+  "kategori": "egitim-kurs",
+  "alt": "surucu-kursu",
+  "hizmet_ipuclari": [
+   "driving_school"
+  ],
+  "adres": "Komsoy Sk. No:6, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.eskisehirhallersurucukursu.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.78030014038086,
+  "lng": 30.5140323638916,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.78030014038086,30.5140323638916",
+  "yandex_url": "https://yandex.com/maps/?text=Eskişehir Haller Sürücü Kursu&ll=30.5140323638916%2C39.78030014038086&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "cd27988a-bd67-4f77-a4c8-bc8d03283322",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Eskişehir Karma Atölye",
@@ -2072,6 +3014,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Eskişehir Müzik Merkezi",
+  "sektor": "egitim-kurs",
+  "kategori": "egitim-kurs",
+  "alt": "muzik",
+  "hizmet_ipuclari": [
+   "music_school"
+  ],
+  "adres": "M. K. Atatürk Caddesi 12A, Odunpazarı",
+  "il": null,
+  "ilce": "Odunpazarı",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.eskisehirmuzikmerkezi.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.76651382446289,
+  "lng": 30.519947052001953,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.76651382446289,30.519947052001953",
+  "yandex_url": "https://yandex.com/maps/?text=Eskişehir Müzik Merkezi&ll=30.519947052001953%2C39.76651382446289&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "adb3f99c-ccc1-47a1-a790-9d7652bd6991",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Eskişehir Rus Kültür Merkezi",
   "sektor": "egitim-kurs",
   "kategori": "egitim-kurs",
@@ -2097,6 +3068,64 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Eskişehir Taşbaşı Sürücü Kursları",
+  "sektor": "egitim-kurs",
+  "kategori": "egitim-kurs",
+  "alt": "surucu-kursu",
+  "hizmet_ipuclari": [
+   "driving_school"
+  ],
+  "adres": "Kıbrıs Şehitleri Caddesi 5, Odunpazarı",
+  "il": null,
+  "ilce": "Odunpazarı",
+  "mahalle": null,
+  "telefon": "(0850) 333 26 41",
+  "web": "http://tasbasisurucukursu.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.77171325683594,
+  "lng": 30.520009994506836,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.77171325683594,30.520009994506836",
+  "yandex_url": "https://yandex.com/maps/?text=Eskişehir Taşbaşı Sürücü Kursları&ll=30.520009994506836%2C39.77171325683594&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "ea5af457-05cc-4bcb-aa79-a8d42540ce8e",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Eskişehir İngilizce Kursu - Ay Dil Kursu",
+  "sektor": "egitim-kurs",
+  "kategori": "egitim-kurs",
+  "alt": "dil-kursu",
+  "hizmet_ipuclari": [
+   "language_school"
+  ],
+  "adres": "Zübeyde Hanım Blv No:65/D, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://eskisehiraydil.com.tr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.78213119506836,
+  "lng": 30.519695281982422,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.78213119506836,30.519695281982422",
+  "yandex_url": "https://yandex.com/maps/?text=Eskişehir İngilizce Kursu - Ay Dil Kursu&ll=30.519695281982422%2C39.78213119506836&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "84f15aef-95a6-4799-89e3-492369f618e6",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Eylulun manastiri",
@@ -2150,7 +3179,9 @@
   "fsq_id": "505c5798e4b071a17eac2a4f",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "56ab7f09-8226-49e2-83e0-fa19a74700af",
+  "alt": "surucu-kursu"
  },
  {
   "ad": "Florıda Class",
@@ -2234,6 +3265,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Go Sanat",
+  "sektor": "egitim-kurs",
+  "kategori": "egitim-kurs",
+  "alt": "dans",
+  "hizmet_ipuclari": [
+   "dance_studio"
+  ],
+  "adres": "Yılmaz Sokak 24, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.gosanat.com.tr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.77702713012695,
+  "lng": 30.511377334594727,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.77702713012695,30.511377334594727",
+  "yandex_url": "https://yandex.com/maps/?text=Go Sanat&ll=30.511377334594727%2C39.77702713012695&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "7c5de10e-079f-44e8-801c-d4c4c4f302a2",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Habitat Academy",
   "sektor": "egitim-kurs",
   "kategori": "egitim-kurs",
@@ -2263,7 +3323,9 @@
   "fsq_id": "56e846ad498e7c41a3c263cd",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "52c40f03-3fe8-455f-9544-0dcefb6dc2f4",
+  "alt": "dil-kursu"
  },
  {
   "ad": "Hakkı Hoca Ingilizce Sınav Merkezi & English House Dil Okulları",
@@ -2295,7 +3357,9 @@
   "fsq_id": "5ef9a7696076fb0008a28d29",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "03798574-f4ad-433f-aabd-5afc00499906",
+  "alt": "dil-kursu"
  },
  {
   "ad": "Haller Sürücü Kursu",
@@ -2336,7 +3400,7 @@
   "ilce": "Tepebaşı",
   "mahalle": null,
   "telefon": null,
-  "web": null,
+  "web": "https://heartofenglish.net.tr/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -2349,7 +3413,9 @@
   "fsq_id": "684ecdd3ed4f591d75981309",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "cacd0c26-b5f8-4614-8ff4-12fde4c77917",
+  "alt": "dil-kursu"
  },
  {
   "ad": "Helen Doron Boğaziçi Early English",
@@ -2379,6 +3445,64 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Hüseyin ERBAY",
+  "sektor": "egitim-kurs",
+  "kategori": "egitim-kurs",
+  "alt": "muzik",
+  "hizmet_ipuclari": [
+   "music_school"
+  ],
+  "adres": "Odunpazarı",
+  "il": null,
+  "ilce": "Odunpazarı",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.765037536621094,
+  "lng": 30.505796432495117,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.765037536621094,30.505796432495117",
+  "yandex_url": "https://yandex.com/maps/?text=Hüseyin ERBAY&ll=30.505796432495117%2C39.765037536621094&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "e00c9914-846d-4fff-a160-07312ee93eb6",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Hüseyin ERBAY",
+  "sektor": "egitim-kurs",
+  "kategori": "egitim-kurs",
+  "alt": "muzik",
+  "hizmet_ipuclari": [
+   "music_school"
+  ],
+  "adres": "Odunpazarı",
+  "il": null,
+  "ilce": "Odunpazarı",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.76401901245117,
+  "lng": 30.512224197387695,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.76401901245117,30.512224197387695",
+  "yandex_url": "https://yandex.com/maps/?text=Hüseyin ERBAY&ll=30.512224197387695%2C39.76401901245117&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "b5c9bc6c-9610-46f3-952d-e53ecfb27ec5",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Ilker Yarar's piano office",
   "sektor": "egitim-kurs",
   "kategori": "egitim-kurs",
@@ -2404,6 +3528,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Ivy Academy",
+  "sektor": "egitim-kurs",
+  "kategori": "egitim-kurs",
+  "alt": "etut",
+  "hizmet_ipuclari": [
+   "tutoring_service"
+  ],
+  "adres": "Reşadiye Cd. No:14, Odunpazarı",
+  "il": null,
+  "ilce": "Odunpazarı",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.77141189575195,
+  "lng": 30.51618766784668,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.77141189575195,30.51618766784668",
+  "yandex_url": "https://yandex.com/maps/?text=Ivy Academy&ll=30.51618766784668%2C39.77141189575195&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "e1a387e6-5e33-4419-8939-21d92395e26a",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Jan Mayen Dil Atölyesi",
@@ -2542,6 +3695,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Kural Surucu Kursu",
+  "sektor": "egitim-kurs",
+  "kategori": "egitim-kurs",
+  "alt": "surucu-kursu",
+  "hizmet_ipuclari": [
+   "driving_school"
+  ],
+  "adres": "Tüt Sk. NO :1 K:7 D:34, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.eskisehirkuralsurucukursu.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.78358840942383,
+  "lng": 30.511484146118164,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.78358840942383,30.511484146118164",
+  "yandex_url": "https://yandex.com/maps/?text=Kural Surucu Kursu&ll=30.511484146118164%2C39.78358840942383&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "884b17d6-c17a-4526-9aa9-53b0a72e46b6",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Köprübaşı Sürücü Kursu",
   "sektor": "egitim-kurs",
   "kategori": "egitim-kurs",
@@ -2553,7 +3735,7 @@
   "ilce": "Odunpazarı",
   "mahalle": null,
   "telefon": "(0222) 221 11 44",
-  "web": null,
+  "web": "http://www.koprubasisurucukursu.com/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -2566,7 +3748,9 @@
   "fsq_id": "51794265e4b07a025511bf59",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "efdd1303-0289-4976-9478-6005ac4b33e5",
+  "alt": "surucu-kursu"
  },
  {
   "ad": "Luna Sanat Akademisi",
@@ -2629,6 +3813,64 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "MEDA Dans Akademi",
+  "sektor": "egitim-kurs",
+  "kategori": "egitim-kurs",
+  "alt": "dans",
+  "hizmet_ipuclari": [
+   "dance_studio"
+  ],
+  "adres": "Şen Sk. No:2 D:41, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://www.instagram.com/medadansakademi/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.77651596069336,
+  "lng": 30.51971435546875,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.77651596069336,30.51971435546875",
+  "yandex_url": "https://yandex.com/maps/?text=MEDA Dans Akademi&ll=30.51971435546875%2C39.77651596069336&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "69b0d6f9-e168-47cc-be8e-6f86b4490fbb",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "MEDA Dans Sporları Merkezi",
+  "sektor": "egitim-kurs",
+  "kategori": "egitim-kurs",
+  "alt": "dans",
+  "hizmet_ipuclari": [
+   "dance_studio"
+  ],
+  "adres": "3199. Sokak No:14, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://instagram.com/medadansakademi",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.781497955322266,
+  "lng": 30.47348976135254,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.781497955322266,30.47348976135254",
+  "yandex_url": "https://yandex.com/maps/?text=MEDA Dans Sporları Merkezi&ll=30.47348976135254%2C39.781497955322266&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "54ddac81-c286-4c58-9623-3b23b6a82a48",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Makina Atölyesi",
   "sektor": "egitim-kurs",
   "kategori": "egitim-kurs",
@@ -2667,7 +3909,7 @@
   "ilce": "Odunpazarı",
   "mahalle": null,
   "telefon": null,
-  "web": null,
+  "web": "http://www.mamboritmodance.com/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -2680,7 +3922,67 @@
   "fsq_id": "590f1b2128122f16e554814d",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "f9893c44-aaec-43ea-b3aa-6e244c4f4c36",
+  "alt": "dans"
+ },
+ {
+  "ad": "Melis Sanat Akademisi",
+  "sektor": "egitim-kurs",
+  "kategori": "egitim-kurs",
+  "alt": "muzik",
+  "hizmet_ipuclari": [
+   "music_school"
+  ],
+  "adres": "Mustafa Kemal Atatürk Caddesi 62, Odunpazarı",
+  "il": null,
+  "ilce": "Odunpazarı",
+  "mahalle": null,
+  "telefon": "(0222) 230 08 71",
+  "web": "http://melissanatakademisi.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.82960891723633,
+  "lng": 30.31874656677246,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.82960891723633,30.31874656677246",
+  "yandex_url": "https://yandex.com/maps/?text=Melis Sanat Akademisi&ll=30.31874656677246%2C39.82960891723633&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "dc134ca6-2b06-474a-9c13-916fc0939b56",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Merkez Psiko-Teknik",
+  "sektor": "egitim-kurs",
+  "kategori": "egitim-kurs",
+  "alt": "surucu-kursu",
+  "hizmet_ipuclari": [
+   "driving_school"
+  ],
+  "adres": "Madımak Pastanesi, Kireççiler Sokak 11, Odunpazarı",
+  "il": null,
+  "ilce": "Odunpazarı",
+  "mahalle": null,
+  "telefon": "(0222) 220 00 10",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.77208709716797,
+  "lng": 30.519689559936523,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.77208709716797,30.519689559936523",
+  "yandex_url": "https://yandex.com/maps/?text=Merkez Psiko-Teknik&ll=30.519689559936523%2C39.77208709716797&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "e5e76ab0-5100-4d82-b5de-932a24c45dce",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Milonga Del Barrio",
@@ -2739,7 +4041,38 @@
   "fsq_id": "5548ab3f498e27b475002dea",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "47115fc5-62be-4728-a630-75360df01b50",
+  "alt": "dil-kursu"
+ },
+ {
+  "ad": "Moda Dil Akademisi",
+  "sektor": "egitim-kurs",
+  "kategori": "egitim-kurs",
+  "alt": "dil-kursu",
+  "hizmet_ipuclari": [
+   "language_school"
+  ],
+  "adres": "Kızılcıklı Mahmut Pehlivan Cd No:40 Kat: 4-5-6, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": "(0222) 220 53 40",
+  "web": "https://www.modadil.com/eskisehir",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.77729797363281,
+  "lng": 30.509626388549805,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.77729797363281,30.509626388549805",
+  "yandex_url": "https://yandex.com/maps/?text=Moda Dil Akademisi&ll=30.509626388549805%2C39.77729797363281&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "83b3ce20-985e-4ac8-85df-055ae05ae732",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Mola Muzik",
@@ -2748,7 +4081,7 @@
   "hizmet_ipuclari": [
    "4f04b10d2fb6e1c99f3db0be"
   ],
-  "adres": "Ismet inönü cad",
+  "adres": "İsmet İnönü-1 Blv No:24 D:12, Tepebaşı",
   "il": null,
   "ilce": "Tepebaşı",
   "mahalle": null,
@@ -2766,7 +4099,9 @@
   "fsq_id": "5abe36fb89b06a1d518f8d08",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "d0387422-9523-4b75-b593-310ef9d41104",
+  "alt": "muzik"
  },
  {
   "ad": "Music Office Akademi",
@@ -2793,7 +4128,9 @@
   "fsq_id": "66fef1b04d039e1da62cf6a4",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "4d1f388e-903f-4519-8bd1-f794961afb1e",
+  "alt": "muzik"
  },
  {
   "ad": "Muzik Sinifi",
@@ -2847,7 +4184,9 @@
   "fsq_id": "4da70da64df0260c3e9f3b81",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "c80a53e0-b6a5-4522-8680-c1f1cef584ae",
+  "alt": "dil-kursu"
  },
  {
   "ad": "Müzik Odası",
@@ -2910,12 +4249,12 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d134941735"
   ],
-  "adres": null,
+  "adres": "Hoşnudiye Mah. Bayrak Sk. Demir İş Merkezi No:6, D:1, Tepebaşı",
   "il": null,
   "ilce": "Tepebaşı",
   "mahalle": null,
   "telefon": null,
-  "web": null,
+  "web": "http://www.eskisehirdansakademisi.com/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -2928,7 +4267,38 @@
   "fsq_id": "5e63e5355a76630007c266e8",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "1b2b5f14-60be-4ec0-8f8c-734044e6c4ee",
+  "alt": "dans"
+ },
+ {
+  "ad": "Orange Kids School of Languages",
+  "sektor": "egitim-kurs",
+  "kategori": "egitim-kurs",
+  "alt": "dil-kursu",
+  "hizmet_ipuclari": [
+   "language_school"
+  ],
+  "adres": "Prof. Dr. Nusret Fişek Sk. No:1, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.orangekids.com.tr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.79203796386719,
+  "lng": 30.44873046875,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.79203796386719,30.44873046875",
+  "yandex_url": "https://yandex.com/maps/?text=Orange Kids School of Languages&ll=30.44873046875%2C39.79203796386719&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "b7b9e7e8-7e12-4d69-9856-f95a4f366902",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Orlando Language Academy",
@@ -2960,7 +4330,67 @@
   "fsq_id": "623887bdd1c30410e876b725",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "7de413ef-5ed4-4b19-9695-b3fdd60338c5",
+  "alt": "dil-kursu"
+ },
+ {
+  "ad": "Orlando Language Academy - Doktorlar Şubesi",
+  "sektor": "egitim-kurs",
+  "kategori": "egitim-kurs",
+  "alt": "dil-kursu",
+  "hizmet_ipuclari": [
+   "language_school"
+  ],
+  "adres": "İsmet İnönü-1 Blv No:67, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://orlandolanguage.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.77960205078125,
+  "lng": 30.51306915283203,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.77960205078125,30.51306915283203",
+  "yandex_url": "https://yandex.com/maps/?text=Orlando Language Academy - Doktorlar Şubesi&ll=30.51306915283203%2C39.77960205078125&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "09553f91-1f9b-4f3a-a6e7-a94f9aa8fb48",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Oxford Eskişehir Dil Koleji",
+  "sektor": "egitim-kurs",
+  "kategori": "egitim-kurs",
+  "alt": "dil-kursu",
+  "hizmet_ipuclari": [
+   "language_school"
+  ],
+  "adres": "Gürdal Abacı Plaza, Sakarya-1 Cd. No: 50, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": "(0222) 330 63 30",
+  "web": "http://www.eskisehirdilkoleji.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.77875900268555,
+  "lng": 30.519390106201172,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.77875900268555,30.519390106201172",
+  "yandex_url": "https://yandex.com/maps/?text=Oxford Eskişehir Dil Koleji&ll=30.519390106201172%2C39.77875900268555&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "7c21606d-cd31-45e7-a0fb-c094347260f5",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Oz-Art Akademi",
@@ -2969,12 +4399,12 @@
   "hizmet_ipuclari": [
    "4f04b10d2fb6e1c99f3db0be"
   ],
-  "adres": null,
+  "adres": "Prof. Dr. Nusret Fişek Sokak 3, Tepebaşı",
   "il": null,
   "ilce": "Tepebaşı",
   "mahalle": null,
   "telefon": null,
-  "web": null,
+  "web": "http://www.ozartakademi.com/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -2987,7 +4417,38 @@
   "fsq_id": "57f8d5e6498e83e37578a39f",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "01f535ba-e2b3-4f5f-b2e9-299a563db58c",
+  "alt": "muzik"
+ },
+ {
+  "ad": "Payidar Sanat Resim Atolyesi",
+  "sektor": "egitim-kurs",
+  "kategori": "egitim-kurs",
+  "alt": "sanat",
+  "hizmet_ipuclari": [
+   "art_school"
+  ],
+  "adres": "Vardar Sk. Necdet Çelik İş Merkezi kat:3 Daire:7, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.77771759033203,
+  "lng": 30.517147064208984,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.77771759033203,30.517147064208984",
+  "yandex_url": "https://yandex.com/maps/?text=Payidar Sanat Resim Atolyesi&ll=30.517147064208984%2C39.77771759033203&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "41cea0ae-301e-4505-aa7f-671efb497bf0",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Pegem English",
@@ -3014,7 +4475,9 @@
   "fsq_id": "565ff1e7498ea816b2444003",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "5d3f5209-91ca-43fd-bf5b-e43ca59aa8bd",
+  "alt": "dil-kursu"
  },
  {
   "ad": "Practika Linda",
@@ -3071,6 +4534,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Remzi Hoca",
+  "sektor": "egitim-kurs",
+  "kategori": "egitim-kurs",
+  "alt": "dil-kursu",
+  "hizmet_ipuclari": [
+   "language_school"
+  ],
+  "adres": "No:, Ceylan Beyli Sk. No:29, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": "(0850) 532 74 74",
+  "web": "https://www.remzihoca.com/yds-yokdil-online-dersler",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.78152847290039,
+  "lng": 30.49104118347168,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.78152847290039,30.49104118347168",
+  "yandex_url": "https://yandex.com/maps/?text=Remzi Hoca&ll=30.49104118347168%2C39.78152847290039&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "6e559f0d-9be5-4772-a048-e4772a127028",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Reyhan Şen",
   "sektor": "egitim-kurs",
   "kategori": "egitim-kurs",
@@ -3104,7 +4596,7 @@
   "hizmet_ipuclari": [
    "52e81612bcbc57f1066b7a42"
   ],
-  "adres": null,
+  "adres": "Örsan Sk. NO33/A, Tepebaşı",
   "il": null,
   "ilce": "Tepebaşı",
   "mahalle": null,
@@ -3122,7 +4614,38 @@
   "fsq_id": "69cfbaf8b601345742be0f14",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "cc4743ae-b4c7-4434-9210-43b9ff6e7071",
+  "alt": "surucu-kursu"
+ },
+ {
+  "ad": "Salutem Dans & Çocuk",
+  "sektor": "egitim-kurs",
+  "kategori": "egitim-kurs",
+  "alt": "dans",
+  "hizmet_ipuclari": [
+   "dance_studio"
+  ],
+  "adres": "Bayrak Sokak 6, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": "(0222) 230 27 28",
+  "web": "https://www.salutemgrup.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.77972412109375,
+  "lng": 30.514989852905273,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.77972412109375,30.514989852905273",
+  "yandex_url": "https://yandex.com/maps/?text=Salutem Dans & Çocuk&ll=30.514989852905273%2C39.77972412109375&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "671757f3-4d95-40da-ae13-96b90a05e518",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Salutem Dans | Çocuk | Park",
@@ -3154,7 +4677,9 @@
   "fsq_id": "58de6b1f3ef0f619b7f456e8",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "08b1c4eb-ea97-448a-8d72-fc3c49a750d6",
+  "alt": "dans"
  },
  {
   "ad": "Salutem Dans Çocuk Park",
@@ -3163,12 +4688,12 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d134941735"
   ],
-  "adres": "Prof doktor Nusret fişek sok",
+  "adres": "Prof. Dr. Nusret Fişek Sokak 4D, Tepebaşı",
   "il": null,
   "ilce": "Tepebaşı",
   "mahalle": null,
   "telefon": null,
-  "web": null,
+  "web": "http://www.salutemgrup.com/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -3181,7 +4706,8 @@
   "fsq_id": "5baa5107018cbb0039b35c7b",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "0bb76bb1-a75f-4a83-a03b-2b1e528913be"
  },
  {
   "ad": "Sayın Sürücü Kursu",
@@ -3208,7 +4734,9 @@
   "fsq_id": "5168f3dde4b0ddffcaada665",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "ae1d8c51-44f9-4ae4-959c-39daeedfd03d",
+  "alt": "surucu-kursu"
  },
  {
   "ad": "Spor Dans Merkezi",
@@ -3271,12 +4799,12 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d134941735"
   ],
-  "adres": null,
+  "adres": "Hilaller Sokak 17, Odunpazarı",
   "il": null,
   "ilce": "Odunpazarı",
   "mahalle": null,
   "telefon": null,
-  "web": null,
+  "web": "https://www.instagram.com/studioekho/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -3289,7 +4817,9 @@
   "fsq_id": "5bad1f2446e1b6002ca7d74f",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "6dcfef64-4557-4953-a34e-1beb68a18041",
+  "alt": "dans"
  },
  {
   "ad": "Studio10",
@@ -3481,6 +5011,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "TAC Odunpazarı Yabancı Dil Kursu",
+  "sektor": "egitim-kurs",
+  "kategori": "egitim-kurs",
+  "alt": "dil-kursu",
+  "hizmet_ipuclari": [
+   "language_school"
+  ],
+  "adres": "Porsuk Blv No:21 Kat:3, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://americanvip.com.tr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.777374267578125,
+  "lng": 30.515552520751953,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.777374267578125,30.515552520751953",
+  "yandex_url": "https://yandex.com/maps/?text=TAC Odunpazarı Yabancı Dil Kursu&ll=30.515552520751953%2C39.777374267578125&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "47cc9fb3-6022-4c2e-9a6f-46e272c773b0",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "TSM korosu",
   "sektor": "egitim-kurs",
   "kategori": "egitim-kurs",
@@ -3508,6 +5067,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Tango Eskisehir",
+  "sektor": "egitim-kurs",
+  "kategori": "egitim-kurs",
+  "alt": "dans",
+  "hizmet_ipuclari": [
+   "dance_studio"
+  ],
+  "adres": "Bayrak Sk. Demir İş Merkezi No:6/2, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.tangoeskisehir.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.77865982055664,
+  "lng": 30.51535987854004,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.77865982055664,30.51535987854004",
+  "yandex_url": "https://yandex.com/maps/?text=Tango Eskisehir&ll=30.51535987854004%2C39.77865982055664&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "72b9a10f-34ed-4a4c-92f4-fdc7ed6f7fbb",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Tango Eskişehir",
   "sektor": "egitim-kurs",
   "kategori": "egitim-kurs",
@@ -3532,7 +5120,38 @@
   "fsq_id": "55fdd2cb498ef9c100062bda",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "c6a34c2a-ea3a-4515-93dc-923502970697",
+  "alt": "dans"
+ },
+ {
+  "ad": "Tasbasi Surucu Kursu",
+  "sektor": "egitim-kurs",
+  "kategori": "egitim-kurs",
+  "alt": "surucu-kursu",
+  "hizmet_ipuclari": [
+   "driving_school"
+  ],
+  "adres": "Emek Mahallesi, Ertaş Caddesi, Akpınar Sk. No:2, Odunpazarı",
+  "il": null,
+  "ilce": "Odunpazarı",
+  "mahalle": null,
+  "telefon": null,
+  "web": "tasbasisurucukursu.com",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.75754165649414,
+  "lng": 30.557783126831055,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.75754165649414,30.557783126831055",
+  "yandex_url": "https://yandex.com/maps/?text=Tasbasi Surucu Kursu&ll=30.557783126831055%2C39.75754165649414&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "9eb31ccd-8365-4954-9eb9-76bb56e19bc5",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Taşbaşı Sürücü Kursu",
@@ -3560,6 +5179,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Tek Yön Ehliyet Kursu",
+  "sektor": "egitim-kurs",
+  "kategori": "egitim-kurs",
+  "alt": "surucu-kursu",
+  "hizmet_ipuclari": [
+   "driving_school"
+  ],
+  "adres": "Demirciler Sk. No:38, Odunpazarı",
+  "il": null,
+  "ilce": "Odunpazarı",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.77336120605469,
+  "lng": 30.516592025756836,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.77336120605469,30.516592025756836",
+  "yandex_url": "https://yandex.com/maps/?text=Tek Yön Ehliyet Kursu&ll=30.516592025756836%2C39.77336120605469&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "3391591d-e062-4e0a-bf02-18ee94d8c4c5",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Tek Yön Sürücü Kursu",
@@ -3699,6 +5347,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Test İngilizce Dil Kursu",
+  "sektor": "egitim-kurs",
+  "kategori": "egitim-kurs",
+  "alt": "dil-kursu",
+  "hizmet_ipuclari": [
+   "language_school"
+  ],
+  "adres": "Adalar Sk. No:16, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": "(0222) 230 00 38",
+  "web": "http://www.testingilizcedilkursu.com",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.776241302490234,
+  "lng": 30.515703201293945,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.776241302490234,30.515703201293945",
+  "yandex_url": "https://yandex.com/maps/?text=Test İngilizce Dil Kursu&ll=30.515703201293945%2C39.776241302490234&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "d1229f28-30d3-4856-b88f-85009a21511b",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Testing Dil Kursu",
   "sektor": "egitim-kurs",
   "kategori": "egitim-kurs",
@@ -3810,7 +5487,9 @@
   "fsq_id": "50642288498ee7dbb7e80296",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "fda50a9f-efd7-4de5-ba2a-2de4be234bd2",
+  "alt": "dil-kursu"
  },
  {
   "ad": "Ulusal Sanatçılar Derneği",
@@ -3819,7 +5498,7 @@
   "hizmet_ipuclari": [
    "4f04b10d2fb6e1c99f3db0be"
   ],
-  "adres": "inhisar sokak",
+  "adres": "İnhisar Sokak 27, Odunpazarı",
   "il": null,
   "ilce": "Odunpazarı",
   "mahalle": null,
@@ -3837,7 +5516,9 @@
   "fsq_id": "58458fb5ea29b87010643416",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "0006bc1d-428e-467c-a8ee-869d93dbe045",
+  "alt": "muzik"
  },
  {
   "ad": "Uzman Sürücü Kursu",
@@ -3864,7 +5545,38 @@
   "fsq_id": "5092ad86e4b04510d46c12cf",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "66408e1b-5603-43ae-8b15-4aa09016ff05",
+  "alt": "surucu-kursu"
+ },
+ {
+  "ad": "Vilayet Psikoteknik Merkezi",
+  "sektor": "egitim-kurs",
+  "kategori": "egitim-kurs",
+  "alt": "surucu-kursu",
+  "hizmet_ipuclari": [
+   "driving_school"
+  ],
+  "adres": "Osmangazi Mahallesi Basın Şehitleri Caddesi No 117-a, Odunpazarı",
+  "il": null,
+  "ilce": "Odunpazarı",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://vilayetpsikoteknik.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.77351379394531,
+  "lng": 30.498130798339844,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.77351379394531,30.498130798339844",
+  "yandex_url": "https://yandex.com/maps/?text=Vilayet Psikoteknik Merkezi&ll=30.498130798339844%2C39.77351379394531&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "c6d8ee21-dc66-4650-b98c-f58f1043bb43",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Vilayet Sürücü Kursu",
@@ -3891,7 +5603,9 @@
   "fsq_id": "4fd34360e4b0211978ed745c",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "04f03fed-cb80-4309-a01f-31be952b07a5",
+  "alt": "surucu-kursu"
  },
  {
   "ad": "Viyola Odası",
@@ -3946,7 +5660,9 @@
   "fsq_id": "5df767f97758ba0008cdeeb0",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "165a758e-c777-4cc3-a859-1950d48c3cf5",
+  "alt": "dil-kursu"
  },
  {
   "ad": "Wimbledon Language Academy",
@@ -3973,7 +5689,38 @@
   "fsq_id": "53f1ad53498e067053ed5fff",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "165aaeff-a0a0-4bee-9e3c-481ef1de3fcd",
+  "alt": "dil-kursu"
+ },
+ {
+  "ad": "Winner Dj",
+  "sektor": "egitim-kurs",
+  "kategori": "egitim-kurs",
+  "alt": "muzik",
+  "hizmet_ipuclari": [
+   "music_school"
+  ],
+  "adres": "Binarsa İş Hanı, Tüt Sk. No:1, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.winnerdj.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.78361892700195,
+  "lng": 30.511526107788086,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.78361892700195,30.511526107788086",
+  "yandex_url": "https://yandex.com/maps/?text=Winner Dj&ll=30.511526107788086%2C39.78361892700195&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "eb643566-d524-4007-aa7e-27879e544825",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "YDS Academy",
@@ -4000,7 +5747,9 @@
   "fsq_id": "55df7064498e77ce67f03b54",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "eb4a8bf5-f4d6-4cc3-bbc2-016eb7e0b5e5",
+  "alt": "dil-kursu"
  },
  {
   "ad": "Yds Academy Eskişehir",
@@ -4082,6 +5831,122 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Yediler Src Psikoteknik Kursu",
+  "sektor": "egitim-kurs",
+  "kategori": "egitim-kurs",
+  "alt": "surucu-kursu",
+  "hizmet_ipuclari": [
+   "driving_school"
+  ],
+  "adres": "Zambak Sk. No:25, Odunpazarı",
+  "il": null,
+  "ilce": "Odunpazarı",
+  "mahalle": null,
+  "telefon": "(0222) 220 87 97",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.76869201660156,
+  "lng": 30.510305404663086,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.76869201660156,30.510305404663086",
+  "yandex_url": "https://yandex.com/maps/?text=Yediler Src Psikoteknik Kursu&ll=30.510305404663086%2C39.76869201660156&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "00af0ead-8d09-4abb-9663-a34a36b034ec",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Yediler Surucu Kursu",
+  "sektor": "egitim-kurs",
+  "kategori": "egitim-kurs",
+  "alt": "surucu-kursu",
+  "hizmet_ipuclari": [
+   "driving_school"
+  ],
+  "adres": "Demirciler Sk. No:37/1, Odunpazarı",
+  "il": null,
+  "ilce": "Odunpazarı",
+  "mahalle": null,
+  "telefon": "(0222) 220 41 42",
+  "web": "http://www.yedilersurucukursu.com.tr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.773193359375,
+  "lng": 30.51660919189453,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.773193359375,30.51660919189453",
+  "yandex_url": "https://yandex.com/maps/?text=Yediler Surucu Kursu&ll=30.51660919189453%2C39.773193359375&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "8261262d-2f25-4f22-984d-89c9f3282b79",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Yunusemre Ilköğretmen Okulu",
+  "sektor": "egitim-kurs",
+  "kategori": "egitim-kurs",
+  "alt": "etut",
+  "hizmet_ipuclari": [
+   "tutoring_service"
+  ],
+  "adres": "Mesudiye",
+  "il": null,
+  "ilce": "Mesudiye",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.569114685058594,
+  "lng": 30.917490005493164,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.569114685058594,30.917490005493164",
+  "yandex_url": "https://yandex.com/maps/?text=Yunusemre Ilköğretmen Okulu&ll=30.917490005493164%2C39.569114685058594&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "544c9746-5ec5-487f-8cba-1decf54c9e7f",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Zafer Altunkaya Sürücü Kursu Alpu",
+  "sektor": "egitim-kurs",
+  "kategori": "egitim-kurs",
+  "alt": "surucu-kursu",
+  "hizmet_ipuclari": [
+   "driving_school"
+  ],
+  "adres": "Mihalıççık Caddesi, Alpu",
+  "il": null,
+  "ilce": "Alpu",
+  "mahalle": null,
+  "telefon": "(0222) 511 20 22",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.76993942260742,
+  "lng": 30.960817337036133,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.76993942260742,30.960817337036133",
+  "yandex_url": "https://yandex.com/maps/?text=Zafer Altunkaya Sürücü Kursu Alpu&ll=30.960817337036133%2C39.76993942260742&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "9a3898d2-bc52-4406-b9bd-cc2b6e964e47",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "brıtıshtown english schools",
@@ -4216,7 +6081,9 @@
   "fsq_id": "562b5e0f498ee3e1c7fa01aa",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "baf3ab88-8e8f-4c80-ac40-57a73d14963e",
+  "alt": "dil-kursu"
  },
  {
   "ad": "japonca dersliği",
@@ -4486,7 +6353,9 @@
   "fsq_id": "4f463fffe4b07d8af3279b5e",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "c1187a2e-3819-4a05-9750-dd31f658264b",
+  "alt": "dil-kursu"
  },
  {
   "ad": "Önderdil language school",
@@ -4621,7 +6490,9 @@
   "fsq_id": "5173f0bb498efc18bcaa9d48",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "35a41711-81a2-44c3-bfd5-600002e3d989",
+  "alt": "surucu-kursu"
  },
  {
   "ad": "Özel Elit Sürücü Kursu",
@@ -4649,6 +6520,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Özel Er Sürücü Kursu",
+  "sektor": "egitim-kurs",
+  "kategori": "egitim-kurs",
+  "alt": "surucu-kursu",
+  "hizmet_ipuclari": [
+   "driving_school"
+  ],
+  "adres": "Asarcıklı Cd. NO : 10, Odunpazarı",
+  "il": null,
+  "ilce": "Odunpazarı",
+  "mahalle": null,
+  "telefon": "(0222) 231 04 02",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.77288818359375,
+  "lng": 30.52117156982422,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.77288818359375,30.52117156982422",
+  "yandex_url": "https://yandex.com/maps/?text=Özel Er Sürücü Kursu&ll=30.52117156982422%2C39.77288818359375&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "890aed92-7fa8-4403-8a5b-a69af5432734",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Özel Es Doğan Sürücü Kursu",
@@ -4710,6 +6610,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Özel Eskişehir Sevgi Umutları Özel Eğitim ve Rehabilitasyon Merkezi",
+  "sektor": "egitim-kurs",
+  "kategori": "egitim-kurs",
+  "alt": "etut",
+  "hizmet_ipuclari": [
+   "tutoring_service"
+  ],
+  "adres": "Odunpazarı",
+  "il": null,
+  "ilce": "Odunpazarı",
+  "mahalle": null,
+  "telefon": "(0222) 230 75 38",
+  "web": "http://www.ozelsevgi.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.74774169921875,
+  "lng": 30.574634552001953,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.74774169921875,30.574634552001953",
+  "yandex_url": "https://yandex.com/maps/?text=Özel Eskişehir Sevgi Umutları Özel Eğitim ve Rehabilitasyon Merkezi&ll=30.574634552001953%2C39.74774169921875&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "0a1cb580-89ae-4fbc-92dd-f9065280e6a2",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Özel Eskişehir Sürücü Kursu",
   "sektor": "egitim-kurs",
   "kategori": "egitim-kurs",
@@ -4735,6 +6664,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Özel Eskişehir Şan Akademi Müzik Kursu",
+  "sektor": "egitim-kurs",
+  "kategori": "egitim-kurs",
+  "alt": "muzik",
+  "hizmet_ipuclari": [
+   "music_school"
+  ],
+  "adres": "Postane Sk. no23, 26010, Odunpazarı",
+  "il": null,
+  "ilce": "Odunpazarı",
+  "mahalle": null,
+  "telefon": "(0222) 234 11 04",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.769527435302734,
+  "lng": 30.517902374267578,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.769527435302734,30.517902374267578",
+  "yandex_url": "https://yandex.com/maps/?text=Özel Eskişehir Şan Akademi Müzik Kursu&ll=30.517902374267578%2C39.769527435302734&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "e7708a21-024f-4f89-953c-996bbd87c8c6",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Özel Merkez Anadolu SRC Kursu",
@@ -4923,7 +6881,38 @@
   "fsq_id": "53aa9c85498ec87c425dbac2",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "e3435680-b28b-460c-9696-188d2f2d4a6a",
+  "alt": "surucu-kursu"
+ },
+ {
+  "ad": "Özel Çağdaş Sürücü Kursu Grup",
+  "sektor": "egitim-kurs",
+  "kategori": "egitim-kurs",
+  "alt": "surucu-kursu",
+  "hizmet_ipuclari": [
+   "driving_school"
+  ],
+  "adres": "Kıbrıs Şehitleri Cd. No:18, Odunpazarı",
+  "il": null,
+  "ilce": "Odunpazarı",
+  "mahalle": null,
+  "telefon": "(0222) 230 33 26",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.771427154541016,
+  "lng": 30.519418716430664,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.771427154541016,30.519418716430664",
+  "yandex_url": "https://yandex.com/maps/?text=Özel Çağdaş Sürücü Kursu Grup&ll=30.519418716430664%2C39.771427154541016&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "c10d1af0-a95b-47a5-8206-6e30828e2310",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Özel Şan Müzik Akademi",
@@ -4951,6 +6940,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Özeğitimci Driving Course",
+  "sektor": "egitim-kurs",
+  "kategori": "egitim-kurs",
+  "alt": "surucu-kursu",
+  "hizmet_ipuclari": [
+   "driving_school"
+  ],
+  "adres": "3 İş Merkezi, Necdet Çelik, Vardar Sk. No:2, Tepebaşı",
+  "il": null,
+  "ilce": "Tepebaşı",
+  "mahalle": null,
+  "telefon": "(0222) 230 92 52",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.77775192260742,
+  "lng": 30.517187118530273,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.77775192260742,30.517187118530273",
+  "yandex_url": "https://yandex.com/maps/?text=Özeğitimci Driving Course&ll=30.517187118530273%2C39.77775192260742&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "9d0438b9-3a54-4230-93cc-aac202ad0372",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Öööööö",
@@ -4991,7 +7009,7 @@
   "ilce": "Odunpazarı",
   "mahalle": null,
   "telefon": "(0222) 220 21 41",
-  "web": null,
+  "web": "http://www.eskisehirogretmensurucukursu.com/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -5004,7 +7022,9 @@
   "fsq_id": "51f8f0a4498e95720fe9bfa5",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "6d80570a-6ee0-485e-a126-c579176f63b9",
+  "alt": "surucu-kursu"
  },
  {
   "ad": "özel önderdil lisesi",

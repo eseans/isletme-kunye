@@ -784,6 +784,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "8 Nolu Aile Sağlığı Merkezi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Çermen Cd., Lüleburgaz",
+  "il": null,
+  "ilce": "Lüleburgaz",
+  "mahalle": null,
+  "telefon": "(0288) 412 71 06",
+  "web": "http://www.luleburgaz8noluasm.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.39960861206055,
+  "lng": 27.366989135742188,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.39960861206055,27.366989135742188",
+  "yandex_url": "https://yandex.com/maps/?text=8 Nolu Aile Sağlığı Merkezi&ll=27.366989135742188%2C41.39960861206055&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "aaddb825-61a9-4943-af21-cb9b9634cd1c",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "8 Nolu Sağlık Ocağı",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -1159,7 +1188,9 @@
   "fsq_id": "5cbd5f928ad62e002c149412",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "1710fdf9-5e39-4e33-9c01-b4ccb2446ded",
+  "alt": "muayenehane"
  },
  {
   "ad": "Alliance Healthcare Ecza Deposu A.Ş",
@@ -1351,6 +1382,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Armoral Probiyotik Ağız Bakım Şurubu",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Sezer Sokak 4, Lüleburgaz",
+  "il": null,
+  "ilce": "Lüleburgaz",
+  "mahalle": null,
+  "telefon": "(0850) 420 30 60",
+  "web": "http://armoral.com.tr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.39314651489258,
+  "lng": 27.363319396972656,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.39314651489258,27.363319396972656",
+  "yandex_url": "https://yandex.com/maps/?text=Armoral Probiyotik Ağız Bakım Şurubu&ll=27.363319396972656%2C41.39314651489258&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "38ad93cc-e890-44ca-b76a-579cef6e8893",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Arti Medikal",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -1376,6 +1436,64 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Arımed İlaç",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Vize Caddesi 45, Vize",
+  "il": null,
+  "ilce": "Vize",
+  "mahalle": null,
+  "telefon": "(0212) 295 53 54",
+  "web": "http://www.arimedilac.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.51198959350586,
+  "lng": 27.873830795288086,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.51198959350586,27.873830795288086",
+  "yandex_url": "https://yandex.com/maps/?text=Arımed İlaç&ll=27.873830795288086%2C41.51198959350586&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "f823daec-680e-46c1-b99f-f316629ab2e2",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Arımed İlaç Sanayi ve Ticaret A.Ş",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Cumhuriyet mah. Vize Cad. Sanayi Bölgesi, Cakıllı",
+  "il": null,
+  "ilce": "Cakıllı",
+  "mahalle": null,
+  "telefon": "(0288) 358 79 01",
+  "web": "http://www.arimedilac.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.517799377441406,
+  "lng": 27.86294174194336,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.517799377441406,27.86294174194336",
+  "yandex_url": "https://yandex.com/maps/?text=Arımed İlaç Sanayi ve Ticaret A.Ş&ll=27.86294174194336%2C41.517799377441406&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "e8515092-e7c4-4344-b37a-9d9eac9a897a",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "At",
@@ -1919,6 +2037,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Babaeski Devlet Hastanesi 304Oda",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Babaeski Edirne Yol, Babaeski",
+  "il": null,
+  "ilce": "Babaeski",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.428749084472656,
+  "lng": 27.09726333618164,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.428749084472656,27.09726333618164",
+  "yandex_url": "https://yandex.com/maps/?text=Babaeski Devlet Hastanesi 304Oda&ll=27.09726333618164%2C41.428749084472656&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "b7632342-5313-405d-8144-cd1783554754",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Babaeski Devlet Hastanesi Kan Merkezi & Laboratuvar",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -2108,6 +2255,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Balkan Elektrik",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Kirklareli",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.73731994628906,
+  "lng": 27.225021362304688,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.73731994628906,27.225021362304688",
+  "yandex_url": "https://yandex.com/maps/?text=Balkan Elektrik&ll=27.225021362304688%2C41.73731994628906&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "46de4f8a-5edb-49b2-997e-cc920534a767",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Balkan Onkoloji Hastanesi",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -2294,7 +2470,9 @@
   "fsq_id": "5d3aa40d4cf7fb000814fbe8",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "90d78069-cbd3-4321-9e4c-ae688c407a16",
+  "alt": "muayenehane"
  },
  {
   "ad": "Beyin Ve Sinir Cerrahisi",
@@ -2538,6 +2716,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Buhara Aktar",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Oğuz Turan Sokak 10",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.73137664794922,
+  "lng": 27.22693634033203,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.73137664794922,27.22693634033203",
+  "yandex_url": "https://yandex.com/maps/?text=Buhara Aktar&ll=27.22693634033203%2C41.73137664794922&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "6e8c2d6d-104c-4736-b5eb-59e383bfdcb4",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Büyük Mandıra Sağlık Ocağı",
@@ -3982,8 +4189,8 @@
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
-  "web": null,
+  "telefon": "(0288) 212 12 21",
+  "web": "http://www.diyetisyenesracaliskan.com/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -3996,7 +4203,8 @@
   "fsq_id": "60181b85770b9b343641ebd5",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "9df8f5d0-6bea-40cb-8b6a-c1258ebe6270"
  },
  {
   "ad": "Diyetisyen",
@@ -4242,6 +4450,64 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Dr MAT Clinic - Op Dr Mehmet Akgün Tepeli",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Ayvalı Sokak 4, Lüleburgaz",
+  "il": null,
+  "ilce": "Lüleburgaz",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://drmehmetakguntepeli.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.410606384277344,
+  "lng": 27.34843635559082,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.410606384277344,27.34843635559082",
+  "yandex_url": "https://yandex.com/maps/?text=Dr MAT Clinic - Op Dr Mehmet Akgün Tepeli&ll=27.34843635559082%2C41.410606384277344&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "6329d235-ee7b-4ac4-9fbe-2669b54a59fe",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Dr MAT Clinic - Op. Dr. Mehmet Akgün Tepeli ",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Ayvalı Köy Yolu Küme Evler 3, Lüleburgaz",
+  "il": null,
+  "ilce": "Lüleburgaz",
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://drmehmetakguntepeli.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.410911560058594,
+  "lng": 27.334598541259766,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.410911560058594,27.334598541259766",
+  "yandex_url": "https://yandex.com/maps/?text=Dr MAT Clinic - Op. Dr. Mehmet Akgün Tepeli &ll=27.334598541259766%2C41.410911560058594&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "1cf3191c-ae42-4fc7-b0b6-107776bcbaa4",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Dr. Ertan BEYATLI",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -4271,7 +4537,96 @@
   "fsq_id": "61366bcef0d09a14accdb985",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "0adfa5ed-b9a6-4d8e-bcbb-e7b5b3512bc5",
+  "alt": "muayenehane"
+ },
+ {
+  "ad": "Dr. Murat Ayata  Rhinoplasty & ENT Surgeon",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": null,
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.muratayata.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.72928237915039,
+  "lng": 27.217758178710938,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.72928237915039,27.217758178710938",
+  "yandex_url": "https://yandex.com/maps/?text=Dr. Murat Ayata  Rhinoplasty & ENT Surgeon&ll=27.217758178710938%2C41.72928237915039&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "75380b04-1250-4264-9c21-1061ff506af1",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Dr. Zuhal Tarcan",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Cumhuriyet Meydanı No:13 D:3",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0288) 212 50 58",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.73533630371094,
+  "lng": 27.223886489868164,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.73533630371094,27.223886489868164",
+  "yandex_url": "https://yandex.com/maps/?text=Dr. Zuhal Tarcan&ll=27.223886489868164%2C41.73533630371094&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "1e9d753c-9038-4eaa-ae55-5623a368c7f1",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Dt. Nilsu Düzen",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Cumhuriyet cad, Karakaş Bey Sk. No:1/1",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0288) 214 13 45",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.7346305847168,
+  "lng": 27.22330093383789,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.7346305847168,27.22330093383789",
+  "yandex_url": "https://yandex.com/maps/?text=Dt. Nilsu Düzen&ll=27.22330093383789%2C41.7346305847168&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "42253de4-003d-4042-afc7-51a33ccb8993",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Durak Mahallesi Sağlın Ocağı",
@@ -4569,6 +4924,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Emrecan Eren Butik Diş Kliniği",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Hazal Sk. No:44/A, Lüleburgaz",
+  "il": null,
+  "ilce": "Lüleburgaz",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.39017868041992,
+  "lng": 27.359615325927734,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.39017868041992,27.359615325927734",
+  "yandex_url": "https://yandex.com/maps/?text=Emrecan Eren Butik Diş Kliniği&ll=27.359615325927734%2C41.39017868041992&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "82325bb6-4c14-40ad-8dce-93a9e13d7d3a",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Emt Özel Ambulans Hızmetlerı Lüleburgaz",
@@ -4920,7 +5304,9 @@
   "fsq_id": "54ddf55c498e358e58bae8d9",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "47bda325-32e1-4267-a80b-34b36e67683b",
+  "alt": "muayenehane"
  },
  {
   "ad": "Fizik Tedavi ve Rehabilitasyon Servisi",
@@ -4962,7 +5348,7 @@
   "ilce": "Lüleburgaz",
   "mahalle": null,
   "telefon": null,
-  "web": null,
+  "web": "https://m.youtube.com/channel/UCcvLfW9u-hxSlLY2zcCtWmg/videos",
   "sosyal": [
    {
     "tur": "instagram",
@@ -4980,7 +5366,8 @@
   "fsq_id": "638dac7eca6fde5bd91612b4",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "3fe5e4c5-2bab-41b2-9d0c-7ef51f8db3f9"
  },
  {
   "ad": "Form-da Beslenme Danışmanlık Merkezi & Power Plate Stüdyo",
@@ -5007,7 +5394,9 @@
   "fsq_id": "5166b436e4b0bde599971e3d",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "826640e2-3168-4455-b5cf-ada54cc9443c",
+  "alt": "muayenehane"
  },
  {
   "ad": "Formda",
@@ -5361,6 +5750,64 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Günebakan Aile Sağlığı Merkezi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Malkara Cd. 56B, Hayrabolu",
+  "il": null,
+  "ilce": "Hayrabolu",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.21163558959961,
+  "lng": 27.105009078979492,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.21163558959961,27.105009078979492",
+  "yandex_url": "https://yandex.com/maps/?text=Günebakan Aile Sağlığı Merkezi&ll=27.105009078979492%2C41.21163558959961&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "2b81b977-a8af-447c-8793-171178e488a1",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Hakan Medikal  Ortopedi mlz. ve İşitme Chz.Satış Uygulama Merkezi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Hastane Caddesi",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.739200592041016,
+  "lng": 27.21687889099121,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.739200592041016,27.21687889099121",
+  "yandex_url": "https://yandex.com/maps/?text=Hakan Medikal  Ortopedi mlz. ve İşitme Chz.Satış Uygulama Merkezi&ll=27.21687889099121%2C41.739200592041016&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "56f55677-e6fa-45e2-b625-24e873d35d95",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Hakan Çakal Veteriner Kliniği",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -5709,7 +6156,8 @@
   "fsq_id": "523ab78011d2a76917f4dcad",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "abd232be-f877-4fff-80ba-cb64add1b171"
  },
  {
   "ad": "Hürbay Hoca' nın Yeri",
@@ -7170,7 +7618,9 @@
   "fsq_id": "58b5685eda54ae032096d393",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "61639199-ef24-46d6-8a57-bc88519a4f6f",
+  "alt": "muayenehane"
  },
  {
   "ad": "Kırklareli Devlet Hastanesi Acil Servisi",
@@ -8576,6 +9026,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Luleburgaz Beslenme ve Diyet Danismanligi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "YILDIZ MAHALLESİ MEHMET, Mehmet Salih Arı Cd NO:19A, Lüleburgaz",
+  "il": null,
+  "ilce": "Lüleburgaz",
+  "mahalle": null,
+  "telefon": "(0288) 502 10 50",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.400386810302734,
+  "lng": 27.36406898498535,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.400386810302734,27.36406898498535",
+  "yandex_url": "https://yandex.com/maps/?text=Luleburgaz Beslenme ve Diyet Danismanligi&ll=27.36406898498535%2C41.400386810302734&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "eb44082d-afe1-4773-8de2-ce7801372b22",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Luleburgaz Devlet Hastanesi Psikiyatri Polikliniği",
@@ -10141,7 +10620,9 @@
   "fsq_id": "4d4fbbc971548cfaa4dc079a",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "eaf7db15-dcee-44dc-b75e-87db60acf1cf",
+  "alt": "muayenehane"
  },
  {
   "ad": "Lüleburgaz Medikent Hastanesi",
@@ -10286,11 +10767,11 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d177941735"
   ],
-  "adres": "YILDIZ Mah",
+  "adres": "Çermen Caddesi 3, Lüleburgaz",
   "il": null,
   "ilce": "Lüleburgaz",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0288) 413 12 88",
   "web": "http://www.luleburgaztipmerkezi.com.tr",
   "sosyal": [],
   "calisma_saatleri": null,
@@ -10304,7 +10785,9 @@
   "fsq_id": "53983364498e2320d47676dc",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "d5040c7f-5cd4-4098-b835-f05ad34673ce",
+  "alt": "muayenehane"
  },
  {
   "ad": "Lüleburgaz Tıp Merkezi Radyoloji Polikliniği ( Uzm. Dr. Mustafa Gül )",
@@ -10550,6 +11033,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "MARKA işitme cihazları",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Özerler Mah, Lüleburgaz",
+  "il": null,
+  "ilce": "Lüleburgaz",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.40708923339844,
+  "lng": 27.354406356811523,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.40708923339844,27.354406356811523",
+  "yandex_url": "https://yandex.com/maps/?text=MARKA işitme cihazları&ll=27.354406356811523%2C41.40708923339844&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "9ba606d1-5c42-4580-8a0a-6477d50b9b49",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Maga Acil Servis",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -10629,6 +11141,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Medica Diş Kliniği",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "100. Yıl Cd.",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.medicadisklinigi.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.73561477661133,
+  "lng": 27.219058990478516,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.73561477661133,27.219058990478516",
+  "yandex_url": "https://yandex.com/maps/?text=Medica Diş Kliniği&ll=27.219058990478516%2C41.73561477661133&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "3ae4320c-0e4f-420c-9e55-6c3dec157f6b",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Medical Park Hospital",
@@ -11439,7 +11980,8 @@
   "fsq_id": "51b1e27d498efea94ac3f2aa",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "1d747c90-ea11-4821-87ea-9253c05b2126"
  },
  {
   "ad": "Müşahede (gözlem odası)",
@@ -11523,6 +12065,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "NUGA BEST Kırklareli",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Dere Üstü Otogar Karşısı",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.73772048950195,
+  "lng": 27.226770401000977,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.73772048950195,27.226770401000977",
+  "yandex_url": "https://yandex.com/maps/?text=NUGA BEST Kırklareli&ll=27.226770401000977%2C41.73772048950195&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "73b2ad20-3ec5-4381-a5b4-7944740c8d05",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "New Holland P.hisar Yetkili Servis",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -11575,6 +12146,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Nolu Sağlık Ocağı",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Lüleburgaz",
+  "il": null,
+  "ilce": "Lüleburgaz",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.40043258666992,
+  "lng": 27.35036277770996,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.40043258666992,27.35036277770996",
+  "yandex_url": "https://yandex.com/maps/?text=Nolu Sağlık Ocağı&ll=27.35036277770996%2C41.40043258666992&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "987d9ccd-c49d-4795-a6be-0e1c1f1977e7",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Nuga Best Medikal",
@@ -11631,6 +12231,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Nukleer Tıp Birimi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Sungurbey Caddesi 2",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0288) 000 00 00",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.736331939697266,
+  "lng": 27.217445373535156,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.736331939697266,27.217445373535156",
+  "yandex_url": "https://yandex.com/maps/?text=Nukleer Tıp Birimi&ll=27.217445373535156%2C41.736331939697266&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "f54c4fc9-01b9-44b3-8dc3-2f9c7d117b9a",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "NÜKLEER TIP",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -11683,6 +12312,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Op.Dr. Murat Ayata",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": null,
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0288) 502 50 20",
+  "web": "http://www.muratayata.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.729469299316406,
+  "lng": 27.22037696838379,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.729469299316406,27.22037696838379",
+  "yandex_url": "https://yandex.com/maps/?text=Op.Dr. Murat Ayata&ll=27.22037696838379%2C41.729469299316406&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "63c3ed71-9570-4907-bf9a-511bfae61d46",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Orta Peti Ali Ata",
@@ -11820,6 +12478,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Ozel Derman Diyaliz Merkezi Luleburgaz",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "D-565, Lüleburgaz",
+  "il": null,
+  "ilce": "Lüleburgaz",
+  "mahalle": null,
+  "telefon": "(0288) 417 07 07",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.44166564941406,
+  "lng": 27.599496841430664,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.44166564941406,27.599496841430664",
+  "yandex_url": "https://yandex.com/maps/?text=Ozel Derman Diyaliz Merkezi Luleburgaz&ll=27.599496841430664%2C41.44166564941406&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "33685f0a-d545-4dfb-b5fa-3831692950ec",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Ozel Derman Dıyalız",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -11845,6 +12532,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Ozel Dr. Siyami Ersek Gogus Kalp Ve Damar Cerrahisi Arastırma Hastanesi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "\"Istanbul Avm, İstasyon Caddesi 72\", Lüleburgaz",
+  "il": null,
+  "ilce": "Lüleburgaz",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.45906448364258,
+  "lng": 27.38820457458496,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.45906448364258,27.38820457458496",
+  "yandex_url": "https://yandex.com/maps/?text=Ozel Dr. Siyami Ersek Gogus Kalp Ve Damar Cerrahisi Arastırma Hastanesi&ll=27.38820457458496%2C41.45906448364258&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "cedb4d98-defb-4a80-956c-c9ad117768b8",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Ozel Genç Dishekimligi",
@@ -12008,6 +12724,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Protec 20",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Karakaş Bey Sokak 1/1",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.ersagsaglik.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.73592758178711,
+  "lng": 27.22467041015625,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.73592758178711,27.22467041015625",
+  "yandex_url": "https://yandex.com/maps/?text=Protec 20&ll=27.22467041015625%2C41.73592758178711&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "33c73dec-149b-4118-be28-c4c1c33db6d5",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Pınarhisar 2 No'lu ASHİ",
@@ -12631,6 +13376,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Sattvik Organics - Türkiye",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Okullar Caddesi 2/2, Lüleburgaz",
+  "il": null,
+  "ilce": "Lüleburgaz",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.sattvikturkiye.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.4051399230957,
+  "lng": 27.352222442626953,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.4051399230957,27.352222442626953",
+  "yandex_url": "https://yandex.com/maps/?text=Sattvik Organics - Türkiye&ll=27.352222442626953%2C41.4051399230957&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "92cb7886-d182-446e-a6df-52b570348c00",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Satın Alma",
@@ -13563,7 +14337,7 @@
   "ilce": null,
   "mahalle": null,
   "telefon": "(0288) 453 55 55",
-  "web": null,
+  "web": "http://www.turgutbeyasm.com/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -13576,7 +14350,9 @@
   "fsq_id": "51041ff472dad8b749fefdef",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "161b56aa-b945-4c46-b891-57f87752acd0",
+  "alt": "muayenehane"
  },
  {
   "ad": "Uzköprü Devlet Hastanesi",
@@ -13604,6 +14380,64 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Uzm. Dr. Kağan Cingöz | Dermatoloji Muayenehanesi – Kırklareli",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "dermatoloji",
+  "hizmet_ipuclari": [
+   "dermatology"
+  ],
+  "adres": "Edirne Cd. no:102",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.drkagancingoz.com/bg",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.720237731933594,
+  "lng": 27.205669403076172,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.720237731933594,27.205669403076172",
+  "yandex_url": "https://yandex.com/maps/?text=Uzm. Dr. Kağan Cingöz | Dermatoloji Muayenehanesi – Kırklareli&ll=27.205669403076172%2C41.720237731933594&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "e09c580c-bb80-4690-9689-9371330be28d",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Uzm. Dr. Mesut Gürel",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "İstasyon Cd. No:20/1, Lüleburgaz",
+  "il": null,
+  "ilce": "Lüleburgaz",
+  "mahalle": null,
+  "telefon": "(0850) 333 83 44",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.40459060668945,
+  "lng": 27.355751037597656,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.40459060668945,27.355751037597656",
+  "yandex_url": "https://yandex.com/maps/?text=Uzm. Dr. Mesut Gürel&ll=27.355751037597656%2C41.40459060668945&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "3cab7f3b-6c56-41e0-b8be-445126437c2c",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Uzm. Dyt. Tuğçe Nur Toku",
@@ -13636,6 +14470,64 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Vega Diş Kliniği",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Murat Hüdavendigar Cd. no:86 kat:1, Lüleburgaz",
+  "il": null,
+  "ilce": "Lüleburgaz",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.401763916015625,
+  "lng": 27.35651969909668,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.401763916015625,27.35651969909668",
+  "yandex_url": "https://yandex.com/maps/?text=Vega Diş Kliniği&ll=27.35651969909668%2C41.401763916015625&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "e892e034-1f07-4d00-a698-818bbc3e0b4c",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Vize 1 nolu ASM",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Eski devlet hastanesi ziraat bahçe sok no:1, Vize",
+  "il": null,
+  "ilce": "Vize",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.570491790771484,
+  "lng": 27.767860412597656,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.570491790771484,27.767860412597656",
+  "yandex_url": "https://yandex.com/maps/?text=Vize 1 nolu ASM&ll=27.767860412597656%2C41.570491790771484&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "32693efb-9c56-4c22-9aeb-797379db123e",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Vize 1 nolu Aile Sağlığı Merkezi",
@@ -13933,6 +14825,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Welltures Kırklareli",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Bademlik Mah. Hastane Cad.",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.73974609375,
+  "lng": 27.216838836669922,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.73974609375,27.216838836669922",
+  "yandex_url": "https://yandex.com/maps/?text=Welltures Kırklareli&ll=27.216838836669922%2C41.73974609375&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "06a472d8-3742-4ac7-872c-de1924e18b0c",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Yaşar Eczanesi",
@@ -14284,7 +15205,8 @@
   "fsq_id": "57f4bd9a498e2b470fd7aa67",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "9d281425-6afd-4087-b9bc-acc5f892ec87"
  },
  {
   "ad": "demirköy devlet hastahanesi",
@@ -16316,6 +17238,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Özel Balkan Hastanesi Artroskopik Cerrahi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Lüleburgaz - Edirne Yolu Üzeri Ayvalı Köyü Sapağı, Lüleburgaz",
+  "il": null,
+  "ilce": "Lüleburgaz",
+  "mahalle": null,
+  "telefon": "(0288) 417 07 07",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.4048957824707,
+  "lng": 27.329238891601562,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.4048957824707,27.329238891601562",
+  "yandex_url": "https://yandex.com/maps/?text=Özel Balkan Hastanesi Artroskopik Cerrahi&ll=27.329238891601562%2C41.4048957824707&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "1fd45e0e-ea64-4709-b693-7e2cb27c4666",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Özel Balkan Hastanesi Cerrahi Servis",

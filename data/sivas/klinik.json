@@ -324,6 +324,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "A Life Hospital Sivas",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "4. Sokak",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.alifehospital.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.730926513671875,
+  "lng": 37.00053024291992,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.730926513671875,37.00053024291992",
+  "yandex_url": "https://yandex.com/maps/?text=A Life Hospital Sivas&ll=37.00053024291992%2C39.730926513671875&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "a21fe34c-c72f-4d40-bff7-452a178e4fd5",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "A Life Park Hospital Sivas",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -947,7 +976,9 @@
   "fsq_id": "58aea3b39850a03cfb0988c4",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "7318a608-17c5-4bed-960a-36f053f2967a",
+  "alt": "muayenehane"
  },
  {
   "ad": "Açsap",
@@ -2438,6 +2469,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "DR.burak yeni",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "İsmail Güneş Caddesi 4",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.72666549682617,
+  "lng": 37.05453109741211,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.72666549682617,37.05453109741211",
+  "yandex_url": "https://yandex.com/maps/?text=DR.burak yeni&ll=37.05453109741211%2C39.72666549682617&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "d50ca416-3013-4c17-9520-af6f8eaca611",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Deli Olmak Üzere",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -2517,6 +2577,64 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Dent Bağdat Ağız ve Diş Sağlığı Polikliniği",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Bağdat Office, Bağdat Cd. No:29A",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.73342514038086,
+  "lng": 37.03630447387695,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.73342514038086,37.03630447387695",
+  "yandex_url": "https://yandex.com/maps/?text=Dent Bağdat Ağız ve Diş Sağlığı Polikliniği&ll=37.03630447387695%2C39.73342514038086&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "4fb0bdc6-90fb-4365-b2c4-a9f246666ffc",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "DentSivas Ozel Dis Poliklinigi ve Implant Merkezi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Şifahiye Sk. No: 13/A",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0346) 224 29 43",
+  "web": "https://www.doktortakvimi.com/muhammed-isa-kara/agiz-dis-ve-cene-cerrahisi-dis-hekimi/sivas",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.74777603149414,
+  "lng": 37.014469146728516,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.74777603149414,37.014469146728516",
+  "yandex_url": "https://yandex.com/maps/?text=DentSivas Ozel Dis Poliklinigi ve Implant Merkezi&ll=37.014469146728516%2C39.74777603149414&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "14e60111-1641-4f45-a548-a70bd13be568",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Derman Tıp Merkezi",
@@ -2763,6 +2881,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Doç Dr Neşe Kurt Özkaya",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Sivas Medicana Hastanesi",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0346) 215 05 55",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.75556564331055,
+  "lng": 37.00875473022461,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.75556564331055,37.00875473022461",
+  "yandex_url": "https://yandex.com/maps/?text=Doç Dr Neşe Kurt Özkaya&ll=37.00875473022461%2C39.75556564331055&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "60fcf506-a04c-4f50-a76a-9e92bb4f7cf0",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Doğanşar Devlet Hastanesi Acil Servis",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -2952,6 +3099,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Dr.Bahadır ÖZEN Özel Muayenehanesi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "68. Sokak 1",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.75025177001953,
+  "lng": 37.01721954345703,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.75025177001953,37.01721954345703",
+  "yandex_url": "https://yandex.com/maps/?text=Dr.Bahadır ÖZEN Özel Muayenehanesi&ll=37.01721954345703%2C39.75025177001953&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "5d6629f3-5f41-4c79-857b-b954c37b47dd",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Dt. Rabia TEBER DURNA Muayenehanesi",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -3005,6 +3181,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "EYÜP CULHA",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Recep Tayyip Erdoğan Bulvarı 36, Haliliye",
+  "il": null,
+  "ilce": "Haliliye",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.73762893676758,
+  "lng": 37.0182991027832,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.73762893676758,37.0182991027832",
+  "yandex_url": "https://yandex.com/maps/?text=EYÜP CULHA&ll=37.0182991027832%2C39.73762893676758&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "9e67dda6-22fb-40f0-beeb-a643fd560926",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Eczanem",
@@ -3086,6 +3291,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Estaş Eldiven & Gloves",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Halis Vermezoğlu Caddesi 57",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0346) 218 12 20",
+  "web": "https://www.estaseldiven.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.78268814086914,
+  "lng": 37.087825775146484,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.78268814086914,37.087825775146484",
+  "yandex_url": "https://yandex.com/maps/?text=Estaş Eldiven & Gloves&ll=37.087825775146484%2C39.78268814086914&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "67f209d9-c7b7-4e10-99de-7f7dbd5894ea",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Evciler Öz Evrensel Medikal",
@@ -3304,6 +3538,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "FimaDental",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Bankalar Caddesi 3",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0346) 221 19 79",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.7487678527832,
+  "lng": 37.01061248779297,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.7487678527832,37.01061248779297",
+  "yandex_url": "https://yandex.com/maps/?text=FimaDental&ll=37.01061248779297%2C39.7487678527832&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "81085e75-ef0e-45c3-b7f5-5890324e8f52",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Fizik Tedavi Rehabilitasyon Merkezi",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -3356,6 +3619,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "G Therapy Sivas - Fizik Tedavi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Kerim Çavuş Caddesi 16",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.74814987182617,
+  "lng": 37.02052688598633,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.74814987182617,37.02052688598633",
+  "yandex_url": "https://yandex.com/maps/?text=G Therapy Sivas - Fizik Tedavi&ll=37.02052688598633%2C39.74814987182617&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "290c84d9-62bf-41fe-bd1b-99b16e2f2e4f",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "GRİPLE SAVAŞ VE MÜCADELE VAKFI",
@@ -4034,6 +4326,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Hedef Grup Sağlik Eğitim Danişmanlik Hiz.ilk Yardim Eğitici Eğitim Merkezi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Hikmet Işık Caddesi 47F",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.hedefilkyardim.com.tr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.75170135498047,
+  "lng": 37.01692581176758,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.75170135498047,37.01692581176758",
+  "yandex_url": "https://yandex.com/maps/?text=Hedef Grup Sağlik Eğitim Danişmanlik Hiz.ilk Yardim Eğitici Eğitim Merkezi&ll=37.01692581176758%2C39.75170135498047&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "d52867e3-5c57-40ef-bc42-4c74bf2afb84",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Hemodiyaliz",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -4150,7 +4471,7 @@
    "4bf58dd8d48988d177941735",
    "4bf58dd8d48988d196941735"
   ],
-  "adres": null,
+  "adres": "Kadıburhanettin mahallesi Demiryolu caddesi, 54-Stadyum Sk. No:3/1",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -4168,7 +4489,9 @@
   "fsq_id": "507d3e3be4b08f6ce4912c6f",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "8a362caa-95e7-44ca-af4e-f4850d4cf029",
+  "alt": "muayenehane"
  },
  {
   "ad": "Kadıburhaneddin Aile Sağlığı Merkezi",
@@ -4681,7 +5004,8 @@
   "fsq_id": "54f025e0498e6903beef81d4",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "1b42dae6-4768-4e0b-abee-80ed7064db77"
  },
  {
   "ad": "Kordiyoloji Bolumu",
@@ -4926,6 +5250,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "L&S Medikal",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Şifa Caddesi 25A",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.74232482910156,
+  "lng": 37.03916931152344,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.74232482910156,37.03916931152344",
+  "yandex_url": "https://yandex.com/maps/?text=L&S Medikal&ll=37.03916931152344%2C39.74232482910156&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "04b6d1fe-d1e0-4d7d-a326-15f6ec5d0189",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "May İşitme Cihazları | Sivas Şube",
@@ -6637,6 +6990,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Op. Dr. Burak Durmaz",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "İnönü Bulvarı 42f",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.drburakdurmaz.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.746517181396484,
+  "lng": 37.01200866699219,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.746517181396484,37.01200866699219",
+  "yandex_url": "https://yandex.com/maps/?text=Op. Dr. Burak Durmaz&ll=37.01200866699219%2C39.746517181396484&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "c2a9515e-1687-4833-aaf8-341996633e8b",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Op. Dr. Ömer Kati",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -6716,6 +7098,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Orhangazi Aile Sağlığı Merkezi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Aşık Veysel Bulvarı 5",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.76170349121094,
+  "lng": 37.026329040527344,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.76170349121094,37.026329040527344",
+  "yandex_url": "https://yandex.com/maps/?text=Orhangazi Aile Sağlığı Merkezi&ll=37.026329040527344%2C39.76170349121094&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "404270db-2481-4944-b336-4dca0399311d",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "OrtezProtez",
@@ -6881,6 +7292,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "PRP Tüp Merkezi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Türkiye ",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.750389099121094,
+  "lng": 37.017295837402344,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.750389099121094,37.017295837402344",
+  "yandex_url": "https://yandex.com/maps/?text=PRP Tüp Merkezi&ll=37.017295837402344%2C39.750389099121094&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "fe3df6d0-4393-472e-967d-99bbe8349aaf",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Pamira Güzellik ve Cilt  Bakım Merkezi",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -7016,6 +7456,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Prof. Dr. Sinan Soylu",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Cumhuriyet Üniversitesi",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.709564208984375,
+  "lng": 37.03214645385742,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.709564208984375,37.03214645385742",
+  "yandex_url": "https://yandex.com/maps/?text=Prof. Dr. Sinan Soylu&ll=37.03214645385742%2C39.709564208984375&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "ea863c19-b1b0-4c03-a4fc-d80258cae8d6",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Psikoakademi",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -7054,7 +7523,7 @@
   "ilce": null,
   "mahalle": null,
   "telefon": null,
-  "web": null,
+  "web": "http://www.pusulapsikoloji.com.tr/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -7067,7 +7536,9 @@
   "fsq_id": "5aa7af9dccad6b7633cd46ba",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "c55754e3-f543-4f3f-a83f-da5c3edc4ead",
+  "alt": "muayenehane"
  },
  {
   "ad": "Radyasyon Onkolojisi",
@@ -7962,6 +8433,64 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Sivas Akupunktur",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "İnönü Bulvarı 36",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.748390197753906,
+  "lng": 37.01308059692383,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.748390197753906,37.01308059692383",
+  "yandex_url": "https://yandex.com/maps/?text=Sivas Akupunktur&ll=37.01308059692383%2C39.748390197753906&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "6328c25c-f3e0-45de-bfe3-8809bd2366c1",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Sivas Akupunktur",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "İnönü Bulvarı 36",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.747215270996094,
+  "lng": 37.02237319946289,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.747215270996094,37.02237319946289",
+  "yandex_url": "https://yandex.com/maps/?text=Sivas Akupunktur&ll=37.02237319946289%2C39.747215270996094&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "0a5787bb-e9dd-4226-8bb0-db7baef3cfe5",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Sivas Asker Hastanesi",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -8232,6 +8761,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Sivas Devlet Hastanesi Ameliyathanesi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "İstasyon Cad, Altınyayla",
+  "il": null,
+  "ilce": "Altınyayla",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.27455139160156,
+  "lng": 36.74933624267578,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.27455139160156,36.74933624267578",
+  "yandex_url": "https://yandex.com/maps/?text=Sivas Devlet Hastanesi Ameliyathanesi&ll=36.74933624267578%2C39.27455139160156&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "25f165d2-3bc3-4d3e-a607-8292680a5633",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Sivas Devlet Hastanesi Dahiliye Servisi",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -8445,7 +9003,9 @@
   "fsq_id": "57f36198498e333640ba1861",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "64be2396-36c7-4c2a-8472-b286e6b5b1a1",
+  "alt": "muayenehane"
  },
  {
   "ad": "Sivas Gürün 1 Nolu ASHİ",
@@ -8931,7 +9491,9 @@
   "fsq_id": "56963b87498ebe5e95dcac67",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "ff623980-ef5a-4e3c-bb85-4afb0e4260c3",
+  "alt": "muayenehane"
  },
  {
   "ad": "Sivas Numune Hastanesi Göz Servisi",
@@ -9339,6 +9901,64 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Sivas Obezite Cerrahisi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Sivas Cumhuriyet Üniversitesi Eğitim ve Araştırma Hastanesi",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0346) 215 05 55",
+  "web": "http://www.mustafaatabey.com.tr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.704349517822266,
+  "lng": 37.02790069580078,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.704349517822266,37.02790069580078",
+  "yandex_url": "https://yandex.com/maps/?text=Sivas Obezite Cerrahisi&ll=37.02790069580078%2C39.704349517822266&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "106cf968-c2a0-4261-ab23-43a375ebc84b",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Sivas Obezite Cerrahisi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Sivas Cumhuriyet Üniversitesi Eğitim ve Araştırma Hastanesi",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0346) 215 05 55",
+  "web": "http://www.mustafaatabey.com.tr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.75017166137695,
+  "lng": 37.017417907714844,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.75017166137695,37.017417907714844",
+  "yandex_url": "https://yandex.com/maps/?text=Sivas Obezite Cerrahisi&ll=37.017417907714844%2C39.75017166137695&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "aa268970-0615-4508-943c-39669e28d411",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Sivas Saç Ekim",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -9472,6 +10092,64 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Sivas Uzman İşitme Merkezi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Şifa Caddesi 2",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0346) 215 11 15",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.74213409423828,
+  "lng": 37.03715896606445,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.74213409423828,37.03715896606445",
+  "yandex_url": "https://yandex.com/maps/?text=Sivas Uzman İşitme Merkezi&ll=37.03715896606445%2C39.74213409423828&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "5b78a4a2-f8f1-417f-b83c-86e48b835b3e",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Sivas Vivasan",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Nalbantlarbaşı Caddesi 50",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0346) 225 30 30",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.75287628173828,
+  "lng": 37.01881408691406,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.75287628173828,37.01881408691406",
+  "yandex_url": "https://yandex.com/maps/?text=Sivas Vivasan&ll=37.01881408691406%2C39.75287628173828&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "9163eb25-30b0-4c15-ba1d-2044b64a5471",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Sivas Yeni Numune Hastanesi Kadın Doğum Polikliniği",
@@ -9663,7 +10341,9 @@
   "fsq_id": "519c731d498edd2136b88c34",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "2aa52408-b3ae-4cce-9922-de54009e04b7",
+  "alt": "muayenehane"
  },
  {
   "ad": "Sivas İl Saglik Mudurlugu",
@@ -9772,6 +10452,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Songül Şeker Lotus Güzellik ",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Eski kale mah. Osmanpaşa cad. Arı sitesi A blok Kat:1 Daire :2 Sivas ",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.74683380126953,
+  "lng": 37.012290954589844,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.74683380126953,37.012290954589844",
+  "yandex_url": "https://yandex.com/maps/?text=Songül Şeker Lotus Güzellik &ll=37.012290954589844%2C39.74683380126953&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "59a4ff60-3b3f-4e1e-9c9a-53aa8eb4cdaf",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Ssk Hastanesi Acil Servisi",
@@ -10098,6 +10807,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Tem-Sa Işitme Merkezi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "YENİ NUMUNE HASTANESİ KARŞISI YEŞİLYURT MH ŞİFACD ATA58İŞ MERKEZİ NO:13 1.KAT NO:1",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0346) 225 30 09",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.74830627441406,
+  "lng": 37.0161247253418,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.74830627441406,37.0161247253418",
+  "yandex_url": "https://yandex.com/maps/?text=Tem-Sa Işitme Merkezi&ll=37.0161247253418%2C39.74830627441406&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "69a8fff7-47c8-47e1-9327-0cf8d0ef7b4c",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Temel Ergün İlk Yardım Eğitim Merkezi",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -10314,6 +11052,64 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Ucel Kimya Medikal",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "\"30 Sok, No: 35\"",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0346) 221 45 37",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.74672317504883,
+  "lng": 37.03013229370117,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.74672317504883,37.03013229370117",
+  "yandex_url": "https://yandex.com/maps/?text=Ucel Kimya Medikal&ll=37.03013229370117%2C39.74672317504883&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "c99a5c0b-d662-4624-87eb-20c3294e26ff",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Ufukmedikalsivas",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Osman Paşa Caddesi 11",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0346) 221 87 84",
+  "web": "https://www.instagram.com/ufukmedikalsivas?igsh=cDl5anBxbzZxZWlw&utm_source=qr",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.74953842163086,
+  "lng": 37.01620864868164,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.74953842163086,37.01620864868164",
+  "yandex_url": "https://yandex.com/maps/?text=Ufukmedikalsivas&ll=37.01620864868164%2C39.74953842163086&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "efdc84e2-3043-4181-aee2-8586e4b8ffbf",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Ulaş 1 Nolu ASHİ",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -10449,6 +11245,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Uzman Doktor Bahadır Özen Kliniği",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "51-68 Sk Manolya Apt No:1 Kat:2 Daire:3",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.73322677612305,
+  "lng": 37.0366325378418,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.73322677612305,37.0366325378418",
+  "yandex_url": "https://yandex.com/maps/?text=Uzman Doktor Bahadır Özen Kliniği&ll=37.0366325378418%2C39.73322677612305&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "fa1c68d6-ca6e-486f-8d29-654e0c65a90f",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Viks Sürerken Burnu Yananlar Derneği",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -10474,6 +11299,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Welltures Sivas",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": " Küçükminare Mah. Paşabostan Cad.",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.75236892700195,
+  "lng": 37.02188491821289,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.75236892700195,37.02188491821289",
+  "yandex_url": "https://yandex.com/maps/?text=Welltures Sivas&ll=37.02188491821289%2C39.75236892700195&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "2fab7e0c-8eaa-404b-98f3-e24bce79a8f7",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "World Of Restless Souls",
@@ -11634,7 +12488,9 @@
   "fsq_id": "5649a07e498ec975f7b8da97",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "b2f85a8c-26f3-4f5d-8444-868b3e7cf5e6",
+  "alt": "muayenehane"
  },
  {
   "ad": "ali baba asm",
@@ -11716,6 +12572,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "annegitimleri",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "4. Sokak 28",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://www.youtube.com/@cocukuzmani",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.74721145629883,
+  "lng": 37.01252365112305,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.74721145629883,37.01252365112305",
+  "yandex_url": "https://yandex.com/maps/?text=annegitimleri&ll=37.01252365112305%2C39.74721145629883&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "b9ac9090-5832-4990-8800-6a888a58c9b1",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "atak toprak  laboratuari",
@@ -13038,7 +13923,9 @@
   "fsq_id": "5352f94d498eb5a763b14920",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "7e51a42a-037a-44bb-9007-5b9114b6793f",
+  "alt": "muayenehane"
  },
  {
   "ad": "sivas devlet hastanesi  kizilay subesi",
@@ -13743,6 +14630,64 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Özel Atlas Ağız ve Diş Sağlığı Polikliniği",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "THY Karşısı, ÖRTÜLÜPINAR MAHALLESİ ŞEHİT MUSTAFA ERDEM SOKAK, Büyük Otel Arkası NO:14/A",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0346) 224 54 06",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.74637985229492,
+  "lng": 37.010536193847656,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.74637985229492,37.010536193847656",
+  "yandex_url": "https://yandex.com/maps/?text=Özel Atlas Ağız ve Diş Sağlığı Polikliniği&ll=37.010536193847656%2C39.74637985229492&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "e878d9f6-154a-4cc4-91a6-a6a4bde47476",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Özel Onr Sağlık ",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Birlik Sokak 1",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.740013122558594,
+  "lng": 37.034645080566406,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.740013122558594,37.034645080566406",
+  "yandex_url": "https://yandex.com/maps/?text=Özel Onr Sağlık &ll=37.034645080566406%2C39.740013122558594&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "83859e84-4e49-4e01-9743-d87a6dc32967",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Özel Sivas Bakım Merkezi",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -13767,7 +14712,8 @@
   "fsq_id": "5c1361f6a6ec98002cf7e597",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "732c7e77-9b7c-4f98-b2ed-2d7dd41cef84"
  },
  {
   "ad": "Özel karahan Bakımevi teras",

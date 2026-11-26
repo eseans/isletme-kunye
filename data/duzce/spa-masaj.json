@@ -84,7 +84,9 @@
   "fsq_id": "69bff380c443a271363c1c19",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "c5183caf-cb89-4b43-b053-430e6bbe0802",
+  "alt": "masaj"
  },
  {
   "ad": "Derdin Termal Tesis",
@@ -228,6 +230,64 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Düzce Derdin Termal",
+  "sektor": "spa-masaj",
+  "kategori": "spa-masaj",
+  "alt": "spa",
+  "hizmet_ipuclari": [
+   "spa"
+  ],
+  "adres": "Kaledibi Köyü - Beyköy",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.derdintermal.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.76957702636719,
+  "lng": 31.1656494140625,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.76957702636719,31.1656494140625",
+  "yandex_url": "https://yandex.com/maps/?text=Düzce Derdin Termal&ll=31.1656494140625%2C40.76957702636719&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "ca0b9fce-1454-450b-9d16-7296b41200ad",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Düzce Doruk masaj salonu",
+  "sektor": "spa-masaj",
+  "kategori": "spa-masaj",
+  "alt": "spa",
+  "hizmet_ipuclari": [
+   "spa"
+  ],
+  "adres": "Rasim bedir bulvari, Kamil Kuyumcu Sk. No:30",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.844566345214844,
+  "lng": 31.15966796875,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.844566345214844,31.15966796875",
+  "yandex_url": "https://yandex.com/maps/?text=Düzce Doruk masaj salonu&ll=31.15966796875%2C40.844566345214844&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "a8125793-1b92-475c-808f-b80b810c881b",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Eftenia Thermal Resort&Spa",
   "sektor": "spa-masaj",
   "kategori": "spa-masaj",
@@ -307,6 +367,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Esila Spa and Masaj Salonu",
+  "sektor": "spa-masaj",
+  "kategori": "spa-masaj",
+  "alt": "masaj",
+  "hizmet_ipuclari": [
+   "massage_therapy"
+  ],
+  "adres": "Alparslan Türkeş Cd. No:2 Daire:1 Kat:1",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.845848083496094,
+  "lng": 31.15143394470215,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.845848083496094,31.15143394470215",
+  "yandex_url": "https://yandex.com/maps/?text=Esila Spa and Masaj Salonu&ll=31.15143394470215%2C40.845848083496094&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "2935e590-d28f-4736-958c-ec4f67bd5508",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Güral Sapanca",
@@ -445,6 +534,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Mommy Baby Spa",
+  "sektor": "spa-masaj",
+  "kategori": "spa-masaj",
+  "alt": "spa",
+  "hizmet_ipuclari": [
+   "spa"
+  ],
+  "adres": "Sinem Sokak 2",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.84468078613281,
+  "lng": 31.164310455322266,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.84468078613281,31.164310455322266",
+  "yandex_url": "https://yandex.com/maps/?text=Mommy Baby Spa&ll=31.164310455322266%2C40.84468078613281&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "4a3aaff3-f3c9-4a24-b5f1-7c7d9c0aea2f",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Osmanlı Hamamı&Sauna",
   "sektor": "spa-masaj",
   "kategori": "spa-masaj",
@@ -578,7 +696,9 @@
   "fsq_id": "518e36d4498e7928f4a1475a",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "84460991-4c1b-4cb4-806a-12d7cce67bd3",
+  "alt": "spa"
  },
  {
   "ad": "Stella Spa",
@@ -605,7 +725,67 @@
   "fsq_id": "5c25167912c8f0002c926589",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "f3be6a2b-0204-41ea-b0c7-aa538214f9f5",
+  "alt": "spa"
+ },
+ {
+  "ad": "Sürur Otel Spa&Wellness",
+  "sektor": "spa-masaj",
+  "kategori": "spa-masaj",
+  "alt": "spa",
+  "hizmet_ipuclari": [
+   "spa"
+  ],
+  "adres": null,
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.844093322753906,
+  "lng": 31.156368255615234,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.844093322753906,31.156368255615234",
+  "yandex_url": "https://yandex.com/maps/?text=Sürur Otel Spa&Wellness&ll=31.156368255615234%2C40.844093322753906&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "3822a7ed-3bfa-4816-8b00-9ed4f9ad8d1f",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Sürur Otel Spa&Wellness",
+  "sektor": "spa-masaj",
+  "kategori": "spa-masaj",
+  "alt": "spa",
+  "hizmet_ipuclari": [
+   "spa"
+  ],
+  "adres": null,
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.83250427246094,
+  "lng": 31.1588191986084,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.83250427246094,31.1588191986084",
+  "yandex_url": "https://yandex.com/maps/?text=Sürur Otel Spa&Wellness&ll=31.1588191986084%2C40.83250427246094&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "357dcbf8-01d6-437c-b181-8ec58c477112",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Taksim İnternational Abant Palace Turk Hamami",
@@ -663,6 +843,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Yıldırım Beyazıt Hamamı",
+  "sektor": "spa-masaj",
+  "kategori": "spa-masaj",
+  "alt": "spa",
+  "hizmet_ipuclari": [
+   "spa"
+  ],
+  "adres": "\"Bolu Cad, Mudurnu Merkez\", Mudurnu",
+  "il": null,
+  "ilce": "Mudurnu",
+  "mahalle": null,
+  "telefon": "(0374) 421 21 16",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.4649658203125,
+  "lng": 31.21159553527832,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.4649658203125,31.21159553527832",
+  "yandex_url": "https://yandex.com/maps/?text=Yıldırım Beyazıt Hamamı&ll=31.21159553527832%2C40.4649658203125&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "ca533f64-8dfa-4314-9b93-8d7eefb5b06a",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "sarot termal otel",

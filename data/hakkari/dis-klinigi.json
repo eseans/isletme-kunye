@@ -294,7 +294,8 @@
   "fsq_id": "50531633e4b09a662c6ffde0",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "3a8e59de-d8e5-46ee-930b-3292ae6b4157"
  },
  {
   "ad": "Kısıklı Beyaz Köşk",
@@ -349,6 +350,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "dtpinarduman",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "1306. Sokak 4, Yüksekova",
+  "il": null,
+  "ilce": "Yüksekova",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.57219314575195,
+  "lng": 44.2797737121582,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.57219314575195,44.2797737121582",
+  "yandex_url": "https://yandex.com/maps/?text=dtpinarduman&ll=44.2797737121582%2C37.57219314575195&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "fa9172ce-776c-4e15-b7dd-c2cb4a73ab20",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "gewer diş",

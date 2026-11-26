@@ -133,7 +133,9 @@
   "fsq_id": "566db619498eca401476d220",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "393b55f6-b072-4580-802d-7b0e9fcb1d71",
+  "alt": "spa"
  },
  {
   "ad": "Kavukcuoglu Sifa Hamami",
@@ -271,6 +273,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Sauna Form TÜRk Hamam",
+  "sektor": "spa-masaj",
+  "kategori": "spa-masaj",
+  "alt": "spa",
+  "hizmet_ipuclari": [
+   "spa"
+  ],
+  "adres": "PTT Caddesi 1, Battalgazi",
+  "il": null,
+  "ilce": "Battalgazi",
+  "mahalle": null,
+  "telefon": "(0422) 321 35 75",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.3487434387207,
+  "lng": 38.31642150878906,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.3487434387207,38.31642150878906",
+  "yandex_url": "https://yandex.com/maps/?text=Sauna Form TÜRk Hamam&ll=38.31642150878906%2C38.3487434387207&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "2b1acfc0-507f-4ed8-aabc-d6aa94385e7c",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Spa",
   "sektor": "spa-masaj",
   "kategori": "spa-masaj",
@@ -296,6 +327,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Tarihi Carsi Hamami",
+  "sektor": "spa-masaj",
+  "kategori": "spa-masaj",
+  "alt": "spa",
+  "hizmet_ipuclari": [
+   "spa"
+  ],
+  "adres": "Halep Cd. no1, Battalgazi",
+  "il": null,
+  "ilce": "Battalgazi",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.34986114501953,
+  "lng": 38.3173942565918,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.34986114501953,38.3173942565918",
+  "yandex_url": "https://yandex.com/maps/?text=Tarihi Carsi Hamami&ll=38.3173942565918%2C38.34986114501953&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "277a65ea-9df5-4878-a624-e88c89890327",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Wellness",

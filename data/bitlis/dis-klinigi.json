@@ -37,7 +37,7 @@
   "il": null,
   "ilce": "TATVAN",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0434) 827 00 35",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -51,7 +51,8 @@
   "fsq_id": "57ad8c99498e2d74c1e42e49",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "3e561f2b-2b60-4a98-a02d-33686266d8fd"
  },
  {
   "ad": "Burdadent",
@@ -60,12 +61,12 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d178941735"
   ],
-  "adres": null,
+  "adres": "Cumhuriyet Caddesi 141A, Tatvan",
   "il": null,
   "ilce": "Tatvan",
   "mahalle": null,
-  "telefon": null,
-  "web": null,
+  "telefon": "(0434) 827 05 45",
+  "web": "http://www.burdadent.com/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -78,7 +79,66 @@
   "fsq_id": "6220c9f617c64e67ffe1fb58",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "b6d14643-de49-408b-a566-fdbaf7372190"
+ },
+ {
+  "ad": "Dent Ada Bitlis Tatvan",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Şeyhmuz Zırhlı Cd. Adalet Plaza No 27 D:1, Tatvan",
+  "il": null,
+  "ilce": "Tatvan",
+  "mahalle": null,
+  "telefon": "(0434) 827 13 98",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.50580978393555,
+  "lng": 42.28010940551758,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.50580978393555,42.28010940551758",
+  "yandex_url": "https://yandex.com/maps/?text=Dent Ada Bitlis Tatvan&ll=42.28010940551758%2C38.50580978393555&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "5fc8bf16-c45c-473d-bd6a-8eb08a1f85c6",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Dent Ada Diş Polikliniği",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Kültür Mahallesi Şeyhmus Zırhlı Caddesi Adalet Plaza No 27, D:1, 13200 Tatvan/Bitlis, Tatvan",
+  "il": null,
+  "ilce": "Tatvan",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.444984436035156,
+  "lng": 42.5830078125,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.444984436035156,42.5830078125",
+  "yandex_url": "https://yandex.com/maps/?text=Dent Ada Diş Polikliniği&ll=42.5830078125%2C38.444984436035156&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "623e2cb6-53c0-40ed-848a-dc10cc613d24",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "DentCenter",
@@ -87,12 +147,12 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d178941735"
   ],
-  "adres": "Tatvan Center",
+  "adres": "Sahil mahallesi hayri sandıkçı sokak tatvan center iş merkezi, no:15 kat:5, Tatvan",
   "il": null,
   "ilce": "Bitlis Tatvan",
   "mahalle": null,
   "telefon": null,
-  "web": null,
+  "web": "http://instagram.com/dentcentertatvan",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -105,7 +165,37 @@
   "fsq_id": "5c64367035d3fc002c433488",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "7410ea32-fedb-404e-83ae-b588361cfc90"
+ },
+ {
+  "ad": "DentGroup Bitlis - Tatvan",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Kültür Mah. Şehmus Zırhlı Cad. Adalet Plaza No:27/1, Tatvan",
+  "il": null,
+  "ilce": "Tatvan",
+  "mahalle": null,
+  "telefon": "(0434) 502 10 25",
+  "web": "https://dentgroup.com.tr/dentgroup-bitlis-tatvan/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.51559829711914,
+  "lng": 42.279354095458984,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.51559829711914,42.279354095458984",
+  "yandex_url": "https://yandex.com/maps/?text=DentGroup Bitlis - Tatvan&ll=42.279354095458984%2C38.51559829711914&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "671520fa-65eb-48cb-857c-5acfdfe2ac54",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Dentgroup Bitlis Tatvan",
@@ -303,7 +393,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d178941735"
   ],
-  "adres": null,
+  "adres": "Pınarbaşı Cd. no:6 K/1 D:4/5, Tatvan",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -321,7 +411,8 @@
   "fsq_id": "52ea4aea11d2d368121c7ee8",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "785db1aa-727b-4d53-82af-76d1e1e020b4"
  },
  {
   "ad": "KLİNİK ALSANCAN",
@@ -567,6 +658,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "incidis_klinigi",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Çam sitesi Hüsrev pasa mahallesi ahmet eren bulvarı kahya oğlu plaza kat 2",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.4041862487793,
+  "lng": 42.1073112487793,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.4041862487793,42.1073112487793",
+  "yandex_url": "https://yandex.com/maps/?text=incidis_klinigi&ll=42.1073112487793%2C38.4041862487793&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "8c370555-4e9c-414b-a8b2-3250365629b1",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "selçuklu diş kliniği",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -592,6 +712,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Özel ADA Diş Polikliniği",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Zirai Donatım Caddesi 18, Tatvan",
+  "il": null,
+  "ilce": "Tatvan",
+  "mahalle": null,
+  "telefon": "(0434) 827 13 98",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.496864318847656,
+  "lng": 42.283905029296875,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.496864318847656,42.283905029296875",
+  "yandex_url": "https://yandex.com/maps/?text=Özel ADA Diş Polikliniği&ll=42.283905029296875%2C38.496864318847656&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "f6976a3a-f0c2-4acb-a922-b73e76ea85f6",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Özel Diş Hekimliği",

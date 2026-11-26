@@ -567,6 +567,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Abak Merkez Ağız ve Diş Sağlığı",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Kutucular Sk. No: 9",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://www.abakdismerkezi.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.728782653808594,
+  "lng": 31.603151321411133,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.728782653808594,31.603151321411133",
+  "yandex_url": "https://yandex.com/maps/?text=Abak Merkez Ağız ve Diş Sağlığı&ll=31.603151321411133%2C40.728782653808594&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "397ad019-b0c5-4728-89f1-b720eed3e6b5",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Abant Izzet Baysal Universitesi Izzet Baysal Ruh Sağlığı Ve Hastalıkları Eğitim Ve Araştırma Hastanesi",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -944,7 +973,9 @@
   "fsq_id": "5873a3c18cb34e38a5ccc03d",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "dc81d0a7-a472-416d-8826-d89b282964f0",
+  "alt": "muayenehane"
  },
  {
   "ad": "Akkoç Dental",
@@ -972,6 +1003,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Allegra Termal",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "İzzet Baysal Caddesi 9/d",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0374) 262 81 26",
+  "web": "http://www.allegra.site/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.7314567565918,
+  "lng": 31.602787017822266,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.7314567565918,31.602787017822266",
+  "yandex_url": "https://yandex.com/maps/?text=Allegra Termal&ll=31.602787017822266%2C40.7314567565918&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "f7462cb6-26d0-45c9-8541-2cb3cc849156",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Alperin Seni Cok Seviyorum Ozgem",
@@ -1160,7 +1220,9 @@
   "fsq_id": "53a4304f498e56d99161795c",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "c55fb50b-4487-4390-bb00-81dcc8908ae7",
+  "alt": "muayenehane"
  },
  {
   "ad": "AÎBÛ Anestezi Ve Reanimasyon Yogun Bakım Ünitesi",
@@ -1433,18 +1495,47 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "BASEM",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Karaköy Caddesi 19",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0374) 253 50 77",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.724090576171875,
+  "lng": 31.541942596435547,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.724090576171875,31.541942596435547",
+  "yandex_url": "https://yandex.com/maps/?text=BASEM&ll=31.541942596435547%2C40.724090576171875&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "258e2b88-43de-4885-a277-761341d2d6cb",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "BOL-DUY İŞİTME CİHAZLARI MERKEZİ",
   "sektor": "klinik",
   "kategori": "klinik",
   "hizmet_ipuclari": [
    "4bf58dd8d48988d177941735"
   ],
-  "adres": "Kültür mahallesi",
+  "adres": "kültür mah. şehitler cad. sınmazhan apt. no:23/b",
   "il": null,
   "ilce": null,
   "mahalle": null,
   "telefon": "(0374) 270 33 00",
-  "web": null,
+  "web": "http://bolu.genckobi.com/firma/bol-duy-isitme-cihazlari",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -1457,7 +1548,9 @@
   "fsq_id": "57f7f2c2498eb89d2e13b145",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "72e7f215-468c-4ed4-b54c-210975a8d9ed",
+  "alt": "muayenehane"
  },
  {
   "ad": "BOLU 112 Merkez 3 No'lu ASH Istasyonu",
@@ -1647,6 +1740,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Bibdh - Koroglu Unitesi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Sağlık Mah",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.748268127441406,
+  "lng": 31.604673385620117,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.748268127441406,31.604673385620117",
+  "yandex_url": "https://yandex.com/maps/?text=Bibdh - Koroglu Unitesi&ll=31.604673385620117%2C40.748268127441406&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "6059e24c-34d5-497b-84db-0d57fe7c5831",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Bizim Eczane",
@@ -1889,7 +2011,9 @@
   "fsq_id": "59a91d0e5a2c9117f350e223",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "f58bc20b-440b-481d-865a-d3b7c8f6f0c7",
+  "alt": "muayenehane"
  },
  {
   "ad": "Bolu 112 ODD ASHİ",
@@ -2433,6 +2557,64 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Bolu NATÜREL Ağız ve Diş Sağlığı Polikliniği",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "ERKAN APARTMANI, 100. Yıl Sk. No:10",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.738067626953125,
+  "lng": 31.597881317138672,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.738067626953125,31.597881317138672",
+  "yandex_url": "https://yandex.com/maps/?text=Bolu NATÜREL Ağız ve Diş Sağlığı Polikliniği&ll=31.597881317138672%2C40.738067626953125&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "afa5e0ad-e53e-4155-8e89-876dcbd38b33",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Bolu Netses İşitme Merkezi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "İzzet Baysal Caddesi 60",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.730377197265625,
+  "lng": 31.604141235351562,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.730377197265625,31.604141235351562",
+  "yandex_url": "https://yandex.com/maps/?text=Bolu Netses İşitme Merkezi&ll=31.604141235351562%2C40.730377197265625&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "a9cad039-0cf0-47a1-875e-93f845aae1b4",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Bolu OSGB",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -2674,6 +2856,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Bolu evren işitme",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "alirıza tekemen cad.",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.72727584838867,
+  "lng": 31.600149154663086,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.72727584838867,31.600149154663086",
+  "yandex_url": "https://yandex.com/maps/?text=Bolu evren işitme&ll=31.600149154663086%2C40.72727584838867&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "c6421604-dd23-4530-ad84-3f1568ddcfeb",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Bolu Çimanto Revir",
@@ -2920,6 +3131,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Bolu İzzet Baysal Ruh Sağlığı ve Hastalıkları Hastanesi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "B.İ.B.R.S.H.H Ağaçcılar  Köyü Mevkii",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0374) 275 25 25",
+  "web": "http://www.boluruhsagligi.gov.tr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.7286262512207,
+  "lng": 31.592247009277344,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.7286262512207,31.592247009277344",
+  "yandex_url": "https://yandex.com/maps/?text=Bolu İzzet Baysal Ruh Sağlığı ve Hastalıkları Hastanesi&ll=31.592247009277344%2C40.7286262512207&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "d13e6ff5-63ab-47a0-8fb6-345d0b1c16dc",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Bolu İzzet Baysal Ruh Sağlığı ve Hastalıkları Hastanesi Çocuk ergen ruh sağlığı ve Hastalıkları polikinlikleri",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -2945,6 +3185,64 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Bolu İzzet Baysal Universitesi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": null,
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.72950744628906,
+  "lng": 31.602205276489258,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.72950744628906,31.602205276489258",
+  "yandex_url": "https://yandex.com/maps/?text=Bolu İzzet Baysal Universitesi&ll=31.602205276489258%2C40.72950744628906&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "8ec3a928-8d68-4795-be6b-2f649d43bcf5",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Bolu İzzet Baysal Universitesi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": null,
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.72410202026367,
+  "lng": 31.60491180419922,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.72410202026367,31.60491180419922",
+  "yandex_url": "https://yandex.com/maps/?text=Bolu İzzet Baysal Universitesi&ll=31.60491180419922%2C40.72410202026367&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "1d0e330c-d4c6-4952-bbfa-12f17d83711f",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Bolu İzzet Baysal Üniversitesi Diş hastanesi",
@@ -3025,7 +3323,9 @@
   "fsq_id": "59b14f99f62e0975221e81ee",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "f01cb3b9-ca2a-4268-90b2-d79b5864aedd",
+  "alt": "muayenehane"
  },
  {
   "ad": "Cade",
@@ -3080,6 +3380,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Candan Biyomedikal",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Aşağı Mahalle Sokak 26",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0374) 217 73 77",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.73445510864258,
+  "lng": 31.605195999145508,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.73445510864258,31.605195999145508",
+  "yandex_url": "https://yandex.com/maps/?text=Candan Biyomedikal&ll=31.605195999145508%2C40.73445510864258&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "4328a181-7a0d-4d16-89fb-b69b39d3688f",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Caydurt Aile Sağlığı Merkezi",
@@ -3161,6 +3490,64 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Cerrahi Klinik",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": null,
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.cerrahiklinik.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.73142623901367,
+  "lng": 31.58876609802246,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.73142623901367,31.58876609802246",
+  "yandex_url": "https://yandex.com/maps/?text=Cerrahi Klinik&ll=31.58876609802246%2C40.73142623901367&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "1cbbbf66-7abd-42be-bd3b-c37bbbcdc15c",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Cerrahi Klinik",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Mehmet Akif Ersoy Bulvarı 45A",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0374) 222 22 36",
+  "web": "http://www.cerrahiklinik.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.72774887084961,
+  "lng": 31.589561462402344,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.72774887084961,31.589561462402344",
+  "yandex_url": "https://yandex.com/maps/?text=Cerrahi Klinik&ll=31.589561462402344%2C40.72774887084961&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "0fd84871-a63c-42f9-a975-20f66579d85a",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "ClassMed Saglik Urunleri - Erhan Medikal",
@@ -3439,7 +3826,7 @@
   "hizmet_ipuclari": [
    "4f4531b14b9074f6e4fb0103"
   ],
-  "adres": null,
+  "adres": "Cumhuriyet Cd. İnci İş Merkezi No:32, Daire:18",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -3457,7 +3844,37 @@
   "fsq_id": "50aa4bb6e4b0b2e8c0e628a3",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "168e97f4-913d-4ca6-8e84-a807f0a42996"
+ },
+ {
+  "ad": "Diyetisyen Tugba Yuzuak Turkcan",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Bozkurt Sk. Ada Apt No:25/2",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.7332763671875,
+  "lng": 31.589887619018555,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.7332763671875,31.589887619018555",
+  "yandex_url": "https://yandex.com/maps/?text=Diyetisyen Tugba Yuzuak Turkcan&ll=31.589887619018555%2C40.7332763671875&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "571e1d9f-c8fb-48ff-ba05-ca8c5b72c878",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Diş Hekimi Murat Ö.ULU",
@@ -3485,6 +3902,64 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Doruk Smile Ağız ve Diş Sağlığı Polikliniği",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Dr. Akın Çakmakçı Blv.",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.73897933959961,
+  "lng": 31.57443618774414,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.73897933959961,31.57443618774414",
+  "yandex_url": "https://yandex.com/maps/?text=Doruk Smile Ağız ve Diş Sağlığı Polikliniği&ll=31.57443618774414%2C40.73897933959961&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "92811f98-536b-4f8f-89cf-e465271dfadc",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Doç. Dr. Mustafa Erkoçoğlu",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "İzzet Baysal Caddesi 9",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.730621337890625,
+  "lng": 31.601282119750977,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.730621337890625,31.601282119750977",
+  "yandex_url": "https://yandex.com/maps/?text=Doç. Dr. Mustafa Erkoçoğlu&ll=31.601282119750977%2C40.730621337890625&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "da2d894b-2bf3-4966-b9d6-8cff567867d9",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Doğal Eczane",
@@ -3593,6 +4068,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Dr. Çağrı Turan Muayenehanesi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Bayram Sk. No:25/A",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.drcagrituran.com",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.73908233642578,
+  "lng": 31.594694137573242,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.73908233642578,31.594694137573242",
+  "yandex_url": "https://yandex.com/maps/?text=Dr. Çağrı Turan Muayenehanesi&ll=31.594694137573242%2C40.73908233642578&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "58ab4248-ca9a-4495-aa97-ba6fc290197e",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Dr.Fatma Zehra Aydın Diş Kliniği",
@@ -4029,6 +4533,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Es Art Ağız Ve Diş Sağlığı Polikliniği",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "İzzet Baysal Devlet Hst. Blv. No:58/B",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://dentesart.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.7457160949707,
+  "lng": 31.565231323242188,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.7457160949707,31.565231323242188",
+  "yandex_url": "https://yandex.com/maps/?text=Es Art Ağız Ve Diş Sağlığı Polikliniği&ll=31.565231323242188%2C40.7457160949707&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "d8afe084-031b-44e0-8ebd-6239c6a15060",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Evde Sağlık Hizmetleri Bolu",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -4170,12 +4703,12 @@
   "hizmet_ipuclari": [
    "5744ccdfe4b0c0459246b4af"
   ],
-  "adres": "Aktaş mahallesi aktaş parkı yanı",
+  "adres": "Taşhancılar Cd. No:41/18",
   "il": null,
   "ilce": null,
   "mahalle": null,
   "telefon": null,
-  "web": null,
+  "web": "http://www.fizyokent.com.tr/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -4188,7 +4721,8 @@
   "fsq_id": "598dbfd85d0fea7b175a2401",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "31b0af59-fa37-40e6-b3ea-aaabde6f3d5f"
  },
  {
   "ad": "FİZYOTERAPİST Ali Serkan Ünsal",
@@ -4350,7 +4884,9 @@
   "fsq_id": "56616034498e1a613e6844f2",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "5543e93a-f7f0-4f6f-bbe1-ff1e3a81da47",
+  "alt": "muayenehane"
  },
  {
   "ad": "Gerede 1 Nolu Sağlık Ocağı",
@@ -4899,7 +5435,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d104941735"
   ],
-  "adres": "Tabaklar Mahallesi Cumhuriyet Caddeso",
+  "adres": "Cumhuriyet Caddesi 73",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -4917,7 +5453,9 @@
   "fsq_id": "51972736498e75b319d7d473",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "d7f0993b-f999-411e-be2a-f5a8d0920ad4",
+  "alt": "muayenehane"
  },
  {
   "ad": "Günsel Eczanesi",
@@ -5188,6 +5726,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Izzet Baysal Tıp Fakultesi Hastanesi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "\"Bolu, İzzet Baysal Tıp Fak\"",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0380) 542 14 16",
+  "web": "http://www.duzce.edu.tr",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.71977996826172,
+  "lng": 31.525957107543945,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.71977996826172,31.525957107543945",
+  "yandex_url": "https://yandex.com/maps/?text=Izzet Baysal Tıp Fakultesi Hastanesi&ll=31.525957107543945%2C40.71977996826172&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "23f0e21e-7a12-400b-89fd-75ede50ed055",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Iş  Hane'm",
@@ -5512,7 +6079,9 @@
   "fsq_id": "511a393fe4b08a5733abdad2",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "17abaceb-228f-4571-b2c9-b168ae43e212",
+  "alt": "muayenehane"
  },
  {
   "ad": "Kardiyoloji Servisi",
@@ -6084,6 +6653,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Mengen Aziz Karsan Devlet Hastanesi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Gerede-bartin Yolu, Mengen",
+  "il": null,
+  "ilce": "Mengen",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.893009185791016,
+  "lng": 31.949405670166016,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.893009185791016,31.949405670166016",
+  "yandex_url": "https://yandex.com/maps/?text=Mengen Aziz Karsan Devlet Hastanesi&ll=31.949405670166016%2C40.893009185791016&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "0533e93c-9776-4517-9038-d8fa4dc861f7",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Mengen İlçe Devlet Hastanesi",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -6354,6 +6952,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Natural Fizyoterapi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Sebil Sokak 8",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.748348236083984,
+  "lng": 31.622943878173828,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.748348236083984,31.622943878173828",
+  "yandex_url": "https://yandex.com/maps/?text=Natural Fizyoterapi&ll=31.622943878173828%2C40.748348236083984&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "4a7d2c9b-6b8b-40f8-9b8a-0f33f097f98f",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Nükleer Tıp Görüntüleme Merkezi",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -6460,6 +7087,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Op.Dr.Doğu Kemik",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": " Paşaköy Mah. D-100 Karayolu Cad. Rezidans 14 B Blok No:13, 14100 Merkez/Bolu",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.drdogukemik.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.73457717895508,
+  "lng": 31.578739166259766,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.73457717895508,31.578739166259766",
+  "yandex_url": "https://yandex.com/maps/?text=Op.Dr.Doğu Kemik&ll=31.578739166259766%2C40.73457717895508&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "ff2a55b7-fd09-4378-99aa-8e0e7ead0927",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Ortopedi Polikliniği",
@@ -6594,7 +7250,9 @@
   "fsq_id": "50f3a7c1e4b0749cdc885f03",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "24e49745-d488-4e23-8d08-52c27e76fcab",
+  "alt": "muayenehane"
  },
  {
   "ad": "Rengarenk Gerede",
@@ -6678,6 +7336,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Sarot Palace",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Karacasu mandıra köyü",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.sarottermal.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.590354919433594,
+  "lng": 31.01226043701172,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.590354919433594,31.01226043701172",
+  "yandex_url": "https://yandex.com/maps/?text=Sarot Palace&ll=31.01226043701172%2C40.590354919433594&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "af6e26d5-564b-441b-951c-f13456a42a8b",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Sarot Termal Vadi Revir",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -6702,7 +7389,9 @@
   "fsq_id": "561c0e83498eac6e86b053c7",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "40175aa8-e257-4658-995a-2a15e0b9b2d2",
+  "alt": "muayenehane"
  },
  {
   "ad": "Sağlık Mah. Sağlık Ocağı",
@@ -7220,6 +7909,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "USX- RAY Röntgen A.Ş.",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Bolu-Ankara D-100 Yolu 13. Km.",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0374) 243 92 00",
+  "web": "http://www.usx-ray.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.75081253051758,
+  "lng": 31.755830764770508,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.75081253051758,31.755830764770508",
+  "yandex_url": "https://yandex.com/maps/?text=USX- RAY Röntgen A.Ş.&ll=31.755830764770508%2C40.75081253051758&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "c0529ffd-ed2e-4875-bc53-8884977ac643",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Us X-ray Röntgen",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -7245,6 +7963,64 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Uzm. Dr. Asli Sahin Dermatoloji Klinigi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Kılıçarslan mah. 155. sok Yaşaroğlu apt. No: 4/A",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.draslisahin.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.73869705200195,
+  "lng": 31.573427200317383,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.73869705200195,31.573427200317383",
+  "yandex_url": "https://yandex.com/maps/?text=Uzm. Dr. Asli Sahin Dermatoloji Klinigi&ll=31.573427200317383%2C40.73869705200195&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "38f4c10c-66ae-44c3-8155-1e3ec25251ff",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Uzman Dis Hekimi Ulku Ozan Fatih Ozan",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Mehmet Akif Ersoy Blv. A Blok 24/F",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0374) 220 14 14",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.731929779052734,
+  "lng": 31.58860206604004,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.731929779052734,31.58860206604004",
+  "yandex_url": "https://yandex.com/maps/?text=Uzman Dis Hekimi Ulku Ozan Fatih Ozan&ll=31.58860206604004%2C40.731929779052734&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "7e95ac32-9765-45ef-a001-4c9fccbcabd6",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Verem Savaş Dispanseri",
@@ -8342,8 +9118,8 @@
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
-  "web": null,
+  "telefon": "(0374) 253 52 76",
+  "web": "http://oezelnefroboluhemodiyalizmerkezi.placeweb.site",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -8356,7 +9132,9 @@
   "fsq_id": "52ff690c498e17cea80e920e",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "c6a59789-b219-41f1-ba9d-ca056a6f249d",
+  "alt": "muayenehane"
  },
  {
   "ad": "nuran parlak akupuktur",
@@ -9168,6 +9946,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Özel Tayşi Ağız ve Diş Sağlığı Polikliniği",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Paşazade Konutları, Necip Fazıl Kısakürek Blv. No:84/B",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0374) 213 16 36",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.7248649597168,
+  "lng": 31.598655700683594,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.7248649597168,31.598655700683594",
+  "yandex_url": "https://yandex.com/maps/?text=Özel Tayşi Ağız ve Diş Sağlığı Polikliniği&ll=31.598655700683594%2C40.7248649597168&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "c21a4344-f04c-45fc-853e-e29b976fa494",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Özel fatma hatun hastanesi İdari Birimler",

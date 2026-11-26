@@ -33,7 +33,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d178941735"
   ],
-  "adres": "Örtülüpınar Mahallesi",
+  "adres": "Halil Rıfat Paşa Caddesi 15A",
   "il": null,
   "ilce": "Sivas Merkez",
   "mahalle": null,
@@ -56,7 +56,8 @@
   "fsq_id": "6afa12b2bdfeb671c43b9032",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "6b17063f-06dd-4a1c-9ab1-0531121cd80d"
  },
  {
   "ad": "Akçakaya Homme",
@@ -138,6 +139,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Ağiz diş sagliği merkezi",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": null,
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.747703552246094,
+  "lng": 37.01420974731445,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.747703552246094,37.01420974731445",
+  "yandex_url": "https://yandex.com/maps/?text=Ağiz diş sagliği merkezi&ll=37.01420974731445%2C39.747703552246094&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "76f3a9ce-c6de-4f00-b53b-92238e1c0d64",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Ağız Ve Diş Sağlığı Merkezi",
@@ -300,6 +330,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Dent Sivas",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Camii Sokak 13/a",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0346) 224 29 43",
+  "web": "https://sivasdis.com.tr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.76210403442383,
+  "lng": 37.02533721923828,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.76210403442383,37.02533721923828",
+  "yandex_url": "https://yandex.com/maps/?text=Dent Sivas&ll=37.02533721923828%2C39.76210403442383&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "11879c7c-d780-45dc-be6e-d7332e5349b2",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Dent Sivas Tooth Polyclinics",
@@ -545,6 +604,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Dis Hekimi Musa Bahadir Bektas",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Sirer Cd. Sağlık Sitesi Kat:1/5",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0346) 223 06 95",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.74966812133789,
+  "lng": 37.01613235473633,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.74966812133789,37.01613235473633",
+  "yandex_url": "https://yandex.com/maps/?text=Dis Hekimi Musa Bahadir Bektas&ll=37.01613235473633%2C39.74966812133789&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "59e6d6d2-e27b-420f-a974-a6e06b3fa8bf",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Diş Doktoru Halil Akansel",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -718,7 +806,7 @@
   "ilce": null,
   "mahalle": null,
   "telefon": null,
-  "web": null,
+  "web": "https://l.instagram.com/?u=https%3A%2F%2Fwww.facebook.com%2Fprofile.php%3Fid%3D100088066047638%26mibextid%3DLQQJ4d&e=ATNyzcKUMdWMSaYGg4zAvzWwWjVQ4JE0f8AP7HlLITWFJDr4uBJJpWQMudgRInEmsXKCWMn7iHYeFyZ34Ogp8MY",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -731,7 +819,8 @@
   "fsq_id": "62cb0431c5d05063681501b3",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "3ba1b8b1-d2f8-42f0-a780-9d82ffa9ffbd"
  },
  {
   "ad": "Diş Hekimi Hakan Ihtiyar",
@@ -867,6 +956,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Diş Hekimi Mehmet Korkmaz",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "İnönü BulvarıTokuş Apt No:5/1 Kat:1",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0346) 221 99 84",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.74808883666992,
+  "lng": 37.01323318481445,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.74808883666992,37.01323318481445",
+  "yandex_url": "https://yandex.com/maps/?text=Diş Hekimi Mehmet Korkmaz&ll=37.01323318481445%2C39.74808883666992&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "73e2b36f-9ea9-45f1-b4a4-2099abce6374",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Diş Hekimi Nihat Kuşakçı",
@@ -1112,6 +1230,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Dr. Ufuk Abdulkerim Cavus",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Halktan Üstü, Mcdonald's Yanı, İstasyon Caddesi Esen Sokak Levent Apt Kat:2 No:6",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.7459831237793,
+  "lng": 37.01174545288086,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.7459831237793,37.01174545288086",
+  "yandex_url": "https://yandex.com/maps/?text=Dr. Ufuk Abdulkerim Cavus&ll=37.01174545288086%2C39.7459831237793&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "1b8bb9ab-7880-4892-9eeb-9bc54c66a15d",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Dr. Ufuk Çavuş Diş Muayenehanesi",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -1137,6 +1284,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Dr.M.Uğur GÜRER",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "İstasyon Cad",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0346) 224 87 67",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.750389099121094,
+  "lng": 37.017295837402344,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.750389099121094,37.017295837402344",
+  "yandex_url": "https://yandex.com/maps/?text=Dr.M.Uğur GÜRER&ll=37.017295837402344%2C39.750389099121094&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "ca3f9301-2213-4dd1-8bf5-16adeec797f6",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Dt. Rabia TEBER DURNA Muayenehanesi",
@@ -1165,6 +1341,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "GR Sivas Özel Dental Ağız Ve Diş Sağlığı Polikliniği",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "sarraflar sok no:8",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.75077438354492,
+  "lng": 37.019073486328125,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.75077438354492,37.019073486328125",
+  "yandex_url": "https://yandex.com/maps/?text=GR Sivas Özel Dental Ağız Ve Diş Sağlığı Polikliniği&ll=37.019073486328125%2C39.75077438354492&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "296cb455-7cc0-4294-a001-eb5a2e3f4dd2",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "M. Uğur Gürer Muayenehanesi",
@@ -1381,6 +1586,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Ufuk Diş Polikliniği",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "İstasyon Cad. McDonald's yanı Garanti Bankası üzeri 2.Kat Sivas",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.7459831237793,
+  "lng": 37.01174545288086,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.7459831237793,37.01174545288086",
+  "yandex_url": "https://yandex.com/maps/?text=Ufuk Diş Polikliniği&ll=37.01174545288086%2C39.7459831237793&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "41033f8b-4671-4274-b5e5-18377846b504",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Uzman Diş Hekimi Şükran Acıpınar- Dişeti Hastalıkları Ve Cerrahisi Uzmanı",

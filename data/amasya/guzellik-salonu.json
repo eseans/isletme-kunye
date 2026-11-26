@@ -83,6 +83,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Ada Güzellik Salonu",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Cumhuriyet Cd. No:111 D:A, Merzifon",
+  "il": null,
+  "ilce": "Merzifon",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.87281036376953,
+  "lng": 35.462989807128906,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.87281036376953,35.462989807128906",
+  "yandex_url": "https://yandex.com/maps/?text=Ada Güzellik Salonu&ll=35.462989807128906%2C40.87281036376953&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "d61336fd-9093-4bc7-872f-61c70647a3a4",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Af Güzellik Salonu",
   "sektor": "guzellik-salonu",
   "kategori": "guzellik-salonu",
@@ -143,7 +172,7 @@
   "hizmet_ipuclari": [
    "4f04aa0c2fb6e1c99f3db0b8"
   ],
-  "adres": null,
+  "adres": "Örgücü Sk. No:12/D",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -161,7 +190,8 @@
   "fsq_id": "514d87b8e4b0dab62aa74adf",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "99d3eb5c-f30d-48ab-9eb2-385ba611f855"
  },
  {
   "ad": "Amasya kehribar güzellik ve bakım salonu",
@@ -442,11 +472,11 @@
   "hizmet_ipuclari": [
    "4f04aa0c2fb6e1c99f3db0b8"
   ],
-  "adres": null,
+  "adres": "Torumtay Sk. Mısırlı Apt No 28 K 2",
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0358) 218 38 03",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -460,7 +490,8 @@
   "fsq_id": "52f63497498e7240e07554bd",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "24f26c25-f0df-438d-af2d-a79a61c31384"
  },
  {
   "ad": "Bahçeli Kuaför",
@@ -515,6 +546,64 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Bayse Güzellik ve Sağlıklı Yaşam",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Hafız Mustafa Cd. No:57-53, Merzifon",
+  "il": null,
+  "ilce": "Merzifon",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.874855041503906,
+  "lng": 35.44527053833008,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.874855041503906,35.44527053833008",
+  "yandex_url": "https://yandex.com/maps/?text=Bayse Güzellik ve Sağlıklı Yaşam&ll=35.44527053833008%2C40.874855041503906&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "bb1c8f17-f4ab-4d59-bd38-0e21ba74104f",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Belizza Güzellik",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Sofular Mahallesi Rüzgar Sokak Uzay İş Merkezi, Kat:3 No:19, Merzifon",
+  "il": null,
+  "ilce": "Merzifon",
+  "mahalle": null,
+  "telefon": "(0358) 513 38 36",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.875240325927734,
+  "lng": 35.4619255065918,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.875240325927734,35.4619255065918",
+  "yandex_url": "https://yandex.com/maps/?text=Belizza Güzellik&ll=35.4619255065918%2C40.875240325927734&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "babaa764-b9fe-43c3-ade7-f85039ad3a18",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Berkay erkek kuaförü",
@@ -814,6 +903,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Derya Güzellik Salonu",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Hüseyin Nihal Atsız Cd No:41",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0358) 218 20 25",
+  "web": "http://www.NDCosmetics.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.65149688720703,
+  "lng": 35.815731048583984,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.65149688720703,35.815731048583984",
+  "yandex_url": "https://yandex.com/maps/?text=Derya Güzellik Salonu&ll=35.815731048583984%2C40.65149688720703&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "73f36c11-ff5f-4345-b618-554fe098af4a",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Değişim Kuaför",
   "sektor": "guzellik-salonu",
   "kategori": "guzellik-salonu",
@@ -866,6 +984,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Duru Güzellik",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Muammer Aksoy Sk., Merzifon",
+  "il": null,
+  "ilce": "Merzifon",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.871925354003906,
+  "lng": 35.46240234375,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.871925354003906,35.46240234375",
+  "yandex_url": "https://yandex.com/maps/?text=Duru Güzellik&ll=35.46240234375%2C40.871925354003906&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "f18db413-ae47-4d5a-a98c-7eaec7896c98",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Duru Güzellik Salonu &Organizasyon",
@@ -1063,11 +1210,11 @@
   "hizmet_ipuclari": [
    "4f04aa0c2fb6e1c99f3db0b8"
   ],
-  "adres": null,
+  "adres": "Rüzgar Sk. No:5 D:1, Merzifon",
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0358) 514 28 12",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -1081,7 +1228,37 @@
   "fsq_id": "53a6d3f3498e070ad51d4e4c",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "b85890a7-9bef-4616-a279-06acb4a6c419"
+ },
+ {
+  "ad": "EmİNe KiliÇ GÜZellİK Merkezİ",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "ÖnKuzu Cd. No:29 D:1A",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.639949798583984,
+  "lng": 35.8049201965332,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.639949798583984,35.8049201965332",
+  "yandex_url": "https://yandex.com/maps/?text=EmİNe KiliÇ GÜZellİK Merkezİ&ll=35.8049201965332%2C40.639949798583984&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "97890b74-7aa5-461b-a86f-2c9f8943cedd",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Enn Kuaför Güzellik Merkezi",
@@ -1111,6 +1288,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Eray Saç Tasarım Salonu",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Vezirköprü",
+  "il": null,
+  "ilce": "Vezirköprü",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.14176940917969,
+  "lng": 35.461341857910156,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.14176940917969,35.461341857910156",
+  "yandex_url": "https://yandex.com/maps/?text=Eray Saç Tasarım Salonu&ll=35.461341857910156%2C41.14176940917969&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "970ce0ee-e01d-41d1-a127-704285be8f7e",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Esila Bayan Kuaför",
   "sektor": "guzellik-salonu",
   "kategori": "guzellik-salonu",
@@ -1136,6 +1342,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Esimti Saç Tasarim & Güzellİk Salonu",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Köprülüler Cd. No:83, Vezirköprü",
+  "il": null,
+  "ilce": "Vezirköprü",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.13895034790039,
+  "lng": 35.46061325073242,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.13895034790039,35.46061325073242",
+  "yandex_url": "https://yandex.com/maps/?text=Esimti Saç Tasarim & Güzellİk Salonu&ll=35.46061325073242%2C41.13895034790039&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "84265d59-e12f-44ea-9f09-b5f46a8b2fe8",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Esinti Güzellik Salonu",
@@ -1216,7 +1451,8 @@
   "fsq_id": "53bfe936498eb5bf28d7bd5a",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "35f53a9a-4978-4b2f-86fc-4c157e4b0a48"
  },
  {
   "ad": "Estetik Ve Güzellik Merkezi Saliha Toprak",
@@ -1256,7 +1492,7 @@
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0216) 711 48 20",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -1270,7 +1506,8 @@
   "fsq_id": "5103d99ce4b0f86881f0bf65",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "8a6770fb-d94d-4ba1-b606-27dd553389d8"
  },
  {
   "ad": "Favori Kuaför",
@@ -1379,6 +1616,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Gizem Saç Tasarim",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Rüzgar Sk. No:12, Merzifon",
+  "il": null,
+  "ilce": "Merzifon",
+  "mahalle": null,
+  "telefon": "(0358) 514 62 26",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.8757438659668,
+  "lng": 35.460575103759766,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.8757438659668,35.460575103759766",
+  "yandex_url": "https://yandex.com/maps/?text=Gizem Saç Tasarim&ll=35.460575103759766%2C40.8757438659668&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "ce4a4709-0fc3-4bda-871a-c83ac343853e",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Glam Beauty & Tattoo Piercing Studio",
@@ -1493,7 +1759,8 @@
   "fsq_id": "52555d54498ed1fade320611",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "4dc86d7c-6939-4ad6-b8a7-2aa0909d74f3"
  },
  {
   "ad": "Güneş Kuaför",
@@ -1682,7 +1949,8 @@
   "fsq_id": "52a465dc498eca5b1cf20843",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "6071df8e-6580-4f48-881e-0ac738f4a271"
  },
  {
   "ad": "Jix Kuaför&Güzellik Merkezi",
@@ -1710,6 +1978,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Jolie Güzellik Salonu",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "apartmanı, Bahar Sk. 33/4, Zile",
+  "il": null,
+  "ilce": "Zile",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.29825210571289,
+  "lng": 35.879234313964844,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.29825210571289,35.879234313964844",
+  "yandex_url": "https://yandex.com/maps/?text=Jolie Güzellik Salonu&ll=35.879234313964844%2C40.29825210571289&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "abc09285-ef28-4274-8169-00ef30aaf79e",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "KUMSAL KUAFÖR & GÜZELLİK SALONU",
@@ -1766,6 +2063,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Kavak.kuaför",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Muammer Aksoy Sokak 6A, Merzifon",
+  "il": null,
+  "ilce": "Merzifon",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.870487213134766,
+  "lng": 35.46080017089844,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.870487213134766,35.46080017089844",
+  "yandex_url": "https://yandex.com/maps/?text=Kavak.kuaför&ll=35.46080017089844%2C40.870487213134766&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "3772964a-9d9f-4c02-b854-d29e08103eaf",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Kuafor Mehmet",
   "sektor": "guzellik-salonu",
   "kategori": "guzellik-salonu",
@@ -1799,7 +2125,7 @@
   "hizmet_ipuclari": [
    "4f04aa0c2fb6e1c99f3db0b8"
   ],
-  "adres": null,
+  "adres": "Rüzgar Sk. No:13, Merzifon",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -1817,7 +2143,8 @@
   "fsq_id": "5b548635d0a149002c6098de",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "4dbf5c44-b3fe-4402-b7c3-b44b009aa08a"
  },
  {
   "ad": "Kuaför Kadriye",
@@ -1853,11 +2180,11 @@
   "hizmet_ipuclari": [
    "4f04aa0c2fb6e1c99f3db0b8"
   ],
-  "adres": null,
+  "adres": "Mustafa Kemal Paşa Cd. Hatipoğlu Pasajı No:48 D:1",
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0358) 218 33 27",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -1871,7 +2198,8 @@
   "fsq_id": "53c7a8a4498edeb14aeb35fc",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "1a27af2b-9bb1-42f6-af20-35e5aa7238c9"
  },
  {
   "ad": "Kuaför İbrahim",
@@ -1899,6 +2227,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Kumsal Bayan Kuaförü",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": "tirnak",
+  "hizmet_ipuclari": [
+   "nail_salon"
+  ],
+  "adres": "Terminal Cd. No:15",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0358) 212 45 05",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.66615676879883,
+  "lng": 35.84529113769531,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.66615676879883,35.84529113769531",
+  "yandex_url": "https://yandex.com/maps/?text=Kumsal Bayan Kuaförü&ll=35.84529113769531%2C40.66615676879883&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "572599e9-cd12-46e8-9579-8315b8e78596",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Kumsal Kuaför",
@@ -1955,6 +2312,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "MK Podyum Kuaför",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Atatürk Blv. No:132, Suluova",
+  "il": null,
+  "ilce": "Suluova",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.82197189331055,
+  "lng": 35.656150817871094,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.82197189331055,35.656150817871094",
+  "yandex_url": "https://yandex.com/maps/?text=MK Podyum Kuaför&ll=35.656150817871094%2C40.82197189331055&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "19da6c9c-e296-4437-8d80-f6bcfacc0116",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Mat Kuaför & Güzellik Salonu",
   "sektor": "guzellik-salonu",
   "kategori": "guzellik-salonu",
@@ -2006,7 +2392,8 @@
   "fsq_id": "55a73b6a498ea7b857024ede",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "b1259c28-5388-474b-af25-fa06c4c4f883"
  },
  {
   "ad": "Mezoderm Güzellik Salonu",
@@ -2502,7 +2889,7 @@
   "hizmet_ipuclari": [
    "4f04aa0c2fb6e1c99f3db0b8"
   ],
-  "adres": "seyhali mahallesi",
+  "adres": "Dinçerler Cd. 35/1, Zile",
   "il": null,
   "ilce": "zile",
   "mahalle": null,
@@ -2520,7 +2907,8 @@
   "fsq_id": "58b55d2392ca4c1179023e5e",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "d87f5fa5-3725-487a-b346-2b744066975f"
  },
  {
   "ad": "Papatya Kuaför & Güzellik Salonu",
@@ -2556,7 +2944,7 @@
   "hizmet_ipuclari": [
    "4f04aa0c2fb6e1c99f3db0b8"
   ],
-  "adres": "Bedesten",
+  "adres": "Cumhuriyet Cd. No:103, Merzifon",
   "il": null,
   "ilce": "Merzifon",
   "mahalle": null,
@@ -2574,7 +2962,8 @@
   "fsq_id": "559168e8498e1aebe6c77b61",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "4bc6b4a4-673c-4108-a876-937b09c76c1e"
  },
  {
   "ad": "Pearl Life Güzellik Salonu",
@@ -2606,7 +2995,9 @@
   "fsq_id": "5de76126b2792900077b21ec",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "73ff037b-cfe0-47e4-b39e-41bcbf9a8985",
+  "alt": "tirnak"
  },
  {
   "ad": "Pera Güzellik Salonu",
@@ -2768,7 +3159,37 @@
   "fsq_id": "5720b359498ea26eb6542089",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "4e1742ba-32b4-4771-a389-6aaeaed3c968"
+ },
+ {
+  "ad": "Sachane Guzellik Kuafor",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Hacırahat Caddesi 68, Merzifon",
+  "il": null,
+  "ilce": "Merzifon",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.870033264160156,
+  "lng": 35.46297073364258,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.870033264160156,35.46297073364258",
+  "yandex_url": "https://yandex.com/maps/?text=Sachane Guzellik Kuafor&ll=35.46297073364258%2C40.870033264160156&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "0fe24c7e-c593-447d-b65c-45a553f902cf",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Sahra Kuaför",
@@ -2781,7 +3202,7 @@
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0358) 212 70 10",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -2795,7 +3216,8 @@
   "fsq_id": "56ed588c498edb1ced1e5808",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "39487db0-0f2b-48ab-9262-aed1f41e1259"
  },
  {
   "ad": "Salon Byzaim",
@@ -3152,6 +3574,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Serap Türkmen Güzellik Salonu",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Eren Sk. No:45/2, Merzifon",
+  "il": null,
+  "ilce": "Merzifon",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.87417221069336,
+  "lng": 35.45973587036133,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.87417221069336,35.45973587036133",
+  "yandex_url": "https://yandex.com/maps/?text=Serap Türkmen Güzellik Salonu&ll=35.45973587036133%2C40.87417221069336&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "5691f0e8-0a93-498e-9192-e5f06bd652a3",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Sevgi Kuafor",
   "sektor": "guzellik-salonu",
   "kategori": "guzellik-salonu",
@@ -3258,6 +3709,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Smg Saç Tasarim",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Denizciler Cd. No:32, Suluova",
+  "il": null,
+  "ilce": "Suluova",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.83460235595703,
+  "lng": 35.645851135253906,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.83460235595703,35.645851135253906",
+  "yandex_url": "https://yandex.com/maps/?text=Smg Saç Tasarim&ll=35.645851135253906%2C40.83460235595703&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "ddf63dd7-4620-488d-8bce-51a8f8b33ba3",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Steril Güzellik Merkezi",
@@ -3392,7 +3872,8 @@
   "fsq_id": "53343ac7498e81ea19fd136d",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "6bba8e53-f5f6-4729-95be-bc7cdf4b3bb1"
  },
  {
   "ad": "Tarplas",
@@ -3422,6 +3903,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Teslime Dinler Deniz Estetik & Güzellik",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Gazi Cd. No:31, Vezirköprü",
+  "il": null,
+  "ilce": "Vezirköprü",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 41.140586853027344,
+  "lng": 35.464576721191406,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=41.140586853027344,35.464576721191406",
+  "yandex_url": "https://yandex.com/maps/?text=Teslime Dinler Deniz Estetik & Güzellik&ll=35.464576721191406%2C41.140586853027344&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "b923fc41-e2f3-4cc6-9280-6a91d716906f",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Topçuoğlu DökerJet",
   "sektor": "guzellik-salonu",
   "kategori": "guzellik-salonu",
@@ -3447,6 +3957,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Tuğçe Parfümeri",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Zile",
+  "il": null,
+  "ilce": "Zile",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.29960632324219,
+  "lng": 35.8870964050293,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.29960632324219,35.8870964050293",
+  "yandex_url": "https://yandex.com/maps/?text=Tuğçe Parfümeri&ll=35.8870964050293%2C40.29960632324219&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "2925d785-a733-47a0-8098-e611ed3833ee",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Vazgeçilmezim olan kuaför bakımında",
@@ -3666,6 +4205,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Yasemin Bayan Kuaför Ve Güzellik Salonu",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Suluova",
+  "il": null,
+  "ilce": "Suluova",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.8333740234375,
+  "lng": 35.64704132080078,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.8333740234375,35.64704132080078",
+  "yandex_url": "https://yandex.com/maps/?text=Yasemin Bayan Kuaför Ve Güzellik Salonu&ll=35.64704132080078%2C40.8333740234375&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "16d7c7e4-2050-4f53-8049-9d14546c0103",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Yildiz Guzellik Merkezi",
   "sektor": "guzellik-salonu",
   "kategori": "guzellik-salonu",
@@ -3719,6 +4287,64 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "ZB Güzellik Salonu",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Mert Apartmanı, Mehmet Varinli Cd. 80/82 Kat:3 Daire:8",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.66149139404297,
+  "lng": 35.84185791015625,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.66149139404297,35.84185791015625",
+  "yandex_url": "https://yandex.com/maps/?text=ZB Güzellik Salonu&ll=35.84185791015625%2C40.66149139404297&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "b1eb6f04-ca0b-4f67-a500-b24235096b8c",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Zehram bayan kuaförü",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Merzifon",
+  "il": null,
+  "ilce": "Merzifon",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.85953140258789,
+  "lng": 35.45988464355469,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.85953140258789,35.45988464355469",
+  "yandex_url": "https://yandex.com/maps/?text=Zehram bayan kuaförü&ll=35.45988464355469%2C40.85953140258789&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "d22ba81c-1441-4d29-9231-b68cae030f2d",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Zekiye kuaför",
@@ -3880,7 +4506,8 @@
   "fsq_id": "523420df498ea8a76a1a6fdd",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "6e2d33c2-657e-48c7-95b9-2dfb21dadbee"
  },
  {
   "ad": "burak kuaför",
@@ -3961,7 +4588,37 @@
   "fsq_id": "52bd3e74498e60dbd001fb58",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "8c31ecc5-f9d0-4bf1-abef-8b0eca9050d7"
+ },
+ {
+  "ad": "ela bayan kuafor",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Sakman Sk. No:4",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.65806579589844,
+  "lng": 35.838199615478516,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.65806579589844,35.838199615478516",
+  "yandex_url": "https://yandex.com/maps/?text=ela bayan kuafor&ll=35.838199615478516%2C40.65806579589844&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "0c6ad5c0-ccd9-4ce0-a700-7d7bfb1c39e1",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "elif kuaför",
@@ -4258,7 +4915,8 @@
   "fsq_id": "54ba70ee498ef55d20541468",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "e2988340-e245-4f75-b5fa-b132c5db041d"
  },
  {
   "ad": "kuaför mustafa",
@@ -4727,7 +5385,7 @@
   "hizmet_ipuclari": [
    "4f04aa0c2fb6e1c99f3db0b8"
   ],
-  "adres": null,
+  "adres": "Cumhuriyet Cd. No:161, Merzifon",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -4745,7 +5403,8 @@
   "fsq_id": "51584a32e4b0e55daa10ebd1",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "0c3c98c7-1076-4591-a90f-a3782798e295"
  },
  {
   "ad": "özlem kuaför",
@@ -4773,6 +5432,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "İlknur Güzellik Salonu",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Lise Cd., Merzifon",
+  "il": null,
+  "ilce": "Merzifon",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 40.8780517578125,
+  "lng": 35.45637512207031,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=40.8780517578125,35.45637512207031",
+  "yandex_url": "https://yandex.com/maps/?text=İlknur Güzellik Salonu&ll=35.45637512207031%2C40.8780517578125&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "e6b5eed4-7b98-4182-8b88-fa52ee14b415",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "ışıl kouför",

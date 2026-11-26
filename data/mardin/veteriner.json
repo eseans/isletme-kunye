@@ -27,6 +27,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Amed Veteriner Kliniği",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Derik",
+  "il": null,
+  "ilce": "Derik",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.363311767578125,
+  "lng": 40.267303466796875,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.363311767578125,40.267303466796875",
+  "yandex_url": "https://yandex.com/maps/?text=Amed Veteriner Kliniği&ll=40.267303466796875%2C37.363311767578125&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "68f5efb4-75ac-40c7-9fcf-fa3ac35ada44",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Avcılar Pet Veteriner Kliniği",
   "sektor": "veteriner",
   "kategori": "veteriner",
@@ -54,18 +83,76 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Avcılar Veteriner Kliniği",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Sevgi Sk. No:10, Artuklu",
+  "il": null,
+  "ilce": "Artuklu",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.31283187866211,
+  "lng": 40.72780990600586,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.31283187866211,40.72780990600586",
+  "yandex_url": "https://yandex.com/maps/?text=Avcılar Veteriner Kliniği&ll=40.72780990600586%2C37.31283187866211&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "b4c93532-c9c2-4ad2-89c0-1c8721eb6039",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Badilli Saanen Keçi işletmesi",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "MARDİN / KIZILTEPE Hacı Hasan Köyü, Kızıltepe",
+  "il": null,
+  "ilce": "Kızıltepe",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.22797393798828,
+  "lng": 40.505916595458984,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.22797393798828,40.505916595458984",
+  "yandex_url": "https://yandex.com/maps/?text=Badilli Saanen Keçi işletmesi&ll=40.505916595458984%2C37.22797393798828&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "658fafa0-5ae8-4078-bba8-068e91f637de",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Bölge Veteriner Kliniği",
   "sektor": "veteriner",
   "kategori": "veteriner",
   "hizmet_ipuclari": [
    "4d954af4a243a5684765b473"
   ],
-  "adres": null,
+  "adres": "Cumhuriyet Blv. NO:221B, Midyat",
   "il": null,
   "ilce": "Midyat Mardin",
   "mahalle": null,
   "telefon": null,
-  "web": null,
+  "web": "https://midyatveteriner.com/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -78,7 +165,8 @@
   "fsq_id": "5bb31bd62b274a002cc63f56",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "1275033e-ea09-45d7-bc83-f6a652cecb88"
  },
  {
   "ad": "Can Veteriner Kliniği",
@@ -168,7 +256,7 @@
   "hizmet_ipuclari": [
    "4d954af4a243a5684765b473"
   ],
-  "adres": null,
+  "adres": "Ceylanpınar Cd No:58, Kızıltepe",
   "il": null,
   "ilce": "Kızıltepe",
   "mahalle": null,
@@ -186,7 +274,8 @@
   "fsq_id": "5a02e5a558aa7f24d4b73b34",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "c1085094-eaad-422f-aa5e-d45f65db58de"
  },
  {
   "ad": "Koçhan Veteriner Kliniği",
@@ -216,6 +305,122 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Lover Pet Veteriner Kliniği",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Alper Apartmanı, Yenişehir Mahallesi Ravza Caddesi, Cemre Sk. no:20, Artuklu",
+  "il": null,
+  "ilce": "Artuklu",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.32081985473633,
+  "lng": 40.71762466430664,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.32081985473633,40.71762466430664",
+  "yandex_url": "https://yandex.com/maps/?text=Lover Pet Veteriner Kliniği&ll=40.71762466430664%2C37.32081985473633&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "d505b93d-f479-4ccc-9aaa-ee9da99ff91f",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Mardin Pet Veteriner Klinigi",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "fildişi apartmanı, 13 Mart Cd. 47. sokak altı, Artuklu",
+  "il": null,
+  "ilce": "Artuklu",
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://www.instagram.com/mardinpetveterinerklinigi/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.32250213623047,
+  "lng": 40.7259407043457,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.32250213623047,40.7259407043457",
+  "yandex_url": "https://yandex.com/maps/?text=Mardin Pet Veteriner Klinigi&ll=40.7259407043457%2C37.32250213623047&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "b49a23af-641a-475f-8c2e-de690a8ee550",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Mardin kalesinde",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "şar mahlesi, Artuklu",
+  "il": null,
+  "ilce": "Artuklu",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.31414794921875,
+  "lng": 40.743316650390625,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.31414794921875,40.743316650390625",
+  "yandex_url": "https://yandex.com/maps/?text=Mardin kalesinde&ll=40.743316650390625%2C37.31414794921875&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "c652ab44-9de9-49aa-bdd8-5447e9f90c1c",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "MardİN Taklaci Seferlİ GÜVercİNlerİNİ Koruma YaŞAtma DerneĞİ",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Balcı 102. Sokak 4, Artuklu",
+  "il": null,
+  "ilce": "Artuklu",
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://www.facebook.com/share/15Fc2onqSv/?mibextid=wwXIfr",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.31324005126953,
+  "lng": 40.73755645751953,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.31324005126953,40.73755645751953",
+  "yandex_url": "https://yandex.com/maps/?text=MardİN Taklaci Seferlİ GÜVercİNlerİNİ Koruma YaŞAtma DerneĞİ&ll=40.73755645751953%2C37.31324005126953&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "2c1e6ecd-c0a5-4151-9ec8-5469dede7f02",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Mazi Veteriner",
   "sektor": "veteriner",
   "kategori": "veteriner",
@@ -240,7 +445,37 @@
   "fsq_id": "59ac6c882105c33258079a66",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "2e0f2b7e-1d8d-436b-8f58-04f63e1be77f"
+ },
+ {
+  "ad": "Mazıdağı Nûbıhar Veteriner Kliniği",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Yeşil Derik Caddesi 6, Mazıdağı",
+  "il": null,
+  "ilce": "Mazıdağı",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.477149963378906,
+  "lng": 40.48664855957031,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.477149963378906,40.48664855957031",
+  "yandex_url": "https://yandex.com/maps/?text=Mazıdağı Nûbıhar Veteriner Kliniği&ll=40.48664855957031%2C37.477149963378906&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "ee9c7bf8-2271-4ca6-8cc6-72797f15f441",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Mercan Veteriner Kliniği",
@@ -268,6 +503,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Metropol Veteriner Kliniği",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "9132 sokak No:16D, Kızıltepe",
+  "il": null,
+  "ilce": "Kızıltepe",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.234642028808594,
+  "lng": 40.62956619262695,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.234642028808594,40.62956619262695",
+  "yandex_url": "https://yandex.com/maps/?text=Metropol Veteriner Kliniği&ll=40.62956619262695%2C37.234642028808594&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "06c62d39-e577-4179-866f-c4abeabcff72",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Mezopotamya Veteriner",
@@ -321,7 +585,8 @@
   "fsq_id": "6647b8913108114656a823a9",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "4aadb006-e4f9-44f4-9991-505468ea14d5"
  },
  {
   "ad": "Mirza",
@@ -460,6 +725,64 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Ortaköy veteriner kliniği",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "Gökçe Caddesi, 47060, Ortaköy, Artuklu, Mardin, Türkiye, Artuklu",
+  "il": null,
+  "ilce": "Artuklu",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.222740173339844,
+  "lng": 40.772186279296875,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.222740173339844,40.772186279296875",
+  "yandex_url": "https://yandex.com/maps/?text=Ortaköy veteriner kliniği&ll=40.772186279296875%2C37.222740173339844&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "9d324a06-b820-4c0a-b70c-59801d8fab74",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Patiset Evcil Hayvan Kuaförü Artuklu",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": "pet-kuafor",
+  "hizmet_ipuclari": [
+   "pet_groomer"
+  ],
+  "adres": "İkiz Kule Baraj İnşaat, 10. Sokak No:3 Kat:1 B Blok, Artuklu",
+  "il": null,
+  "ilce": "Artuklu",
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://www.patiset.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.322879791259766,
+  "lng": 40.72554397583008,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.322879791259766,40.72554397583008",
+  "yandex_url": "https://yandex.com/maps/?text=Patiset Evcil Hayvan Kuaförü Artuklu&ll=40.72554397583008%2C37.322879791259766&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "d3b36831-87e4-48b3-9cb7-6b45ee18e7b0",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Pet-Veteriner Kliniği",
   "sektor": "veteriner",
   "kategori": "veteriner",
@@ -592,7 +915,8 @@
   "fsq_id": "58959cbd44587f122a1d88a0",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "f7b7523c-f504-4887-82a0-e62da5887f39"
  },
  {
   "ad": "Yasin Veteriner Kliniği",
@@ -647,6 +971,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Zen Pet Veteriner Kliniği",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "sümer inşaat, 22.cadde D:2 kapı no 23 apartman dükkan no 4, Kızıltepe",
+  "il": null,
+  "ilce": "Kızıltepe",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.23661804199219,
+  "lng": 40.63264465332031,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.23661804199219,40.63264465332031",
+  "yandex_url": "https://yandex.com/maps/?text=Zen Pet Veteriner Kliniği&ll=40.63264465332031%2C37.23661804199219&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "161b4e22-15ef-49a2-b81b-d5fcd715b400",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Zengin Veteriner Kliniği",
@@ -755,5 +1108,34 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Şifa veteriner kliniği",
+  "sektor": "veteriner",
+  "kategori": "veteriner",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "veterinarian"
+  ],
+  "adres": "PTT Cd., Kızıltepe",
+  "il": null,
+  "ilce": "Kızıltepe",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 37.192081451416016,
+  "lng": 40.586021423339844,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=37.192081451416016,40.586021423339844",
+  "yandex_url": "https://yandex.com/maps/?text=Şifa veteriner kliniği&ll=40.586021423339844%2C37.192081451416016&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "e75b6611-fcf7-4db1-a76f-bee89dcd3654",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  }
 ]

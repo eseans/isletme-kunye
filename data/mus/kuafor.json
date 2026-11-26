@@ -623,6 +623,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Destina Bayan Kuaförü ve Güzellik Salonu",
+  "sektor": "kuafor",
+  "kategori": "kuafor",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "hair_salon"
+  ],
+  "adres": "1.nolu sağlık ocağı karşısı",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0436) 212 68 66",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.73768615722656,
+  "lng": 41.49656677246094,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.73768615722656,41.49656677246094",
+  "yandex_url": "https://yandex.com/maps/?text=Destina Bayan Kuaförü ve Güzellik Salonu&ll=41.49656677246094%2C38.73768615722656&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "876073f7-3de6-4e36-a2f9-065f23ba39fb",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Devran Barber Shop",
   "sektor": "kuafor",
   "kategori": "kuafor",
@@ -1727,7 +1756,37 @@
   "fsq_id": "5145ad43e4b0853bf2d1f714",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "3823ad47-c045-4e8e-9a92-19dfc9e9eb9a"
+ },
+ {
+  "ad": "Saloon Yakup Eşkin",
+  "sektor": "kuafor",
+  "kategori": "kuafor",
+  "alt": "berber",
+  "hizmet_ipuclari": [
+   "barber"
+  ],
+  "adres": "eski otogar üstü, Cumhuriyet Cd.",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.745811462402344,
+  "lng": 41.5064582824707,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.745811462402344,41.5064582824707",
+  "yandex_url": "https://yandex.com/maps/?text=Saloon Yakup Eşkin&ll=41.5064582824707%2C38.745811462402344&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "653ade43-ee57-43cb-82cf-e354497d8db8",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Saray  Kuafor",

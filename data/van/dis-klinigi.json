@@ -465,12 +465,12 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d178941735"
   ],
-  "adres": "Eski Araştırma Hastenesi Arkası Grospark Karşısı",
+  "adres": "Gölbaşı Sk. No:23, İpekyolu",
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
-  "web": null,
+  "telefon": "(0432) 212 11 13",
+  "web": "http://www.dentvan.com/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -483,7 +483,8 @@
   "fsq_id": "5a7a0508e1791015d3204bf6",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "9bebf67f-9181-4497-8e30-c7132f4f23ec"
  },
  {
   "ad": "Dis Hekimi Gulen KAYA KAPTANOĞLU",
@@ -834,7 +835,8 @@
   "fsq_id": "6311f5778a2db816d40d5b46",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "fefdf5e6-a193-4843-9594-edb6da86fd1c"
  },
  {
   "ad": "Diş Hekimi Hacer Akkoç",
@@ -1131,7 +1133,8 @@
   "fsq_id": "5864cdaeb12d9f3e94527ebf",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "2032a097-67d6-4894-98f0-1fc27921c16c"
  },
  {
   "ad": "Diş Hekimi Serkan Sayyiğit",
@@ -1186,6 +1189,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Diş Hekimi Uğur Yorgun",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Veteriner Cd., İpekyolu",
+  "il": null,
+  "ilce": "İpekyolu",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.499916076660156,
+  "lng": 43.382022857666016,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.499916076660156,43.382022857666016",
+  "yandex_url": "https://yandex.com/maps/?text=Diş Hekimi Uğur Yorgun&ll=43.382022857666016%2C38.499916076660156&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "50ad5493-eed0-4b1a-aeb3-f2da2b72cc9f",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Diş Hekimi Vedat Arikan",
@@ -1455,7 +1487,8 @@
   "fsq_id": "579995d1498eec5762b81a88",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "ad71d034-2f1c-400e-83ed-61a4f08019cf"
  },
  {
   "ad": "Diş hekimi Mehmet ALTINBAŞAK",
@@ -1537,6 +1570,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Diş kliniği ",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Hafiziye mh, Veteriner cad., 65100 İpekyolu/Van, İpekyolu",
+  "il": null,
+  "ilce": "İpekyolu",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.50273132324219,
+  "lng": 43.419124603271484,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.50273132324219,43.419124603271484",
+  "yandex_url": "https://yandex.com/maps/?text=Diş kliniği &ll=43.419124603271484%2C38.50273132324219&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "cddfb647-74c0-4625-bf0c-2392c673ee31",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Dişhekimi Dr. Mortaza Esmaili",
@@ -1809,6 +1871,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Dr. Dt. Emre Naiboğlu",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Hafiziye Mahallesi Kazim Karabekir Bulvarı Fergül İş Merkezi Bina No:154 K:2 No:10, İpekyolu",
+  "il": null,
+  "ilce": "İpekyolu",
+  "mahalle": null,
+  "telefon": "(0432) 216 33 43",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.50046920776367,
+  "lng": 43.37843322753906,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.50046920776367,43.37843322753906",
+  "yandex_url": "https://yandex.com/maps/?text=Dr. Dt. Emre Naiboğlu&ll=43.37843322753906%2C38.50046920776367&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "65454c7e-2bf1-48b4-b743-667a5ac3f7b6",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Dr. Osman Azizoglu",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -1915,6 +2006,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Dt. Süleyman Pülat Ağız ve Diş Sağlığı Muayenehanesi",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Şerefiye Mahallesi, Mareşal Fevzi Çakmak Caddesi, Özok Kültür Sitesi ABlok Dış Kapı No: 18, Kat 3, İç Kapı No: 12, İpekyolu",
+  "il": null,
+  "ilce": "İpekyolu",
+  "mahalle": null,
+  "telefon": "(0850) 888 06 65",
+  "web": "https://www.instagram.com/suleymanpulatt?igsh=MXc5MW5ybXNtdmlrdQ%3D%3D",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.498023986816406,
+  "lng": 43.397300720214844,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.498023986816406,43.397300720214844",
+  "yandex_url": "https://yandex.com/maps/?text=Dt. Süleyman Pülat Ağız ve Diş Sağlığı Muayenehanesi&ll=43.397300720214844%2C38.498023986816406&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "55e3f10e-e44d-4a70-aeca-8f7d23df18e9",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Dt. Şebnem Akay Muayenehanesi",
@@ -2160,6 +2280,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Erciş Dental",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Erciş, Van, Türkiye, Erciş",
+  "il": null,
+  "ilce": "Erciş",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.028099060058594,
+  "lng": 43.36185836791992,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.028099060058594,43.36185836791992",
+  "yandex_url": "https://yandex.com/maps/?text=Erciş Dental&ll=43.36185836791992%2C39.028099060058594&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "0690bad5-d8c5-4a0d-bc2b-df194e965546",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "FLORANSA DENT Ağız ve Diş Sağlığı Polikliniği",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -2184,7 +2333,8 @@
   "fsq_id": "5db0aa4d0c54f00008d79fac",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "7ecae817-f748-4f66-a0a6-dea767f07e3a"
  },
  {
   "ad": "HANEGE Diş Kliniği",
@@ -2430,6 +2580,64 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Ovadent Van Özel Diş Hastanesi",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Kazım Karabekir Blv. No:113/1, İpekyolu",
+  "il": null,
+  "ilce": "İpekyolu",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.50014114379883,
+  "lng": 43.38094711303711,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.50014114379883,43.38094711303711",
+  "yandex_url": "https://yandex.com/maps/?text=Ovadent Van Özel Diş Hastanesi&ll=43.38094711303711%2C38.50014114379883&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "181405c2-fef2-4a66-80cf-13f0459a5426",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Ozel ProfDent Van Agiz ve Dis Sagligi Poliklinigi",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Halk Eğitim Merkezi Çaprazı, İskele Cd., İpekyolu",
+  "il": null,
+  "ilce": "İpekyolu",
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://profdent.com.tr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.50453567504883,
+  "lng": 43.39248275756836,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.50453567504883,43.39248275756836",
+  "yandex_url": "https://yandex.com/maps/?text=Ozel ProfDent Van Agiz ve Dis Sagligi Poliklinigi&ll=43.39248275756836%2C38.50453567504883&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "e20b8a65-1fe8-4c0a-86ed-994c62c02623",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "PAPATYA AĞIZ ve DİŞ SAĞLIĞI POLİKLİNİĞİ",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -2511,6 +2719,64 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Van  Özel  Diştaş  Dental  Lab",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Hastane 2. Sokak 14, İpekyolu",
+  "il": null,
+  "ilce": "İpekyolu",
+  "mahalle": null,
+  "telefon": "(0432) 215 78 44",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.49951934814453,
+  "lng": 43.41699981689453,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.49951934814453,43.41699981689453",
+  "yandex_url": "https://yandex.com/maps/?text=Van  Özel  Diştaş  Dental  Lab&ll=43.41699981689453%2C38.49951934814453&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "5408ca43-e53e-4a3c-a577-07cc592ea666",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Van  Özel  Diştaş  Dental  Lab",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Hastane 2. Sokak 14, İpekyolu",
+  "il": null,
+  "ilce": "İpekyolu",
+  "mahalle": null,
+  "telefon": "(0432) 215 78 44",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.49879455566406,
+  "lng": 43.4012565612793,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.49879455566406,43.4012565612793",
+  "yandex_url": "https://yandex.com/maps/?text=Van  Özel  Diştaş  Dental  Lab&ll=43.4012565612793%2C38.49879455566406&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "85f7693c-5374-4e3e-b2cc-75124468ce8f",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Van Ağız ve Diş Sağlığı Merkezi",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -2535,7 +2801,37 @@
   "fsq_id": "51ef7e6a498e75fe4a4ca8ce",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "a557a4be-4eff-4c65-9d5c-e3f6f41ed3e6"
+ },
+ {
+  "ad": "Van LİNa Dent AĞIz Ve DİŞ SaĞLiĞI PolİKlİNİĞİ",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Birgül Sk. NO:9 İÇ KAPI NO :1, İpekyolu",
+  "il": null,
+  "ilce": "İpekyolu",
+  "mahalle": null,
+  "telefon": "(0432) 502 06 65",
+  "web": "https://share.google/AqcD46SmT8TKkfV7p",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.494384765625,
+  "lng": 43.382476806640625,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.494384765625,43.382476806640625",
+  "yandex_url": "https://yandex.com/maps/?text=Van LİNa Dent AĞIz Ve DİŞ SaĞLiĞI PolİKlİNİĞİ&ll=43.382476806640625%2C38.494384765625&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "64d3cd45-bab5-4422-99f8-9af4702318f6",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Yakup Bozyel Ağız Ve Diş Sağlığı Polikliniği",
@@ -2835,6 +3131,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "doğu diş kliniği",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "S. Mehmet Efendi Sk. No:48, İpekyolu",
+  "il": null,
+  "ilce": "İpekyolu",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.5008659362793,
+  "lng": 43.39554977416992,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.5008659362793,43.39554977416992",
+  "yandex_url": "https://yandex.com/maps/?text=doğu diş kliniği&ll=43.39554977416992%2C38.5008659362793&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "9ed3471c-2923-4318-802e-f6cce1b8cac7",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "gökhan diş labratuvarı",
   "sektor": "dis-klinigi",
   "kategori": "dis-klinigi",
@@ -2995,6 +3320,64 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Özel Med Dental Ağız Ve Diş Sağlığı Polikliniği ",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "İskele Caddesi 78, İpekyolu",
+  "il": null,
+  "ilce": "İpekyolu",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.50718688964844,
+  "lng": 43.3807487487793,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.50718688964844,43.3807487487793",
+  "yandex_url": "https://yandex.com/maps/?text=Özel Med Dental Ağız Ve Diş Sağlığı Polikliniği &ll=43.3807487487793%2C38.50718688964844&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "d2848243-6ec4-445a-9053-6255916cc6ae",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Özgür Özel Çok Amaçlı Diş Laboratuvarı",
+  "sektor": "dis-klinigi",
+  "kategori": "dis-klinigi",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "dental_clinic"
+  ],
+  "adres": "Şerefiye, Doğan Sk. No:1, 65140 Van Merkez, İpekyolu",
+  "il": null,
+  "ilce": "İpekyolu",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.50119400024414,
+  "lng": 43.39728546142578,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.50119400024414,43.39728546142578",
+  "yandex_url": "https://yandex.com/maps/?text=Özgür Özel Çok Amaçlı Diş Laboratuvarı&ll=43.39728546142578%2C38.50119400024414&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "02fd7e61-b383-409c-96eb-867d6c8aeb33",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Özok İş Merkezi Vedat Arikan Diş Kliniği",

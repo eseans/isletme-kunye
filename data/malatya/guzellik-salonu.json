@@ -6,7 +6,7 @@
   "hizmet_ipuclari": [
    "4f04aa0c2fb6e1c99f3db0b8"
   ],
-  "adres": null,
+  "adres": "Malabadi Sok. No:3, Yeşilyurt",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -24,7 +24,9 @@
   "fsq_id": "62e227d32b8b4a33da0a981d",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "9ec882bd-112a-496f-a70d-91eac0edce3a",
+  "alt": "tirnak"
  },
  {
   "ad": "ALBAYRAK'S Terrace",
@@ -105,7 +107,9 @@
   "fsq_id": "4fccf7c4e4b09949e4fcee9f",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "a9646ffb-0579-4e0b-8370-0caf67a1a734",
+  "alt": "tirnak"
  },
  {
   "ad": "Activa Sağlık Güzellik ve Kozmetik",
@@ -135,6 +139,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Ada Güzellik Merkezi",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "İsmet Paşa Cd. No:85, Battalgazi",
+  "il": null,
+  "ilce": "Battalgazi",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.33756637573242,
+  "lng": 38.30576705932617,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.33756637573242,38.30576705932617",
+  "yandex_url": "https://yandex.com/maps/?text=Ada Güzellik Merkezi&ll=38.30576705932617%2C38.33756637573242&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "b05c4651-78b4-453e-b6fa-7ad9fd1bf36a",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Afromia Güzellik Merkezi",
   "sektor": "guzellik-salonu",
   "kategori": "guzellik-salonu",
@@ -160,6 +193,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Afromia Güzellik Merkezi",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "emeksiz cad no:16/1, Battalgazi",
+  "il": null,
+  "ilce": "Battalgazi",
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://www.google.com/Asel güzellik merkezi",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.35475158691406,
+  "lng": 38.32592010498047,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.35475158691406,38.32592010498047",
+  "yandex_url": "https://yandex.com/maps/?text=Afromia Güzellik Merkezi&ll=38.32592010498047%2C38.35475158691406&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "68775368-8f97-4aba-9455-00feb03d3160",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Aktiva",
@@ -189,6 +251,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Ala Life",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Sinerji İnşaat, Güngör Caddesi 80, Yeşilyurt",
+  "il": null,
+  "ilce": "Yeşilyurt",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.33891677856445,
+  "lng": 38.26362991333008,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.33891677856445,38.26362991333008",
+  "yandex_url": "https://yandex.com/maps/?text=Ala Life&ll=38.26362991333008%2C38.33891677856445&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "4e655231-97c0-4c9b-aa14-44940924810a",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Alesiya Moda",
   "sektor": "guzellik-salonu",
   "kategori": "guzellik-salonu",
@@ -214,6 +305,122 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Alis 2 Güzellik and Agda Salonu",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Yaprak Cd No 5 D:2C, Yeşilyurt",
+  "il": null,
+  "ilce": "Yeşilyurt",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.364376068115234,
+  "lng": 38.280399322509766,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.364376068115234,38.280399322509766",
+  "yandex_url": "https://yandex.com/maps/?text=Alis 2 Güzellik and Agda Salonu&ll=38.280399322509766%2C38.364376068115234&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "c0797226-21fd-4237-b51f-94fcc8bd63f0",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Alis Sir Aġda Salonu",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Beşkonaklar Cd.2. Sk., Battalgazi",
+  "il": null,
+  "ilce": "Battalgazi",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.34454345703125,
+  "lng": 38.322914123535156,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.34454345703125,38.322914123535156",
+  "yandex_url": "https://yandex.com/maps/?text=Alis Sir Aġda Salonu&ll=38.322914123535156%2C38.34454345703125&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "b02d3cf2-dfc6-461b-8242-efd6bb076cc3",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Alisyeso Hair & Make Up Studio",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "İsmet Paşa Cd. 183B, Yeşilyurt",
+  "il": null,
+  "ilce": "Yeşilyurt",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.319705963134766,
+  "lng": 38.277103424072266,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.319705963134766,38.277103424072266",
+  "yandex_url": "https://yandex.com/maps/?text=Alisyeso Hair & Make Up Studio&ll=38.277103424072266%2C38.319705963134766&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "9710326c-e784-4f18-9352-3adff15a8054",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Alix Estetik Kliniği",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Sait Çekmegil Sokak No:1, Yeşilyurt",
+  "il": null,
+  "ilce": "Yeşilyurt",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.33666229248047,
+  "lng": 38.2514533996582,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.33666229248047,38.2514533996582",
+  "yandex_url": "https://yandex.com/maps/?text=Alix Estetik Kliniği&ll=38.2514533996582%2C38.33666229248047&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "2fedecbf-a698-4a34-a147-3b6ba4450d9f",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Alper Estetik ve Saç Tasarım Merkezi",
@@ -565,7 +772,37 @@
   "fsq_id": "5efb47bef46faa00085a0e1a",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "d13fc673-5b65-40fb-974e-75068dc1ab28"
+ },
+ {
+  "ad": "Aris malatya",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Tecde Mahallesi ,İsmet Paşa Caddesi Kumtaşı Sitesi No : 179-1A 44090 Yeşilyurt, Yeşilyurt",
+  "il": null,
+  "ilce": "Yeşilyurt",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.31572723388672,
+  "lng": 38.274169921875,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.31572723388672,38.274169921875",
+  "yandex_url": "https://yandex.com/maps/?text=Aris malatya&ll=38.274169921875%2C38.31572723388672&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "39e026a9-3f7d-44df-8714-42604b9e1c53",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Arya Güzellik",
@@ -647,6 +884,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Asmin Sir Ağda Salonu",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Antepli Sk., Battalgazi",
+  "il": null,
+  "ilce": "Battalgazi",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.3470344543457,
+  "lng": 38.314552307128906,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.3470344543457,38.314552307128906",
+  "yandex_url": "https://yandex.com/maps/?text=Asmin Sir Ağda Salonu&ll=38.314552307128906%2C38.3470344543457&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "b3ffb26f-666b-46dc-ac0d-026aaff99327",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Asparagas Kuaför",
@@ -795,7 +1061,7 @@
   "ilce": "battalgazi",
   "mahalle": null,
   "telefon": null,
-  "web": null,
+  "web": "http://www.aysecoskunguzellik.com/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -808,7 +1074,8 @@
   "fsq_id": "65a172bfbf2ca404bbac35d7",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "a0df42c2-aede-40ea-b4da-a14cbd72e94b"
  },
  {
   "ad": "AŞAN ERKEK KUAFÖRÜ",
@@ -890,6 +1157,64 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Barber's Ramazan Sar",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Atmalı Sok. No:1, Battalgazi",
+  "il": null,
+  "ilce": "Battalgazi",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.346893310546875,
+  "lng": 38.31840515136719,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.346893310546875,38.31840515136719",
+  "yandex_url": "https://yandex.com/maps/?text=Barber's Ramazan Sar&ll=38.31840515136719%2C38.346893310546875&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "c9cb1630-7d24-4355-bde7-3b1db3cfe1c5",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Barber's Saloon Mahmut BULUT",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "İzzetiye Mahallesi Atmalı Sokak Vilayet Yanı Badıllı Apartmanı No:1, Battalgazi",
+  "il": null,
+  "ilce": "Battalgazi",
+  "mahalle": null,
+  "telefon": "(0422) 323 88 00",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.346614837646484,
+  "lng": 38.318809509277344,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.346614837646484,38.318809509277344",
+  "yandex_url": "https://yandex.com/maps/?text=Barber's Saloon Mahmut BULUT&ll=38.318809509277344%2C38.346614837646484&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "43d42841-8a29-450d-b1e1-1153b0fd3468",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Basak Kuaför",
@@ -1135,6 +1460,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Clinicaesthetic",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Berfin Apt, Fahri Kayahan Blv. D:118A, Yeşilyurt",
+  "il": null,
+  "ilce": "Yeşilyurt",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.32809066772461,
+  "lng": 38.28814697265625,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.32809066772461,38.28814697265625",
+  "yandex_url": "https://yandex.com/maps/?text=Clinicaesthetic&ll=38.28814697265625%2C38.32809066772461&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "315bccb1-32c2-4ed5-bbf2-6253287a3ce5",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Damla Kuaför",
   "sektor": "guzellik-salonu",
   "kategori": "guzellik-salonu",
@@ -1189,6 +1543,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Dermaktif Güzellik Salonu",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "İnönü Caddesi 30, Battalgazi",
+  "il": null,
+  "ilce": "Battalgazi",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.347999572753906,
+  "lng": 38.310813903808594,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.347999572753906,38.310813903808594",
+  "yandex_url": "https://yandex.com/maps/?text=Dermaktif Güzellik Salonu&ll=38.310813903808594%2C38.347999572753906&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "31d23479-0677-45bc-90f5-05709da20285",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Dermis Güzellik Salonu",
   "sektor": "guzellik-salonu",
   "kategori": "guzellik-salonu",
@@ -1214,6 +1597,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Dermo Clinic",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Kuaförler Sokağı, Atmalı Sok. No:6/A, Battalgazi",
+  "il": null,
+  "ilce": "Battalgazi",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.347286224365234,
+  "lng": 38.31815719604492,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.347286224365234,38.31815719604492",
+  "yandex_url": "https://yandex.com/maps/?text=Dermo Clinic&ll=38.31815719604492%2C38.347286224365234&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "d8519c0b-14fe-40d9-846c-c333c3729af0",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Dermobell güzellik salonu",
@@ -1348,7 +1760,8 @@
   "fsq_id": "5cb87ed2811045002cd15ca2",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "87f2c396-0903-4051-bd85-e996b143b83d"
  },
  {
   "ad": "Doga Güzellik Merkezi",
@@ -2053,6 +2466,64 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Essilife Lazer Epilasyon ve Güzellik Salonu",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Hora Apt. No: 68/2 Malatya, Fuzuli Cd., Battalgazi",
+  "il": null,
+  "ilce": "Battalgazi",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.344207763671875,
+  "lng": 38.3223876953125,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.344207763671875,38.3223876953125",
+  "yandex_url": "https://yandex.com/maps/?text=Essilife Lazer Epilasyon ve Güzellik Salonu&ll=38.3223876953125%2C38.344207763671875&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "8cb26150-4461-4eaf-af2e-05284ccd5e8c",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Este Line and Beauty",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": "epilasyon",
+  "hizmet_ipuclari": [
+   "hair_removal"
+  ],
+  "adres": "İnönü Cd. No:117, 44100, Battalgazi",
+  "il": null,
+  "ilce": "Battalgazi",
+  "mahalle": null,
+  "telefon": "(0422) 323 11 11",
+  "web": "http://este-line-epilasyon-ve-guzellik.webnode.com.tr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.34804153442383,
+  "lng": 38.30751037597656,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.34804153442383,38.30751037597656",
+  "yandex_url": "https://yandex.com/maps/?text=Este Line and Beauty&ll=38.30751037597656%2C38.34804153442383&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "7aa7ba3c-3f06-4e24-85c2-a028598a4fc9",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Este Malatya Dr. Nedim Bakırcı Klinik Çarşı Şubesi",
   "sektor": "guzellik-salonu",
   "kategori": "guzellik-salonu",
@@ -2080,13 +2551,42 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Este Malatya Estetik Ve Güzellik Merkezi",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "FAHRİ KAYAHAN MIHLIDUT SOKAK, Yeşilyurt",
+  "il": null,
+  "ilce": "Yeşilyurt",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.estemalatya.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.329586029052734,
+  "lng": 38.27371597290039,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.329586029052734,38.27371597290039",
+  "yandex_url": "https://yandex.com/maps/?text=Este Malatya Estetik Ve Güzellik Merkezi&ll=38.27371597290039%2C38.329586029052734&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "0fbd22bc-30e4-4101-853c-b4053ac5b910",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Este Merona",
   "sektor": "guzellik-salonu",
   "kategori": "guzellik-salonu",
   "hizmet_ipuclari": [
    "4f04aa0c2fb6e1c99f3db0b8"
   ],
-  "adres": "milliegemenlik cd. su apt",
+  "adres": "Milli Egemenlik Caddesi 28, Battalgazi",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -2104,7 +2604,8 @@
   "fsq_id": "50cc5d26e4b0af445c39db9b",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "9c46e968-68f9-4688-a06f-de214274faae"
  },
  {
   "ad": "Estemad Guzellik Ve Yasam",
@@ -2459,6 +2960,64 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Geysu Kuafor",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Şifa Mahallesi İnönü Caddesi - Doğa Cadde Karşısı, Battalgazi",
+  "il": null,
+  "ilce": "Battalgazi",
+  "mahalle": null,
+  "telefon": "(0422) 324 85 32",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.347984313964844,
+  "lng": 38.30548095703125,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.347984313964844,38.30548095703125",
+  "yandex_url": "https://yandex.com/maps/?text=Geysu Kuafor&ll=38.30548095703125%2C38.347984313964844&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "35997af1-d105-436f-a2c2-fc104700655a",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Geysu Kuaför",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Yeşilyurt",
+  "il": null,
+  "ilce": "Yeşilyurt",
+  "mahalle": null,
+  "telefon": "(0422) 324 85 32",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.33201599121094,
+  "lng": 38.27484893798828,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.33201599121094,38.27484893798828",
+  "yandex_url": "https://yandex.com/maps/?text=Geysu Kuaför&ll=38.27484893798828%2C38.33201599121094&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "65f06813-0293-4ea7-9ea9-c98307a36fb9",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Golden Girls",
   "sektor": "guzellik-salonu",
   "kategori": "guzellik-salonu",
@@ -2484,6 +3043,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Gonca Doğan Beauty",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "İsmetpaşa Cad No:226/B, Yeşilyurt",
+  "il": null,
+  "ilce": "Yeşilyurt",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.31367492675781,
+  "lng": 38.272029876708984,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.31367492675781,38.272029876708984",
+  "yandex_url": "https://yandex.com/maps/?text=Gonca Doğan Beauty&ll=38.272029876708984%2C38.31367492675781&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "df3ccd74-7055-492e-a81d-703f4d93abb8",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "GÜLBEN EFSU VIP SALON",
@@ -2839,6 +3427,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Hayalim Bayan kuaför - Kuaför Fatoş",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Halep Caddesi 138, Battalgazi",
+  "il": null,
+  "ilce": "Battalgazi",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.34577941894531,
+  "lng": 38.3061637878418,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.34577941894531,38.3061637878418",
+  "yandex_url": "https://yandex.com/maps/?text=Hayalim Bayan kuaför - Kuaför Fatoş&ll=38.3061637878418%2C38.34577941894531&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "d3cf36ab-3adf-4eba-8ecb-4b59dce83c93",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Hayalim Kuaför  (Fatoş'un Yeri)",
   "sektor": "guzellik-salonu",
   "kategori": "guzellik-salonu",
@@ -2896,7 +3513,9 @@
   "fsq_id": "615cb2734a234f5789a21120",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "5d5f9162-ac7f-4637-98ee-97390ef31601",
+  "alt": "tirnak"
  },
  {
   "ad": "Hüseyin Erkek Kuaförü",
@@ -3312,12 +3931,12 @@
   "hizmet_ipuclari": [
    "4f04aa0c2fb6e1c99f3db0b8"
   ],
-  "adres": "Kışla Cad.",
+  "adres": "Atatürk Cd. No:58, Battalgazi",
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
-  "web": null,
+  "telefon": "(0422) 323 93 23",
+  "web": "http://www.kuaforerkan.com/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -3330,7 +3949,8 @@
   "fsq_id": "506582f5e4b095d6fa0d935c",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "f2006807-a5d0-48d8-be0e-30c4f81c9eaf"
  },
  {
   "ad": "Kuaför Funda",
@@ -3528,7 +4148,7 @@
   "hizmet_ipuclari": [
    "4f04aa0c2fb6e1c99f3db0b8"
   ],
-  "adres": "Fuzuli Cd",
+  "adres": "Fuzuli Cd. Saray Apt. No:25 D:1, Battalgazi",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -3546,7 +4166,8 @@
   "fsq_id": "50360e2de4b045e72eb1e2f4",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "8937b88a-9665-4a75-a04d-6fbffc48c0cf"
  },
  {
   "ad": "Kuaför Murat & Cihan",
@@ -3684,6 +4305,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Kuaför Selçuk Örnek Bostanbaşı",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Çiftlik Caddesi 40, Yeşilyurt",
+  "il": null,
+  "ilce": "Yeşilyurt",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.32435989379883,
+  "lng": 38.24286651611328,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.32435989379883,38.24286651611328",
+  "yandex_url": "https://yandex.com/maps/?text=Kuaför Selçuk Örnek Bostanbaşı&ll=38.24286651611328%2C38.32435989379883&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "88bda6b0-7dd5-4628-90c8-709fc51fb9c6",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Kuaför Serap",
   "sektor": "guzellik-salonu",
   "kategori": "guzellik-salonu",
@@ -3744,7 +4394,7 @@
   "hizmet_ipuclari": [
    "4f04aa0c2fb6e1c99f3db0b8"
   ],
-  "adres": "Merkez, Malatya",
+  "adres": "Hasanbey Caddesi 78, Yeşilyurt",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -3762,7 +4412,9 @@
   "fsq_id": "5029036ae4b0a878432a9fb4",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "fc39bd0b-fdd0-4383-8ef2-13399d0688bf",
+  "alt": "tirnak"
  },
  {
   "ad": "Kuaför Yelda",
@@ -3802,7 +4454,7 @@
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0422) 325 98 83",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -3816,7 +4468,8 @@
   "fsq_id": "54d367fc498e716ddc40901a",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "334b6a6d-0f4d-4c87-9fd4-390c0d0bb95b"
  },
  {
   "ad": "Kuaför erkan",
@@ -3953,7 +4606,8 @@
   "fsq_id": "50a74adde4b041e7e0c1ad3d",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "1dbdf202-c9a3-4e9c-ab8c-041837b20fe1"
  },
  {
   "ad": "Layd Güzellik Merkezi",
@@ -4169,7 +4823,8 @@
   "fsq_id": "646b25cbbfb5f74b7fed2c41",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "b9ae71c4-d812-4fc0-a5cb-edf13b8a6a59"
  },
  {
   "ad": "Liza Kuaför",
@@ -4305,6 +4960,64 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Makeup Eylem",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Paşa Köşkü Cd. Ada Apt altı no:2, Battalgazi",
+  "il": null,
+  "ilce": "Battalgazi",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.338768005371094,
+  "lng": 38.308868408203125,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.338768005371094,38.308868408203125",
+  "yandex_url": "https://yandex.com/maps/?text=Makeup Eylem&ll=38.308868408203125%2C38.338768005371094&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "a207bec2-d347-479b-9882-243fdccab612",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Malatya Dogal Güzellik Salonu",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "hamidiye mah. inönü cad. no:25 kat:, Battalgazi",
+  "il": null,
+  "ilce": "Battalgazi",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.348365783691406,
+  "lng": 38.315223693847656,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.348365783691406,38.315223693847656",
+  "yandex_url": "https://yandex.com/maps/?text=Malatya Dogal Güzellik Salonu&ll=38.315223693847656%2C38.348365783691406&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "169ed48a-b052-4c2e-8bc4-16b886b780cb",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Malatyaestetik",
@@ -4629,6 +5342,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Mia Estetik Güzellik Kuaför Salonu",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Atatürk Kışla caddesi DeFacto karşısı İlicaklar İş Hanı kat 2 No 7, Battalgazi",
+  "il": null,
+  "ilce": "Battalgazi",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.34693145751953,
+  "lng": 38.322078704833984,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.34693145751953,38.322078704833984",
+  "yandex_url": "https://yandex.com/maps/?text=Mia Estetik Güzellik Kuaför Salonu&ll=38.322078704833984%2C38.34693145751953&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "914bc528-a28d-43d3-b67f-fecf4d2dbd8b",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Milano",
@@ -5279,6 +6021,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Phimonabyhandanbulut Güzelliksalonu",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Cengiz Topel Caddesi 84A, Battalgazi",
+  "il": null,
+  "ilce": "Battalgazi",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.34230422973633,
+  "lng": 38.31495666503906,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.34230422973633,38.31495666503906",
+  "yandex_url": "https://yandex.com/maps/?text=Phimonabyhandanbulut Güzelliksalonu&ll=38.31495666503906%2C38.34230422973633&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "195d154c-0ce3-4fa4-a22b-0c4737106e5d",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Platin Kuaför Salonu",
   "sektor": "guzellik-salonu",
   "kategori": "guzellik-salonu",
@@ -5693,7 +6464,7 @@
    "4bf58dd8d48988d110951735",
    "4f04aa0c2fb6e1c99f3db0b8"
   ],
-  "adres": null,
+  "adres": "Mimar Sinan Cd. 35B, Battalgazi",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -5711,7 +6482,8 @@
   "fsq_id": "5c7bcf4fb77c77002ccd082e",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "2a9e37ce-08bc-42fb-8d9a-d6d9eb81dece"
  },
  {
   "ad": "Salon Deniz",
@@ -5985,6 +6757,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Salon Murat Ornek",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Atmalı Sokak 14A, Battalgazi",
+  "il": null,
+  "ilce": "Battalgazi",
+  "mahalle": null,
+  "telefon": "(0422) 321 24 86",
+  "web": "http://www.muratornek.com",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.34614944458008,
+  "lng": 38.3183479309082,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.34614944458008,38.3183479309082",
+  "yandex_url": "https://yandex.com/maps/?text=Salon Murat Ornek&ll=38.3183479309082%2C38.34614944458008&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "60f27b6c-3bda-4738-9fb4-222a5894534c",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Salon Olaplex",
   "sektor": "guzellik-salonu",
   "kategori": "guzellik-salonu",
@@ -6173,6 +6974,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Sedat Kuaför",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Tek Mezar Mahallesi, Battalgazi",
+  "il": null,
+  "ilce": "Battalgazi",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.34425354003906,
+  "lng": 38.31447982788086,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.34425354003906,38.31447982788086",
+  "yandex_url": "https://yandex.com/maps/?text=Sedat Kuaför&ll=38.31447982788086%2C38.34425354003906&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "0d5385ac-e1f4-459d-9e11-c0c8a060ea2b",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Sefa Kuaför Salonu",
@@ -6445,7 +7275,37 @@
   "fsq_id": "6723ac7ed41f737461717774",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "d11cfcd6-586d-47e6-b521-940fcab4f8f5"
+ },
+ {
+  "ad": "Trendline Kuaför",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Vali Konagi Karsisi, Battalgazi",
+  "il": null,
+  "ilce": "Battalgazi",
+  "mahalle": null,
+  "telefon": "(0422) 324 40 01",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.34882736206055,
+  "lng": 38.32422637939453,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.34882736206055,38.32422637939453",
+  "yandex_url": "https://yandex.com/maps/?text=Trendline Kuaför&ll=38.32422637939453%2C38.34882736206055&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "f4b93514-3b7d-463d-bd05-af346f9547f1",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "TrendyBoss Güzellik Merkezi",
@@ -6584,6 +7444,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Tutku Bozkurt Vip",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Altın Kaşık Sokak 92b, Yeşilyurt",
+  "il": null,
+  "ilce": "Yeşilyurt",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.317996978759766,
+  "lng": 38.26743698120117,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.317996978759766,38.26743698120117",
+  "yandex_url": "https://yandex.com/maps/?text=Tutku Bozkurt Vip&ll=38.26743698120117%2C38.317996978759766&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "ac5dedc4-c713-432e-b118-14927007fccb",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Tuğba Arslan Vücut ve Güzellik Merkezi",
   "sektor": "guzellik-salonu",
   "kategori": "guzellik-salonu",
@@ -6608,7 +7497,8 @@
   "fsq_id": "531d9e61498e06b46f273c59",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "cb6bddc3-3987-4879-8bf9-78ded2fd38f5"
  },
  {
   "ad": "Usta Kuaför",
@@ -6744,7 +7634,8 @@
   "fsq_id": "513c6ebfe4b099af42c8d95d",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "627e6e48-192c-4348-9d11-b9b18ea4a096"
  },
  {
   "ad": "White Angel Güzellik Salonu",
@@ -8125,6 +9016,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Çiğdem Anşin Hair Clinic",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Güngör Caddesi 37/6, Yeşilyurt",
+  "il": null,
+  "ilce": "Yeşilyurt",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://malatyasacekimi.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.350311279296875,
+  "lng": 38.314727783203125,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.350311279296875,38.314727783203125",
+  "yandex_url": "https://yandex.com/maps/?text=Çiğdem Anşin Hair Clinic&ll=38.314727783203125%2C38.350311279296875&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "ff90b9c5-347e-4641-914a-32b5465d892a",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Öz güzellik salonu",
   "sektor": "guzellik-salonu",
   "kategori": "guzellik-salonu",
@@ -8266,11 +9186,11 @@
   "hizmet_ipuclari": [
    "4f04aa0c2fb6e1c99f3db0b8"
   ],
-  "adres": "MalatyaPark",
+  "adres": "İnönü Cd. No:196, Yeşilyurt",
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0422) 211 61 61",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -8284,7 +9204,8 @@
   "fsq_id": "584bced652a05116a1f21491",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "e7fc063d-938f-4d2d-9cf2-14611863c1e8"
  },
  {
   "ad": "💅💇 Matmazel💄👠",

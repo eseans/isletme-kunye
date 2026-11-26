@@ -456,7 +456,9 @@
   "fsq_id": "56b099a1498e918bda6e8592",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "83916fda-e40f-441f-8215-259866ccf90d",
+  "alt": "berber"
  },
  {
   "ad": "Birsel Kuaför",
@@ -618,7 +620,9 @@
   "fsq_id": "5313148d498e66affa48cd7b",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "71987387-31e7-494a-9f4a-4302cc31c15d",
+  "alt": "berber"
  },
  {
   "ad": "Flash erkek kuaförü",
@@ -658,7 +662,7 @@
   "il": null,
   "ilce": "Xozat",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0428) 561 33 39",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -672,7 +676,8 @@
   "fsq_id": "5634a8a2498e29329d6bd1f5",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "5e0c280f-cff2-47ef-8ba3-c4c59dc029ed"
  },
  {
   "ad": "Gülden Bayan Kuaförü",
@@ -1160,6 +1165,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Sevim & ümran Birsel kuaför salonu",
+  "sektor": "kuafor",
+  "kategori": "kuafor",
+  "alt": "berber",
+  "hizmet_ipuclari": [
+   "barber"
+  ],
+  "adres": null,
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0428) 212 53 23",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.10693359375,
+  "lng": 39.55030822753906,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.10693359375,39.55030822753906",
+  "yandex_url": "https://yandex.com/maps/?text=Sevim & ümran Birsel kuaför salonu&ll=39.55030822753906%2C39.10693359375&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "5b889d36-d8e1-43a6-a045-f7120a8ca6e5",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Solmaz Erkek Kuaförü",

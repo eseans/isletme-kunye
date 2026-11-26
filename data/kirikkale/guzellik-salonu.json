@@ -60,7 +60,7 @@
   "hizmet_ipuclari": [
    "4f04aa0c2fb6e1c99f3db0b8"
   ],
-  "adres": null,
+  "adres": "Ercan Yıldız Sokak 9/b",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -78,7 +78,8 @@
   "fsq_id": "52be8d1711d2e3a9537ab407",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "f04f3e1e-3de9-429e-a253-00178ac3d592"
  },
  {
   "ad": "Arif Erkek Berberi",
@@ -118,8 +119,8 @@
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
-  "web": null,
+  "telefon": "(0318) 333 32 32",
+  "web": "http://www.instagram.com/ariskirikkalevip",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -132,7 +133,8 @@
   "fsq_id": "6024e21487042c6e5c62f0d2",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "0f90e0ab-e86c-4fdf-8a8d-14ed40a7f163"
  },
  {
   "ad": "Aris Vip Güzellik Merkezi",
@@ -160,6 +162,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Ayla Topçu Beauty Salon",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "541. Cadde 56A, Keçiören",
+  "il": null,
+  "ilce": "Keçiören",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.91910934448242,
+  "lng": 33.23219680786133,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.91910934448242,33.23219680786133",
+  "yandex_url": "https://yandex.com/maps/?text=Ayla Topçu Beauty Salon&ll=33.23219680786133%2C39.91910934448242&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "45f38ccd-ab28-4167-9bb3-b50725a20f45",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Beliz Güzellik Merkezi",
@@ -270,6 +301,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Diamoss Kuaför",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Ankara Cd. No:9",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0318) 212 60 60",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.84375,
+  "lng": 33.50483322143555,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.84375,33.50483322143555",
+  "yandex_url": "https://yandex.com/maps/?text=Diamoss Kuaför&ll=33.50483322143555%2C39.84375&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "f0fccf62-24e1-459e-aa59-69b53a3267db",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Didem Hair Saloon",
   "sektor": "guzellik-salonu",
   "kategori": "guzellik-salonu",
@@ -295,6 +355,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Dilan Polat Dermavise Kırıkkale",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Alparslan Türkeş Blv Turhan Apt No: 145-C",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.85137176513672,
+  "lng": 33.500553131103516,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.85137176513672,33.500553131103516",
+  "yandex_url": "https://yandex.com/maps/?text=Dilan Polat Dermavise Kırıkkale&ll=33.500553131103516%2C39.85137176513672&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "c6c83ce5-7712-4639-87b5-ceaa3e2da101",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "EGZOZCU MUHAMMED",
@@ -466,7 +555,7 @@
   "hizmet_ipuclari": [
    "4f04aa0c2fb6e1c99f3db0b8"
   ],
-  "adres": "Hurriyet Caddesi Altunbilekler AVM Karsisi",
+  "adres": "İzmir Caddesi 16/1",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -484,7 +573,9 @@
   "fsq_id": "519f5fb2498efc30270b889f",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "8de755d4-bb54-47e4-a245-cda5fce9b94e",
+  "alt": "tirnak"
  },
  {
   "ad": "Ella Cilt Bakım Ve Kilo Kontrol Merkezi",
@@ -514,6 +605,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Elmadağ Rönesans",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Atatürk Blv. Elmadağ AVM Kat 1/36, Elmadağ",
+  "il": null,
+  "ilce": "Elmadağ",
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://www.instagram.com/ronesanselmadag?igsh=NTc4MTIwNjQ2YQ%3D%3D",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.921669006347656,
+  "lng": 33.225101470947266,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.921669006347656,33.225101470947266",
+  "yandex_url": "https://yandex.com/maps/?text=Elmadağ Rönesans&ll=33.225101470947266%2C39.921669006347656&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "d5ccf8e0-f8a8-46f4-985d-7d6feb298e1b",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Ercan erkek kuaforu",
   "sektor": "guzellik-salonu",
   "kategori": "guzellik-salonu",
@@ -539,6 +659,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Esra Mrs Barber",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Menderes Blv. No:242/23, Elmadağ",
+  "il": null,
+  "ilce": "Elmadağ",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.98204040527344,
+  "lng": 33.16716766357422,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.98204040527344,33.16716766357422",
+  "yandex_url": "https://yandex.com/maps/?text=Esra Mrs Barber&ll=33.16716766357422%2C39.98204040527344&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "ab266b23-6362-478b-a8fd-ad79326b4f40",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Eyfel Bayan Kuaförü",
@@ -623,6 +772,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Gizem Bayan Kuaförü",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Hürriyet Caddesi",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.845516204833984,
+  "lng": 33.50307846069336,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.845516204833984,33.50307846069336",
+  "yandex_url": "https://yandex.com/maps/?text=Gizem Bayan Kuaförü&ll=33.50307846069336%2C39.845516204833984&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "2e0558c8-c236-4806-b85a-3e87e9c05c38",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Gülten in  güzellik salonu",
   "sektor": "guzellik-salonu",
   "kategori": "guzellik-salonu",
@@ -683,11 +861,11 @@
   "hizmet_ipuclari": [
    "4f04aa0c2fb6e1c99f3db0b8"
   ],
-  "adres": null,
+  "adres": "Yaylacık mahallesi, Ulubatlı Hasan Cad. Karakaya Apt, No:12/1",
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0318) 218 26 33",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -701,7 +879,37 @@
   "fsq_id": "52259d99498eedf97988c453",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "548c0778-b864-483b-a480-ca757cfb0f7f"
+ },
+ {
+  "ad": "Havvabeauty",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Zafer Cd. No:69",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.844242095947266,
+  "lng": 33.50545883178711,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.844242095947266,33.50545883178711",
+  "yandex_url": "https://yandex.com/maps/?text=Havvabeauty&ll=33.50545883178711%2C39.844242095947266&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "e47732ab-cc70-4898-8407-4154c3a1ecba",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Hayat Güzellik Merkezi",
@@ -729,6 +937,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Helen Aktif Yaşam Merkezi",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Hürriyet Cd. No:25",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.84310531616211,
+  "lng": 33.502952575683594,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.84310531616211,33.502952575683594",
+  "yandex_url": "https://yandex.com/maps/?text=Helen Aktif Yaşam Merkezi&ll=33.502952575683594%2C39.84310531616211&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "62736004-1484-4b36-8ab1-907792373ed6",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Hülya Güzellik Merkezi",
@@ -782,7 +1019,9 @@
   "fsq_id": "54d4c684498eca36439cf52c",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "f537dd79-859b-48c8-90a9-e3be71208955",
+  "alt": "tirnak"
  },
  {
   "ad": "Kardeşler Baharat",
@@ -999,6 +1238,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Kuaför Riza",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": null,
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.84672927856445,
+  "lng": 33.49923324584961,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.84672927856445,33.49923324584961",
+  "yandex_url": "https://yandex.com/maps/?text=Kuaför Riza&ll=33.49923324584961%2C39.84672927856445&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "39cec1d3-dfd0-43c7-9fe4-c216c646d55f",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Kuaför Sevgi & Emel",
@@ -1299,6 +1567,64 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Merve Bayan Kuaförü",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Arif Çalış Caddesi 20/b, Elmadağ",
+  "il": null,
+  "ilce": "Elmadağ",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.918426513671875,
+  "lng": 33.2348518371582,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.918426513671875,33.2348518371582",
+  "yandex_url": "https://yandex.com/maps/?text=Merve Bayan Kuaförü&ll=33.2348518371582%2C39.918426513671875&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "f7d64a37-14bd-49d0-96b0-c8514b653e88",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Milena Vip Güzellik Salonu",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Cumhuriyet Cd. No:32/1",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.84137725830078,
+  "lng": 33.507816314697266,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.84137725830078,33.507816314697266",
+  "yandex_url": "https://yandex.com/maps/?text=Milena Vip Güzellik Salonu&ll=33.507816314697266%2C39.84137725830078&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "ba11e692-a52d-49d1-a5b0-15bb184a2b42",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Millenium",
   "sektor": "guzellik-salonu",
   "kategori": "guzellik-salonu",
@@ -1404,7 +1730,9 @@
   "fsq_id": "598c539a6cf01a219e457523",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "66801c7a-c87b-46e6-8b59-cc205b734a6d",
+  "alt": "tirnak"
  },
  {
   "ad": "Murat Gencer Hair Studio Saç Tasarım",
@@ -1432,6 +1760,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Neslice Clinic",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "608. Sk. No:7/5",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.istanbulclinickirikkale.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.842411041259766,
+  "lng": 33.5064697265625,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.842411041259766,33.5064697265625",
+  "yandex_url": "https://yandex.com/maps/?text=Neslice Clinic&ll=33.5064697265625%2C39.842411041259766&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "56e3fb3a-cf13-4057-a6d3-b34ddfd778f5",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Oktay Bayan Kuaförü",
@@ -1495,7 +1852,7 @@
    "4bf58dd8d48988d110951735",
    "4f04aa0c2fb6e1c99f3db0b8"
   ],
-  "adres": null,
+  "adres": "İzmir Caddesi 6",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -1513,7 +1870,8 @@
   "fsq_id": "57752cea498e488978db7ea3",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "af9dd52b-a6c3-4f7e-85c4-1153c0ad40a7"
  },
  {
   "ad": "Rapunzel",
@@ -1706,6 +2064,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Selin Onur güzellik merkezi",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "İzmir Cd.",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.84556198120117,
+  "lng": 33.50449752807617,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.84556198120117,33.50449752807617",
+  "yandex_url": "https://yandex.com/maps/?text=Selin Onur güzellik merkezi&ll=33.50449752807617%2C39.84556198120117&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "7ff3e132-2b85-46a3-b5d3-19889ade1f69",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Serap güzellik merkezi",
   "sektor": "guzellik-salonu",
   "kategori": "guzellik-salonu",
@@ -1892,7 +2279,38 @@
   "fsq_id": "56c1f08bcd10f060c6f1813a",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "9d4363e3-4dc5-49ff-9fac-91f0d659b70c",
+  "alt": "tirnak"
+ },
+ {
+  "ad": "Tekeli Erkek Kauaför Salonu",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Plevne Caddesi 61A",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.838226318359375,
+  "lng": 33.492706298828125,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.838226318359375,33.492706298828125",
+  "yandex_url": "https://yandex.com/maps/?text=Tekeli Erkek Kauaför Salonu&ll=33.492706298828125%2C39.838226318359375&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "543e80b0-43fc-4721-a665-fd703f9b3f9a",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "The Berber",
@@ -2038,11 +2456,11 @@
   "hizmet_ipuclari": [
    "4f04aa0c2fb6e1c99f3db0b8"
   ],
-  "adres": null,
+  "adres": "Hürriyet Cd. No:3",
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0318) 220 02 20",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -2056,7 +2474,8 @@
   "fsq_id": "567d2c05498e836ef99dad56",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "ca2a63ba-2c56-40b2-90c6-dc5caab3ba57"
  },
  {
   "ad": "Wella Kuaför",
@@ -2065,7 +2484,7 @@
   "hizmet_ipuclari": [
    "4f04aa0c2fb6e1c99f3db0b8"
   ],
-  "adres": null,
+  "adres": "Yaylacık mah Şehit Mürsel Uluç Sok. Sölek Apt. No:2",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -2083,7 +2502,8 @@
   "fsq_id": "522d7c8f11d26594a8c437cc",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "ddfd84fd-9619-495a-9550-2d6108c58ba7"
  },
  {
   "ad": "Yeşil Vadi Konutları İş Merkezi Nurdan Bayan Kuaförü",
@@ -2623,7 +3043,8 @@
   "fsq_id": "6303686fbdfb933b994050ce",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "d112cc41-94ab-42ad-a769-dbf5a8ff0b45"
  },
  {
   "ad": "İzmir Life",

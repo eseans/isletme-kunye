@@ -51,7 +51,9 @@
   "fsq_id": "602037d346e0a22a7c771e1d",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "35aea559-4616-44a5-a543-b43ba64e2cfe",
+  "alt": "spa"
  },
  {
   "ad": "Lovely Baby Spa",
@@ -106,6 +108,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Tarihi tuğlu hamami",
+  "sektor": "spa-masaj",
+  "kategori": "spa-masaj",
+  "alt": "spa",
+  "hizmet_ipuclari": [
+   "spa"
+  ],
+  "adres": "Efeler Sokak 6",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 36.71460723876953,
+  "lng": 37.117366790771484,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=36.71460723876953,37.117366790771484",
+  "yandex_url": "https://yandex.com/maps/?text=Tarihi tuğlu hamami&ll=37.117366790771484%2C36.71460723876953&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "36a1ed93-0865-4a00-b698-59aeaec791cc",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "cratos SPA and Fitness center",
@@ -191,6 +222,8 @@
   "fsq_id": "6242a5dd1b59a60d42045c1d",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "3c5a6498-ec6b-41ce-aa8b-6adba743b7a8",
+  "alt": "spa"
  }
 ]

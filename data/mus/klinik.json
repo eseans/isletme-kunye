@@ -135,6 +135,93 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Asel Dental",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Atatürk Blv. No:66",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0436) 212 90 94",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.74306869506836,
+  "lng": 41.498531341552734,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.74306869506836,41.498531341552734",
+  "yandex_url": "https://yandex.com/maps/?text=Asel Dental&ll=41.498531341552734%2C38.74306869506836&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "1a25f764-21df-49a5-bd0d-a0f7db4ae3d1",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Asel Sağlık & Bilişim",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "alay caddesi",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.766639709472656,
+  "lng": 41.47101593017578,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.766639709472656,41.47101593017578",
+  "yandex_url": "https://yandex.com/maps/?text=Asel Sağlık & Bilişim&ll=41.47101593017578%2C38.766639709472656&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "69895406-e7d5-4f15-8cb6-21cac08c572f",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Avrupa Ses İşitme Cihazları Satış ve Uygulama Merkezi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "15 Temmuz Milli İrade Mah. Aksoy Yapı  39/R   \\nAvrupa Ses İşitme Cihazları",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://avrupasesisitmecihazlari.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.741546630859375,
+  "lng": 41.510169982910156,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.741546630859375,41.510169982910156",
+  "yandex_url": "https://yandex.com/maps/?text=Avrupa Ses İşitme Cihazları Satış ve Uygulama Merkezi&ll=41.510169982910156%2C38.741546630859375&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "8508c446-2915-4fa1-acdf-f016d9b36b5b",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Avrupai İşitme Merkezi",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -323,6 +410,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Dent112",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Atatürk Bulvarı 226",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0436) 212 88 88",
+  "web": "http://www.dent112.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.745445251464844,
+  "lng": 41.501285552978516,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.745445251464844,41.501285552978516",
+  "yandex_url": "https://yandex.com/maps/?text=Dent112&ll=41.501285552978516%2C38.745445251464844&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "4b382f60-3766-4919-9d41-46e7ee5443f8",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Derman Eczanesi",
@@ -596,7 +712,9 @@
   "fsq_id": "5332adf511d2430977f67154",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "6710272a-28ed-4578-b052-02e36876784b",
+  "alt": "muayenehane"
  },
  {
   "ad": "Halk Sağlığı Laboratuarı",
@@ -706,6 +824,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "KLîNîKA VETERîNERî YA ANDOKE/KLîNîKA VETERîYÊ A Andokê",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "kulp, Kulp",
+  "il": null,
+  "ilce": "Kulp",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.50001907348633,
+  "lng": 41.01097106933594,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.50001907348633,41.01097106933594",
+  "yandex_url": "https://yandex.com/maps/?text=KLîNîKA VETERîNERî YA ANDOKE/KLîNîKA VETERîYÊ A Andokê&ll=41.01097106933594%2C38.50001907348633&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "b37b9d87-c950-4e19-91f5-9a94a9759cf5",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "KULP 3 nolu 112 ASHİ",
@@ -977,7 +1124,8 @@
   "fsq_id": "68e6642df1e6a42668e5f341",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "426d4d9a-a3e2-4984-803b-92eaa2940afd"
  },
  {
   "ad": "Mercimekkale Aile Sağlığı Merkezi",
@@ -1178,7 +1326,7 @@
   "hizmet_ipuclari": [
    "4bf58dd8d48988d196941735"
   ],
-  "adres": null,
+  "adres": "Öğretmen evi altı. Eski hastane karşısı gözde optik üstü diş kliniği kat, D:1",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -1196,7 +1344,8 @@
   "fsq_id": "5fc002f769885c2f6f1ae478",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "dcbf28a8-026c-458c-96d1-7fcea3f8f62f"
  },
  {
   "ad": "Mus Devlet Hastanesi KBB Servisi",
@@ -1278,6 +1427,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Muş Ağız ve Diş Sağlığı Merkez",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Atatürk Caddesi 2",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0436) 212 92 14",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.703773498535156,
+  "lng": 41.36207962036133,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.703773498535156,41.36207962036133",
+  "yandex_url": "https://yandex.com/maps/?text=Muş Ağız ve Diş Sağlığı Merkez&ll=41.36207962036133%2C38.703773498535156&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "68012886-801f-43d2-bbf4-1d4c306ba409",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Muş Devlet Hastanesi",
@@ -1416,6 +1594,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Muş Merkez 2 Nolu Asm",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "HÜRRİYET MAH./MUŞ",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0436) 212 77 35",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.73525619506836,
+  "lng": 41.48881912231445,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.73525619506836,41.48881912231445",
+  "yandex_url": "https://yandex.com/maps/?text=Muş Merkez 2 Nolu Asm&ll=41.48881912231445%2C38.73525619506836&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "d20ac434-fabc-4c3f-a797-0fb8c931ec6c",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Muş Merkez TSM",
   "sektor": "klinik",
   "kategori": "klinik",
@@ -1550,6 +1757,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Ozel Dent Vizyon Agiz ve Dis Klinigi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "SELİMİYE CAMİİ YANI, Cumhuriyet Cd. NO:11",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.73379898071289,
+  "lng": 41.493953704833984,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.73379898071289,41.493953704833984",
+  "yandex_url": "https://yandex.com/maps/?text=Ozel Dent Vizyon Agiz ve Dis Klinigi&ll=41.493953704833984%2C38.73379898071289&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "fc0123dc-78bb-491a-982f-cbac1c75be3e",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Palyatif Yoğun Bakım (Musdevlethastanesi)",
@@ -2174,6 +2410,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Özel Dent Ankara Agiz Ve Dis Sagligi Klinigi",
+  "sektor": "klinik",
+  "kategori": "klinik",
+  "alt": "muayenehane",
+  "hizmet_ipuclari": [
+   "doctors_office"
+  ],
+  "adres": "Hürriyet Mahallesi Atatürk Bulvarı No:127/F Muş Merkez",
+  "il": null,
+  "ilce": null,
+  "mahalle": null,
+  "telefon": "(0436) 222 47 47",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 38.74415969848633,
+  "lng": 41.49900436401367,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=38.74415969848633,41.49900436401367",
+  "yandex_url": "https://yandex.com/maps/?text=Özel Dent Ankara Agiz Ve Dis Sagligi Klinigi&ll=41.49900436401367%2C38.74415969848633&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "cde300dd-fb18-4ae1-970c-57bb3d545474",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Özel Şifa Acil Servis",

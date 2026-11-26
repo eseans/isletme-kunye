@@ -159,7 +159,8 @@
   "fsq_id": "585bfa7f03e29a0344ee7586",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "055897b2-9a87-4c6e-be3c-434d295f1ed5"
  },
  {
   "ad": "Akademi Kuafor & Sac tasarim merkezi",
@@ -330,7 +331,7 @@
   "hizmet_ipuclari": [
    "4f04aa0c2fb6e1c99f3db0b8"
   ],
-  "adres": null,
+  "adres": "Vatan, Cumhuriyet Cd. Dede İş Merkezi No:97, Yakutiye",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -348,7 +349,66 @@
   "fsq_id": "59636cf5772fbc167150e80e",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "a3a4989c-347f-4c10-9e7c-d60607816770"
+ },
+ {
+  "ad": "Aslıhan Beauty Center",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Rabia Ana Mahallesi Taşkesen Sokak Kaskatı Cadddesi Yeşil Yakutiye Konutları İçi A1 Blok Yanı C3 Yakutiye / Erzurum, Yakutiye",
+  "il": null,
+  "ilce": "Yakutiye",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.90499496459961,
+  "lng": 41.27735137939453,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.90499496459961,41.27735137939453",
+  "yandex_url": "https://yandex.com/maps/?text=Aslıhan Beauty Center&ll=41.27735137939453%2C39.90499496459961&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "4e2d148a-3831-4d6a-88c3-2b4931fd668b",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Asrın Kuaforü&Güzellik salonu",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Saray bosna caddesi dört güllü manavı karşı arası Karakaş ofis plaza altı ERZURUM, Palandöken",
+  "il": null,
+  "ilce": "Palandöken",
+  "mahalle": null,
+  "telefon": "(0442) 233 67 33",
+  "web": "https://www.instagram.com/asrin_kuafor_guzellik_salonu",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.911827087402344,
+  "lng": 41.267208099365234,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.911827087402344,41.267208099365234",
+  "yandex_url": "https://yandex.com/maps/?text=Asrın Kuaforü&Güzellik salonu&ll=41.267208099365234%2C39.911827087402344&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "b9586d72-e072-4c2a-9f49-d5cb2a4f9a0d",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Aydan guzellik salonu",
@@ -787,13 +847,42 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Dearlife Güzellik Merkezi",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Uzun Sk. sina iş merkezi kat :7 no 15, Yakutiye",
+  "il": null,
+  "ilce": "Yakutiye",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.910884857177734,
+  "lng": 41.27157974243164,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.910884857177734,41.27157974243164",
+  "yandex_url": "https://yandex.com/maps/?text=Dearlife Güzellik Merkezi&ll=41.27157974243164%2C39.910884857177734&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "12f0de8c-d328-4b48-82d2-a7615b7f7680",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Deniz Yıldızı Güzellik Salonu",
   "sektor": "guzellik-salonu",
   "kategori": "guzellik-salonu",
   "hizmet_ipuclari": [
    "4f04aa0c2fb6e1c99f3db0b8"
   ],
-  "adres": "Pasalar cad kilic oglu sitesi",
+  "adres": "Dr. İspirlioğlu Sk. No:9, Yakutiye",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -811,7 +900,37 @@
   "fsq_id": "50a3a241e4b0850330930aee",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "c633ded8-8c07-4252-a33f-9199d6dfd7f2"
+ },
+ {
+  "ad": "Didem Güzellik Salonu",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Bahçe Sk. 10-2, Yakutiye",
+  "il": null,
+  "ilce": "Yakutiye",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.90565872192383,
+  "lng": 41.27149200439453,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.90565872192383,41.27149200439453",
+  "yandex_url": "https://yandex.com/maps/?text=Didem Güzellik Salonu&ll=41.27149200439453%2C39.90565872192383&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "7e7ad18b-dc79-4fcf-aca0-99211c879e74",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Dilan Polat Erzurum",
@@ -866,6 +985,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Elif Eylül Bayan Küaförü Hair & Make Up Studio",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Lalapaşa mah. Mumcu cad. Flo karşısı şahinler apt. Kat 1/1, Yakutiye",
+  "il": null,
+  "ilce": "Yakutiye",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.instagram.com/elfeyll16_03",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.906227111816406,
+  "lng": 41.271018981933594,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.906227111816406,41.271018981933594",
+  "yandex_url": "https://yandex.com/maps/?text=Elif Eylül Bayan Küaförü Hair & Make Up Studio&ll=41.271018981933594%2C39.906227111816406&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "928ec0c4-4782-4f2a-85ee-68520a76894c",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Emoç Abinin Orda",
@@ -946,7 +1094,8 @@
   "fsq_id": "6297122f851eef4cb651f972",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "23111b6f-7d00-4783-b354-cbe8db3399a4"
  },
  {
   "ad": "Erzurum Blue Liva Güzellik Salonu",
@@ -1028,6 +1177,64 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Eslamer Lazer ve Güzellik Merkezi",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Gez Mahallesi Millet Bahce Caddesi, Yakutiye",
+  "il": null,
+  "ilce": "Yakutiye",
+  "mahalle": null,
+  "telefon": "(0442) 234 18 98",
+  "web": "http://eslamer.com.tr/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.910789489746094,
+  "lng": 41.265357971191406,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.910789489746094,41.265357971191406",
+  "yandex_url": "https://yandex.com/maps/?text=Eslamer Lazer ve Güzellik Merkezi&ll=41.265357971191406%2C39.910789489746094&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "e421757c-ad1b-48b0-b0bb-0bee159bd16f",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Essonorita Guzellik Merkezi",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": "tirnak",
+  "hizmet_ipuclari": [
+   "nail_salon"
+  ],
+  "adres": "Mumcu Cd., Yakutiye",
+  "il": null,
+  "ilce": "Yakutiye",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.90581130981445,
+  "lng": 41.27088165283203,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.90581130981445,41.27088165283203",
+  "yandex_url": "https://yandex.com/maps/?text=Essonorita Guzellik Merkezi&ll=41.27088165283203%2C39.90581130981445&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "9978e62a-16fe-4750-96c7-9793236c0230",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Este'la Güzellik Merkezi",
@@ -1138,6 +1345,64 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Estetik Makas Bayan Kuaförü",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": "tirnak",
+  "hizmet_ipuclari": [
+   "nail_salon"
+  ],
+  "adres": "Atatürkevi Yolu 1, Yakutiye",
+  "il": null,
+  "ilce": "Yakutiye",
+  "mahalle": null,
+  "telefon": "(0442) 237 07 08",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.909725189208984,
+  "lng": 41.27094650268555,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.909725189208984,41.27094650268555",
+  "yandex_url": "https://yandex.com/maps/?text=Estetik Makas Bayan Kuaförü&ll=41.27094650268555%2C39.909725189208984&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "6426bb56-1ad9-4b6d-ab07-c37bcb0e6784",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Estistanbul Erzurum Luxe",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Cumhuriyet Cd. Özel İdare İş Merkezi Kat: 3, Yakutiye",
+  "il": null,
+  "ilce": "Yakutiye",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.90587615966797,
+  "lng": 41.273193359375,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.90587615966797,41.273193359375",
+  "yandex_url": "https://yandex.com/maps/?text=Estistanbul Erzurum Luxe&ll=41.273193359375%2C39.90587615966797&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "d98c28eb-a14a-46c6-b6ed-0d66350afbfd",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Eyup Guzellik Salonu",
   "sektor": "guzellik-salonu",
   "kategori": "guzellik-salonu",
@@ -1172,12 +1437,12 @@
    "4bf58dd8d48988d110951735",
    "4f04aa0c2fb6e1c99f3db0b8"
   ],
-  "adres": "Çaykara",
+  "adres": "Mumcu Caddesi 1, Yakutiye",
   "il": null,
   "ilce": null,
   "mahalle": null,
   "telefon": null,
-  "web": null,
+  "web": "http://www.memetkuafor.com/",
   "sosyal": [],
   "calisma_saatleri": null,
   "randevu": null,
@@ -1190,7 +1455,8 @@
   "fsq_id": "5030179ee4b078fb59d84eb5",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "f22987d2-6ae7-4c2a-b022-c687b1c09a18"
  },
  {
   "ad": "Eyüp Kuaför ve Cilt Bakım Merkezi",
@@ -1355,6 +1621,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Flower Bayan",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Ali Ravi Sk. No:9, Yakutiye",
+  "il": null,
+  "ilce": "Yakutiye",
+  "mahalle": null,
+  "telefon": "(0442) 233 88 15",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.901973724365234,
+  "lng": 41.27373504638672,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.901973724365234,41.27373504638672",
+  "yandex_url": "https://yandex.com/maps/?text=Flower Bayan&ll=41.27373504638672%2C39.901973724365234&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "1f9df78c-955d-4b8a-9a0b-69db3ddca7fe",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "G&Z Beauty Academy",
   "sektor": "guzellik-salonu",
   "kategori": "guzellik-salonu",
@@ -1384,7 +1679,9 @@
   "fsq_id": "62c4fbe20c139b768ad1dee1",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "238eabe0-8b8f-4dbb-9bf4-27bed8b41d07",
+  "alt": "tirnak"
  },
  {
   "ad": "Gamze Güzellik Salonu",
@@ -1447,11 +1744,11 @@
   "hizmet_ipuclari": [
    "4f04aa0c2fb6e1c99f3db0b8"
   ],
-  "adres": null,
+  "adres": "Aşağı Mumcu Çaykara Caddesi Özeken Apt. kat:2 No:37, Yakutiye",
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0442) 233 15 16",
   "web": null,
   "sosyal": [],
   "calisma_saatleri": null,
@@ -1465,7 +1762,8 @@
   "fsq_id": "573b1769498ecae3956606e5",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "78e5d960-2c3f-48b6-8eeb-86c1101b432f"
  },
  {
   "ad": "Gökçem Proffessional",
@@ -1547,6 +1845,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Gülsin Aydemir  İğneli Epilasyon Eğitmeni",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "9918 I036 A101 Enkule, Palandöken Caddesi 103, Yakutiye",
+  "il": null,
+  "ilce": "Yakutiye",
+  "mahalle": null,
+  "telefon": null,
+  "web": "https://ardahan.edu.tr/dosyalar/Duyuru_Etkinlik/2024/1505/%C3%A7al%C4%B1%C5%9Ftay%20program%C4%B1.pdf?utm_source=chatgpt.com",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.902313232421875,
+  "lng": 41.26933288574219,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.902313232421875,41.26933288574219",
+  "yandex_url": "https://yandex.com/maps/?text=Gülsin Aydemir  İğneli Epilasyon Eğitmeni&ll=41.26933288574219%2C39.902313232421875&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "4cd6298e-fb23-4b38-8b62-a1808c635d42",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "HG Bayan Kuaforu",
@@ -1709,6 +2036,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Hera Güzellik Salonu",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Millet Bahce Apt, Millet Bahçe Cd. B/Blok No:44 İş Yeri 27, Yakutiye",
+  "il": null,
+  "ilce": "Yakutiye",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://heraguzellikmerkezi.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.909889221191406,
+  "lng": 41.26819610595703,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.909889221191406,41.26819610595703",
+  "yandex_url": "https://yandex.com/maps/?text=Hera Güzellik Salonu&ll=41.26819610595703%2C39.909889221191406&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "5ac9ea4e-8c34-4efe-bf7d-a7eced8cdd7b",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Hira Kuaför",
@@ -1987,7 +2343,7 @@
   "hizmet_ipuclari": [
    "4f04aa0c2fb6e1c99f3db0b8"
   ],
-  "adres": "Erzurum",
+  "adres": "Yukarı Mumcu Cd. No:7/A, Yakutiye",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -2005,7 +2361,8 @@
   "fsq_id": "52ad90ea11d227be9ef94910",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "8f54bb1c-0aaa-4b7d-8cca-8f491d84703f"
  },
  {
   "ad": "Karaca kuaför Güzellik Merkezi",
@@ -2032,7 +2389,37 @@
   "fsq_id": "56ded567498efea1c2a7a8f1",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "cf88682b-ae19-4149-82ca-b3caaf95adb4"
+ },
+ {
+  "ad": "Karbeyza Guzellik ve Saglik Merkezi",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Palandöken",
+  "il": null,
+  "ilce": "Palandöken",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.89924621582031,
+  "lng": 41.26913833618164,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.89924621582031,41.26913833618164",
+  "yandex_url": "https://yandex.com/maps/?text=Karbeyza Guzellik ve Saglik Merkezi&ll=41.26913833618164%2C39.89924621582031&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "a4ce0d83-efea-47b4-a774-9bba7cbb645b",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Karmina Bayan Kuaförü ve Güzellik Merkezi",
@@ -2360,6 +2747,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Kuaför, Cilt Bakımı ve Güzellik Salonu",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Çaykara Caddesi Şahin İş Merkezi, Atatürk Evi Yanı, Yakup Plaza Arkası Kat:1  No: 204, Yakutiye",
+  "il": null,
+  "ilce": "Yakutiye",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.906864166259766,
+  "lng": 41.26824951171875,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.906864166259766,41.26824951171875",
+  "yandex_url": "https://yandex.com/maps/?text=Kuaför, Cilt Bakımı ve Güzellik Salonu&ll=41.26824951171875%2C39.906864166259766&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "6e5f27c1-6782-465e-aa36-a58c1bb7078d",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Kuaförüm Erkan",
   "sektor": "guzellik-salonu",
   "kategori": "guzellik-salonu",
@@ -2387,6 +2803,64 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Kuaförüm Mehmet",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Yakutiye",
+  "il": null,
+  "ilce": "Yakutiye",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.905433654785156,
+  "lng": 41.268714904785156,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.905433654785156,41.268714904785156",
+  "yandex_url": "https://yandex.com/maps/?text=Kuaförüm Mehmet&ll=41.268714904785156%2C39.905433654785156&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "aca2cf32-574a-4938-8bb8-aea1f4ec9b17",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "Kuzey peruk saç kaynak merkezi",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Saraybosna Caddesi 66A, Yakutiye",
+  "il": null,
+  "ilce": "Yakutiye",
+  "mahalle": null,
+  "telefon": "(0442) 233 11 33",
+  "web": "http://www.kuzeyperuk.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.904693603515625,
+  "lng": 41.268699645996094,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.904693603515625,41.268699645996094",
+  "yandex_url": "https://yandex.com/maps/?text=Kuzey peruk saç kaynak merkezi&ll=41.268699645996094%2C39.904693603515625&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "f6617ec3-7473-4813-be4d-6a222ba12443",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Kübra Kuaför",
@@ -2422,7 +2896,7 @@
   "hizmet_ipuclari": [
    "4f04aa0c2fb6e1c99f3db0b8"
   ],
-  "adres": null,
+  "adres": "Ögretmen Karsısı Orbay İş Merkezi, Cami Sokak, Çaykara Cd. kat:2, Yakutiye",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -2440,7 +2914,37 @@
   "fsq_id": "5151a6ade4b02e0a4efbe816",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "8ef23ea8-904f-48b0-9588-8e6064fd8d41"
+ },
+ {
+  "ad": "Kırık Tarak Kuafor",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Millet Bahçe Sokak 53, Yakutiye",
+  "il": null,
+  "ilce": "Yakutiye",
+  "mahalle": null,
+  "telefon": "(0442) 234 34 16",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.90986633300781,
+  "lng": 41.26808547973633,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.90986633300781,41.26808547973633",
+  "yandex_url": "https://yandex.com/maps/?text=Kırık Tarak Kuafor&ll=41.26808547973633%2C39.90986633300781&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "b1c4c438-47e1-46bf-bcc2-62e8de6876da",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Kırıktarak Ahmet",
@@ -2495,7 +2999,9 @@
   "fsq_id": "4f813e2ee4b01e69d7bb1c52",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "9765c8b0-d09b-4004-a409-63fa82632a2a",
+  "alt": "tirnak"
  },
  {
   "ad": "Kızılay Erkek Kuaförü",
@@ -2633,6 +3139,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Mavi Ay Bayan Kuaför",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Saraybosna Caddesi 11, Palandöken",
+  "il": null,
+  "ilce": "Palandöken",
+  "mahalle": null,
+  "telefon": "(0442) 233 90 35",
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.90518569946289,
+  "lng": 41.269229888916016,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.90518569946289,41.269229888916016",
+  "yandex_url": "https://yandex.com/maps/?text=Mavi Ay Bayan Kuaför&ll=41.269229888916016%2C39.90518569946289&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "aea3c2c0-f9d2-4d1e-89a0-1a151669d7ab",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Mehmet Kuaför",
@@ -2798,6 +3333,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Mones Beauty Center",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Aydın İnşaat, Şair Nefi Cd., Palandöken",
+  "il": null,
+  "ilce": "Palandöken",
+  "mahalle": null,
+  "telefon": null,
+  "web": "http://www.monesbeautycenter.com/",
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.8873176574707,
+  "lng": 41.249874114990234,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.8873176574707,41.249874114990234",
+  "yandex_url": "https://yandex.com/maps/?text=Mones Beauty Center&ll=41.249874114990234%2C39.8873176574707&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "fb9b603d-3181-41aa-8b89-e918935dd428",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Mos Kuaför",
   "sektor": "guzellik-salonu",
   "kategori": "guzellik-salonu",
@@ -2933,6 +3497,35 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Oktay Kalenci",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Şahinler, Mumcu Cd. Apt. Kat:1, Yakutiye",
+  "il": null,
+  "ilce": "Yakutiye",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.907859802246094,
+  "lng": 41.27041244506836,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.907859802246094,41.27041244506836",
+  "yandex_url": "https://yandex.com/maps/?text=Oktay Kalenci&ll=41.27041244506836%2C39.907859802246094&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "bb683bf0-ed06-4938-80a5-9e3c6509893a",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Paris Bayan Kuaförü",
   "sektor": "guzellik-salonu",
   "kategori": "guzellik-salonu",
@@ -2967,7 +3560,7 @@
   "hizmet_ipuclari": [
    "4f04aa0c2fb6e1c99f3db0b8"
   ],
-  "adres": null,
+  "adres": "Erzincan Kapı Sk. florya iş merkezi 99/A no. 99 D:9, Yakutiye",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -2985,7 +3578,8 @@
   "fsq_id": "5e247ab6daafcd00084c2a32",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "ec4b9043-733e-44f1-9e3f-fe860fbc7d4c"
  },
  {
   "ad": "Polis Evi Kuaför",
@@ -3584,6 +4178,64 @@
   "son_gorulme": "2026-11-05"
  },
  {
+  "ad": "Tekin Kuaför Salonu",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Kongre caddesi nazik çarşısı no:26, Yakutiye",
+  "il": null,
+  "ilce": "Yakutiye",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.94999694824219,
+  "lng": 41.25,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.94999694824219,41.25",
+  "yandex_url": "https://yandex.com/maps/?text=Tekin Kuaför Salonu&ll=41.25%2C39.94999694824219&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "a7de247a-4953-467e-aac4-f94e07032974",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
+  "ad": "The Rose coiffeure",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Köşk Caddesi 17D, Yakutiye",
+  "il": null,
+  "ilce": "Yakutiye",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.902854919433594,
+  "lng": 41.26958084106445,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.902854919433594,41.26958084106445",
+  "yandex_url": "https://yandex.com/maps/?text=The Rose coiffeure&ll=41.26958084106445%2C39.902854919433594&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "85a75a5d-3b03-4338-b982-0b1d90ca94b5",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
+ },
+ {
   "ad": "Toka Bayan Kuaforu",
   "sektor": "guzellik-salonu",
   "kategori": "guzellik-salonu",
@@ -3609,6 +4261,35 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-05"
+ },
+ {
+  "ad": "Trend Guzellik Salonu",
+  "sektor": "guzellik-salonu",
+  "kategori": "guzellik-salonu",
+  "alt": null,
+  "hizmet_ipuclari": [
+   "beauty_salon"
+  ],
+  "adres": "Yıldızkent Hüseyin Avni Ulaş Caddesi Osmangazi Mahallesi Aladağ Sokak Modalife Rezidans D Blok Altı No:26, Palandöken",
+  "il": null,
+  "ilce": "Palandöken",
+  "mahalle": null,
+  "telefon": null,
+  "web": null,
+  "sosyal": [],
+  "calisma_saatleri": null,
+  "randevu": null,
+  "engelli_erisimi": null,
+  "lat": 39.882225036621094,
+  "lng": 41.23469161987305,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=39.882225036621094,41.23469161987305",
+  "yandex_url": "https://yandex.com/maps/?text=Trend Guzellik Salonu&ll=41.23469161987305%2C39.882225036621094&z=17",
+  "osm_url": null,
+  "fsq_id": null,
+  "overture_id": "9912223c-55a2-4dad-8ab5-308b59bacc10",
+  "kaynak": "overture",
+  "ilk_gorulme": "2026-11-26",
+  "son_gorulme": "2026-11-26"
  },
  {
   "ad": "Trend Güzellik Salonu",
@@ -3932,7 +4613,8 @@
   "fsq_id": "51f8e2a2498eb9eefdfe10dc",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "5dac38aa-da3a-4200-9bbc-70625eeb934d"
  },
  {
   "ad": "Yıldızlar Kuaför",
@@ -4320,7 +5002,7 @@
   "hizmet_ipuclari": [
    "4f04aa0c2fb6e1c99f3db0b8"
   ],
-  "adres": null,
+  "adres": "8. Çarşı Sk. No:8, Palandöken",
   "il": null,
   "ilce": null,
   "mahalle": null,
@@ -4338,7 +5020,8 @@
   "fsq_id": "5131bc43e4b0f53f898d2a93",
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
-  "son_gorulme": "2026-11-05"
+  "son_gorulme": "2026-11-26",
+  "overture_id": "68fbeb4a-9ed2-4957-8c60-b989b1da2b59"
  },
  {
   "ad": "kuaför haluk",
