@@ -7,7 +7,7 @@
 # Anahtarsiz, ucretsiz: herkese acik S3 (us-west-2).
 import duckdb, os, time
 
-SURUM = os.environ.get('OVERTURE_SURUM', '2026-11-18.0')
+SURUM = os.environ.get('OVERTURE_SURUM') or '2026-11-18.0'
 P = f"s3://overturemaps-us-west-2/release/{SURUM}/theme=places/type=place/*"
 t0 = time.time()
 c = duckdb.connect()
