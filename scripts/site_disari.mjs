@@ -51,13 +51,16 @@ export const telBicim = (t) => String(t || '').split('; ').filter(Boolean).map((
   return h.length === 10 ? `(0${h.slice(0, 3)}) ${h.slice(3, 6)} ${h.slice(6, 8)} ${h.slice(8)}` : p
 }).join('; ')
 
+// Ilce adi tek yazim: Overture 'kadıköy' / FSQ 'Kadıköy' iki ayri cip olmasin.
+const ilceAd = (a) => String(a).trim().split(/\s+/).map((w) => w.charAt(0).toLocaleUpperCase('tr') + w.slice(1).toLocaleLowerCase('tr')).join(' ')
+
 // Kayit → site satiri. [12] = isletmenin kendi sitesindeki logo (web_kunye.mjs).
 function siteKaydi(k, sehir) {
   const ig = (k.sosyal || []).find((x) => x.tur === 'instagram')
   const igAd = ig ? String(ig.deger).split('/').pop().replace(/^@+/, '') : ''
   return [
     // FSQ 'locality' alani bazen sehir adi tasiyor; sahte 'Istanbul ilcesi' olmasin.
-    adTemiz(k.ad), (k.ilce && slugla(k.ilce) !== sehir ? k.ilce : ''), telBicim(telefonTemizle(k.telefon)), k.web || '',
+    adTemiz(k.ad), (k.ilce && slugla(k.ilce) !== sehir ? ilceAd(k.ilce) : ''), telBicim(telefonTemizle(k.telefon)), k.web || '',
     k.lat != null ? Number(k.lat.toFixed(4)) : null,
     k.lng != null ? Number(k.lng.toFixed(4)) : null,
     k.kaynak || 'osm', k.fsq_id || (k.osm_url || '').split('/').pop() || String(k.overture_id || '').replace(/-/g, '')
