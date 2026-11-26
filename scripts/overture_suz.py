@@ -110,6 +110,8 @@ for oid, ad, lat, lng, kat, guven, durum, tels, webs, sos, adres, yer, bolge in 
   il = il_bul(bolge, yer, 999, 999) or en_yakin_il(lat, lng)
   if not il: say['il_yok'] += 1; continue
   sek, alt = KATEGORI[kat]
+  # Overture 'spa' Turkiye'de otel/tesis da tasiyor: yalniz adi spa/hamam/masaj olan.
+  if kat == 'spa' and not re.search(r'spa|hamam|masaj|massage|wellness|sauna|termal', ad.lower()): say['dusuk'] += 1; continue
   ilce = yer if yer and _n(yer) not in IL_NORM else None
   tam_adres = ', '.join(x for x in (adres, ilce) if x) or None
   tel, web, sosy = tel_bicim(tels), (webs or [None])[0], sosyal(sos)
@@ -117,7 +119,8 @@ for oid, ad, lat, lng, kat, guven, durum, tels, webs, sos, adres, yer, bolge in 
   if k:
     say['zengin'] += 1
     k['overture_id'] = oid; k['son_gorulme'] = bugun
-    if alt and not k.get('alt'): k['alt'] = alt
+    # Alt etiket yalniz ayni sektorde: dis klinigine 'muayenehane' yapismasin.
+    if alt and not k.get('alt') and k.get('sektor') == sek: k['alt'] = alt
     # Adres: mevcut kapi numarasizsa ("Etiler") Overture'un tam adresi gecer.
     if tam_adres and re.search(r'\d', tam_adres) and not re.search(r'\d', k.get('adres') or ''):
       k['adres'] = tam_adres; say['adres'] += 1
