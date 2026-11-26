@@ -32,11 +32,11 @@ toplam = c.sql("SELECT count(*) FROM tr").fetchall()[0][0]
 # Sabit hat: +90 sonrasi 5 ile baslamayan (05'li cep KVKK geregi kullanilmaz).
 ozet = c.sql(f"""
 SELECT {kat} AS kategori, count(*) AS n,
-  round(100*avg(CASE WHEN list_filter(phones, p -> p LIKE '+90%' AND NOT p LIKE '+905%') <> [] THEN 1 ELSE 0 END)) AS sabit_tel,
+  round(100*avg(CASE WHEN list_filter(phones, lambda p: p LIKE '+90%' AND NOT p LIKE '+905%') <> [] THEN 1 ELSE 0 END)) AS sabit_tel,
   round(100*avg(CASE WHEN regexp_matches(coalesce(addresses[1].freeform,''), '[0-9]') THEN 1 ELSE 0 END)) AS sokak_no,
   round(100*avg(CASE WHEN len(coalesce(websites,[])) > 0 THEN 1 ELSE 0 END)) AS web,
-  round(100*avg(CASE WHEN list_filter(sources, s -> s.dataset = 'meta') <> [] THEN 1 ELSE 0 END)) AS meta,
-  round(100*avg(CASE WHEN list_max(list_transform(sources, s -> try_cast(left(s.update_time, 10) AS DATE))) >= current_date - 365 THEN 1 ELSE 0 END)) AS guncel_12ay
+  round(100*avg(CASE WHEN list_filter(sources, lambda s: s.dataset = 'meta') <> [] THEN 1 ELSE 0 END)) AS meta,
+  round(100*avg(CASE WHEN list_max(list_transform(sources, lambda s: try_cast(left(s.update_time, 10) AS DATE))) >= current_date - 365 THEN 1 ELSE 0 END)) AS guncel_12ay
 FROM tr GROUP BY 1 ORDER BY n DESC LIMIT 400""").fetchall()
 
 os.makedirs('rapor', exist_ok=True)
