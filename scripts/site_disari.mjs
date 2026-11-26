@@ -12,7 +12,11 @@ export const adTemiz = (ad) => {
 export const adGecerli = (ad) => (String(ad).match(/\p{L}/gu) || []).length >= 2
 // Liste sirasi: once dolgun (telefon/web), sonra adresli, sonra ad. Ziyaretci
 // ilk ekranda bos kunye degil, iletisim bilgisi olan isletme gorur.
+// Liste sirasi: dolu ve guvenilir kunye once (alfabe yalniz esitlikte). Eskiden
+// yalniz tel/web + adres bakiliyordu; liste "11C, 2 A Berber, 216 Berber" diye
+// rakamla basliyordu. [14] kaynak sayisi, [10] saat, kapi numarali adres.
 const zenginlik = (k) => (dolgun({ telefon: k[2], web: k[3] }) ? 2 : 0) + (k[9] ? 1 : 0)
+  + (k[14] >= 2 ? 2 : 0) + (k[10] ? 2 : 0) + (/\d/.test(k[9] || '') ? 1 : 0) + (k[12] ? 1 : 0)
 // Kayit bicimi: [ad, ilce, telefon, web, lat, lng, kaynak, id, instagram, adres, saatler]
 // Ayrica site/_sitemap-isletmeler.xml uretir: dizin 90 + DOLGUN vitrin URL'leri
 // (sabit telefon veya web). Ince kunyeler bilincli disarida (olceklenmis icerik
@@ -38,13 +42,22 @@ const vitrinYolu = (s, k, ad, kimlik) =>
   `/isletmeler/${s}/${k}/${slugla(ad).slice(0, 60) || 'isletme'}-${kimlik}`
 const dolgun = (k) => Boolean(telefonTemizle(k.telefon) || k.web)
 
+// Tek gorunum: "+902122743966", "+90 850 473 11 20" -> "(0212) 274 39 66".
+// Bicimi taninmayan parca (444 xx xx gibi) oldugu gibi kalir.
+export const telBicim = (t) => String(t || '').split('; ').filter(Boolean).map((p) => {
+  let h = p.replace(/\D/g, '')
+  if (h.startsWith('90') && h.length === 12) h = h.slice(2)
+  h = h.replace(/^0+/, '')
+  return h.length === 10 ? `(0${h.slice(0, 3)}) ${h.slice(3, 6)} ${h.slice(6, 8)} ${h.slice(8)}` : p
+}).join('; ')
+
 // Kayit → site satiri. [12] = isletmenin kendi sitesindeki logo (web_kunye.mjs).
 function siteKaydi(k, sehir) {
   const ig = (k.sosyal || []).find((x) => x.tur === 'instagram')
   const igAd = ig ? String(ig.deger).split('/').pop().replace(/^@+/, '') : ''
   return [
     // FSQ 'locality' alani bazen sehir adi tasiyor; sahte 'Istanbul ilcesi' olmasin.
-    adTemiz(k.ad), (k.ilce && slugla(k.ilce) !== sehir ? k.ilce : ''), telefonTemizle(k.telefon) || '', k.web || '',
+    adTemiz(k.ad), (k.ilce && slugla(k.ilce) !== sehir ? k.ilce : ''), telBicim(telefonTemizle(k.telefon)), k.web || '',
     k.lat != null ? Number(k.lat.toFixed(4)) : null,
     k.lng != null ? Number(k.lng.toFixed(4)) : null,
     k.kaynak || 'osm', k.fsq_id || (k.osm_url || '').split('/').pop() || String(k.overture_id || '').replace(/-/g, '')
