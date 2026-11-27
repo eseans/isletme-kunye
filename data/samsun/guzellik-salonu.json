@@ -8866,8 +8866,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.kadiralkan.com.tr/salon/samsun/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/kadiralkanofficial"
+   }
+  ],
+  "calisma_saatleri": "Mo,Tu,We,Th,Fr,Sa,Su 09:00-17:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 41.337379455566406,
@@ -8879,7 +8884,8 @@
   "overture_id": "dd943ec3-9491-4dba-99db-6debc7d12395",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.kadiralkan.com.tr/wp-content/uploads/2020/12/kadiralkan-logo.png"
  },
  {
   "ad": "Kadınca Kuaför Ve Güzellik Salonu",
@@ -20115,7 +20121,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.yelsaestetikguzellik.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/yelsaguzellikatakoy"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -20128,7 +20139,8 @@
   "overture_id": "bb974948-e899-4b10-a3ed-bf84233b58a6",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://www.yelsaestetikguzellik.com/favicon.png"
  },
  {
   "ad": "Yesilcam bayan kuaforu",

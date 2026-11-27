@@ -542,7 +542,12 @@
   "mahalle": null,
   "telefon": "(0318) 333 22 55",
   "web": "https://referansmtsk.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/referansmtsk"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,

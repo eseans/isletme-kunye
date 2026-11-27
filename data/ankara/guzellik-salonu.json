@@ -2572,7 +2572,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://alamakeupstudio.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/alabeauteclub"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -5943,7 +5948,12 @@
   "mahalle": null,
   "telefon": "(0312) 220 21 20",
   "web": "http://www.arbenguzellik.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/arbenguzellik"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -8897,7 +8907,12 @@
   "mahalle": null,
   "telefon": "(0312) 466 00 57",
   "web": "http://aysaayaksagligi.net/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/aysa.ayaksagligi.podoloji"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -8910,7 +8925,8 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
-  "overture_id": "ffb2e50b-acc9-4dee-84d9-cdcae9664627"
+  "overture_id": "ffb2e50b-acc9-4dee-84d9-cdcae9664627",
+  "logo": "https://aysaayaksagligi.net/img/site/fav/fav-icon-180x180.png"
  },
  {
   "ad": "AySHE Güzellik Merkezi",
@@ -17974,7 +17990,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.birimtasarim.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/birimtasarim"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -17987,7 +18008,8 @@
   "overture_id": "ccff580e-6aab-4167-a3c6-9b6ce71229f7",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://birimtasarim.com/wp-content/uploads/birim-logo-site.png"
  },
  {
   "ad": "Birlik Kuaför",
@@ -21836,7 +21858,12 @@
   "mahalle": null,
   "telefon": "(0312) 426 20 03",
   "web": "http://www.cathospital.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/kedihastanesi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -21849,7 +21876,8 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
-  "overture_id": "1e0955bf-007c-42fb-99e0-a0a870bc0a4e"
+  "overture_id": "1e0955bf-007c-42fb-99e0-a0a870bc0a4e",
+  "logo": "http://www.cathospital.com.tr/favicon.png"
  },
  {
   "ad": "Cat Hospital Kuafor Unitesi",
@@ -24000,8 +24028,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.drbeauty.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/drbeautyusa"
+   }
+  ],
+  "calisma_saatleri": "Mo 09:00-17:00; Tu 09:00-17:00; We 09:00-17:00; Th 09:00-17:00; Fr 09:00-17:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 39.966094970703125,
@@ -24013,7 +24046,8 @@
   "overture_id": "ec7ec237-cdd4-4873-b895-9d9bdec4727c",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.drbeauty.com/wp-content/uploads/2021/11/DrBeautyLogo-Black-2x.png"
  },
  {
   "ad": "Dadya Parfümeri",
@@ -27099,9 +27133,14 @@
   "il": null,
   "ilce": "Mamak",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "+908503085450",
   "web": "https://www.dilanpolat.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/atasehirdilanpolatpoliklinigi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -30071,7 +30110,8 @@
   "overture_id": "16cb37e3-f553-4774-9f8f-4045aa795f33",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.duyguzaimoglu.com.tr/wp-content/uploads/2024/04/duyguzaimoglu-logo.png"
  },
  {
   "ad": "Duygu kuafor",
@@ -31957,7 +31997,8 @@
   "overture_id": "4051f5b5-4e87-41f9-afbb-f1bf1ea71902",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://edabayazit.com/skin/logo/edabayazitcom/logo.webp"
  },
  {
   "ad": "Eda Erkek Kuaforü",
@@ -35324,9 +35365,14 @@
   "il": null,
   "ilce": "Keçiören",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "+90 (312) 512-0107",
   "web": "http://elonaguzellik.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/elonaguzellik"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -44254,7 +44300,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.biomaser.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/biomaser_turkiye_pmu_academy"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -44267,7 +44318,8 @@
   "overture_id": "8322fa43-ff23-4e4b-be7f-b7e729125b84",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.biomaser.com.tr/wp-content/uploads/2025/06/Adsiz-tasarim-7.png"
  },
  {
   "ad": "Ferda Güzellik Salonu",
@@ -54248,8 +54300,13 @@
   "mahalle": null,
   "telefon": "(0312) 441 59 50",
   "web": "http://www.hairex.com.tr/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/hairexcomtr"
+   }
+  ],
+  "calisma_saatleri": "Mo 09:00-19:00; Tu 09:00-19:00; We 09:00-19:00; Th 09:00-19:00; Fr 09:00-19:00; Sa 09:00-19:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 39.88853454589844,
@@ -54261,7 +54318,8 @@
   "overture_id": "c75cdafc-4860-46a8-88dc-a2f87798bbe8",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.hairex.com.tr/assets/img/logo.png"
  },
  {
   "ad": "Hairjoy Nail Art",
@@ -56216,8 +56274,13 @@
   "mahalle": null,
   "telefon": "(0312) 467 60 71",
   "web": "https://www.helenaguzellik.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/helenaguzellik"
+   }
+  ],
+  "calisma_saatleri": "Mo 09:30-19:00; Tu 09:30-19:00; We 09:30-19:00; Th 09:30-19:00; Fr 09:30-19:00; Sa 09:30-19:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 39.90633773803711,
@@ -56229,7 +56292,8 @@
   "overture_id": "2b4a3910-5b83-46be-a32a-31192a5b80ae",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://helenaguzellik.com/images/helena-logo-square.png"
  },
  {
   "ad": "Helena Güzellik Merkezi",
@@ -60999,7 +61063,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "www.kerastase.com.tr",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/kerastase_official"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -68035,7 +68104,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.lifehairankara.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/sahin.celiksacekimi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -68048,7 +68122,8 @@
   "overture_id": "71ae8184-e77d-4522-9ce0-5046c36ca647",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://ml755doyjnog.i.optimole.com/w:250/h:250/q:mauto/ig:avif/https://lifehairankara.com/wp-content/uploads/2025/05/cropped-logo.png"
  },
  {
   "ad": "Lightyum Güzelik Merkezi",
@@ -79323,7 +79398,12 @@
   "mahalle": null,
   "telefon": "(0312) 466 58 74",
   "web": "http://muratcaliskan.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/murtcalskn"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -79336,7 +79416,8 @@
   "overture_id": "93c8f111-24ed-4566-988d-2899653ac802",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://muratcaliskan.com/assets/images/marka/murat-caliskan-portre.jpeg"
  },
  {
   "ad": "Murat Erkek Kuaforu",
@@ -80475,7 +80556,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.mugearslanguzelliksalonu.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/mugearslanbeauty"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -80488,7 +80574,8 @@
   "overture_id": "f008d6b3-7561-4d67-99d8-3e78b3b989a9",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://www.mugearslanguzelliksalonu.com.tr/assets/img/favicon.png"
  },
  {
   "ad": "Müge Arslan Güzellik Merkezi",
@@ -82415,7 +82502,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://nauticabeauty.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/nautica.beautylounge"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -82428,7 +82520,8 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
-  "overture_id": "d807462c-9c92-4225-bcdb-44dd5fb2eb1a"
+  "overture_id": "d807462c-9c92-4225-bcdb-44dd5fb2eb1a",
+  "logo": "https://nauticabeauty.com.tr/assetss/images/logo.png"
  },
  {
   "ad": "Naz Elegance Saç Tasarım",
@@ -86075,7 +86168,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://nisinailbeauty.randevula.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/nisinailbeauty"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -86844,7 +86942,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://nurcanmuratli.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/nurcanmuratlibeauty"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -86857,7 +86960,8 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
-  "overture_id": "8aa57ef2-34c6-494c-b4b1-0d4dd98c4f86"
+  "overture_id": "8aa57ef2-34c6-494c-b4b1-0d4dd98c4f86",
+  "logo": "https://nurcanmuratli.com/wp-content/uploads/2023/11/nurcanmuratlilogo.webp"
  },
  {
   "ad": "Nurefşan Türban Tasarım",
@@ -88462,7 +88566,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.ottospa.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/otto_spa"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -88475,7 +88584,8 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
-  "overture_id": "8fc2d44b-63a4-459f-9302-ccd65390e28f"
+  "overture_id": "8fc2d44b-63a4-459f-9302-ccd65390e28f",
+  "logo": "https://ottospa.com.tr/wp-content/uploads/2022/08/cropped-logo-dark1-180x180.png"
  },
  {
   "ad": "Ovacık Mah. 695. Cadde Renova Park Sitesi No : 13/CB Forum AVM Karşısı ANKARA/Keçiören",
@@ -90401,7 +90511,8 @@
   "overture_id": "41c7d0ae-8c75-4354-b357-35d99c90e67e",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.perihancoskun.com/vite.svg"
  },
  {
   "ad": "Perihan Coşkun",
@@ -91270,8 +91381,13 @@
   "mahalle": null,
   "telefon": "(0312) 286 31 32",
   "web": "https://plusbeautyclub.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/plus.beautyclub"
+   }
+  ],
+  "calisma_saatleri": "Mo 08:00-19:00; Tu 08:00-19:00; We 08:00-19:00; Th 08:00-19:00; Fr 08:00-19:00; Sa 08:00-19:00; Su 08:00-19:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 39.90957452234059,
@@ -91283,7 +91399,8 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
-  "overture_id": "d3a5df0a-50b2-439c-b87d-33de717ef6af"
+  "overture_id": "d3a5df0a-50b2-439c-b87d-33de717ef6af",
+  "logo": "https://plusbeautyclub.com/wp-content/themes/plus-beauty-club/assets/images/logo.png"
  },
  {
   "ad": "Podolog",
@@ -92237,7 +92354,8 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
-  "overture_id": "2ee44da2-9f16-4344-8fa9-71366abce694"
+  "overture_id": "2ee44da2-9f16-4344-8fa9-71366abce694",
+  "logo": "http://img1.wsimg.com/isteam/ip/static/pwa-app/logo-default.png/:/rs=w:57,h:57,m"
  },
  {
   "ad": "Prolifewoman",
@@ -92266,7 +92384,8 @@
   "overture_id": "4fc7fd9f-2742-4066-bcea-fc8c61a0e71b",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://img1.wsimg.com/isteam/ip/static/pwa-app/logo-default.png/:/rs=w:57,h:57,m"
  },
  {
   "ad": "Protez Tırnak Kliniği& İpek Kirpik",
@@ -99961,8 +100080,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.seldagencerbeauty.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/seldagencerbeautycenter"
+   }
+  ],
+  "calisma_saatleri": "Mo 10:00-20:00; Tu 10:00-20:00; We 10:00-20:00; Th 10:00-20:00; Fr 10:00-20:00; Su 10:00-20:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 39.876792907714844,
@@ -99974,7 +100098,8 @@
   "overture_id": "aff51dfe-be4d-4f2f-a015-7aa6eb8a0326",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://seldagencerbeauty.com/images/logo.webp"
  },
  {
   "ad": "Selda Güzellik Salonu",
@@ -104564,7 +104689,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.sibelsucularli.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/sibelsucularlibeautystudio"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -104577,7 +104707,8 @@
   "overture_id": "94f096de-1af6-4323-9cd7-355012405d58",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://sibelsucularli.com/tema/wp-content/uploads/2020/07/ss-favicon-2.png"
  },
  {
   "ad": "Sibel Öztürk BEAUTY",
@@ -105537,7 +105668,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.sibelsucularli.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/sibelsucularlibeautystudio"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -105550,7 +105686,8 @@
   "overture_id": "94f32ff3-4b26-40ee-a4ae-12c22a23c31b",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://sibelsucularli.com/tema/wp-content/uploads/2020/07/ss-favicon-2.png"
  },
  {
   "ad": "Solita Beauty&Esthetics",
@@ -110456,7 +110593,8 @@
   "overture_id": "d52a87de-e5cf-40ba-bc65-17f46216e1e4",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://www.tobe.tr/favicon.png"
  },
  {
   "ad": "Toka Kuaför",
@@ -112274,7 +112412,12 @@
   "mahalle": null,
   "telefon": "(0312) 485 20 15",
   "web": "http://www.tugceaffak.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/tugceaffak"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -115375,7 +115518,12 @@
   "mahalle": null,
   "telefon": "(0312) 241 92 40",
   "web": "http://www.viviankuafor.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/blog"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -115388,7 +115536,8 @@
   "overture_id": "d543a625-3e7b-4da2-b2d2-f40216256502",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://static.cdninstagram.com/rsrc.php/yj/r/f01UdNyJjJj.webp"
  },
  {
   "ad": "Vivienne Care Güzellik & Bakım",
@@ -117509,9 +117658,14 @@
   "il": null,
   "ilce": "Çankaya",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "+902120000000",
   "web": "http://yaseminterzioglu.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/yaseminterzioglu_pmuartist"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -117524,7 +117678,8 @@
   "overture_id": "6314de00-9269-4e22-b923-58636d91503f",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://yaseminterzioglu.com/wp-content/uploads/2026/09/cropped-yaseminterzioglusitesimgesi-180x180.png"
  },
  {
   "ad": "Yasemin Turhan Estetik ve Güzellik Merkezi",
@@ -118096,7 +118251,12 @@
   "mahalle": null,
   "telefon": "(0312) 444 51 51",
   "web": "https://yasambeauty.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/yasamhastanesibeauty"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -118109,7 +118269,8 @@
   "overture_id": "4170af34-9295-4f68-acfc-229ed3080ea8",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://yasambeauty.com.tr/wp-content/uploads/2023/10/cropped-fav-1-180x180.png"
  },
  {
   "ad": "Yaşar Kuaför",
@@ -119279,7 +119440,8 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
-  "overture_id": "f0a41456-d08f-479f-9dd5-ea49fb45c5cb"
+  "overture_id": "f0a41456-d08f-479f-9dd5-ea49fb45c5cb",
+  "logo": "https://static.wixstatic.com/media/848fdc_62c999ce80164b4192c4e4dfae691343%7Emv2.png/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/848fdc_62c999ce80164b4192c4e4dfae691343%7Emv2.png"
  },
  {
   "ad": "YÜKSEL BİÇER KALICI MAKYAJ STÜDYOSU",
@@ -119424,7 +119586,12 @@
   "mahalle": null,
   "telefon": "(0312) 255 26 26",
   "web": "http://www.yildar.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/yildarkozmetik"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -119437,7 +119604,8 @@
   "overture_id": "126579ff-bfd5-4d72-b2d9-5d1c18ef9be2",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.yildar.com.tr/wp-content/uploads/2026/09/Yildar_Logo_Kariyer.jpg"
  },
  {
   "ad": "Yıldız Bayan Kuaförü",
@@ -127319,9 +127487,14 @@
   "il": null,
   "ilce": "Çankaya",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "02128036580",
   "web": "http://www.erdemkiramer.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/erdemkiramerofficial"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -127334,7 +127507,8 @@
   "overture_id": "a2377902-d9f9-4bdc-b760-cb359961a3d2",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://erdemkiramer.com/assets/images/apple-icon-180x180.png"
  },
  {
   "ad": "erdi bayan kuaförü",
@@ -139346,7 +139520,12 @@
   "mahalle": null,
   "telefon": "(0312) 235 43 55",
   "web": "http://www.cagdasfazilet.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/cgdsfaziletciltbakimkursu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -144385,7 +144564,8 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
-  "overture_id": "ab6dbfb8-1ab8-46f0-90b7-3fefe5f20613"
+  "overture_id": "ab6dbfb8-1ab8-46f0-90b7-3fefe5f20613",
+  "logo": "https://godoeight.com/wp-content/uploads/2023/07/cropped-heilogo-165x40-1-150x40.png"
  },
  {
   "ad": "İxora Cosmetics",
@@ -144833,7 +145013,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://sanabeautyvelux.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/sanabeautyvelux"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -145382,8 +145567,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.serminfilazibeauty.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/serminfilazibeauty"
+   }
+  ],
+  "calisma_saatleri": "Mo,We,Th,Fr,Sa,Su 09:00-20:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 39.89132308959961,
@@ -145395,7 +145585,8 @@
   "overture_id": "25ceeacf-a320-4243-b7d8-af61b6d357b3",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://serminfilazibeauty.com/wp-content/uploads/2026/06/SF_logo_teal_background_4K-scaled.png"
  },
  {
   "ad": "Şermince Güzellik Merkezi",

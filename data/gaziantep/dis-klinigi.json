@@ -313,9 +313,14 @@
   "il": null,
   "ilce": "Şehitkamil",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "444 61 92",
   "web": "http://www.adcklinik.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/adcklinik"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -1331,7 +1336,12 @@
   "mahalle": null,
   "telefon": "(0850) 333 83 44",
   "web": "https://confidental.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/confidentalgaziantep"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -1344,7 +1354,8 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
-  "overture_id": "3dbc142b-8dab-47a7-b3f6-37728426a3dd"
+  "overture_id": "3dbc142b-8dab-47a7-b3f6-37728426a3dd",
+  "logo": "https://confidental.com.tr/wp-content/uploads/2022/02/logo-01.png"
  },
  {
   "ad": "Cumali Ogut Dis Poliklinigi",
@@ -6831,7 +6842,12 @@
   "mahalle": null,
   "telefon": "(0850) 333 83 44",
   "web": "http://www.adcklinik.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/adcklinik"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -7524,7 +7540,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://googlereklamcim.com/firmalar/emek-agiz-ve-dis-sagligi-poliklinigi/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/dijitalmedyabilisim"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -7537,7 +7558,8 @@
   "overture_id": "a5e5ab00-7dba-4edf-9ca9-bfb3c0e962d1",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://googlereklamcim.com/wp-content/uploads/2021/02/cropped-Logo.jpg"
  },
  {
   "ad": "Eray Tatar Dentist",
@@ -8054,7 +8076,12 @@
   "mahalle": null,
   "telefon": "(0342) 502 00 32",
   "web": "http://www.gulusakademisi.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/gulusakademisi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -8067,7 +8094,8 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
-  "overture_id": "75bedc8c-06f9-4c7c-b025-d17157d49d13"
+  "overture_id": "75bedc8c-06f9-4c7c-b025-d17157d49d13",
+  "logo": "http://www.gulusakademisi.com/theme/images/gulus-akademisi-logo.svg?v=1790855317"
  },
  {
   "ad": "Güneydoğu Özel Çok Amaçlı Diş Protez Laboratuvarı",
@@ -12604,7 +12632,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.zeugmadent.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/zeugmadent"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -12617,7 +12650,8 @@
   "overture_id": "185ad2ae-550f-43d8-a0b0-f33ff5c37788",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.zeugmadent.com/assets/tooth-transparent.png"
  },
  {
   "ad": "Özel Zeydent Ağız ve Diş Sağlığı Kliniği",
@@ -13247,6 +13281,7 @@
   "overture_id": "c532ba1b-3bf4-44bf-96c3-82d4c226a0a9",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://mytopcard.com/vite.svg"
  }
 ]

@@ -670,7 +670,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://dolunayozelegitim.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/dolunay_ozelegitim"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -683,7 +688,8 @@
   "overture_id": "84fa012d-89f8-4c19-9288-987abfae94cb",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://dolunayozelegitim.com/wp-content/uploads/2025/03/Dolunay-yatay-logo-1.png"
  },
  {
   "ad": "Dunya Yabanci Dil Ve Bilgisayar Kursu",

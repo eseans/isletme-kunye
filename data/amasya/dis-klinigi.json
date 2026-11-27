@@ -394,7 +394,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.dentamerzifon.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/dentamerzifon"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -407,7 +412,8 @@
   "overture_id": "be6b87f1-d5ca-4550-b6c1-cdf8264dc2fe",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://dentamerzifon.com/wp-content/uploads/2022/08/60x60.png"
  },
  {
   "ad": "Dentapark05",

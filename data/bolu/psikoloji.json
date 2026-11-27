@@ -163,9 +163,14 @@
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "444 7 464",
   "web": "http://imghasar.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/imghasar"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,

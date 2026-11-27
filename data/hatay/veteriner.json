@@ -848,7 +848,7 @@
   "telefon": null,
   "web": "http://arsuzveteriner.com/",
   "sosyal": [],
-  "calisma_saatleri": null,
+  "calisma_saatleri": "Mo 09:00-18:00; Tu 09:00-18:00; We 09:00-18:00; Th 09:00-18:00; Fr 09:00-18:00; Sa 09:00-18:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 36.43029,
@@ -860,7 +860,8 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
-  "overture_id": "d257bac8-c261-4d61-ab4d-a01999354042"
+  "overture_id": "d257bac8-c261-4d61-ab4d-a01999354042",
+  "logo": "https://arsuzveteriner.com/api/media/file/logo.webp"
  },
  {
   "ad": "Kugu Veteriner Klinigi",
@@ -1717,7 +1718,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://iskenderunveterinerklinigi.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/iskenderunpethouse"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,

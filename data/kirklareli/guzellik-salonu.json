@@ -3313,7 +3313,12 @@
   "mahalle": null,
   "telefon": "(0288) 417 57 27",
   "web": "http://www.jasleenspa.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/Jasleenspa"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -3867,8 +3872,13 @@
   "mahalle": null,
   "telefon": "(0288) 236 10 10",
   "web": "http://www.ekolguzellik.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ekolguzelliktr"
+   }
+  ],
+  "calisma_saatleri": "Mo 09:00-19:00; Tu 09:00-19:00; We 09:00-19:00; Th 09:00-19:00; Fr 09:00-19:00; Sa 09:00-18:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 41.73394775390625,
@@ -3880,7 +3890,8 @@
   "overture_id": "4180e5fc-9557-4cab-bb8d-887f125ea37f",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.ekolguzellik.com/medya/logo.png"
  },
  {
   "ad": "Kıvanç Erkek Kuaförü",

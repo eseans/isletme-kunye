@@ -38,10 +38,15 @@
   "il": null,
   "ilce": "Şehitkamil",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "03124782828",
   "web": "https://www.19mayishastanesi.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ozel19mayishastanesi"
+   }
+  ],
+  "calisma_saatleri": "Mo,Tu,We,Th,Fr,Sa,Su 09:00-17:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 37.07594680786133,
@@ -53,7 +58,8 @@
   "overture_id": "1608849c-fa96-4f00-b63e-b421fc2365d0",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.19mayishastanesi.com/wp-content/uploads/2019/12/logo_64.png"
  },
  {
   "ad": "Fizyo Clinic Alternatif Tıp Merkezi",
@@ -156,7 +162,12 @@
   "mahalle": null,
   "telefon": "(0342) 341 10 00",
   "web": "https://myfizyopilates.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/myfizyopilates"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -299,8 +310,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.kayropraksi.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/fzteyupguzel"
+   }
+  ],
+  "calisma_saatleri": "Mo 09:00-14:00; Tu 09:00-14:00; We 09:00-14:00; Th 09:00-14:00; Fr 09:00-14:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 37.069454193115234,

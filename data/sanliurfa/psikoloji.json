@@ -243,9 +243,14 @@
   "il": null,
   "ilce": "Karaköprü",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "+90-850-532-8100",
   "web": "http://www.getap.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/getapmerkez"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -258,7 +263,8 @@
   "overture_id": "828ed271-b4bb-4bc7-b2f4-ccedac82ddd3",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://getap.com.tr/static/media/getap-logo.b907d94f.webp"
  },
  {
   "ad": "Şanlıurfa Psikolog | Klinik Psikolog Faruk CESUR",

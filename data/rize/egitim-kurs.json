@@ -503,7 +503,12 @@
   "mahalle": null,
   "telefon": "(0464) 217 63 00",
   "web": "http://www.egitimis.org.tr/orgutler/rize",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/egitimis"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -516,7 +521,8 @@
   "overture_id": "a3fffd5f-361b-4170-bed2-4d216b8cad5d",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://www.egitimis.org.tr/assets/icons/apple-touch-icon.png"
  },
  {
   "ad": "Rize KOTO SRC KURSU",

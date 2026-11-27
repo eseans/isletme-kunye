@@ -42,7 +42,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.eskisehirbulutozelegitim.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/bulutozelegitim"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -158,7 +163,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.fizyoterapistomerdursungurgen.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/fizyoterapistomerdursungurgen"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -171,7 +181,8 @@
   "overture_id": "10e99fea-0710-4fd0-943b-b3f6530dbe5d",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://static.wixstatic.com/media/f2c981_7346a8d6eada44abb93412af35659aaa%7Emv2.jpg/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/f2c981_7346a8d6eada44abb93412af35659aaa%7Emv2.jpg"
  },
  {
   "ad": "Fizyoterapist Selin Karaca",

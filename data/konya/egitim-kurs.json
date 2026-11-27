@@ -2820,7 +2820,8 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
-  "overture_id": "e20bc146-e548-4e2a-8c93-cb698f9ef56a"
+  "overture_id": "e20bc146-e548-4e2a-8c93-cb698f9ef56a",
+  "logo": "http://www.fetihpsikoteknik.com/images/logo.jpg"
  },
  {
   "ad": "Flykids Academy",
@@ -2836,7 +2837,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.flykidsacademy.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/flykidsacademyy"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -2849,7 +2855,8 @@
   "overture_id": "74acbfcc-9d57-43af-bd98-0145a85f4f76",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://flykidsacademy.com.tr/wp-content/uploads/2024/05/favicon.svg"
  },
  {
   "ad": "Genç Osman sürücü kursu (ASYA)",
@@ -3002,7 +3009,12 @@
   "mahalle": null,
   "telefon": "(0332) 235 02 02",
   "web": "http://www.happyacademy.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/happyacademykonya"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -3015,7 +3027,8 @@
   "overture_id": "bc9c88d5-59a0-4353-a280-0b138867b84a",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://www.happyacademy.com.tr/apple-touch-icon.png"
  },
  {
   "ad": "Hasan CahİT KoÇ",
@@ -3862,7 +3875,12 @@
   "mahalle": null,
   "telefon": "(0332) 353 62 23",
   "web": "https://www.dundarsurucukursu.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/dundar_surucu_kursu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -3947,7 +3965,12 @@
   "mahalle": null,
   "telefon": "(0332) 233 44 52",
   "web": "http://americanvip.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/americanvipturkey"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -3960,7 +3983,8 @@
   "overture_id": "73705084-f421-4c0e-9eb1-634529efc899",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://americanvip.com.tr/upload/settings/logo.webp"
  },
  {
   "ad": "Konya Olimpik Yüzme Havuzu",
@@ -4894,9 +4918,14 @@
   "il": null,
   "ilce": "Meram",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "+08508080453",
   "web": "http://www.tacdilkursu.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/tacdilkursu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -5936,7 +5965,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.saraysurucu.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/saraysurucu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -6048,7 +6082,12 @@
   "mahalle": null,
   "telefon": "(0332) 321 03 10",
   "web": "http://selcuklukonyasurucukursu.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/selcuklumtsk"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -6061,7 +6100,8 @@
   "overture_id": "d53f73cf-c042-4d96-bded-bef884788b48",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://selcuklukonyasurucukursu.com/img/apple-touch-icon.png"
  },
  {
   "ad": "Sen Beğeniyorsun Diye",
@@ -6335,9 +6375,14 @@
   "il": null,
   "ilce": "Selçuklu",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "+08508080453",
   "web": "http://tacdilkursu.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/tacdilkursu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -6449,8 +6494,13 @@
   "mahalle": null,
   "telefon": "(0332) 236 80 66",
   "web": "http://teachera.com.tr/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/teachera"
+   }
+  ],
+  "calisma_saatleri": "Mo 09:00-21:30; Tu 09:00-21:30; We 09:00-21:30; Th 09:00-21:30; Fr 09:00-21:30; Sa 09:00-21:30; Su 09:00-21:30",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 37.8724479675293,
@@ -6462,7 +6512,8 @@
   "overture_id": "7b99ef3c-814a-4615-a043-cd941c908a71",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://teachera.com.tr/favicon-32x32.png"
  },
  {
   "ad": "Tek Dünya Language School",
@@ -6571,9 +6622,14 @@
   "il": null,
   "ilce": "Selçuklu",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "444 9 484",
   "web": "http://www.tempomtsk.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/temposurucukursu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -6586,7 +6642,8 @@
   "overture_id": "fa15ee55-d7f9-4220-a9cd-ff2c263c209e",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://www.tempomtsk.com/favicon/apple-touch-icon.png"
  },
  {
   "ad": "Tempo Psikoteknik Src Ody Üdy Adr Belgesi Sertifikası Kursu Konya",
@@ -7301,7 +7358,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.winchesteracademy.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/winchesterturkiye"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -7423,7 +7485,12 @@
   "mahalle": null,
   "telefon": "(0332) 351 00 44",
   "web": "https://ydsacademy.com/konya",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ydsacademyturkey"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -7436,7 +7503,8 @@
   "overture_id": "e2b4f433-b19b-4b89-89dc-73eae9391b19",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://ydsacademy.com/wp-content/uploads/2018/05/yds-logo-01-1.png"
  },
  {
   "ad": "Yabancı Diller Yüksekokulu",
@@ -8099,7 +8167,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.cankayasurucukursu.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/cankayamtsk"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,

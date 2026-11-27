@@ -4057,7 +4057,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.fitstation.com.tr/samsun-atakum",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/fitstationofficiall"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -4171,7 +4176,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://fitbullgym.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/fitbullgym"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -4184,7 +4194,8 @@
   "overture_id": "ab6cbb6b-220a-44d0-a7d7-7c1a235b45da",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://fitbull.hel1.your-objectstorage.com/settings/786IFNmQBYuT1Smw7aT9nckGtudbpVH1niu6W254.png"
  },
  {
   "ad": "Fitline Athletic Club",

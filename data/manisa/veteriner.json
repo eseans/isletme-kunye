@@ -806,7 +806,8 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
-  "overture_id": "7b931388-9038-415e-9987-1d5817848bbe"
+  "overture_id": "7b931388-9038-415e-9987-1d5817848bbe",
+  "logo": "http://dogusvet.com/img/apple-touch-icon.png"
  },
  {
   "ad": "Dr.D Veteriner Kliniği",
@@ -1509,7 +1510,8 @@
   "overture_id": "e620f3d3-c2be-46ec-9a4e-ecd4de26fe80",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://kaplantepe.com/panel/uploads/settings_v/32x32/kaplantepe-logo.png"
  },
  {
   "ad": "Karakurt Veterinerlik",
@@ -3473,8 +3475,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.istanbulveterinerklinigi.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/istanbulveteriner38"
+   }
+  ],
+  "calisma_saatleri": "Mo 00:00-23:59; Tu 00:00-23:59; We 00:00-23:59; Th 00:00-23:59; Fr 00:00-23:59; Sa 00:00-23:59; Su 00:00-23:59",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 38.48423767089844,
@@ -3486,7 +3493,8 @@
   "overture_id": "2f4fac08-d032-4932-9a4b-400e575147e7",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://istanbulveterinerklinigi.com/wp-content/uploads/2026/11/istanbul-veteriner-logo-ikon-130x150.png"
  },
  {
   "ad": "İzmir KUŞ Bahçesi",

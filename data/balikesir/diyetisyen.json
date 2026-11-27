@@ -421,7 +421,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://helinozkaya.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/lumierebeaute.tr"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -434,7 +439,8 @@
   "overture_id": "eb68be73-6621-482e-8689-dc203e183ef3",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.helinozkaya.com/wp-content/uploads/2025/01/cropped-LU.png"
  },
  {
   "ad": "Uzman Diyetisyen Özge Karaman Çelik",

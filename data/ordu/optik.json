@@ -361,7 +361,12 @@
   "mahalle": null,
   "telefon": "(0452) 214 15 95",
   "web": "http://www.gozgrup.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/gozgrup"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -374,7 +379,8 @@
   "overture_id": "0750810e-af3c-4f5c-a07a-72217908fc6d",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.gozgrup.com.tr/images/gozgrup.png"
  },
  {
   "ad": "Göz Optik",

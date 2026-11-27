@@ -42,7 +42,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.adafiz.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/adafizsaglikliyasam"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -55,7 +60,8 @@
   "overture_id": "44c642be-69c2-4b15-8a7f-72341ff023fa",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.adafiz.com.tr/apple-touch-icon.png"
  },
  {
   "ad": "Apeks Fizyoterapi",

@@ -42,8 +42,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.asiaterapi.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/asiaterapi"
+   }
+  ],
+  "calisma_saatleri": "Mo,Tu,We,Th,Fr,Sa,Su 09:00-17:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 40.87396240234375,
@@ -55,7 +60,8 @@
   "overture_id": "118072ae-8af0-4cd2-8628-ad5e7094aeb8",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://asiaterapi.com/wp-content/uploads/2023/02/logo.png"
  },
  {
   "ad": "Belediye hammame keyf",
@@ -125,8 +131,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.asiaterapi.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/asiaterapi"
+   }
+  ],
+  "calisma_saatleri": "Mo,Tu,We,Th,Fr,Sa,Su 09:00-17:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 40.87396240234375,
@@ -138,7 +149,8 @@
   "overture_id": "15b94fe1-b6fa-4cab-9be9-680c3ddda9fe",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://asiaterapi.com/wp-content/uploads/2023/02/logo.png"
  },
  {
   "ad": "Fimar Termal SPA",
@@ -270,7 +282,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://ozancanmasajterapisti.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ozancanmasajterapisti"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -283,7 +300,8 @@
   "overture_id": "973587e3-0b96-403d-a7ab-5f89f20268d1",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://ozancanmasajterapisti.com/wp-content/themes/ozan-can/assets/images/logo-dark.png"
  },
  {
   "ad": "Hilas Termal Otel&Spa",

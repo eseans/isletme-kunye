@@ -600,7 +600,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://beblissspa.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/beblissbabyspabursa"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -613,7 +618,8 @@
   "overture_id": "6bf7d0bd-d849-4c90-bd08-65aacc043b6c",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://beblissspa.com/wp-content/uploads/2026/03/be-bliss-spa-care-fav-icon.png"
  },
  {
   "ad": "Belediye Hamamı",
@@ -940,10 +946,15 @@
   "il": null,
   "ilce": "Osmangazi",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "+902244137003",
   "web": "http://www.bursanevamasaj.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/nevamasaj"
+   }
+  ],
+  "calisma_saatleri": "Mo 11:00-23:59; Tu 11:00-23:59; We 11:00-23:59; Th 11:00-23:59; Fr 11:00-23:59; Sa 11:00-23:59; Su 11:00-23:59",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 40.205989837646484,
@@ -955,7 +966,8 @@
   "overture_id": "283ea90f-ad96-4e4b-b6e0-7b42a47fcd2d",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://www.bursanevamasaj.com/assets/img/favicon-180.png"
  },
  {
   "ad": "Bursa Neva Spa ve Masaj Salonu",
@@ -971,8 +983,13 @@
   "mahalle": null,
   "telefon": "(0224) 413 70 03",
   "web": "http://www.bursanevamasaj.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/nevamasaj"
+   }
+  ],
+  "calisma_saatleri": "Mo 11:00-23:59; Tu 11:00-23:59; We 11:00-23:59; Th 11:00-23:59; Fr 11:00-23:59; Sa 11:00-23:59; Su 11:00-23:59",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 40.2214469909668,
@@ -984,7 +1001,8 @@
   "overture_id": "c8fa1e85-e154-4910-9d86-a78445cd105a",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://www.bursanevamasaj.com/assets/img/favicon-180.png"
  },
  {
   "ad": "Bursa Royal Spa",
@@ -2393,7 +2411,7 @@
   "telefon": null,
   "web": "http://gunesmasajsalonu.com/",
   "sosyal": [],
-  "calisma_saatleri": null,
+  "calisma_saatleri": "Mo 10:00-22:00; Tu 10:00-22:00; We 10:00-22:00; Th 10:00-22:00; Fr 10:00-22:00; Sa 10:00-22:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 40.18202590942383,
@@ -2405,7 +2423,8 @@
   "overture_id": "3dd47f7e-f134-42a4-858d-f44bdd7a6fc3",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://gunesmasajsalonu.com/assets/img/gunes-masaj-salonu-ikon.png"
  },
  {
   "ad": "HEC Bayan Kuaförü",
@@ -3077,7 +3096,8 @@
   "overture_id": "0e0bb04e-6450-4e25-9ab2-8d4c5ee9b155",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.kugumasajsalonu.com/wp-content/uploads/2020/01/kugu-masaj-salonu-footer.jpg"
  },
  {
   "ad": "Köpüklü Masaj Salonu",
@@ -4025,7 +4045,8 @@
   "overture_id": "eed77788-98ed-4393-b659-341610fe2ec5",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://seherdurmus.com.tr/panel/uploads/settings_v/32x32/seher--1-.png"
  },
  {
   "ad": "SNN Fitness & Health Club/SPA",
@@ -4177,7 +4198,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.bursahavuzsauna.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/bursahavuzsauna"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -4190,7 +4216,8 @@
   "overture_id": "65fd1119-40ed-4b30-8704-3b4f6663294d",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://bursahavuzsauna.com/wp-content/uploads/2025/01/HavuzSauna-1-1-e1737485894461.png"
  },
  {
   "ad": "Selçuk Hatun Termal",

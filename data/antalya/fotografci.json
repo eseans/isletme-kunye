@@ -662,7 +662,12 @@
   "mahalle": null,
   "telefon": "(0242) 248 41 20",
   "web": "https://www.fujifilmshop.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/fujifilmtr"
+   }
+  ],
   "calisma_saatleri": null,
   "lat": 36.8866911,
   "lng": 30.7017482,
@@ -945,7 +950,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.mitosfilmworks.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/mitosfilmworks"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -958,7 +968,8 @@
   "overture_id": "a9cde3b9-2a0e-42bd-8153-e40fabad95e4",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://mitosfilmworks.com/mitos-wordmark.png"
  },
  {
   "ad": "Mucize Doğum Fotoğrafçılık",
@@ -1538,9 +1549,14 @@
   "il": null,
   "ilce": "Muratpaşa",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "+902422540254",
   "web": "http://www.woxxproduction.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/woxxproduction"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,

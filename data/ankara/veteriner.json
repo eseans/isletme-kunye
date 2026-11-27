@@ -148,7 +148,12 @@
   "mahalle": null,
   "telefon": "(0312) 286 44 40",
   "web": "http://100yilveteriner.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/100.yil_veteriner"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -2401,7 +2406,12 @@
   "mahalle": null,
   "telefon": "(0312) 397 30 28",
   "web": "https://www.atlasvet.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/atlasvettr"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -2766,7 +2776,12 @@
   "mahalle": null,
   "telefon": "(0312) 213 07 87",
   "web": "http://www.taa-bahcelievler.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/tadbahcelievler"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -3548,7 +3563,7 @@
   "telefon": null,
   "web": "www.biyofilya.com",
   "sosyal": [],
-  "calisma_saatleri": null,
+  "calisma_saatleri": "Mo 09:00-19:00; Tu 09:00-19:00; We 09:00-19:00; Th 09:00-19:00; Fr 09:00-19:00; Sa 10:00-17:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 39.889263,
@@ -3560,7 +3575,8 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
-  "overture_id": "02a3426d-8c57-4a57-962f-662bba936e02"
+  "overture_id": "02a3426d-8c57-4a57-962f-662bba936e02",
+  "logo": "https://www.biyofilya.com/storage/settings/01KH65360YVDH6XYYXTKPY2VGX.png"
  },
  {
   "ad": "Boncuk Animal Club",
@@ -3754,7 +3770,8 @@
   "overture_id": "29d5a9e4-3350-41a9-a1c7-0ac0d0b71013",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://static.parastorage.com/client/pfavico.ico"
  },
  {
   "ad": "Cakil's vet hospital",
@@ -4427,7 +4444,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.danismentvk.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/danismentveterinerklinigi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -4440,7 +4462,8 @@
   "overture_id": "e97dff2d-0333-4f0a-92bd-6606b2aff833",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://static.parastorage.com/client/pfavico.ico"
  },
  {
   "ad": "Dante Veteriner",
@@ -4562,9 +4585,14 @@
   "il": null,
   "ilce": "Etimesgut",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "0 312 280 01 99",
   "web": "http://www.dincpati.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/dincpatihayvanhastanesii"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -4591,9 +4619,14 @@
   "il": null,
   "ilce": "Etimesgut",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "0 312 280 01 99",
   "web": "http://www.dincpati.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/dincpatihayvanhastanesii"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -4679,7 +4712,12 @@
   "mahalle": null,
   "telefon": "(0312) 481 30 80",
   "web": "http://www.dorukgiller.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/dorukgillerveterinerklinigi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -4692,7 +4730,8 @@
   "overture_id": "0bb79b7a-6570-4c33-ae18-757e0de99872",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://dorukgiller.com/favicon.ico?v=1542959634"
  },
  {
   "ad": "Dorukgiller Veteriner Kliniği",
@@ -5464,7 +5503,12 @@
   "mahalle": null,
   "telefon": "(0312) 999 49 96",
   "web": "https://eryamanveteriner.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/eryamanveterinerhastanesi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -6070,7 +6114,12 @@
   "mahalle": null,
   "telefon": "(0312) 979 65 85",
   "web": "http://www.evcilsepetim.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/evcilsepetim"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -7238,7 +7287,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.hititveteriner.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/hititvet"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -7251,7 +7305,8 @@
   "overture_id": "8a7a4e11-36e5-44d9-aa23-d62f65cc6674",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://static.wixstatic.com/media/0ff7f1_08cd4170e2954d10a412963f0528d3c0%7Emv2.png/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/0ff7f1_08cd4170e2954d10a412963f0528d3c0%7Emv2.png"
  },
  {
   "ad": "Holistik Pet Klinik",
@@ -10283,7 +10338,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.patiyika.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/patiyika"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -10296,7 +10356,8 @@
   "overture_id": "07c6d34b-43ef-4930-a372-42539002561b",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://www.patiyika.com/images/touch_1.png"
  },
  {
   "ad": "Pati4 Veteriner Kliniği",

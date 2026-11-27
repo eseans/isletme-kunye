@@ -3727,7 +3727,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.samsunoperatorlukkursu.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ozelkavakoperatorlukkursu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -3740,7 +3745,8 @@
   "overture_id": "b12830c7-8f34-492e-b71d-a2cc0930508d",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.samsunoperatorlukkursu.com/logo.png"
  },
  {
   "ad": "Samsun Özel Le Petit Kids English Academy Yabancı Dil Kursu",
@@ -4406,7 +4412,12 @@
   "mahalle": null,
   "telefon": "(0362) 646 19 19",
   "web": "https://ydsacademy.com/samsun",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ydsacademyturkey"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -4419,7 +4430,8 @@
   "overture_id": "cbfc9ddb-75ac-44f8-910c-6adeb1a2392f",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://ydsacademy.com/wp-content/uploads/2018/05/yds-logo-01-1.png"
  },
  {
   "ad": "Yargı Akademi Atakum Şubesi",
@@ -4461,7 +4473,12 @@
   "mahalle": null,
   "telefon": "(0362) 646 19 19",
   "web": "https://ydsacademy.com/samsun",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ydsacademyturkey"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -4475,7 +4492,8 @@
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
   "overture_id": "336e8274-1dc1-40df-b72d-99ab74ff91bb",
-  "alt": "dil-kursu"
+  "alt": "dil-kursu",
+  "logo": "https://ydsacademy.com/wp-content/uploads/2018/05/yds-logo-01-1.png"
  },
  {
   "ad": "Yeşil Bafra Sürücü Kursu",

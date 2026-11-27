@@ -1403,7 +1403,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.bilimplant.com/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZnRzaAON3U5leHRuA2FlbQIxMQBzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAadfk5NsUfbxnFF2oKeA8kV0mY3vbsiPynjBou8w5wlqP-If0bap946igTiNZg_aem_jEQV7v2TBhlHRbJZjClynQ",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/bilimplant.tr"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -1416,7 +1421,8 @@
   "overture_id": "d7394291-2c96-4ec6-b8ad-159fcfc8e5eb",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.bilimplant.com/wp-content/uploads/2022/02/cropped-512x512_Calisma-Yuzeyi-1-180x180.png"
  },
  {
   "ad": "Süleyman & Beril ŞEN Ağız ve Diş Sağlığı Kliniği",

@@ -69,9 +69,14 @@
   "il": null,
   "ilce": "Seyhan",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "425-334-5956",
   "web": "http://www.skolyozmerkezi.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/skolyozmerkezi.berkaytutar"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -332,7 +337,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.doktorsitesi.com/dilan-simsek/fizyoterapi/adana",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/doktorsitesi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -345,7 +355,8 @@
   "overture_id": "a7c004a2-e3cc-4f41-965d-a17c322dc831",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.doktorsitesi.com/assets/logo-tr.webp"
  },
  {
   "ad": "Fizyolotus",

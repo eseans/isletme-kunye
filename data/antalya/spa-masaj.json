@@ -43,7 +43,7 @@
   "telefon": null,
   "web": "http://www.antalyahamammasajsalonu.com/",
   "sosyal": [],
-  "calisma_saatleri": null,
+  "calisma_saatleri": "Mo 09:30-02:30; Tu 09:30-02:30; We 09:30-02:30; Th 09:30-02:30; Fr 09:30-02:30; Sa 09:30-02:30; Su 09:30-02:30",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 36.87474822998047,
@@ -55,7 +55,8 @@
   "overture_id": "e999eee8-13dc-4593-b998-33eab56a22a3",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://static.wixstatic.com/media/ffee23_92c2100d8eee4eae8ace1dae94da92e3%7Emv2.png/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/ffee23_92c2100d8eee4eae8ace1dae94da92e3%7Emv2.png"
  },
  {
   "ad": "10/B hamamı",
@@ -1907,8 +1908,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.antalyarotamasaj.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/antalyarotamasaj"
+   }
+  ],
+  "calisma_saatleri": "Mo-Su 11:30-02:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 36.89265823364258,
@@ -1920,7 +1926,8 @@
   "overture_id": "7c7cf650-c886-452b-ba3e-19dd44e272f4",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.antalyarotamasaj.com/logo.png"
  },
  {
   "ad": "Antalya Royal masaj salonu",
@@ -2853,7 +2860,12 @@
   "mahalle": null,
   "telefon": "(0242) 710 27 00",
   "web": "https://www.maxxroyal.com/en/belek-golf-resort/aven-royal-spa",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/maxxroyalresorts"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -2867,7 +2879,8 @@
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
   "overture_id": "cdd87536-14ea-47f6-87ff-4671aa3def07",
-  "alt": "spa"
+  "alt": "spa",
+  "logo": "https://www.maxxroyal.com/media/hhymcmss/maxxroyal-icon.svg"
  },
  {
   "ad": "Awaros Spa",
@@ -5324,7 +5337,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://diamondspabelek.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/diamondspabelek"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -5337,7 +5355,8 @@
   "overture_id": "ca6d3dff-c6f3-4b6d-a324-e174910876c4",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://diamondspabelek.com/wp-content/uploads/2023/06/logo-diamond-1-1.svg"
  },
  {
   "ad": "Divan Antalya Spa",
@@ -5708,7 +5727,12 @@
   "mahalle": null,
   "telefon": "(0242) 710 14 00",
   "web": "http://www.adamevehotel.com/en/adameve/content/spa/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/adamandeve_hotel"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -9263,7 +9287,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.kayahotels.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/kayahotels"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -9276,7 +9305,8 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
-  "overture_id": "251ab0bb-fe95-4f04-9712-a3acfa33273b"
+  "overture_id": "251ab0bb-fe95-4f04-9712-a3acfa33273b",
+  "logo": "https://kayahotels.com/wp-content/uploads/2025/02/KAYA-hotels-1.png"
  },
  {
   "ad": "Kaya Palazzo V'italy Spa",
@@ -9404,8 +9434,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.keyfwellness.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/keyfwellness"
+   }
+  ],
+  "calisma_saatleri": "Mo 08:00-17:00; Tu 08:00-17:00; We 08:00-17:00; Th 08:00-17:00; Fr 08:00-17:00; Sa 08:00-17:00; Su 08:00-17:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 36.81926727294922,
@@ -9939,7 +9974,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://kumkoywellness.com/de",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/kumkoywellness"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -9952,7 +9992,8 @@
   "overture_id": "7c2a3d33-13ab-43a4-8bda-6ab0199379e4",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://kumkoywellness.com/apple-touch-icon.png"
  },
  {
   "ad": "Kuzeyli SPA",
@@ -11197,7 +11238,7 @@
   "telefon": null,
   "web": "http://www.antalyahamammasajsalonu.com/",
   "sosyal": [],
-  "calisma_saatleri": null,
+  "calisma_saatleri": "Mo 09:30-02:30; Tu 09:30-02:30; We 09:30-02:30; Th 09:30-02:30; Fr 09:30-02:30; Sa 09:30-02:30; Su 09:30-02:30",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 36.85371398925781,
@@ -11209,7 +11250,8 @@
   "overture_id": "75da84d0-21c5-4462-8584-fa7e0e5bff5c",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://static.wixstatic.com/media/ffee23_92c2100d8eee4eae8ace1dae94da92e3%7Emv2.png/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/ffee23_92c2100d8eee4eae8ace1dae94da92e3%7Emv2.png"
  },
  {
   "ad": "ME Spa by L'Occitane",
@@ -11224,7 +11266,12 @@
   "mahalle": null,
   "telefon": "444 0 022",
   "web": "https://www.nirvanahotels.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/nirvanahotels"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -11237,7 +11284,8 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
-  "overture_id": "e180a4af-ce3c-4a5a-a4ac-70193b640f88"
+  "overture_id": "e180a4af-ce3c-4a5a-a4ac-70193b640f88",
+  "logo": "https://www.nirvanahotels.com.tr/favicon/apple-icon-180x180.png"
  },
  {
   "ad": "Magic Life Spa Center",
@@ -11380,7 +11428,8 @@
   "overture_id": "5b09fdfb-2f75-422b-9c3f-72bab0124633",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://images.cdn-files-a.com/uploads/625465/800_5a0b1d2961aca.png?aspect_ratio=1:1&width=152&format=png"
  },
  {
   "ad": "Mardan Palace Kids SPA",
@@ -12369,8 +12418,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.mythai.com.tr/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/mythai.antalya"
+   }
+  ],
+  "calisma_saatleri": "Mo 10:30-20:00; Tu 10:30-20:00; We 10:30-20:00; Th 10:30-20:00; Fr 10:30-20:00; Sa 10:30-20:00; Su 10:30-20:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 36.889095306396484,
@@ -12382,7 +12436,8 @@
   "overture_id": "6bbc3924-a781-41ab-91ff-335d9cd78dde",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://www.mythai.com.tr/uploads/attachments/cmeb9zteq0qf3m6x11rofv6z-mythaimassage.png"
  },
  {
   "ad": "Müller Massage Center",
@@ -13096,7 +13151,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.oldtownpointhotel.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/oldtownpointotel"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -13109,7 +13169,8 @@
   "overture_id": "e737e071-1b7e-4fe7-9c03-72f7e583a675",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://www.oldtownpointhotel.com/assets/favicon.svg"
  },
  {
   "ad": "Olive Spa Center",
@@ -13125,7 +13186,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.olivespacenter.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/olive_spa_center"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -13138,7 +13204,8 @@
   "overture_id": "c3810f24-188c-4e2a-b9c9-00ea4e505247",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://d25tea7qfcsjlw.cloudfront.net/7084/p/favicon-5d9f2b8165d0c.png"
  },
  {
   "ad": "Olympos Spa Center",
@@ -13167,7 +13234,8 @@
   "overture_id": "76e4181b-1d9a-4423-b99c-3f313a95716e",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://cdn.olymposspa.com/wp-content/uploads/2026/08/cropped-favicon-spa-olympos-180x180.webp"
  },
  {
   "ad": "Onay Hamamı",
@@ -14653,7 +14721,8 @@
   "overture_id": "25d8c08e-a47b-4b01-b46b-e0b99383f647",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.privesidehotel.com/favicon.svg"
  },
  {
   "ad": "Puding Spa",
@@ -15005,7 +15074,7 @@
   "telefon": null,
   "web": "http://www.rayathaimassage.com/",
   "sosyal": [],
-  "calisma_saatleri": null,
+  "calisma_saatleri": "Mo 10:00-24:00; Tu 10:00-24:00; We 10:00-24:00; Th 10:00-24:00; Fr 10:00-24:00; Sa 10:00-24:00; Su 10:00-24:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 36.851837158203125,
@@ -15017,7 +15086,8 @@
   "overture_id": "375b3312-5c42-447b-b9e7-ed9fe6606521",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://www.rayathaimassage.com/assets/img/favicon-192.png"
  },
  {
   "ad": "Regata",
@@ -17416,9 +17486,14 @@
   "il": null,
   "ilce": "Muratpaşa",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "+902422476060",
   "web": "http://www.delightdeluxehotel.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/delightdeluxehotel"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -17431,7 +17506,8 @@
   "overture_id": "c3231fe2-61c8-46b9-bfa4-6678bbf72059",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://delightdeluxehotels.com/logo/dD-Yatay-Ana-Siyah.svg"
  },
  {
   "ad": "Siberian Wellness Şengül",
@@ -17445,9 +17521,14 @@
   "il": null,
   "ilce": "Muratpaşa",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "+90 (850) 305 37 87",
   "web": "https://tr.siberianhealth.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/siberianwellnessturkey"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -17460,7 +17541,8 @@
   "overture_id": "7559737c-21e4-4d6c-bc93-d80c6090ac01",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://tr.siberianhealth.com/shopen/public/apple-touch-icon.png"
  },
  {
   "ad": "Side Beach Hotel 'Spa & Wellness'",
@@ -17712,7 +17794,8 @@
   "overture_id": "8bb5c6f6-a408-46ac-8ee8-6d3450726703",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://sidemirapalace.com/apple-touch-icon.png"
  },
  {
   "ad": "Side Premium Spa",
@@ -18980,7 +19063,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.spamasajyataklari.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/spamsjyataklari"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -18994,7 +19082,8 @@
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
   "overture_id": "b1d07307-68fb-4e5f-924f-b562f0e59d79",
-  "alt": "spa"
+  "alt": "spa",
+  "logo": "http://www.spamasajyataklari.com/apple-touch-icon.png"
  },
  {
   "ad": "Spa Wellness Center Marti Myra",
@@ -19597,7 +19686,7 @@
   "telefon": null,
   "web": "https://sidespahamam.com/",
   "sosyal": [],
-  "calisma_saatleri": null,
+  "calisma_saatleri": "Mo,Tu,We,Th,Fr,Sa,Su 08:00-22:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 36.77797841952604,
@@ -19610,7 +19699,8 @@
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
   "overture_id": "da26cd47-d104-422d-aea4-927c44c6a6ff",
-  "alt": "spa"
+  "alt": "spa",
+  "logo": "https://sidespahamam.com/wp-content/uploads/2024/07/Sultan-Hamam-500-x-500-piksel-500-x-150-piksel.svg"
  },
  {
   "ad": "Sultan Sipahi Spa & Wellness",
@@ -20545,8 +20635,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://therabliss.com.tr/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/therablissspa"
+   }
+  ],
+  "calisma_saatleri": "Mo 10:30-22:30; Tu 10:30-22:30; We 10:30-22:30; Th 10:30-22:30; Fr 10:30-22:30; Sa 10:30-22:30; Su 10:30-22:30",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 36.85937625869993,
@@ -20559,7 +20654,8 @@
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
   "overture_id": "e01a08e6-d3fe-4458-a281-bf7cfc07f3e1",
-  "alt": "spa"
+  "alt": "spa",
+  "logo": "https://therabliss.com.tr/wp-content/uploads/2025/10/favicon-180x180-1.png"
  },
  {
   "ad": "Therapy & Massage Center by Yusuf &  Gül",
@@ -20993,7 +21089,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://tulpandayspa.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/tulpandayspa"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,

@@ -11529,8 +11529,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.kadiralkan.com.tr/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/kadiralkanofficial"
+   }
+  ],
+  "calisma_saatleri": "Mo,Tu,We,Th,Fr,Sa,Su 09:00-17:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 41.007309,
@@ -11542,7 +11547,8 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
-  "overture_id": "917149bc-d018-41c4-a56e-71fc0a5bbbd4"
+  "overture_id": "917149bc-d018-41c4-a56e-71fc0a5bbbd4",
+  "logo": "https://www.kadiralkan.com.tr/wp-content/uploads/2020/12/kadiralkan-logo.png"
  },
  {
   "ad": "Kadir Erkek Kuaförü - Pelitli",

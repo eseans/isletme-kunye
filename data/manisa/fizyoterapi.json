@@ -71,8 +71,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.beytulsifa.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/beytulsifa"
+   }
+  ],
+  "calisma_saatleri": "Mo,Tu,We,Th,Fr,Sa 09:00-17:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 38.614768981933594,
@@ -84,7 +89,8 @@
   "overture_id": "985f237f-b85c-44bd-9b0e-e30a93d22b86",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.beytulsifa.com/wp-content/uploads/2022/05/beytulsifa_logo.png"
  },
  {
   "ad": "Dinamik Fizyoterapi Turgutlu",

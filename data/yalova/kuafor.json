@@ -13366,7 +13366,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.randevumuz.com/firma/1621/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/randevumuz"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -13379,7 +13384,8 @@
   "overture_id": "62f9d5c2-4c2c-495c-9381-99ad4da5cfab",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.randevumuz.com/images/apple-touch-icon.png"
  },
  {
   "ad": "Melike Kuaför",

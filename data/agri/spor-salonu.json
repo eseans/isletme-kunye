@@ -192,7 +192,8 @@
   "overture_id": "a16c8bd1-6506-4c97-9a2f-b845e1b2a906",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.agriaskf.com/wp-content/uploads/2023/11/agriaskf-logo.png"
  },
  {
   "ad": "AĞRI ASKF - Ağrı Amatör Spor Kulüpleri Federasyonu",
@@ -221,7 +222,8 @@
   "overture_id": "8d9681c3-cf20-4882-87c9-43e701efca62",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.agriaskf.com/wp-content/uploads/2023/11/agriaskf-logo.png"
  },
  {
   "ad": "Ağri Ghsim 2500 Kişilik Spor Salonu",
@@ -322,7 +324,12 @@
   "mahalle": null,
   "telefon": "(0472) 215 13 41",
   "web": "http://agri.gsb.gov.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/gencliksporbak"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -335,7 +342,8 @@
   "overture_id": "81028e18-28ee-4f4f-9c6f-35f187ac87a9",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://agri.gsb.gov.tr/assets/img/favicon3.ico"
  },
  {
   "ad": "Ağrı Gençlik Spor Tenis Kompleksi",

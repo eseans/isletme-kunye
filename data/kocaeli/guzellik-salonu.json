@@ -2466,7 +2466,8 @@
   "overture_id": "f445f9cb-46d7-4648-8a3c-375244e1d598",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://static.wixstatic.com/media/a6217d_8bb62fbcb7d74c0480147f9e5572bbd6%7Emv2.png/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/a6217d_8bb62fbcb7d74c0480147f9e5572bbd6%7Emv2.png"
  },
  {
   "ad": "Beatuy Center",
@@ -2908,7 +2909,8 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
-  "overture_id": "5d96e1b7-0b40-4515-b05c-052c7d0efe00"
+  "overture_id": "5d96e1b7-0b40-4515-b05c-052c7d0efe00",
+  "logo": "https://forsale.spaceship-cdn.com/static/latest/3.latest/assets/fonts/apple-touch-icon-57x57.png"
  },
  {
   "ad": "Berlin Ayak Sagligi",
@@ -7509,7 +7511,8 @@
   "overture_id": "9985bc9c-4d8c-43b1-9252-89b58ef65cb8",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://www.iznikesrakuafor.com/images/favicons/apple-touch-icon.png"
  },
  {
   "ad": "Esra Güzellik salonu",
@@ -9204,8 +9207,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.gulcanonder.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/gulcanonderguzellikizmit"
+   }
+  ],
+  "calisma_saatleri": "Mo 09:00-19:30; Tu 09:00-19:30; We 09:00-19:30; Th 09:00-19:30; Fr 09:00-19:30; Sa 09:00-19:30",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 40.765743,
@@ -9217,7 +9225,8 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
-  "overture_id": "0f414dd6-4089-4b45-a481-b0cf4a820770"
+  "overture_id": "0f414dd6-4089-4b45-a481-b0cf4a820770",
+  "logo": "https://www.gulcanonder.com/img/logo-koyu.png"
  },
  {
   "ad": "Gülender Kuaför",
@@ -10236,7 +10245,12 @@
   "mahalle": null,
   "telefon": "(0850) 308 36 31",
   "web": "http://www.zerbeautykorfez.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/zerbeautykorfez"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -10249,7 +10263,8 @@
   "overture_id": "200317b5-0005-42d8-9bd4-3c8d5b9767e8",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://zerbeautykorfez.com.tr/uploads/logo-zer-beauty.png"
  },
  {
   "ad": "Hm Beauty Secret",
@@ -12437,7 +12452,12 @@
   "mahalle": null,
   "telefon": "(0262) 324 67 48",
   "web": "http://www.kuaforfikret.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/kuaforfikret_izmit"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -12450,7 +12470,8 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
-  "overture_id": "806d583e-5717-4e84-b4dd-e1abb6d60aaf"
+  "overture_id": "806d583e-5717-4e84-b4dd-e1abb6d60aaf",
+  "logo": "https://kuaforfikret.com/wp-content/uploads/2025/02/cropped-DALL%C2%B7E-2025-02-04-22.57.51-A-stylish-and-modern-512x512-icon-for-a-hair-salon.-The-icon-should-feature-a-sleek-and-professional-design-incorporating-elements-like-scissors-a-h-180x180.webp"
  },
  {
   "ad": "Kuaför Hakan",
@@ -13041,7 +13062,12 @@
   "mahalle": null,
   "telefon": "(0262) 325 02 01",
   "web": "http://kuaforseda.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/kuaforsedakocman"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -14776,8 +14802,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.lumabeaute.com.tr/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/lumabeaute"
+   }
+  ],
+  "calisma_saatleri": "Mo 10:00-22:00; Tu 10:00-22:00; We 10:00-22:00; Th 10:00-22:00; Fr 10:00-22:00; Sa 10:00-22:00; Su 10:00-22:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 40.77312469482422,
@@ -14789,7 +14820,8 @@
   "overture_id": "4abcc204-4251-4f9b-9e48-2081ce6d96ad",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://lumabeaute.com.tr/uploads/logo/logo_20251130012800910f0e52cecdc.png"
  },
  {
   "ad": "Luvia Beauty",
@@ -14818,7 +14850,8 @@
   "overture_id": "c1c28531-444f-4b90-9ec1-9627b744e62b",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.luviabeauty.com.tr/static/img/pwa/apple-icon-180.png?v=1.0.0"
  },
  {
   "ad": "Luxury Saloon",
@@ -18149,7 +18182,12 @@
   "mahalle": null,
   "telefon": "(0850) 346 49 49",
   "web": "https://www.nouvellevieestetik.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/nouvellevieguzellik_"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -18162,7 +18200,8 @@
   "overture_id": "a3286c0c-9d78-4a16-af44-8c21f1f23bce",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.nouvellevieestetik.com/wp-content/uploads/2025/05/nvgld-300x300.webp"
  },
  {
   "ad": "Nouvelle Vie Estetik & Güzellik",
@@ -18367,7 +18406,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://nurcanuzuner.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/nurcanuzunerbeauty"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -21914,8 +21958,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://sevilaydemirbeauty.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/sevilaydemirbeauty"
+   }
+  ],
+  "calisma_saatleri": "Mo,Tu,We,Th,Fr,Sa,Su 09:00-17:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 40.77067947387695,
@@ -21927,7 +21976,8 @@
   "overture_id": "9633cd4c-4604-4180-af0e-8e0bf9476c0a",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://sevilaydemirbeauty.com/wp-content/uploads/2025/04/sevil-aydemir-beauty-logo.png"
  },
  {
   "ad": "Sevil Parfümeri",

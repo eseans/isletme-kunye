@@ -1432,7 +1432,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.bjksporokulu.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/bjkgaziantepfutbolokulu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -4234,7 +4239,12 @@
   "mahalle": null,
   "telefon": "(0342) 448 15 58",
   "web": "http://www.gaziantepfk.org/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/gaziantepfk"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -4247,7 +4257,8 @@
   "overture_id": "1bb67935-3477-4ac4-8b33-7548a5c42d3a",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.gaziantepfk.org/img/logo.svg"
  },
  {
   "ad": "Gaziantep Jimnastik Kübü",
@@ -6010,7 +6021,8 @@
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
   "overture_id": "5d109630-febf-4c1d-91dd-21da1057c546",
-  "alt": "fitness"
+  "alt": "fitness",
+  "logo": "https://levantesport.com/assets/brand/levante-logo.png"
  },
  {
   "ad": "Long Life Clup",
@@ -11951,7 +11963,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.istikrarsporkulubu.org/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/istikrarsporkulubu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -11964,7 +11981,8 @@
   "overture_id": "471fb799-b6ae-42df-8701-bb5f4e249a34",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.istikrarsporkulubu.org/uploads/image/anasayfa/favb.png"
  },
  {
   "ad": "İstikrar Spor Kulübü",
@@ -11980,7 +11998,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.istikrarsporkulubu.org/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/istikrarsporkulubu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -11993,7 +12016,8 @@
   "overture_id": "72461c7e-f317-44af-b2af-a208046666ce",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.istikrarsporkulubu.org/uploads/image/anasayfa/favb.png"
  },
  {
   "ad": "Şahinbey Köy Pazarı Spor Ve Eğitim Merkezi",

@@ -13834,7 +13834,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.uzmanbarbers.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/uzmanbarbers"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -13847,7 +13852,8 @@
   "overture_id": "44a73359-4f8d-4d95-bd66-380b27de73ce",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://uzmanbarbers.com/assets/uploads/favicon_1795696714_8015.svg"
  },
  {
   "ad": "Uzman Erkek Kuaförü",

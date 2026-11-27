@@ -9498,7 +9498,12 @@
   "mahalle": null,
   "telefon": "(0850) 532 01 88",
   "web": "http://www.estemore.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/emr.ajans"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -9511,7 +9516,8 @@
   "overture_id": "9620f67f-ea17-4b6b-b250-c51649b2cbd2",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://estemore.com/wp-content/uploads/2026/05/EstemoreBanner-1.png"
  },
  {
   "ad": "Estemore ( Op. Dr. İlsun Aka )",

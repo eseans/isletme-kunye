@@ -40,7 +40,7 @@
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "0374 212 27 75",
   "web": "http://www.boluahmetoptik.com/",
   "sosyal": [],
   "calisma_saatleri": null,
@@ -55,7 +55,8 @@
   "overture_id": "1b5717ab-1a58-44a5-95e1-cbf78c19a02d",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://static.wixstatic.com/media/5527c6_d7944add5ce1401fa4f467bb71003a52%7Emv2.png/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/5527c6_d7944add5ce1401fa4f467bb71003a52%7Emv2.png"
  },
  {
   "ad": "Aras Optik Bolu",
@@ -274,7 +275,12 @@
   "mahalle": null,
   "telefon": "(0374) 212 54 64",
   "web": "http://www.isitoptik.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/isitoptik"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,

@@ -210,7 +210,12 @@
   "mahalle": null,
   "telefon": "(0372) 615 25 10",
   "web": "https://ataturkspormerkezi.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/caycumabelediye"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -223,7 +228,8 @@
   "overture_id": "cbf65f33-ff3d-45f1-b15b-b8089e0cc85b",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://ataturkspormerkezi.com/wp-content/uploads/2022/01/Logo.png"
  },
  {
   "ad": "Bahçeşehir Koleji Halı Saha",
@@ -720,8 +726,13 @@
   "mahalle": null,
   "telefon": "(0850) 302 35 40",
   "web": "https://www.cagdasspormerkezi.com",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/cagdasspormerkezi"
+   }
+  ],
+  "calisma_saatleri": "Mo 09:00-23:00; Tu 09:00-23:00; We 09:00-23:00; Th 09:00-23:00; Fr 09:00-23:00; Sa 09:00-23:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 41.615455627441406,
@@ -733,7 +744,8 @@
   "overture_id": "c39d6918-91a2-4ebc-a8cf-93f60ae4b936",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.cagdasspormerkezi.com/favicon.ico?favicon.0b3bf435.ico"
  },
  {
   "ad": "Caycuma Sentetik Saha Stadyumu",

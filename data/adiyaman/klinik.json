@@ -4106,9 +4106,14 @@
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "+908508888802",
   "web": "http://Www.esdentgold.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/esdentgold"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -4121,7 +4126,8 @@
   "overture_id": "6ffa5044-6d43-4061-b7a2-ee021774f36c",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://esdentgold.com.tr/wp-content/uploads/2023/12/cropped-favicon-2.png"
  },
  {
   "ad": "Eski Devlet Hastahanesi",

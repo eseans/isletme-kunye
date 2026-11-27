@@ -42,7 +42,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://pinarozsu.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/psikologpinarozsu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -55,7 +60,8 @@
   "overture_id": "1e46eb54-99ff-4a2c-a81a-ae371db29fee",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.pinarozsu.com/img/icon/favicon-apple.png"
  },
  {
   "ad": "Akarsu Psikolojik Danışmanlık Merkezi",
@@ -245,7 +251,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.kariyerpoliklinigi.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/kariyerpoliklinigi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -258,7 +269,8 @@
   "overture_id": "71550e16-eb0e-44ed-b02e-b86c060aaa15",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://kariyerpoliklinigi.com/wp-content/uploads/2023/06/logo-dark.png"
  },
  {
   "ad": "Lukas Psikoloji",
@@ -330,9 +342,14 @@
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "+90 850 333 0388",
   "web": "https://www.uzmanklinikpskmericdemirel.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/psk.mericdemirel"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -345,7 +362,8 @@
   "overture_id": "6e6a0664-9e51-43a8-b8cd-6a991693d45b",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.uzmanklinikpskmericdemirel.com/img/favicons/favicon_60x60.png?v=697258ba998a6ccc998559b48d226a2d"
  },
  {
   "ad": "Nolu Sağlık Ocağı",

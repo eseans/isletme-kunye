@@ -13792,7 +13792,12 @@
   "mahalle": null,
   "telefon": "(0264) 282 07 09",
   "web": "https://www.nouvellevieestetik.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/nouvellevieguzellik_"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -13805,7 +13810,8 @@
   "overture_id": "9c224315-a53b-4ca8-8efa-1b0790235d7b",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.nouvellevieestetik.com/wp-content/uploads/2025/05/nvgld-300x300.webp"
  },
  {
   "ad": "Nova Güzellik Salonu",

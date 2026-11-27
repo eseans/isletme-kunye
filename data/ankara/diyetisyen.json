@@ -1668,7 +1668,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://cutt.ly/diyetisyensenanurcevik",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/cutt.ly"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -1681,7 +1686,8 @@
   "overture_id": "e3571245-7ed8-4c65-84bd-5c56c8205e42",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://cutt.ly/img/apple-icon-180x180.png"
  },
  {
   "ad": "Diyetisyen Melisa Küçük",

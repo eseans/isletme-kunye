@@ -2877,7 +2877,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.mehmetsipahi.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/mehmettsipahi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -2890,7 +2895,8 @@
   "overture_id": "08e05f46-c4a4-4c2e-8607-f301b6ecaacc",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://static.parastorage.com/client/pfavico.ico"
  },
  {
   "ad": "Dogankent ASM",
@@ -3753,7 +3759,12 @@
   "mahalle": null,
   "telefon": "(0454) 611 20 33",
   "web": "https://espiyedh.saglik.gov.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/espiye_devlet_hastanesi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,

@@ -1362,7 +1362,12 @@
   "mahalle": null,
   "telefon": "(0222) 330 55 20",
   "web": "http://www.qualitasspaeskisehir.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/qualitasspaeskisehir"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -1375,7 +1380,8 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
-  "overture_id": "ec9e7d2f-c49c-4085-b712-be6d011f97ec"
+  "overture_id": "ec9e7d2f-c49c-4085-b712-be6d011f97ec",
+  "logo": "http://qualitasspaeskisehir.com/images/apple-icon-57x571.png?8786,425"
  },
  {
   "ad": "Questa Termal & Spa Hotel Eskişehir",

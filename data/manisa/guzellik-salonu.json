@@ -7167,7 +7167,12 @@
   "mahalle": null,
   "telefon": "(0232) 886 78 90",
   "web": "http://fatihkurtar.sarahah.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/sarahah_com"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -7180,7 +7185,8 @@
   "overture_id": "aa52ceab-061d-4d0d-849d-ec19cc93ea29",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.sarahah.com/img/logo-512.png"
  },
  {
   "ad": "Fatoş Güzellik Salonu",
@@ -12459,7 +12465,8 @@
   "overture_id": "da28225f-8f24-4d90-b402-3497a3735fa9",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://static.parastorage.com/client/pfavico.ico"
  },
  {
   "ad": "Manisa Suit Güzellik Merkezi",
@@ -12544,7 +12551,8 @@
   "overture_id": "bcc37499-a776-428d-b263-f2a0c5ff8c08",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://img1.wsimg.com/isteam/ip/static/pwa-app/logo-default.png/:/rs=w:57,h:57,m"
  },
  {
   "ad": "Marvel Güzellik Merkezi",
@@ -12601,7 +12609,8 @@
   "overture_id": "a18d20e7-f0ba-4669-ab6f-91b75c1ca386",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://img1.wsimg.com/isteam/ip/static/pwa-app/logo-default.png/:/rs=w:57,h:57,m"
  },
  {
   "ad": "Masal Kuaför",
@@ -24336,8 +24345,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.ivorybeautycenter.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ivorybeautycenter"
+   }
+  ],
+  "calisma_saatleri": "Mo 09:00-20:00; Tu 09:00-20:00; We 09:00-20:00; Th 09:00-20:00; Fr 09:00-20:00; Sa 10:00-18:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 38.614322662353516,
@@ -24349,7 +24363,8 @@
   "overture_id": "0333351e-7aab-412e-a833-0326183df2ad",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://ivorybeautycenter.com/logo.png"
  },
  {
   "ad": "ışıkay güzellik merkezi",

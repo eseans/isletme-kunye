@@ -212,8 +212,13 @@
   "mahalle": null,
   "telefon": "(0850) 259 80 19",
   "web": "https://www.ankasportsclub.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ankasportsclub.tr"
+   }
+  ],
+  "calisma_saatleri": "Mo 10:00-22:00; Tu 10:00-22:00; We 10:00-22:00; Th 10:00-22:00; Fr 10:00-22:00; Sa 10:00-22:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 40.564971923828125,
@@ -225,7 +230,8 @@
   "overture_id": "26ab8395-cbb4-41df-ace8-587e73b26a51",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.ankasportsclub.com/icon.png"
  },
  {
   "ad": "Arpaöz Muhtarlığı / Çorum",

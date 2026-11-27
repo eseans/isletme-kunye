@@ -636,9 +636,14 @@
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "+908503032715",
   "web": "https://randevumonline.com/isletme/ayaz-erkek-kuaforu-764",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/randevumonline"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -651,7 +656,8 @@
   "overture_id": "17f91ed0-eaa3-4fd4-9838-9a090e81cbfb",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://randevumonline.com/logo/logo.png"
  },
  {
   "ad": "Aydogan Erkek Kuaförü",

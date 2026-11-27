@@ -618,7 +618,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://armadent.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/tarsusdentalklinik"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -1952,7 +1957,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.dryildiraysisman.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/prof.dr.yildiraysisman"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -1965,7 +1975,8 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
-  "overture_id": "c7208b62-5e7c-4f0c-9290-77d127452e01"
+  "overture_id": "c7208b62-5e7c-4f0c-9290-77d127452e01",
+  "logo": "https://www.dryildiraysisman.com/wp-content/uploads/2026/07/cropped-icon-180x180.webp"
  },
  {
   "ad": "Dentamer Ağız Ve Diş Sağlığı Polikliniği",
@@ -4335,7 +4346,7 @@
   "telefon": null,
   "web": "https://becendemir.com/",
   "sosyal": [],
-  "calisma_saatleri": null,
+  "calisma_saatleri": "Mo 08:30-18:00; Tu 08:30-18:00; We 08:30-18:00; Th 08:30-18:00; Fr 08:30-18:00; Sa 08:30-13:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 36.79023562956723,
@@ -5077,10 +5088,10 @@
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "+90 324 328 72 34",
   "web": "https://dtgulbaharyalcin.com/",
   "sosyal": [],
-  "calisma_saatleri": null,
+  "calisma_saatleri": "Mo 09:00-18:00; Tu 09:00-18:00; We 09:00-18:00; Th 09:00-18:00; Fr 09:00-18:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 36.784942,
@@ -5092,7 +5103,8 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
-  "overture_id": "147f09c9-6fb9-4be6-9d96-e23338b85eff"
+  "overture_id": "147f09c9-6fb9-4be6-9d96-e23338b85eff",
+  "logo": "https://dtgulbaharyalcin.com/assets/favicon.svg"
  },
  {
   "ad": "Diş Hekimi Gülçin Gülcü",
@@ -7951,7 +7963,12 @@
   "mahalle": null,
   "telefon": "(0324) 614 14 88",
   "web": "http://www.ido.org.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/idoyayin"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -10170,7 +10187,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.sancarsimsek.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/dr.sancarsimsek"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -10423,7 +10445,12 @@
   "mahalle": null,
   "telefon": "(0324) 325 35 25",
   "web": "http://www.tayfunturna.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/drtayfunturna"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -10436,7 +10463,8 @@
   "overture_id": "64310642-f186-4cbd-ac27-b4c346e94abc",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.tayfunturna.com/wp-content/themes/Tayfunturna2018/img/apple-touch-icon.png"
  },
  {
   "ad": "Dr. Tosun GÜNGÖR Diş Hekimliği",
@@ -10993,7 +11021,7 @@
   "telefon": "(0324) 613 19 92",
   "web": "http://www.durudental.com.tr/",
   "sosyal": [],
-  "calisma_saatleri": null,
+  "calisma_saatleri": "Mo 09:00-18:30; Tu 09:00-18:30; We 09:00-18:30; Th 09:00-18:30; Fr 09:00-18:30; Sa 10:00-15:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 36.918392181396484,
@@ -11279,7 +11307,8 @@
   "overture_id": "036044ff-b22c-42c3-b6a6-01964250bbfd",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://elmasdental.com.tr/wp-content/uploads/2026/07/elmas-dental-logo4.png"
  },
  {
   "ad": "Elvan Dental",
@@ -11295,7 +11324,12 @@
   "mahalle": null,
   "telefon": "(0324) 358 79 78",
   "web": "https://elvandental.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/elvandental"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -11308,7 +11342,8 @@
   "overture_id": "be227fec-e01e-4d89-9430-d55b67b153f1",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.elvandental.com.tr/wp-content/uploads/2022/02/logo.png"
  },
  {
   "ad": "Emine Kara Işhani",
@@ -12269,7 +12304,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.akdenizagizdis.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/akdenizagizdis"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -12282,7 +12322,8 @@
   "overture_id": "fc460087-a194-43f4-81c9-58b456138a91",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://akdenizagizdis.com/wp-content/uploads/2024/06/cropped-favicon-180x180.png"
  },
  {
   "ad": "Medicadent",
@@ -12959,7 +13000,12 @@
   "mahalle": null,
   "telefon": "(0324) 224 20 00",
   "web": "https://mersinidealdent.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/mersinidealdent"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -12972,7 +13018,8 @@
   "overture_id": "c00a413c-59db-4afc-a9fa-b89017160f3f",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.mersinidealdent.com/wp-content/uploads/2021/07/idealdent-logo.png"
  },
  {
   "ad": "Mezitli Diş Hekimi Nusret Göçer",
@@ -14044,7 +14091,8 @@
   "overture_id": "9065491a-66f3-4342-bfb0-d0607d4242e9",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://apronmedikal.com/assets/img/apron-logo-dark.webp"
  },
  {
   "ad": "Pozcu İnci Diş Ağız ve Diş Sağlığı Polikliniği",
@@ -14316,7 +14364,12 @@
   "mahalle": null,
   "telefon": "(0324) 325 20 00",
   "web": "https://www.sancarsimsek.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/dr.sancarsimsek"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -14426,7 +14479,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://semihulvi.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/karbondijital"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -18034,7 +18092,12 @@
   "mahalle": null,
   "telefon": "(0324) 341 31 31",
   "web": "https://www.mdental.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/mdentaldispoliklinigi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -18092,7 +18155,12 @@
   "mahalle": null,
   "telefon": "(0324) 237 53 00",
   "web": "http://www.merdis.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/mer.dis"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -18584,7 +18652,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.unaldent.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/unaldentclinics"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -18597,7 +18670,8 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
-  "overture_id": "59afae90-0d46-43d4-a576-f34c8d4cc151"
+  "overture_id": "59afae90-0d46-43d4-a576-f34c8d4cc151",
+  "logo": "https://framerusercontent.com/images/t3K6l1IvgFCOXuLGsrQSDzYEqrA.png"
  },
  {
   "ad": "çene cerrahı ödül erdem",
@@ -18748,7 +18822,12 @@
   "mahalle": null,
   "telefon": "(0324) 325 20 00",
   "web": "https://mersinidealdent.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/mersinidealdent"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -18761,7 +18840,8 @@
   "overture_id": "e9204d1d-c873-43e5-8306-6d9b9e7a100f",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.mersinidealdent.com/wp-content/uploads/2021/07/idealdent-logo.png"
  },
  {
   "ad": "İleridental",

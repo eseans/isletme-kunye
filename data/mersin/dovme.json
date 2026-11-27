@@ -3366,7 +3366,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://matclassink.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ink.mat"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -3379,7 +3384,8 @@
   "overture_id": "32f6ccd7-47aa-480a-8321-a9076d7c20de",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://img1.wsimg.com/isteam/ip/285f0aea-d47b-42e4-9297-4c4759ca4857/favicon/525501ad-e59f-4376-8f21-c0cffb5ed29a.png/:/rs=w:57,h:57,m"
  },
  {
   "ad": "SuffixOS",

@@ -883,7 +883,12 @@
   "mahalle": null,
   "telefon": "(0258) 215 12 30",
   "web": "http://www.gozgrup.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/gozgrup"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -896,7 +901,8 @@
   "overture_id": "a473e705-bc8a-4ccd-8b20-d78b4d3d84cc",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.gozgrup.com.tr/images/gozgrup.png"
  },
  {
   "ad": "Gözlük Tamircisi",

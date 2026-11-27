@@ -13,8 +13,13 @@
   "mahalle": null,
   "telefon": "(0332) 235 79 57",
   "web": "http://www.fotocankaya.com.tr/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/cankaya_fotografcilik"
+   }
+  ],
+  "calisma_saatleri": "Her gün 08:00 - 19:30",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 37.8806037902832,

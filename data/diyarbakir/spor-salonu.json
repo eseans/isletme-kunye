@@ -764,7 +764,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://thefirstcedi.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/cediosman"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,

@@ -629,8 +629,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://petrumvet.com.tr/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/petrum.vet"
+   }
+  ],
+  "calisma_saatleri": "Mo 09:00-19:00; Tu 09:00-19:00; We 09:00-19:00; Th 09:00-19:00; Fr 09:00-19:00; Sa 10:00-17:00; Su 00:00-23:59",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 39.92450714111328,
@@ -658,8 +663,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://petrumvet.com.tr/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/petrum.vet"
+   }
+  ],
+  "calisma_saatleri": "Mo 09:00-19:00; Tu 09:00-19:00; We 09:00-19:00; Th 09:00-19:00; Fr 09:00-19:00; Sa 10:00-17:00; Su 00:00-23:59",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 39.914241790771484,

@@ -660,7 +660,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.englishwithugur.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/englishwithugurr"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -673,7 +678,8 @@
   "overture_id": "264c002c-cfbe-4043-bf91-f250109c9d00",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://ewudil.com/images/logo-full.png"
  },
  {
   "ad": "EnglishClub",
@@ -1358,7 +1364,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://bolusahinmtsk.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/bolusahinsurucukursu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,

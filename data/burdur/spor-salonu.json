@@ -212,7 +212,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://burdur.bel.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/burdurbld"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -225,7 +230,8 @@
   "overture_id": "e26109c2-0505-4ec8-9788-59047a85fe1b",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://burdur.bel.tr/wp-content/uploads/2020/02/cropped-burdur-belediyesi-logo-296x300-1-180x180.png"
  },
  {
   "ad": "Burdur Gazi Atatürk Stadyumu",

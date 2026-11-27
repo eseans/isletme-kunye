@@ -230,7 +230,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://Www.AeroFit.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/aerofitspor"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -1810,7 +1815,12 @@
   "mahalle": null,
   "telefon": "(0266) 243 39 69",
   "web": "https://www.balikesirbbsk.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/balikesirbsb"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -1839,7 +1849,12 @@
   "mahalle": null,
   "telefon": "(0266) 243 39 69",
   "web": "https://www.balikesirbbsk.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/balikesirbsb"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -4469,8 +4484,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://fortegym.com.tr/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/fortegymstudio"
+   }
+  ],
+  "calisma_saatleri": "Mo,Tu,We,Th,Fr,Sa,Su 09:00-17:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 39.643042,
@@ -4483,7 +4503,8 @@
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
   "overture_id": "32b2f4cc-193f-4385-9565-e3b5c3697810",
-  "alt": "fitness"
+  "alt": "fitness",
+  "logo": "https://fortegym.com.tr/wp-content/uploads/2022/09/cropped-fortegym-logo.png"
  },
  {
   "ad": "F’Diana Pilates Studio",
@@ -5725,7 +5746,8 @@
   "overture_id": "edead14e-d40e-40d6-849a-5e9e91dd0eaf",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://www.karacaspor.com.tr/favicon.ico?favicon.0x3dzn~oxb6tn.ico"
  },
  {
   "ad": "Karahallılar Fıtness",
@@ -8468,7 +8490,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.studyotauma.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/seymainflow"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -8481,7 +8508,8 @@
   "overture_id": "d59cb7bc-9670-44fa-95c8-0a1df1be01ec",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://static.parastorage.com/client/pfavico.ico"
  },
  {
   "ad": "Susurluk Belefiyesi Fitness Center",

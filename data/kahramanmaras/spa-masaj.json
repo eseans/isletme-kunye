@@ -1078,7 +1078,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.cizgiterapi.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/cizgimasajterapi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -1091,7 +1096,8 @@
   "overture_id": "86315255-7d69-4677-bcb6-10a39a2fde69",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://www.cizgiterapi.com/images/icons/apple-touch-icon-57x57.html"
  },
  {
   "ad": "önder hamamı",

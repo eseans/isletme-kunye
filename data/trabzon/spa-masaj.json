@@ -41,7 +41,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://beatusspa.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/beatusspa"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -55,7 +60,8 @@
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
   "overture_id": "5573a1fd-d2b3-4ec9-a771-7d28e0f081ed",
-  "alt": "spa"
+  "alt": "spa",
+  "logo": "https://beatusspa.com.tr/icon-512.png"
  },
  {
   "ad": "Bozali Optik",

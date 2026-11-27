@@ -404,7 +404,12 @@
   "mahalle": null,
   "telefon": "(0288) 412 15 75",
   "web": "http://www.dostvet.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/dostveterinerklinigi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -417,7 +422,8 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
-  "overture_id": "73254b7c-f31c-4330-8190-25a225ab3860"
+  "overture_id": "73254b7c-f31c-4330-8190-25a225ab3860",
+  "logo": "https://www.dostvet.com/wp-content/uploads/2021/01/cropped-dostvet-simge-1.gif"
  },
  {
   "ad": "Dönmez Veteriner Kliniği",
@@ -1883,7 +1889,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.luleburgazveteriner.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/yunusveterinerklinigi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,

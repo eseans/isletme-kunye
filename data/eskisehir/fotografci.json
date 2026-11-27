@@ -13,7 +13,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.acrphotovideo.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/acrvideo"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -513,7 +518,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.wvisual.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/WVisualStudio"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -526,7 +536,8 @@
   "overture_id": "22d7d3a4-97d5-480c-8b0e-652bff92047e",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.wvisual.com.tr/images/logo.png"
  },
  {
   "ad": "Özgür Fotoğraf",

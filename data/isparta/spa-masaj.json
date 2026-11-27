@@ -11,9 +11,14 @@
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "+902462241840",
   "web": "http://www.adasauna.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ada_sauna"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -26,7 +31,8 @@
   "overture_id": "3d8d25c7-5bcd-4889-8dd9-aaee6b75831b",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://static.wixstatic.com/media/7b6ef4_6730bae054984facb3caca498fc8a8d0%7Emv2.png/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/7b6ef4_6730bae054984facb3caca498fc8a8d0%7Emv2.png"
  },
  {
   "ad": "Akdeniz Olimpik Sağlık Kompleksi",
@@ -689,7 +695,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://ispartagulsuyu.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/isparta_gul_suyu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -702,7 +713,8 @@
   "overture_id": "806f0d0d-11e3-4252-b559-098f6792cfb8",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://cdn.myikas.com/images/6e705dd1-e0d1-466f-bb43-3033b1c1cbb4/11090024-67c5-4dab-af94-5c6ba6240c97/image_1080.webp"
  },
  {
   "ad": "Isparta Masaj Salonu",
@@ -760,7 +772,8 @@
   "overture_id": "773c7579-bbe1-4eb3-a1a0-85f26941222c",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://ispartamasaj.com/wp-content/uploads/2026/01/ottoman-favicon-260x260.png"
  },
  {
   "ad": "Isparta Moda Clinice",
@@ -977,7 +990,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.lauraspavemasajsalonu.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/lauraspavemasaj"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -990,7 +1008,8 @@
   "overture_id": "5a785a47-663e-4298-823c-b7689ed4a937",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.lauraspavemasajsalonu.com/wp-content/uploads/laura-fncolor.png"
  },
  {
   "ad": "Life Spa Masaj Terapi Merkezi",
@@ -1133,7 +1152,8 @@
   "overture_id": "0ec800e6-977d-4fe9-8f81-489118b870a4",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://ispartamasaj.com/wp-content/uploads/2026/01/ottoman-favicon-260x260.png"
  },
  {
   "ad": "Pasifik Masaj Salonu",
@@ -1321,7 +1341,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.pienspavemasajsalonu.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/pienspavemasajsalonu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -1334,7 +1359,8 @@
   "overture_id": "3a10f99d-84ae-4eca-a29b-84c7ad3ce66d",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.pienspavemasajsalonu.com/wp-content/uploads/pien-logo-son.png"
  },
  {
   "ad": "Queen Masaj Salonu",
@@ -1657,8 +1683,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.ispartahamam.com.tr/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/yesilirmakhamammasajsalonu"
+   }
+  ],
+  "calisma_saatleri": "Mo 10:00-01:00; Tu 10:00-01:00; We 10:00-01:00; Th 10:00-01:00; Fr 10:00-01:00; Sa 10:00-01:00; Su 10:00-01:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 37.7769775390625,

@@ -578,7 +578,12 @@
   "mahalle": null,
   "telefon": "(0356) 214 05 60",
   "web": "https://englishtime.com/tokat",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/englishtimedilokullari"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -591,7 +596,8 @@
   "overture_id": "ff130c0f-4e32-445a-b479-0ac51ea7c59c",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.englishtime.com/svg/logorenkli.svg"
  },
  {
   "ad": "English course",

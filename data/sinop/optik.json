@@ -100,7 +100,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.optisyeninsesi.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/optisyeninsesi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -113,7 +118,8 @@
   "overture_id": "45f2f7d2-6c02-4547-944f-c174ca37b0fd",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://optisyeninsesi.com/wp-content/uploads/2025/08/OSlogo.png"
  },
  {
   "ad": "Değer Optik",

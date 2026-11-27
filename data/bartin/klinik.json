@@ -3140,7 +3140,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://fizyolady.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/fizyolady"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -3153,7 +3158,8 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
-  "overture_id": "0ec4d299-9416-473c-9c72-64f55ccf0d20"
+  "overture_id": "0ec4d299-9416-473c-9c72-64f55ccf0d20",
+  "logo": "https://fizyolady.com/wp-content/uploads/2020/09/Logo_JPG.jpg"
  },
  {
   "ad": "Fizyoterapist Orkun Mekeç",
@@ -3168,7 +3174,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://orkunmekec.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/fzt.orkunmekec"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -3181,7 +3192,8 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
-  "overture_id": "bd9e7d10-dd1e-4749-a5fe-a358e23bcb95"
+  "overture_id": "bd9e7d10-dd1e-4749-a5fe-a358e23bcb95",
+  "logo": "https://orkunmekec.com/frontend/img/apple-touch-icon.png"
  },
  {
   "ad": "Furkan Medikal",
@@ -3318,7 +3330,8 @@
   "overture_id": "dd9cc1b7-30fe-49ae-aca4-2c18c884de26",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://glikofit.com/images/settings/20261021-myyxioi2pqm1yzqz.webp"
  },
  {
   "ad": "Gökçebey Karapınar ASM",

@@ -182,9 +182,14 @@
   "il": null,
   "ilce": "Şehitkamil",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "+903423610118",
   "web": "https://www.dunyatek.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/dunyatek27"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -197,7 +202,8 @@
   "overture_id": "aead8aae-e9d7-4ea9-816b-e4f6b8f9b95b",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://dunyatek.com/images/logo/4301154301956-167-dunyatek3d%20logo%20arkaplans%C4%B1z.png"
  },
  {
   "ad": "En-Derûn Danişma ve Eğitim Merkezi 3422152429",
@@ -471,7 +477,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.pedagogokanbal.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/pedagogokanbal"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,

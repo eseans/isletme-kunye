@@ -965,7 +965,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://burcuuzun.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/burcuzunguzellik"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -978,7 +983,8 @@
   "overture_id": "9b661453-c710-4d98-9e3a-6aa11026ce3c",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://burcuuzun.com/wp-content/uploads/2022/10/logo-1-1024x579-2.png"
  },
  {
   "ad": "By Murat Desing",
@@ -2152,7 +2158,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://semaaslan.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/semaaslangorele"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -2165,7 +2176,8 @@
   "overture_id": "095b26e5-40b8-4961-866b-9601fba765aa",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://semaaslan.com.tr/wp-content/uploads/2024/10/sema-aslan-fav-300x300.jpg"
  },
  {
   "ad": "Güliz Kuaför",
@@ -4457,7 +4469,12 @@
   "mahalle": null,
   "telefon": "(0454) 260 15 15",
   "web": "http://www.seyhanumarestetikveguzellikmerkezi.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/seyhanumarguzellikmerkezi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,

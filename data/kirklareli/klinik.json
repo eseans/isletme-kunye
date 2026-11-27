@@ -1395,7 +1395,12 @@
   "mahalle": null,
   "telefon": "(0850) 420 30 60",
   "web": "http://armoral.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/armoralprobiyotikgargara"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -4463,7 +4468,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://drmehmetakguntepeli.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/dr.mehmetakguntepeli"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -4476,7 +4486,8 @@
   "overture_id": "6329d235-ee7b-4ac4-9fbe-2669b54a59fe",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://drmehmetakguntepeli.com/assets/img/apple-touch-icon.png"
  },
  {
   "ad": "Dr MAT Clinic - Op. Dr. Mehmet Akgün Tepeli ",
@@ -4492,7 +4503,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://drmehmetakguntepeli.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/dr.mehmetakguntepeli"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -4505,7 +4521,8 @@
   "overture_id": "1cf3191c-ae42-4fc7-b0b6-107776bcbaa4",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://drmehmetakguntepeli.com/assets/img/apple-touch-icon.png"
  },
  {
   "ad": "Dr. Ertan BEYATLI",
@@ -11154,7 +11171,7 @@
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "+902884175520",
   "web": "http://www.medicadisklinigi.com/",
   "sosyal": [],
   "calisma_saatleri": null,
@@ -14395,8 +14412,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.drkagancingoz.com/bg",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/drkagancingoz"
+   }
+  ],
+  "calisma_saatleri": "Mo 10:00-18:15; Tu 10:00-18:15; We 10:00-18:15; Th 10:00-18:15; Fr 10:00-18:15; Sa 10:00-18:15",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 41.720237731933594,

@@ -153,8 +153,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://midyatveteriner.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/bolgeveteriner"
+   }
+  ],
+  "calisma_saatleri": "Mo 09:00-18:00; Tu 09:00-18:00; We 09:00-18:00; Th 09:00-18:00; Fr 09:00-18:00; Sa 09:00-14:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 37.41573,
@@ -166,7 +171,8 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
-  "overture_id": "1275033e-ea09-45d7-bc83-f6a652cecb88"
+  "overture_id": "1275033e-ea09-45d7-bc83-f6a652cecb88",
+  "logo": "https://midyatveteriner.com/uploads/logos/favicon_1775809043.png"
  },
  {
   "ad": "Can Veteriner Kliniği",
@@ -780,7 +786,8 @@
   "overture_id": "d3b36831-87e4-48b3-9cb7-6b45ee18e7b0",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.patiset.com/wp-content/uploads/2026/11/cropped-patiset-pati-logo-3d-300x300-1-180x180.png"
  },
  {
   "ad": "Pet-Veteriner Kliniği",

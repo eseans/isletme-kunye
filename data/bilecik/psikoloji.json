@@ -14,7 +14,7 @@
   "telefon": null,
   "web": "http://psikoteknikinegol.com/",
   "sosyal": [],
-  "calisma_saatleri": null,
+  "calisma_saatleri": "Mo 09:00-18:00; Tu 09:00-18:00; We 09:00-18:00; Th 09:00-18:00; Fr 09:00-18:00; Sa 09:00-14:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 40.084678649902344,
@@ -26,7 +26,8 @@
   "overture_id": "5cb61656-2678-45a4-896c-2338a28dc9e1",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://psikoteknikinegol.com/apple-touch-icon.png"
  },
  {
   "ad": "Derin Psikoloji Uzman Klinik Psikolog Selva YURDAKUL",
@@ -129,7 +130,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.bilecikpusulapsikoloji.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/pusulapsikolojii"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -142,7 +148,8 @@
   "overture_id": "cd4cbd4f-07eb-4de2-ac77-16e15c202f86",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://static.parastorage.com/client/pfavico.ico"
  },
  {
   "ad": "Sura Psikoloji",

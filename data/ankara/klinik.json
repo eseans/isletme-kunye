@@ -6146,7 +6146,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.a4dental.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/a4dental"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -6159,7 +6164,8 @@
   "overture_id": "4569c988-8fd0-40eb-b1a8-84902dd17424",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.a4dental.com.tr/wp-content/uploads/2024/06/cropped-favicon-180x180.png"
  },
  {
   "ad": "ABAGROUP Ltd Şti",
@@ -7046,7 +7052,12 @@
   "mahalle": null,
   "telefon": "(0312) 395 25 22",
   "web": "http://www.alfatest.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/alfatest.com.tr"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -7059,7 +7070,8 @@
   "overture_id": "c2666d9d-7d32-4558-873c-ecdd7e4614d0",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.alfatest.com.tr/themes/alfatest/assets/img/apple-icon-57x57.png"
  },
  {
   "ad": "ALG MANTAR LAB",
@@ -8351,7 +8363,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "www.qiagen.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/qiagen"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -8758,7 +8775,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.omerekin.com/en/abdominoplasty-tummy-tuck",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/omerekinestetik"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -8771,7 +8793,8 @@
   "overture_id": "e442780e-045d-41cd-85ae-18542699bba7",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.omerekin.com/img/apple-touch-icon.png"
  },
  {
   "ad": "Abdullah Cevdet İmirzalioglu Bala İlce Entegre hastanesi",
@@ -9322,9 +9345,14 @@
   "il": null,
   "ilce": "Çankaya",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "0312 585 12 50",
   "web": "https://acilafet.saglik.gov.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/acilafetgovtr"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -9337,7 +9365,8 @@
   "overture_id": "83c5ca7d-e15b-4a0c-be6c-078e9e685015",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://dosyamerkez.saglik.gov.tr/Webfiles/2026/favicon.svg"
  },
  {
   "ad": "Acil Servis",
@@ -10853,7 +10882,8 @@
   "overture_id": "08df769c-6e44-4186-b414-f3bd6148891b",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.ahihavacilik.com/assets/img/logo-dark.png"
  },
  {
   "ad": "Ahi Mesut Sağlık Ocağı",
@@ -15943,7 +15973,12 @@
   "mahalle": null,
   "telefon": "(0312) 473 77 14",
   "web": "http://www.plexr.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/plexr_soft_surgery"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -15956,7 +15991,8 @@
   "overture_id": "c6571f58-3560-4aac-b507-576ad98bbb0c",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://www.plexr.com.tr/assets/images/favicons/apple-touch-icon.png"
  },
  {
   "ad": "Ameliyatta",
@@ -19111,8 +19147,13 @@
   "mahalle": null,
   "telefon": "(0312) 284 86 76",
   "web": "https://www.ankaraestetikcerrahi.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/nedimsarifakioglu"
+   }
+  ],
+  "calisma_saatleri": "Mo 09:00-19:00; Tu 09:00-19:00; We 09:00-19:00; Th 09:00-19:00; Fr 09:00-19:00; Sa 09:00-19:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 39.90879440307617,
@@ -19124,7 +19165,8 @@
   "overture_id": "d53d1c08-334e-453d-a242-daaaa5e6b75b",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.ankaraestetikcerrahi.com/wp-content/uploads/2025/10/ankara-estetik-cerrah-logo.png"
  },
  {
   "ad": "Ankara Etlik Saglik Kampüsü Inşaat Alani",
@@ -153887,7 +153929,12 @@
   "mahalle": null,
   "telefon": "(0312) 292 92 92",
   "web": "https://bit.ly/3CSNCd5",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/bitly"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -153900,7 +153947,8 @@
   "overture_id": "936a9aca-2f25-43df-87b9-37abaff1ecfa",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://mkt-bitly-media.qrcg.net/wp-content/uploads/2026/09/22160748/bitly-logos.webp"
  },
  {
   "ad": "Op. Dr. Bülent Demirtürk Kıl Dönmesi, Hemoroid, Anal Fissür, Anal Fistül",
@@ -169988,7 +170036,12 @@
   "mahalle": null,
   "telefon": "(0312) 284 28 88",
   "web": "https://bit.ly/haldunoguz",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/bitly"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -170002,7 +170055,8 @@
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
   "overture_id": "7945fe96-68c7-4c8a-b117-18be09f04813",
-  "alt": "muayenehane"
+  "alt": "muayenehane",
+  "logo": "https://mkt-bitly-media.qrcg.net/wp-content/uploads/2026/09/22160748/bitly-logos.webp"
  },
  {
   "ad": "Prof. Dr. Halil Yaman",
@@ -199425,7 +199479,12 @@
   "mahalle": null,
   "telefon": "(0312) 585 12 50",
   "web": "https://acilafet.saglik.gov.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/acilafetgovtr"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -199438,7 +199497,8 @@
   "overture_id": "04ec6b3f-f3b3-4992-8cf5-61ef183888b1",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://dosyamerkez.saglik.gov.tr/Webfiles/2026/favicon.svg"
  },
  {
   "ad": "USG",
@@ -205751,7 +205811,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://whnlifeline.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/whn_official"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -209458,7 +209523,7 @@
   "telefon": null,
   "web": "https://yetkindent.com/",
   "sosyal": [],
-  "calisma_saatleri": null,
+  "calisma_saatleri": "Mo 09:00-19:00; Tu 09:00-19:00; We 09:00-19:00; Th 09:00-19:00; Fr 09:00-19:00; Sa 09:00-19:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 39.91023635864258,
@@ -209470,7 +209535,8 @@
   "overture_id": "8bed676a-fc42-46ae-a3f9-5794d06c13e3",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://yetkindent.com/img/icon-512.png"
  },
  {
   "ad": "Yeşil Kahve",
@@ -212026,7 +212092,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.ztmedikal.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ztmedikalturkiye"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -212039,7 +212110,8 @@
   "overture_id": "c9b2a957-ee2a-498d-9296-54ff9a681638",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://duyn491kcolsw.cloudfront.net/client/img/favicons/turhost.ico?ph=ba4561c417"
  },
  {
   "ad": "Zabunoğlu Rehabilitasyon Merkezi",
@@ -219727,10 +219799,15 @@
   "il": null,
   "ilce": "Çankaya",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "+903129119786",
   "web": "https://drhakangenc.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/drhakangenc"
+   }
+  ],
+  "calisma_saatleri": "Mo 11:00-19:00; Tu 11:00-19:00; We 11:00-19:00; Th 11:00-19:00; Fr 11:00-19:00; Sa 11:00-19:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 39.891788482666016,
@@ -219742,7 +219819,8 @@
   "overture_id": "a7dd4e46-2bfe-47a5-8d88-fe114c043c1a",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.drhakangenc.com/marka/logo.svg"
  },
  {
   "ad": "drungan",
@@ -220335,7 +220413,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.eldiventurkiye.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/eldiventurkiye"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -220348,7 +220431,8 @@
   "overture_id": "84964a2f-45a4-4406-b912-45f028188dd6",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://eldiventurkiye.com/logo.png"
  },
  {
   "ad": "electrotherapy & rehab unit",
@@ -221465,7 +221549,8 @@
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
   "overture_id": "02637f2f-f677-496f-a739-22f7daf634ff",
-  "alt": "muayenehane"
+  "alt": "muayenehane",
+  "logo": "https://frekansisitme.com/wp-content/uploads/2024/07/cropped-frekans-isitme-Photoroom-180x180.png"
  },
  {
   "ad": "g.ü.t.f çocuk cerrahisi",
@@ -226233,7 +226318,8 @@
   "overture_id": "4f5d61cb-6f5a-47b2-b777-69259c8dc7e2",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://static.wixstatic.com/media/a3fe32_698b8d061673495fa5cdc11be70d85e6%7Emv2.png/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/a3fe32_698b8d061673495fa5cdc11be70d85e6%7Emv2.png"
  },
  {
   "ad": "meltem demirkıran/sağlıklı beslenme koçluğu",
@@ -228067,7 +228153,12 @@
   "mahalle": null,
   "telefon": "(0312) 211 15 12",
   "web": "http://www.prizmamedikal.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/prizmamedikal"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -228734,7 +228825,8 @@
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
   "overture_id": "00279716-51de-497b-84c5-384680e7a7e6",
-  "alt": "muayenehane"
+  "alt": "muayenehane",
+  "logo": "http://drkutaybiberoglu.com/wp-content/uploads/2016/06/cropped-cropped-qR1X03.jpg"
  },
  {
   "ad": "prof.dr.rifat gürsoy muayenehanesi",
@@ -232837,7 +232929,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://zulkufonal.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/zulkufonal"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -232850,7 +232947,8 @@
   "overture_id": "82ba3e8b-e4f8-49e5-88b9-37606881f746",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://zulkufonal.com/wp-content/uploads/2021/04/favico.png"
  },
  {
   "ad": "zübeyde hanım dogum evi süt odası",
@@ -235025,7 +235123,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://celikhealthtourism.com/tr",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/wix"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -235038,7 +235141,8 @@
   "overture_id": "5e75a3e3-c51a-4949-ab3a-4b7965575250",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://static.parastorage.com/client/pfavico.ico"
  },
  {
   "ad": "Çelikkan Eczanesi",
@@ -235134,7 +235238,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://cevlikpsikoloji.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/cevlikpsikoloji"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -235147,7 +235256,8 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
-  "overture_id": "c8d3149b-3f20-4419-a8a2-296bc1960458"
+  "overture_id": "c8d3149b-3f20-4419-a8a2-296bc1960458",
+  "logo": "https://cevlikpsikoloji.com/wp-content/uploads/2023/04/cropped-PNG-Yatay-1-scaled.png"
  },
  {
   "ad": "Çevtex Çevre Sağliği Ve İlaçlama Ltd. Şti.",
@@ -235572,7 +235682,12 @@
   "mahalle": null,
   "telefon": "(0312) 310 41 27",
   "web": "https://cocukdermatoloji.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/17841445684156706"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -235641,7 +235756,8 @@
   "overture_id": "e20925dc-fca5-475e-a211-569c4986f36d",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://www.cocukenfeksiyondernegi.org/img/apple-touch-icon.png"
  },
  {
   "ad": "Çocuk Gelişim Ünitesi",
@@ -235794,8 +235910,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.etasyurek.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/cocukergenpsikiyatristiankara"
+   }
+  ],
+  "calisma_saatleri": "Mo 08:00-19:00; Tu 08:00-19:00; We 08:00-19:00; Th 08:00-19:00; Fr 08:00-19:00; Sa 08:00-19:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 39.91248321533203,
@@ -235807,7 +235928,8 @@
   "overture_id": "c9c2906f-5bba-4714-bb6b-8b0fbc355c0f",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://cdn.durable.co/logos/17bNLO8SvHws5rp0OtkbTTwEjr9KJEjNnLA9WbaSLVIeVq0Etl4hpREy7IXePgy0.png"
  },
  {
   "ad": "Çocuk Psikoloğu Tuna Kadıoğlu",
@@ -235944,7 +236066,8 @@
   "overture_id": "739466a4-9b34-4edf-955d-2e9a8e54e3f2",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://hekimcocukpsikiyatri.com/wp-content/uploads/2026/04/ilbet-favicon-300x300.webp"
  },
  {
   "ad": "Çocuk İzlem Merkezi",
@@ -238685,9 +238808,14 @@
   "il": null,
   "ilce": "Etimesgut",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "+90 232 341 67 67",
   "web": "https://www.centralhospital.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/centralhospitalizmir"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -238700,7 +238828,8 @@
   "overture_id": "777738cd-415c-4038-904d-19cffdecd72e",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.centralhospital.com.tr/upload/izmirozelhastaneler-centrallogo.png"
  },
  {
   "ad": "Özel Batıkent Fizik Tedavi Ve Rehabilitasyon Merkezi",
@@ -243541,7 +243670,8 @@
   "overture_id": "e498b03b-e6a8-49cb-8a06-d3eb1589a45a",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://stilclinic.com/wp-content/uploads/2025/06/cropped-favicon-180x180.png"
  },
  {
   "ad": "Özel Su Hospital",
@@ -248944,7 +249074,12 @@
   "mahalle": null,
   "telefon": "(0312) 394 74 04",
   "web": "http://www.idadental.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ida_dental"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -249162,9 +249297,14 @@
   "il": null,
   "ilce": "Çankaya",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "0 (312) 466 64 26",
   "web": "http://www.ihsandogan.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/doc.dr.ihsan_dogan"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -249177,7 +249317,8 @@
   "overture_id": "45aa7e6f-d56f-4ed0-a055-d210c66eca9b",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.ihsandogan.com.tr/2025/02/prof-logo.png"
  },
  {
   "ad": "İkra Diş Laboratuarı",
@@ -252578,7 +252719,12 @@
   "mahalle": null,
   "telefon": "(0850) 303 71 71",
   "web": "https://gaziuniversityhospital.com/index-ru.html",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/gaziuniversityhospital"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -252591,7 +252737,8 @@
   "overture_id": "2043d328-4033-41f2-9ac7-2fb218a376f6",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.gaziuniversityhospital.com/wp-content/uploads/2022/03/gazi.png"
  },
  {
   "ad": "Медицинское агентство",

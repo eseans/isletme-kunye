@@ -1936,8 +1936,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.owlinktattoo.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/owlink_izmir"
+   }
+  ],
+  "calisma_saatleri": "Mo 10:00-23:00; Tu 10:00-23:00; We 10:00-23:00; Th 10:00-23:00; Fr 10:00-23:00; Sa 10:00-23:00; Su 10:00-23:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 39.78163146972656,
@@ -1949,7 +1954,8 @@
   "overture_id": "ddebb4f7-d4be-4052-9251-4ea746ee1795",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://owlinktattoo.com/assets/img/favicon.svg"
  },
  {
   "ad": "Montis Tattoo",

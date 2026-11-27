@@ -526,7 +526,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.aqualifemersin.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/aqualifemersin"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -640,7 +645,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.welns.io/product/booking/WFRCHN000016692/artespa?bk_src=FB102",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/miosalonsoftware"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -2417,7 +2427,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://adiosspamasajsalonu.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/adiosspa"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -2430,7 +2445,8 @@
   "overture_id": "4cb5814b-8a48-4ffa-9a15-a0638b07aa8b",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.adiosspamasajsalonu.com/wp-content/uploads/2025/02/cropped-adios_logo_gold-1-180x180.png"
  },
  {
   "ad": "Medikal Spa",
@@ -3161,10 +3177,15 @@
   "il": null,
   "ilce": "Çukurova",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "+903222321661",
   "web": "https://www.salusspa.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/salus_spa"
+   }
+  ],
+  "calisma_saatleri": "Mo 10:00-22:30; Tu 10:00-22:30; We 10:00-22:30; Th 10:00-22:30; Fr 10:00-22:30; Sa 10:00-22:30; Su 10:00-22:30; Mo 10:00-20:30; Tu 10:00-20:30; We 10:00-20:30; Th 10:00-20:30; Fr 10:00-20:30; Sa 10:00-20:30; Su 10:00-20:30; Mo 09:00-19:00; Tu 09:00-19:00; We 09:00-19:00; Th 09:00-19:00; Fr 09:00-19:00; Sa 09:00-19:00; Su 09:00-19:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 37.046443939208984,
@@ -3176,7 +3197,8 @@
   "overture_id": "a4b71b90-b2df-4778-8357-b61fb51e90d1",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.salusspa.com/icon-512x512.png"
  },
  {
   "ad": "Salus Spa ve Güzellik Merkezi",

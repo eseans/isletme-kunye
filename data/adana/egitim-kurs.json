@@ -155,7 +155,12 @@
   "mahalle": null,
   "telefon": "(0322) 888 01 86",
   "web": "https://bit.ly/3FPapMo",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/bitly"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -169,7 +174,8 @@
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
   "overture_id": "f7582671-0f68-44dd-a74a-a268d2400fb6",
-  "alt": "dil-kursu"
+  "alt": "dil-kursu",
+  "logo": "https://mkt-bitly-media.qrcg.net/wp-content/uploads/2026/09/22160748/bitly-logos.webp"
  },
  {
   "ad": "Adana Bale Akademi",
@@ -270,7 +276,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.adanadansakademi.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/adanadansakademi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -283,7 +294,8 @@
   "overture_id": "645fae9b-0d2a-4db6-9529-90dc145965f1",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://adanadansakademi.com/img/site/fav/fav-icon-180x180.png"
  },
  {
   "ad": "Adana Dans Ve Sanat Kulübü",
@@ -492,7 +504,12 @@
   "mahalle": null,
   "telefon": "(0322) 232 00 00",
   "web": "http://www.noktadil.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/noktadiltr"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -602,9 +619,14 @@
   "il": null,
   "ilce": "Çukurova",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "+903222020080",
   "web": "http://www.akabeysurucukursu.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/akabey_surucu_kursu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -828,7 +850,12 @@
   "mahalle": null,
   "telefon": "(0322) 232 77 77",
   "web": "http://www.americancultureadana.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/amerikankulturadana"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -841,7 +868,8 @@
   "overture_id": "8a14ed52-3c1b-43d2-8023-99a7fe4ac718",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.americancultureadana.com/wp-content/uploads/2022/05/amerikankultur-yenilogo.png"
  },
  {
   "ad": "American Cultural Association Language School",
@@ -1119,7 +1147,12 @@
   "mahalle": null,
   "telefon": "(0850) 308 07 07",
   "web": "https://www.americancultureadana.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/amerikankulturadana"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -1132,7 +1165,8 @@
   "overture_id": "d61b34d5-dda4-4673-9fbe-0523eec81441",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.americancultureadana.com/wp-content/uploads/2022/05/amerikankultur-yenilogo.png"
  },
  {
   "ad": "Amerikan Kültür Metropol Şubesi",
@@ -1204,7 +1238,12 @@
   "mahalle": null,
   "telefon": "(0322) 459 37 37",
   "web": "http://www.anadolusanat.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/anadolu.art"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -1217,7 +1256,8 @@
   "overture_id": "ef8d0392-edaa-4a22-9460-9c738e608c3e",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://www.anadolusanat.com/images/anadolu/GENEL/Logolar/anadolu_kalem.png"
  },
  {
   "ad": "Anatolian01sanat",
@@ -2246,7 +2286,12 @@
   "mahalle": null,
   "telefon": "(0322) 351 50 56",
   "web": "http://www.cemsurucukursu.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/cemsurucukursu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -2303,7 +2348,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.ceylansurucukurslari.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ceylansurucukursu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -2316,7 +2366,8 @@
   "overture_id": "7c67e974-934f-4cb5-b1e4-01f41c180ca9",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.ceylansurucukurslari.com/upload/icons/apple-touch-icon.png"
  },
  {
   "ad": "Ceylan Sürücü Kursu",
@@ -2360,7 +2411,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.chitchat.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/chitchatcourse"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -2686,7 +2742,8 @@
   "overture_id": "d3e5261b-bf9f-4d2e-b7fc-e93c70190c00",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://www.diamonddilkursu.com/_assets/images/725b756a69a7d4c235070e51acd85560.png"
  },
  {
   "ad": "Didem Bekiroglu Akademi Bale ve Dans",
@@ -2702,7 +2759,12 @@
   "mahalle": null,
   "telefon": "(0322) 235 01 07",
   "web": "http://www.didembekiroglu.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/didembekiroglubaleokulu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -2715,7 +2777,8 @@
   "overture_id": "446d9a65-ef61-4920-9e0d-a2453c609103",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://static.parastorage.com/client/pfavico.ico"
  },
  {
   "ad": "Didem Bekiroglu Bale&Dans",
@@ -3059,7 +3122,12 @@
   "mahalle": null,
   "telefon": "(0322) 459 67 39",
   "web": "http://www.english-home.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/englishhomecampus"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -4038,7 +4106,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.kokdil.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/kokdil"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -4051,7 +4124,8 @@
   "overture_id": "300fd396-013c-45ba-a818-005fd7c27a8d",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://kokdil.com/wp-content/uploads/2024/11/s_60-fWy_400x400.jpg"
  },
  {
   "ad": "Kökdil",
@@ -4067,7 +4141,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.kokdil.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/kokdil"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -4080,7 +4159,8 @@
   "overture_id": "9d3c56d7-0616-4bfa-9e4b-2018eeb55cb1",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://kokdil.com/wp-content/uploads/2024/11/s_60-fWy_400x400.jpg"
  },
  {
   "ad": "Kökdil Deutsch İnstitut",
@@ -4871,7 +4951,12 @@
   "mahalle": null,
   "telefon": "(0322) 232 00 00",
   "web": "http://www.noktadil.com.tr/iletisim",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/noktadiltr"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -4956,7 +5041,12 @@
   "mahalle": null,
   "telefon": "(0322) 232 00 00",
   "web": "http://www.noktadil.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/noktadiltr"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -6246,7 +6336,12 @@
   "mahalle": null,
   "telefon": "(0322) 453 47 73",
   "web": "http://www.taa-adana.org.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/turkamerikandernegi_adana"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -6259,7 +6354,8 @@
   "overture_id": "d9a99e92-f717-4730-b8b9-346127478cdd",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://taa-adana.org.tr/wp-content/uploads/2022/04/logo-1.png"
  },
  {
   "ad": "UMUT DİL AKADEMİ",
@@ -6373,7 +6469,8 @@
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
   "overture_id": "6db73221-a0c8-4db5-a8c9-9c01bf5419c3",
-  "alt": "dans"
+  "alt": "dans",
+  "logo": "https://static.wixstatic.com/media/ea280e_342f1c93d89a490189c215a9a35a4999%7Emv2.jpg/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/ea280e_342f1c93d89a490189c215a9a35a4999%7Emv2.jpg"
  },
  {
   "ad": "Uzman Korkut Dil Okulu",
@@ -8166,9 +8263,14 @@
   "il": null,
   "ilce": "Seyhan",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "+903222282828",
   "web": "http://ilkersurucukursu.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ilkersurucukursu_"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,

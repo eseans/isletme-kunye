@@ -2136,7 +2136,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.linknbio.com/mustafa_kuafr?utm_source=linknbio&utm_medium=share&utm_campaign=mustafa_kuafr&utm_content=header",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/linkinbioapp"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -2149,7 +2154,8 @@
   "overture_id": "96987a0e-80f4-4422-9e51-1b2d01661709",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.linknbio.com/assets/images/app-icons/icon-192.png"
  },
  {
   "ad": "Bayan Kuaförü Mercii",
@@ -7765,7 +7771,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.harikatransfer.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ecrinviptransfer"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -9955,7 +9966,8 @@
   "overture_id": "d9000984-25bc-42b1-a178-ec5df5420db4",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://static.parastorage.com/client/pfavico.ico"
  },
  {
   "ad": "Juliana Coiffeur Güzellik Salonu",
@@ -17923,8 +17935,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://proteza.com.tr/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/protezasac"
+   }
+  ],
+  "calisma_saatleri": "Mo 08:30-17:30; Tu 08:30-17:30; We 08:30-17:30; Th 08:30-17:30; Fr 08:30-17:30; Sa 08:30-17:30",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 37.06312942504883,
@@ -17936,7 +17953,8 @@
   "overture_id": "428baafa-edfc-4814-b504-d97948371bae",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://proteza.com.tr/proteza-logo.png"
  },
  {
   "ad": "Pusula Jeans",
@@ -22248,7 +22266,8 @@
   "overture_id": "e219cadd-a482-449b-8903-603e7e53c10c",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.selenyumguzellik.com/wp-content/uploads/2018/08/cropped-logo-180x180.jpeg"
  },
  {
   "ad": "Selenyum Güzellik Salonu",
@@ -25148,7 +25167,8 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
-  "overture_id": "a17be1c8-134f-4b24-bc39-cd4b3f229272"
+  "overture_id": "a17be1c8-134f-4b24-bc39-cd4b3f229272",
+  "logo": "http://www.yaprakgemicibeauty.com/vite.svg"
  },
  {
   "ad": "Yaren Estetik &  Güzellik  & Lazer Epilasyon",
@@ -25394,7 +25414,7 @@
   "telefon": null,
   "web": "https://www.yildizbeautyhair.com/",
   "sosyal": [],
-  "calisma_saatleri": null,
+  "calisma_saatleri": "Monday,Tuesday,Wednesday,Thursday,Friday,Saturday 08:00-19:00; Sunday 10:00-19:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 37.06879425048828,
@@ -25406,7 +25426,8 @@
   "overture_id": "4f28d8d1-7a6c-429d-a896-58b002f3ad4b",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://www.yildizbeautyhair.com/wp-content/uploads/2022/06/logo.webp"
  },
  {
   "ad": "Yooo",

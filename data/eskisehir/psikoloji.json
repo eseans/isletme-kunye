@@ -183,9 +183,14 @@
   "il": null,
   "ilce": "Odunpazarı",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "+90-850-532-8100",
   "web": "http://www.getap.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/getapmerkez"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -198,7 +203,8 @@
   "overture_id": "88721558-5db4-450b-9255-9786a090d056",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://getap.com.tr/static/media/getap-logo.b907d94f.webp"
  },
  {
   "ad": "Görkem Arı",
@@ -272,7 +278,12 @@
   "mahalle": null,
   "telefon": "(0222) 335 00 05",
   "web": "https://www.psikologaysedonerce.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/klinik.psikologaysedonerce"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -285,7 +296,8 @@
   "overture_id": "88b37334-8de7-4867-9abc-44160e478f65",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://www.psikologaysedonerce.com.tr/wp-content/uploads/2024/07/cropped-eskisehir-psikolog-ayse-donerce-logo.png"
  },
  {
   "ad": "My Hero Cocuk Gelisimi ve Danismanlik Merkezi",
@@ -417,7 +429,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://saripsikoloji.com/subelerimiz/sari-psikoloji-eskisehir",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/saripsikoloji"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,

@@ -13,7 +13,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.altinadimlar.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/altinadimlar.ozelegitim"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -26,7 +31,8 @@
   "overture_id": "8579133d-bf66-4fcd-9e5d-2674b1450b41",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.altinadimlar.com.tr/wp-content/uploads/2022/02/Adsiz-tasarim-13.png"
  },
  {
   "ad": "CİSRİ Fizik Tedavi Ve Sağlıklı Yaşam Merkezi",

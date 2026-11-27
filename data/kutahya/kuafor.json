@@ -12967,9 +12967,14 @@
   "il": null,
   "ilce": "Tavşanlı",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "+908503032715",
   "web": "https://randevumonline.com/isletme/salon-elnuha-608",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/randevumonline"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -12982,7 +12987,8 @@
   "overture_id": "c38042d3-57ba-4fd6-90a7-b83afe4c56c9",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://randevumonline.com/logo/logo.png"
  },
  {
   "ad": "Salon Ekol",

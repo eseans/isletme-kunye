@@ -100,7 +100,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.medyatilkisi.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/medyatilkisicom"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -113,7 +118,8 @@
   "overture_id": "f9cfd42b-a468-4849-ba11-5f03358eb680",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://medyatilkisicomtr.teimg.com/medyatilkisi-com-tr/uploads/2026/05/medyatilkisicomtr-site-logosu-beyaz-2026.png"
  },
  {
   "ad": "Studio Mavi Fotoğrafçılık",

@@ -564,8 +564,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.minaoptik.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/minaoptik"
+   }
+  ],
+  "calisma_saatleri": "Mo,Tu,We,Th,Fr,Sa,Su 09:00-17:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 37.76131820678711,
@@ -577,7 +582,8 @@
   "overture_id": "ed119228-26b1-44ef-9ca8-859093aa7022",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://minaoptik.com/wp-content/uploads/2026/03/cropped-cropped-mina-optik-logo-e1773010608740.png"
  },
  {
   "ad": "Optik Hümada",

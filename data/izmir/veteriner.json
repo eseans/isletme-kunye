@@ -385,7 +385,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.aldema.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/aldema.kanatlisagligi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -398,7 +403,8 @@
   "overture_id": "888325a1-df4d-4ed4-8dfe-b83916e7f4da",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://www.aldema.com.tr/favicon/apple-icon-57x57.png"
  },
  {
   "ad": "Alfa Veteriner",
@@ -957,8 +963,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.animoraveteriner.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/animoraveteriner"
+   }
+  ],
+  "calisma_saatleri": "Mo 08:00-20:00; Tu 08:00-20:00; We 08:00-20:00; Th 08:00-20:00; Fr 08:00-20:00; Sa 08:00-20:00; Su 09:30-17:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 38.366451263427734,
@@ -970,7 +981,8 @@
   "overture_id": "9dd2827e-f260-457a-8d70-2d23d6a2f0b4",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://92050b256c.clvaw-cdnwnd.com/74f013f1338279f84c2ce450e9fa5f9e/200000049-471ff47202/Animora_logo_beyaz_premium_mockup.ico?ph=92050b256c"
  },
  {
   "ad": "Anka Veteriner Kliniği",
@@ -1125,7 +1137,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://appavet.kolay.vet/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/appaveteriner"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -2461,8 +2478,13 @@
   "mahalle": null,
   "telefon": "(0232) 278 63 43",
   "web": "http://www.bativeteriner.com.tr/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/bati_veteriner"
+   }
+  ],
+  "calisma_saatleri": "Mo 09:00-19:00; Tu 09:00-19:00; We 09:00-19:00; Th 09:00-19:00; Fr 09:00-19:00; Sa 09:00-19:00; Su 09:00-19:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 38.394065856933594,
@@ -2474,7 +2496,8 @@
   "overture_id": "a60ceade-2001-4676-bfa4-986c0df5ba1f",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.bativeteriner.com.tr/wp-content/uploads/2025/12/cropped-Ekran-Resmi-2025-12-26-14.13.12-180x180.png"
  },
  {
   "ad": "Baykal Veteriner Kliniği",
@@ -3133,7 +3156,12 @@
   "mahalle": null,
   "telefon": "(0232) 999 19 19",
   "web": "http://bornova.bel.tr/veteriner-klinigi/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/bornovabld"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -3146,7 +3174,8 @@
   "overture_id": "d2b1736f-0b2d-4857-98c3-57469509238e",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://bornova.bel.tr/favicon/apple-touch-icon.png"
  },
  {
   "ad": "Bornova Doğa Veteriner Polikliniği",
@@ -3158,7 +3187,12 @@
   "mahalle": null,
   "telefon": "(0232) 520 25 75",
   "web": "http://www.dogavet.net/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/dogaveterinerklinikleri"
+   }
+  ],
   "calisma_saatleri": null,
   "lat": 38.4578719,
   "lng": 27.2040529,
@@ -3529,7 +3563,12 @@
   "mahalle": null,
   "telefon": "(0232) 439 10 10",
   "web": "http://www.buca.bel.tr/Hizmetlerimiz/19/sokak-hayvanlari-rehabilitasyon-merkezi-ve-hayvan-ambulansi/hizmetlerimiz.html",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/bucabld"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -3542,7 +3581,8 @@
   "overture_id": "15daeba2-3969-4408-bf87-521325283e78",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://www.buca.bel.tr/uploads/website_settings/ASCJIxKTEWwHRJ07lgrJYxGL4jzKpqgNGXSYZL1d.png"
  },
  {
   "ad": "Buca Vox Veteriner Kliniği",
@@ -4135,8 +4175,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://cansveteriner.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/cansveteriner"
+   }
+  ],
+  "calisma_saatleri": "Mo-Su 00:00-23:59",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 38.5482292175293,
@@ -4148,7 +4193,8 @@
   "overture_id": "abc79acf-18b2-4f8a-9871-6845fe31f3fc",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://cansveteriner.com/wp-content/uploads/2025/06/cans-veteriner-klinigi-logo.svg"
  },
  {
   "ad": "Casper Pet Store & Cafe",
@@ -4518,7 +4564,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://petkuaforizmir.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/pet_groomerdeniz"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -4531,7 +4582,8 @@
   "overture_id": "81d3671d-f7b5-4c89-9118-e4456a212ccd",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://petkuaforizmir.com/wp-content/uploads/2023/06/pet-kuafor-izmir-logo.png"
  },
  {
   "ad": "Cookie Pet Kuaför",
@@ -4979,7 +5031,12 @@
   "mahalle": null,
   "telefon": "(0232) 336 10 01",
   "web": "http://www.divetizmir.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/divetizmir"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -5394,7 +5451,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://doravet.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/doravetizmir"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -5407,7 +5469,8 @@
   "overture_id": "48a1016d-a861-4995-8636-1bdc62bc6f3e",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.doravet.com/wp-content/uploads/2026/01/doravet-e1767403019956.webp"
  },
  {
   "ad": "Doğa Veteriner Kliniği",
@@ -5630,7 +5693,8 @@
   "overture_id": "365e9a6a-779e-41b9-a7d0-b96800121545",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://dynamicagrigroup.com/wp-content/uploads/2025/03/favicon.png"
  },
  {
   "ad": "E.T.U.Veteriner",
@@ -6146,7 +6210,8 @@
   "overture_id": "ad346360-f6cd-477d-818c-3af4954d2efe",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://static.parastorage.com/client/pfavico.ico"
  },
  {
   "ad": "Egevet veterıner",
@@ -6229,7 +6294,8 @@
   "overture_id": "d1c318bf-f642-45d5-a0d6-cec465fc7f7b",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://izmirbayanarkadas.com/images/izmir-escort-2.png"
  },
  {
   "ad": "Ekvator Petshop",
@@ -6456,7 +6522,8 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
-  "overture_id": "23713752-8257-427d-9bc4-6e488acd2a2d"
+  "overture_id": "23713752-8257-427d-9bc4-6e488acd2a2d",
+  "logo": "https://static.parastorage.com/client/pfavico.ico"
  },
  {
   "ad": "Eyka Veteriner Klinigi",
@@ -6762,7 +6829,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.forbesveteriner.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/forbessveteriner"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -7432,7 +7504,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.grandesole.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/grandesoledogresort"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -7445,7 +7522,8 @@
   "overture_id": "8ba2ca3e-dc13-45f3-9eed-f68ac88e89d0",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.grandesole.com.tr/old/Content/img/logo.png"
  },
  {
   "ad": "Gts Tarim Gida",
@@ -8287,7 +8365,8 @@
   "overture_id": "a6eadca7-8ef1-440f-8e8d-2cf0beff1af5",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://www.urlahospetalvet.com/img/apple-touch-icon.png"
  },
  {
   "ad": "HuzurVet Veteriner Kliniği",
@@ -8657,7 +8736,8 @@
   "overture_id": "9bb634f8-a644-4d12-9c55-507ab2a617a8",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://www.izmirveterinergozmerkezi.com/apple-icon-180x180.png"
  },
  {
   "ad": "Izmirvita Veteriner Kliniği",
@@ -8700,7 +8780,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.justpatipetkuafor.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/justpati_petkuafor"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -8714,7 +8799,8 @@
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
   "overture_id": "55b903f9-1238-463a-b89b-639dcb975f27",
-  "alt": "pet-kuafor"
+  "alt": "pet-kuafor",
+  "logo": "https://www.justpatipetkuafor.com/wp-content/uploads/2025/08/cropped-Artboard-1-scaled-1-180x180.png"
  },
  {
   "ad": "KUZEY VETERINER KLINIGI",
@@ -9061,7 +9147,8 @@
   "overture_id": "9110c89f-e7cb-4188-a3ab-b0e19b0c4917",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://www.kskyasamvet.com/img/apple-touch-icon.png"
  },
  {
   "ad": "Karşıkaya Veteriner İşleri",
@@ -9484,7 +9571,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.klivet.org/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/KlivetDernek"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -9497,7 +9589,8 @@
   "overture_id": "c909230c-2379-4517-a6cd-95f6a01771a9",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://www.klivet.org/assets/img/apple-touch-icon.png"
  },
  {
   "ad": "Koala Veteriner Kliniği",
@@ -9789,7 +9882,12 @@
   "mahalle": null,
   "telefon": "(0232) 345 14 00",
   "web": "https://www.kusveterineri.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/kusveterineri"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -9940,7 +10038,8 @@
   "overture_id": "7d90f0ba-5b88-4f65-9af6-b21bee5fe5ab",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://kopukpet.com/icon/site.png"
  },
  {
   "ad": "Körfez Veteriner Kliniği",
@@ -10039,7 +10138,12 @@
   "mahalle": null,
   "telefon": "(0232) 388 61 69",
   "web": "http://Www.dogavet.net/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/dogaveterinerklinikleri"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -10716,7 +10820,7 @@
   "telefon": "(0232) 344 29 00",
   "web": "http://kanatveteriner.com/",
   "sosyal": [],
-  "calisma_saatleri": null,
+  "calisma_saatleri": "Su 00:00-23:59; Mo 00:00-23:59; Tu 00:00-23:59; We 00:00-23:59; Th 00:00-23:59; Fr 00:00-23:59; Sa 00:00-23:59",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 38.45412063598633,
@@ -10728,7 +10832,8 @@
   "overture_id": "21183fd9-b5d4-46da-a0b2-044ce0ea7ea4",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.kanatveteriner.com/logo.png"
  },
  {
   "ad": "Mar Kimya Veteriner",
@@ -11047,7 +11152,12 @@
   "mahalle": null,
   "telefon": "(0232) 234 18 19",
   "web": "http://www.mavivet.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/mavivet"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -11413,7 +11523,12 @@
   "mahalle": null,
   "telefon": "(0850) 259 80 40",
   "web": "http://www.veterinermedikaldeposu.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/veterinermedikaldeposu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -12361,7 +12476,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.mypetveteriner.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/mypetveterinerdiyarbakir"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -12807,7 +12927,12 @@
   "mahalle": null,
   "telefon": "(0232) 348 73 01",
   "web": "http://notavet.com.tr/iletisim/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/notavet"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -13118,7 +13243,7 @@
   "telefon": "(0232) 248 48 38",
   "web": "http://oksijenveteriner.com/",
   "sosyal": [],
-  "calisma_saatleri": null,
+  "calisma_saatleri": "Mo 00:00-23:59; Tu 00:00-23:59; We 00:00-23:59; Th 00:00-23:59; Fr 00:00-23:59; Sa 00:00-23:59; Su 00:00-23:59",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 38.393515474866796,
@@ -13130,7 +13255,8 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
-  "overture_id": "d47318a0-50be-4da4-947c-20be2bf51dfd"
+  "overture_id": "d47318a0-50be-4da4-947c-20be2bf51dfd",
+  "logo": "https://icerikyonetimiapi.ekolaykod.com/uploads/oksijenveteriner/2026/05/63f7e118-bbfe-4398-a843-1f21e48c31d7-original.png"
  },
  {
   "ad": "Okyanus Veteriner Kliniği",
@@ -13451,9 +13577,14 @@
   "il": null,
   "ilce": "Karşıyaka",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "+902323666635",
   "web": "https://www.ortivet.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ortivetpoliklinigi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -13591,7 +13722,12 @@
   "mahalle": null,
   "telefon": "(0232) 234 37 34",
   "web": "http://www.pamukvtm.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/durgut.hidayet"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -13604,7 +13740,8 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
-  "overture_id": "4e561fd7-2401-4ebf-8721-94e350f9c921"
+  "overture_id": "4e561fd7-2401-4ebf-8721-94e350f9c921",
+  "logo": "http://www.pamukvtm.com/wp-content/uploads/2019/08/pamuk.png"
  },
  {
   "ad": "Pamuk Veteriner Terapi Muayenehanesi",
@@ -13697,7 +13834,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.pangeaveterinerklinigi.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/pangeavet"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -13710,7 +13852,8 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
-  "overture_id": "4d3a0894-a2bc-4d17-9898-7aadd50e73b7"
+  "overture_id": "4d3a0894-a2bc-4d17-9898-7aadd50e73b7",
+  "logo": "http://www.pangeaveterinerklinigi.com/wp-content/uploads/2025/01/SVG-1.svg"
  },
  {
   "ad": "Papagan oyun alani ve oyuncaklari",
@@ -14209,7 +14352,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.patispetkuafor.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/patispetkuafor"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -14222,7 +14370,8 @@
   "overture_id": "c06d9586-31dd-4fdb-bee0-ce7c49bf33a6",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://img1.wsimg.com/isteam/ip/905b5fe1-69e0-42fb-ae64-60011b3c3be3/LOGO%20PAT%C4%B0%C5%9E%20PET.jpeg/:/rs=w:57,h:57,m"
  },
  {
   "ad": "Patişörler Pet Kuaför",
@@ -15835,8 +15984,13 @@
   "mahalle": null,
   "telefon": "(0232) 372 99 93",
   "web": "http://www.pilifeveteriner.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/pilifeveterinerklinigi"
+   }
+  ],
+  "calisma_saatleri": "Mo 08:30-19:00; Tu 08:30-19:00; We 08:30-19:00; Th 08:30-19:00; Fr 08:30-19:00; Sa 08:30-19:00; Su 10:00-15:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 38.46615610753403,
@@ -15848,7 +16002,8 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
-  "overture_id": "084d689d-6da1-4a31-8b3a-69d44d18297f"
+  "overture_id": "084d689d-6da1-4a31-8b3a-69d44d18297f",
+  "logo": "https://www.pilifeveteriner.com/wp-content/uploads/2026/11/pilife-site-simgesi-512-300x300.png"
  },
  {
   "ad": "Pinar Veteriner Klinigi",
@@ -16004,7 +16159,7 @@
   "telefon": "(0232) 224 98 88",
   "web": "http://www.poligonveteriner.com",
   "sosyal": [],
-  "calisma_saatleri": null,
+  "calisma_saatleri": "Mo 00:00-23:59; Tu 00:00-23:59; We 00:00-23:59; Th 00:00-23:59; Fr 00:00-23:59; Sa 00:00-23:59",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 38.39296682080462,
@@ -16016,7 +16171,8 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
-  "overture_id": "26ebbf7d-ade9-4827-8024-a78d7a7cee5e"
+  "overture_id": "26ebbf7d-ade9-4827-8024-a78d7a7cee5e",
+  "logo": "https://www.poligonveteriner.com/img/logo.png"
  },
  {
   "ad": "Poseidon Veteriner Kliniği",
@@ -16110,7 +16266,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.pozitifveteriner.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/pozitif.veteriner.izmir"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -16224,7 +16385,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://pinkdog.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/pinkdog.tr"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -16238,7 +16404,8 @@
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
   "overture_id": "db3ac3a2-9baa-4a91-b3be-a55c9d949fbb",
-  "alt": "pet-kuafor"
+  "alt": "pet-kuafor",
+  "logo": "https://cdn.myikas.com/images/634b32de-26ca-4165-9a9a-4b7190a1f064/d3ed71cd-8cc9-4210-9b22-89735b4fabd1/image_1080.webp"
  },
  {
   "ad": "Pınar Veteriner Kliniği",
@@ -19095,8 +19262,13 @@
   "mahalle": null,
   "telefon": "(0232) 270 26 10",
   "web": "https://www.urlavet.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/urlavet"
+   }
+  ],
+  "calisma_saatleri": "Mo 00:00-23:59; Tu 00:00-23:59; We 00:00-23:59; Th 00:00-23:59; Fr 00:00-23:59; Sa 00:00-23:59; Su 00:00-23:59",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 38.318967,
@@ -19108,7 +19280,8 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
-  "overture_id": "fd00090c-0f53-4be3-bdb3-cb2d4b343c35"
+  "overture_id": "fd00090c-0f53-4be3-bdb3-cb2d4b343c35",
+  "logo": "https://www.urlavet.com/logo.svg"
  },
  {
   "ad": "Ustakedi evcil hayvan aksesuarlari",
@@ -19689,14 +19862,19 @@
   "hizmet_ipuclari": [
    "4d954af4a243a5684765b473"
   ],
-  "adres": null,
+  "adres": "Yıldız Mah. 206/40 Sk. No: 40/D",
   "il": null,
   "ilce": "Buca",
   "mahalle": null,
   "telefon": null,
   "web": "http://www.vet35.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/vet35veteriner"
+   }
+  ],
+  "calisma_saatleri": "Mo 00:00-23:59; Tu 00:00-23:59; We 00:00-23:59; Th 00:00-23:59; Fr 00:00-23:59; Sa 00:00-23:59; Su 00:00-23:59",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 38.370018,
@@ -19708,7 +19886,8 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
-  "overture_id": "2f220cdc-c3d4-42ce-be97-275786ad784e"
+  "overture_id": "2f220cdc-c3d4-42ce-be97-275786ad784e",
+  "logo": "https://vet35.com/img/logo.png"
  },
  {
   "ad": "Vet360 Veteriner Kliniği",
@@ -20541,7 +20720,12 @@
   "mahalle": null,
   "telefon": "(0850) 305 03 34",
   "web": "https://www.veterinermalzeme.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/malzemeveteriner"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -24052,7 +24236,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://ozeldogusvet.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ozeldogusvetklinigi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -24065,7 +24254,8 @@
   "overture_id": "da75b56a-7d53-4565-b719-7cdfb6a10904",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://ozeldogusvet.com/assets/favicon/favicon_192x192_69ed885b14cf7_1777174619.png"
  },
  {
   "ad": "Özel Pınarbaşı Veteriner Kliniği",

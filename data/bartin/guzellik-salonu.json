@@ -1182,7 +1182,8 @@
   "overture_id": "f93b6bb0-320f-48be-88c9-b82a65b4259c",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://static.parastorage.com/client/pfavico.ico"
  },
  {
   "ad": "Meliha Sunaz Kuaför",
@@ -1393,7 +1394,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.olcaybozoglu.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/olcaybozoglu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,

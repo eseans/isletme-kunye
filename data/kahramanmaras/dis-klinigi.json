@@ -401,7 +401,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.aysdesignforsmile.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/dt.ays"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,

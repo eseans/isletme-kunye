@@ -71,7 +71,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://fizipain.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/fizipain"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -84,7 +89,8 @@
   "overture_id": "eea383fa-23c5-4aad-82af-da6f4a943aad",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://fizipain.com/wp-content/uploads/2022/06/PNGico.png"
  },
  {
   "ad": "FizyoSU Fizyoterapi Merkezi",
@@ -187,7 +193,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.fizyorama.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/fizyorama"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -345,7 +356,8 @@
   "overture_id": "d4c32f12-5493-43c4-9e3b-a8f8a0468e6c",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://www.medicafiz.com/images/logoyeni.png"
  },
  {
   "ad": "Pni Terapi Merkezi",

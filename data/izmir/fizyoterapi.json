@@ -1312,7 +1312,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.miyofiz.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/miyofiz"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -1325,7 +1330,8 @@
   "overture_id": "c046ecc5-c8e1-44e8-b33e-7e08a2807bcb",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://static.wixstatic.com/media/680277_80cbd175ad7248ab9c9ce1349c5533e9%7Emv2.png/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/680277_80cbd175ad7248ab9c9ce1349c5533e9%7Emv2.png"
  },
  {
   "ad": "Mustafa Ağaoğlu Kayropraktik Center",
@@ -1638,7 +1644,8 @@
   "overture_id": "0f6919e5-94b4-4f2c-82bc-de13fd973c15",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://profiz.com.tr/media/logo/profiz-logo-light-mode.png"
  },
  {
   "ad": "Reformation Studio II",

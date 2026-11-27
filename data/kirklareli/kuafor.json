@@ -22342,9 +22342,14 @@
   "il": null,
   "ilce": "Lüleburgaz",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "0 212 337 99 99",
   "web": "https://www.milliyet.com.tr/yerel-haberler/kirklareli/luleburgaz/luleburgazli-kuafor-kaptan-avrupa-sampiyonu-ol-6162579",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/milliyetcomtr"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -22357,7 +22362,8 @@
   "overture_id": "3f202118-f78a-4fdc-9b8d-6ec50f65c851",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://static.milliyet.com.tr/images/milliyet/milliyet_dijital_logo.svg?v=4"
  },
  {
   "ad": "Ömür Kuaför",

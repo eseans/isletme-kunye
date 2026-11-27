@@ -1008,7 +1008,12 @@
   "mahalle": null,
   "telefon": "(0224) 715 00 44",
   "web": "https://ydsacademy.com/inegol",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ydsacademyturkey"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -1021,7 +1026,8 @@
   "overture_id": "d2201682-61f3-469a-bbc3-c30668fc2a54",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://ydsacademy.com/wp-content/uploads/2018/05/yds-logo-01-1.png"
  },
  {
   "ad": "Yilmaz Surucu Kursu",

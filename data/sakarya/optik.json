@@ -736,9 +736,14 @@
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "444 0 481",
   "web": "https://venividigoz.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/venividigoz"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -751,7 +756,8 @@
   "overture_id": "18d0b913-7f69-485e-b57c-b5c08150b362",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://venividigoz.com/uploads/520x91px-logo-20260731170416_260-40-7.png"
  },
  {
   "ad": "Göz Optik",

@@ -1730,7 +1730,12 @@
   "mahalle": null,
   "telefon": "(0850) 470 47 47",
   "web": "https://daradent.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/daradentclinic"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -5683,8 +5688,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://mardinsacekimi.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/mardin.sac.ekim.merkezi"
+   }
+  ],
+  "calisma_saatleri": "Mo 09:00-18:00; Tu 09:00-18:00; We 09:00-18:00; Th 09:00-18:00; Fr 09:00-18:00; Sa 10:00-16:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 37.31556701660156,
@@ -5712,8 +5722,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://mardinsacekimi.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/mardin.sac.ekim.merkezi"
+   }
+  ],
+  "calisma_saatleri": "Mo 09:00-18:00; Tu 09:00-18:00; We 09:00-18:00; Th 09:00-18:00; Fr 09:00-18:00; Sa 10:00-16:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 37.330230712890625,
@@ -7287,9 +7302,14 @@
   "il": null,
   "ilce": "Artuklu",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "+90 (850) 577 21 47",
   "web": "https://smahmutozpinar.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/s.mahmutozpinar"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -7302,7 +7322,8 @@
   "overture_id": "e98bffcf-bede-4b96-9b8b-9e6ab9112d95",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://smahmutozpinar.com.tr/wp-content/uploads/2023/07/icon.png"
  },
  {
   "ad": "Saglik",
@@ -7711,7 +7732,8 @@
   "overture_id": "b02d2abd-9cdc-4464-8cf7-47be650496f1",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://www.spident.net/assets/img/spident/favicons/apple-touch-icon.png"
  },
  {
   "ad": "SÜNNETÇİ TAJDİN",

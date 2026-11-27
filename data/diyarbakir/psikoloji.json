@@ -13,7 +13,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.affektmag.com/omer-cacan",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/affektmag"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -26,7 +31,8 @@
   "overture_id": "80b029a0-1336-4ac4-a0e4-20563eb6596a",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://static.wixstatic.com/media/0c90c4_d79242a8b7dd4367a4646df1324e6a12~mv2.png/v1/fill/w_512,h_512/affekt-logo.png"
  },
  {
   "ad": "Akbey Psikoteknik Değerlendirme Merkezi-Diyarbakır",
@@ -336,7 +342,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.kubraozsat.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/klinikpsikologkubraozsat"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -349,7 +360,8 @@
   "overture_id": "872c8ae9-3b65-4197-a951-8ceffde8365d",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.kubraozsat.com/favicon.png"
  },
  {
   "ad": "Özel Diyarbakır Çözüm Özel Eğitim ve Rehabilitasyon Merkezi",

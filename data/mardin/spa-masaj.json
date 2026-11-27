@@ -13,7 +13,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.artespa.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/artespamerkezleri"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -42,7 +47,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://bilenspa.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/bilenspa"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,

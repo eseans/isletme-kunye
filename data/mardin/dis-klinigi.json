@@ -150,8 +150,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://halimesavci.com.tr/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/dt.halimesavci"
+   }
+  ],
+  "calisma_saatleri": "Mo 08:30-19:00; Tu 08:30-19:00; We 08:30-19:00; Th 08:30-19:00; Fr 08:30-19:00; Sa 08:30-19:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 37.33295822143555,
@@ -510,8 +515,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.denttas.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/dt.demirtas"
+   }
+  ],
+  "calisma_saatleri": "Mo 09:00-18:00; Tu 09:00-18:00; We 09:00-18:00; Th 09:00-18:00; Fr 09:00-18:00; Sa 09:00-18:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 37.325478,
@@ -523,7 +533,8 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
-  "overture_id": "30f36468-0b01-4604-92ca-219f04069887"
+  "overture_id": "30f36468-0b01-4604-92ca-219f04069887",
+  "logo": "https://denttas.com/assets/denttas-logo.png"
  },
  {
   "ad": "Derik Dent",
@@ -1667,7 +1678,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.guvendentall.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/guven.denttal"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -2767,7 +2783,12 @@
   "mahalle": null,
   "telefon": "(0482) 462 42 02",
   "web": "http://www.artukludis.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ozelartukludispoliklinigi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,

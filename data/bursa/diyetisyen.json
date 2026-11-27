@@ -42,8 +42,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://ersuntopal.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/op.dr.ersuntopal"
+   }
+  ],
+  "calisma_saatleri": "Mo 10:00-17:30; Tu 10:00-17:30; We 10:00-17:30; Th 10:00-17:30; Fr 10:00-17:30; Sa 09:30-14:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 40.23555374145508,
@@ -55,7 +60,8 @@
   "overture_id": "b9ad64d7-3bed-47f0-9602-8602ed736ca0",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://ersuntopal.com/assets/brand/apple-touch-icon.png?v=4"
  },
  {
   "ad": "Bursa Uzman Diyetisyen Ceren Avcı",
@@ -272,7 +278,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.begumtuna.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/dytbegumtuna"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -357,7 +368,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://dyteris.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/dyt.eris"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -370,7 +386,8 @@
   "overture_id": "73dc177c-1904-4518-b2b3-913366b2677f",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://dyteris.com/apple-icon.png?apple-icon.0xlvyrh0yyc4q.png"
  },
  {
   "ad": "Diyetisyen Didem Demir",
@@ -866,7 +883,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.bursaduysun.com/yazarlar/diyetisyen-simge-erdem/ramazanda-beslenme/377/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/bursaduysun"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -879,7 +901,8 @@
   "overture_id": "0b8f6f3f-ec62-4437-8aaf-5a963061a3c0",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.bursaduysun.com/images/genel/bursa-duygun-logo-yeni-png.png"
  },
  {
   "ad": "Diyetisyen Yusuf Yaşar",
@@ -1057,7 +1080,8 @@
   "overture_id": "7ae721d8-2c91-4495-ab29-67742c82e93b",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://diyetisyenmerkezi.com/wp-content/uploads/2020/01/cropped-MediumSquareLogo-180x180.jpg"
  },
  {
   "ad": "Dost Ile Beslenme Kulübü",
@@ -1200,7 +1224,8 @@
   "overture_id": "58d873ed-069a-4393-a8a9-dd1ae1d3309f",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://gulsahesensoy.com/wp-content/uploads/2023/05/cropped-Asset-2-180x180.png"
  },
  {
   "ad": "En Zarif Beslenme Kulübü",
@@ -1927,7 +1952,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://gozdesudalgic.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/dytgozdesu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -1940,7 +1970,8 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
-  "overture_id": "df159190-1a37-4ada-87b9-6288d8a7c4bd"
+  "overture_id": "df159190-1a37-4ada-87b9-6288d8a7c4bd",
+  "logo": "http://gozdesudalgic.com/assets/favicon.svg"
  },
  {
   "ad": "Uzman Diyetisyen Elif Girgin",

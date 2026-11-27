@@ -13,7 +13,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.akupunkturkusadasi.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/akupunkturkusadasi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -26,7 +31,8 @@
   "overture_id": "5d42e171-6303-4727-aceb-d0821e2bec4a",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://img1.wsimg.com/isteam/ip/static/pwa-app/logo-default.png/:/rs=w:57,h:57,m"
  },
  {
   "ad": "Kuşadası Akupunktur",

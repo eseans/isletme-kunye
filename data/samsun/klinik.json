@@ -10025,9 +10025,14 @@
   "il": null,
   "ilce": "Atakum",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "08507111133",
   "web": "https://bulutklinik.com/dr-nalan-deniz-bastug",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/bulutklinik"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -10040,7 +10045,8 @@
   "overture_id": "373c7ecb-8653-44c0-a53e-84abb28ba2c1",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://bulutklinik.com/assets/new-bulut-klinik/img/logo.svg"
  },
  {
   "ad": "Dr. Nuray Öztürk",
@@ -28005,7 +28011,12 @@
   "mahalle": null,
   "telefon": "(0362) 446 55 66",
   "web": "https://rivadent.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/dribrahimduran"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -28018,7 +28029,8 @@
   "overture_id": "d77e0694-7e98-4024-903e-bb6cb2dd4b42",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://rivadent.com.tr/assets/front/images/logo/logo.webp"
  },
  {
   "ad": "Rize Devlet Hastanesi",

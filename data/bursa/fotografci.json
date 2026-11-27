@@ -127,7 +127,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.biranifotograf.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/biranifotograf"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -214,7 +219,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://busedalan.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/busedalanfotograf"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -227,7 +237,8 @@
   "overture_id": "b113a677-2048-4740-8a16-1819abb0fecf",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://busedalan.com/wp-content/uploads/2022/04/Buse-Dalan-Logo.png"
  },
  {
   "ad": "CANSU FOTO",
@@ -272,7 +283,12 @@
   "mahalle": null,
   "telefon": "(0224) 448 23 76",
   "web": "https://chtmedya.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/chtmedya"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -285,7 +301,8 @@
   "overture_id": "9fb93a05-79e8-40fd-a1bf-68682790882b",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://chtmedya.com.tr/apple-touch-icon.png"
  },
  {
   "ad": "Ck Fotoğrafçılık",

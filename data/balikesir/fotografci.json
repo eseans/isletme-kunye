@@ -13,7 +13,12 @@
   "mahalle": null,
   "telefon": "(0266) 249 02 66",
   "web": "https://www.266produksiyon.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/266production"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -444,7 +449,7 @@
   "il": null,
   "ilce": "Edremit",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "+90 266 373 39 00",
   "web": "http://www.fotoilkem.com/",
   "sosyal": [],
   "calisma_saatleri": null,
@@ -459,6 +464,7 @@
   "overture_id": "eb5a2269-d7d0-48f2-b8dd-bc46520316f8",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://www.fotoilkem.com/assets/favicon.svg"
  }
 ]

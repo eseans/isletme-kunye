@@ -68,7 +68,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.5temmuz.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/5temmuzmtsk1"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -1522,8 +1527,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://reyhanlisurucukursu.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ehliyet_surucukursu"
+   }
+  ],
+  "calisma_saatleri": "Mo 08:30-18:30; Tu 08:30-18:30; We 08:30-18:30; Th 08:30-18:30; Fr 08:30-18:30; Sa 09:00-16:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 36.25539779663086,
@@ -1535,7 +1545,8 @@
   "overture_id": "879961a4-7718-4613-94f8-62ecdcace4ba",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://reyhanlisurucukursu.com/assets/img/logo-512.png"
  },
  {
   "ad": "Ekol Müzik Evi",
@@ -2188,7 +2199,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.heysemmuzik.net/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/heysembostancioglu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -2201,7 +2217,8 @@
   "overture_id": "136d8278-62c0-4a11-8db6-bd78f92dcaef",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://heysemmuzik.net/wp-content/uploads/2019/04/heysem_google_logo.png"
  },
  {
   "ad": "Heysem Müzik Merkezi",
@@ -2217,7 +2234,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.heysemmuzik.net/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/heysembostancioglu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -2230,7 +2252,8 @@
   "overture_id": "e86b35c9-a06a-4158-9336-ee474e46e8c4",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://heysemmuzik.net/wp-content/uploads/2019/04/heysem_google_logo.png"
  },
  {
   "ad": "Iskenderun sanat evi",
@@ -2971,7 +2994,12 @@
   "mahalle": null,
   "telefon": "(0326) 504 30 34",
   "web": "https://yabancidildunyasi.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/yabancidildunyasi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -2984,7 +3012,8 @@
   "overture_id": "aa35c5dd-2256-4798-b7cf-d50a8b3d9875",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://yabancidildunyasi.com/storage/2021/10/cropped-NGLS-YABANCI%CC%87-DI%CC%87L-DUNYASI%CC%87-1.png"
  },
  {
   "ad": "Nüans Müzik",
@@ -3982,7 +4011,12 @@
   "mahalle": null,
   "telefon": "(0326) 614 22 26",
   "web": "http://www.iskenderunsurucukursu.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/yildizsurucukursu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -4450,7 +4484,12 @@
   "mahalle": null,
   "telefon": "(0326) 216 70 66",
   "web": "http://www.turkaysurucukursu.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/turkaymtsk"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -5296,6 +5335,7 @@
   "overture_id": "2548d773-f3b6-455f-9cf3-56c08f8d6e29",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://images.cdn-files-a.com/uploads/225144/800_58c06c58b649a.png?aspect_ratio=1:1&width=152&format=png"
  }
 ]

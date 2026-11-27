@@ -84,7 +84,8 @@
   "overture_id": "22470ccf-5728-4ff8-b329-460aa4885577",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.aydinbioenerjisifamerkezi.com/uploads/system/aydinbio-logo.svg"
  },
  {
   "ad": "Begonvil Psikoloji -Psikolog Nimet Su Özkan",
@@ -171,7 +172,8 @@
   "overture_id": "32fea6f2-ad61-4dd1-80fc-c2fc85be2cdc",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://static.wixstatic.com/media/e6c264_cda0186c95c843c8bdcfa736c557de6e%7Emv2.jpg/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/e6c264_cda0186c95c843c8bdcfa736c557de6e%7Emv2.jpg"
  },
  {
   "ad": "Dönüşüm Psikoloji",
@@ -643,10 +645,10 @@
   "il": null,
   "ilce": "Nazilli",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "+90-232-332-1100",
   "web": "https://nazillifizyoterapi.com/",
   "sosyal": [],
-  "calisma_saatleri": null,
+  "calisma_saatleri": "Monday,Tuesday,Wednesday,Thursday,Friday 10:00-21:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 37.917144775390625,
@@ -658,7 +660,8 @@
   "overture_id": "5b1a2a04-39d9-4a95-bdee-b7fceeb50e30",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://nazillifizyoterapi.com/wp-content/uploads/2022/02/20220203_134506_00001-e1643885337778.png"
  },
  {
   "ad": "PSİKOLOG DR. OSMAN YILMAZ",
@@ -1072,7 +1075,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://form.jotform.com/222193254219958",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/jotform_official"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -1085,7 +1093,8 @@
   "overture_id": "1d307498-1cf5-4c4e-814a-2bf58ed4b35e",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://cdn.jotfor.ms/assets/img/favicons/apple-touch-icon.png"
  },
  {
   "ad": "Vega Psikoloji ve Pedagoji Merkezi",
@@ -1130,7 +1139,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://yekpsikoloji.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/psk.yoncaecerkayaduman"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -1143,7 +1157,8 @@
   "overture_id": "1ee52f39-95ce-454a-991b-2a2eeff71d1b",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://yekpsikoloji.com.tr/wp-content/uploads/2023/01/logopng.png"
  },
  {
   "ad": "Yek Psikoloji & Danışmanlık",
@@ -1159,7 +1174,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://yekpsikoloji.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/psk.yoncaecerkayaduman"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -1172,7 +1192,8 @@
   "overture_id": "b6620776-34f9-413b-ae51-9d261413be0b",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://yekpsikoloji.com.tr/wp-content/uploads/2023/01/logopng.png"
  },
  {
   "ad": "Yeşil Psikoloji Merkezi",
@@ -1300,9 +1321,14 @@
   "il": null,
   "ilce": "Efeler",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "+90 850 333 0388",
   "web": "http://www.psksibelbilir.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/psikologsibelbilir"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -1315,6 +1341,7 @@
   "overture_id": "3d201429-7967-418f-a29a-e8359057fa2e",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://www.psksibelbilir.com/img/favicons/favicon_60x60.png?v=697258ba998a6ccc998559b48d226a2d"
  }
 ]

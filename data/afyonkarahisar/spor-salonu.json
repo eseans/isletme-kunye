@@ -316,7 +316,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.afyonfitpoint.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/afyonfitpoint"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -2648,7 +2653,8 @@
   "overture_id": "b7cc143a-7193-4f3f-919b-6797d3cd8a30",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://spr.com/wp-content/uploads/2021/08/spr-180s.png"
  },
  {
   "ad": "Lotis Sport Fitness",
@@ -3475,7 +3481,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "www.piramitfitnesscenter.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/piramitfitness03"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -3488,7 +3499,8 @@
   "overture_id": "0c3e0194-dd4c-461f-920d-f374afbed019",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.piramitfitnesscenter.com/favicon.svg"
  },
  {
   "ad": "Renkli Pilates",

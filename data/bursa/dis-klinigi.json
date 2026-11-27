@@ -313,7 +313,12 @@
   "mahalle": null,
   "telefon": "(0224) 999 49 89",
   "web": "https://ahsendis.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ahsendispolklinigi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -3179,7 +3184,12 @@
   "mahalle": null,
   "telefon": "(0224) 999 49 89",
   "web": "https://ahsendis.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ahsendispolklinigi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -11417,7 +11427,8 @@
   "overture_id": "de6f307d-62dc-437b-9257-d6722612ec76",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://static.parastorage.com/client/pfavico.ico"
  },
  {
   "ad": "Diş Hekimi Salih Akçay",
@@ -22158,7 +22169,7 @@
   "il": null,
   "ilce": "Nilüfer",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "+902128504444",
   "web": "https://mddisklinigi.com/",
   "sosyal": [],
   "calisma_saatleri": null,
@@ -22328,7 +22339,12 @@
   "mahalle": null,
   "telefon": "(0224) 223 03 63",
   "web": "http://www.mavident.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/mavidentbursa"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -23151,7 +23167,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://mfsdent.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/mfsbursadis"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -23164,7 +23185,8 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
-  "overture_id": "d209c6ed-25b3-4522-af1f-1d417a945fcb"
+  "overture_id": "d209c6ed-25b3-4522-af1f-1d417a945fcb",
+  "logo": "https://mfsdent.com/assets/img/logo/mfs-logo.svg"
  },
  {
   "ad": "MiLiM Ağız ve Diş Sağlığı Polikliniği",
@@ -23179,8 +23201,13 @@
   "mahalle": null,
   "telefon": "(0224) 242 30 33",
   "web": "http://www.milimdental.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/milimdental"
+   }
+  ],
+  "calisma_saatleri": "Mo 10:00-19:00; Tu 10:00-19:00; We 10:00-19:00; Th 10:00-19:00; Fr 10:00-19:00; Sa 10:00-19:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 40.22953074030581,
@@ -23192,7 +23219,8 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
-  "overture_id": "b34a747f-423e-4f35-93fb-71959e5d5f7e"
+  "overture_id": "b34a747f-423e-4f35-93fb-71959e5d5f7e",
+  "logo": "https://www.milimdental.com/uploads/thumbnails/favicon_b6a0ab2f69e9_180x180_c.webp"
  },
  {
   "ad": "Milim Dental Clinic",
@@ -23324,7 +23352,8 @@
   "kaynak": "osm",
   "ilk_gorulme": "2026-11-03",
   "son_gorulme": "2026-11-26",
-  "overture_id": "a436ba00-ecf7-4e9c-83f8-c99cb9a5933f"
+  "overture_id": "a436ba00-ecf7-4e9c-83f8-c99cb9a5933f",
+  "logo": "https://www.modaplusdis.com/apple-touch-icon.png"
  },
  {
   "ad": "Modern Diş Protez",
@@ -23366,7 +23395,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://monsclinic.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/monsclinics"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -26399,8 +26433,13 @@
   "mahalle": null,
   "telefon": "(0224) 554 66 66",
   "web": "https://santralklinik.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/santral_klinik"
+   }
+  ],
+  "calisma_saatleri": "Mo 10:00-19:00; Tu 10:00-19:00; We 10:00-19:00; Th 10:00-19:00; Fr 10:00-19:00; Sa 10:00-19:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 40.16941833496094,
@@ -26412,7 +26451,8 @@
   "overture_id": "802ad734-4fda-4103-a6e1-7da320616844",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://santralklinik.com/wp-content/uploads/2025/06/santral_org.svg"
  },
  {
   "ad": "Sağlık Diş Protez Laboratuvarı",
@@ -27919,7 +27959,12 @@
   "mahalle": null,
   "telefon": "(0224) 362 40 40",
   "web": "http://www.bursavatandis.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/bursavatandis"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -27948,7 +27993,12 @@
   "mahalle": null,
   "telefon": "(0224) 504 11 11",
   "web": "https://vitabursa.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/vitadentbursa"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -27961,7 +28011,8 @@
   "overture_id": "eb7c46fa-5af5-4ffd-8473-0e834f4c8010",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://vitabursa.com/sites/vitadisklinigi/assets/images/logo.svg"
  },
  {
   "ad": "Vitadentbursa",
@@ -27977,7 +28028,12 @@
   "mahalle": null,
   "telefon": "(0224) 504 11 11",
   "web": "https://vitabursa.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/vitadentbursa"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -27990,7 +28046,8 @@
   "overture_id": "00f29637-32d5-423d-90db-2440343b43b8",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://vitabursa.com/sites/vitadisklinigi/assets/images/logo.svg"
  },
  {
   "ad": "Vizyon Dis",
@@ -30781,7 +30838,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.pedodontibursa.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/dr.tooth3516"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -30794,7 +30856,8 @@
   "overture_id": "f5b721d0-ada9-403e-8d3d-dc36c62f492c",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.pedodontibursa.com/images/apple-touch-icon.png"
  },
  {
   "ad": "Çocuk Diş Hekimi Dr. Elif İPEK YILMAZ",
@@ -31865,7 +31928,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://enadis.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ozelenadis"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -33041,7 +33109,12 @@
   "mahalle": null,
   "telefon": "(0224) 225 22 66",
   "web": "www.muratonen.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/muratonendispoliklinigi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -33054,7 +33127,8 @@
   "overture_id": "a06d8623-c659-40f5-a931-e587cf96b1bd",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.muratonen.com/sites/dtmuratonen/assets/images/logo.svg"
  },
  {
   "ad": "Özel MİA DENT Ağız Ve Diş Sağlığı Polikliniği DEMİRTAŞ ŞUBESİ",
@@ -34211,7 +34285,12 @@
   "mahalle": null,
   "telefon": "(0224) 453 18 18",
   "web": "http://www.imajdent.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/imajdent"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,

@@ -24831,7 +24831,12 @@
   "mahalle": null,
   "telefon": "(0266) 373 01 71",
   "web": "www.kerastase.com.tr",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/kerastase_official"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -26030,8 +26035,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://hairboostshop.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/hairboost.cosmetics"
+   }
+  ],
+  "calisma_saatleri": "Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday 09:00-17:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 39.64533452544828,
@@ -26044,7 +26054,8 @@
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
   "overture_id": "d417e021-4ae0-437f-afe3-d83f72e6d747",
-  "alt": "berber"
+  "alt": "berber",
+  "logo": "https://hairboostshop.com/wp-content/uploads/2024/09/Hairboostshop.favicon.jpg"
  },
  {
   "ad": "MODA Erkek Kuaförü",

@@ -1764,7 +1764,8 @@
   "overture_id": "94750a7a-f68c-439b-ba5e-6f9c256fcd5a",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.youtube.com/s/desktop/c52980d1/img/favicon_96x96.png"
  },
  {
   "ad": "European Culture Dil Okulları",
@@ -4034,8 +4035,13 @@
   "mahalle": null,
   "telefon": "(0236) 713 96 10",
   "web": "http://www.sapmazsurucukursu.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/sapmazsurucukursu"
+   }
+  ],
+  "calisma_saatleri": "Mo 09:00-18:30; Tu 09:00-18:30; We 09:00-18:30; Th 09:00-18:30; Fr 09:00-18:30; Sa 09:00-18:30",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 38.48470687866211,
@@ -4518,7 +4524,12 @@
   "mahalle": null,
   "telefon": "(0236) 239 89 55",
   "web": "https://www.ydsacademy.com/manisa",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ydsacademyturkey"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -4531,7 +4542,8 @@
   "overture_id": "6e286ebb-2237-4d74-909f-eab78a88b2d9",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://ydsacademy.com/wp-content/uploads/2018/05/yds-logo-01-1.png"
  },
  {
   "ad": "YDS Academy Manisa Şubesi",
@@ -4547,7 +4559,12 @@
   "mahalle": null,
   "telefon": "(0236) 239 89 55",
   "web": "https://ydsacademy.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ydsacademyturkey"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -4560,7 +4577,8 @@
   "overture_id": "676d8899-d318-47f7-bff7-3478b50f5cc7",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://ydsacademy.com/wp-content/uploads/2018/05/yds-logo-01-1.png"
  },
  {
   "ad": "Yds Academy",
@@ -4728,7 +4746,8 @@
   "overture_id": "fa3b3d1d-719b-4410-90a4-62529d74605f",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://static.wixstatic.com/media/aaad22_327919ab6ec84d459c1103669dead0d3%7Emv2.png/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/aaad22_327919ab6ec84d459c1103669dead0d3%7Emv2.png"
  },
  {
   "ad": "Zirve Surucu Kursu",
@@ -5332,9 +5351,14 @@
   "il": null,
   "ilce": "Turgutlu",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "+902363132322",
   "web": "http://www.ozgunsurucukursu.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ozgunsurucukursu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,

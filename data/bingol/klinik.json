@@ -749,7 +749,12 @@
   "mahalle": null,
   "telefon": "(0426) 411 35 20",
   "web": "https://gencdh.saglik.gov.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/gencdh"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,

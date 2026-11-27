@@ -187,7 +187,12 @@
   "mahalle": null,
   "telefon": "(0312) 213 99 66",
   "web": "http://www.cemalcevik.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/drcemalcevik"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -200,7 +205,8 @@
   "overture_id": "40fb6359-14f5-4285-9528-b0cad73db0bd",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://www.cemalcevik.com/images/yin-yang.png"
  },
  {
   "ad": "Uzm. Dr. Ali Kasim Hacim Akupunktur Muayenehanesi",

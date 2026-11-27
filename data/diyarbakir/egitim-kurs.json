@@ -1159,9 +1159,14 @@
   "il": null,
   "ilce": "Kayapınar",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "4448471",
   "web": "http://americanvip.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/americanvipturkey"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -1174,7 +1179,8 @@
   "overture_id": "9ed4e9c1-b24a-4129-9eec-d69649eabf24",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://americanvip.com.tr/upload/settings/logo.webp"
  },
  {
   "ad": "Diyarbakır Anadolu Güzel Sanatlar Lisesi",
@@ -3984,8 +3990,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://dikkatsurucukursu.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/dikkatsurucukursudiyarbakir"
+   }
+  ],
+  "calisma_saatleri": "Mo,Tu,We,Th,Fr,Sa,Su 08:00-22:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 37.91621398925781,
@@ -3997,7 +4008,8 @@
   "overture_id": "4f2e0cf5-f311-4efb-94fd-8338c8548c10",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.dikkatsurucukursu.com/wp-content/uploads/2026/03/cropped-Dikkat_Surucu_Kursu_logo_header_800.png"
  },
  {
   "ad": "Özel Diyarbakır Dicle Sürücü Kursu",

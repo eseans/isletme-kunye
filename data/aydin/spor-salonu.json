@@ -1833,7 +1833,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://aydin.gsb.gov.tr/Sayfalar/Tesis.aspx",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/gencliksporbak"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -1847,7 +1852,8 @@
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
   "overture_id": "2cf8c62e-ec77-407d-84e9-8d0a4a3c542f",
-  "alt": "fitness"
+  "alt": "fitness",
+  "logo": "http://aydin.gsb.gov.tr/assets/img/favicon3.ico"
  },
  {
   "ad": "Aydın Ayko Yuruyus Yolu",
@@ -1892,7 +1898,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.aydinbbsk.org/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/aydinbuyuksehirbelediyespor"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -3599,7 +3610,8 @@
   "overture_id": "24632483-df44-42e2-9c19-391db97fcad7",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://www.crossboxkusadasi.com/favicon/180x180.png"
  },
  {
   "ad": "CrossFit Aydın",
@@ -4293,7 +4305,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://dimes.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/dimesclub"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -4306,7 +4323,8 @@
   "overture_id": "1a6cde9a-6563-482f-9300-5b4a534e3833",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.dimes.com.tr/assets/img/logo-yeni.png"
  },
  {
   "ad": "Dolphins Sport Club",
@@ -8318,7 +8336,8 @@
   "overture_id": "e7a78fc4-cb83-44f8-8c9b-b9b7fa35f403",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://kusadasi.city/assets/img/brand/logo.svg"
  },
  {
   "ad": "Kusadası Altın Ordu Futbol Okulu",
@@ -11814,7 +11833,8 @@
   "overture_id": "1a1e8b4b-41a3-43d1-9872-5e2b70862016",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://forsale.spaceship-cdn.com/static/latest/4.latest/assets/fonts/apple-touch-icon-57x57.png"
  },
  {
   "ad": "PoyraZ Fıtness",
@@ -12178,7 +12198,8 @@
   "overture_id": "750c9dca-bdfd-4b72-a3ec-f2a93eac4662",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://reformfit.com/cdn/shop/files/elitegymsolution_TEMP_LOGO.png?v=1741028291&width=500"
  },
  {
   "ad": "Richmond Tennis Court",
@@ -16326,7 +16347,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.zero9.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/zero9fitness"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -16339,7 +16365,8 @@
   "overture_id": "0d59ec68-e4a8-48fb-aa7f-b3e60dc5f8b8",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://www.zero9.com.tr/wp-content/uploads/2016/09/cropped-logo-01-1-180x180.png"
  },
  {
   "ad": "Zeyn Pilates Studio",
@@ -16444,7 +16471,12 @@
   "mahalle": null,
   "telefon": "(0232) 892 88 80",
   "web": "http://www.zuhalfitnessclub.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/zuhalfitnessclub"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -18039,9 +18071,14 @@
   "il": null,
   "ilce": "Tire",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "4448686",
   "web": "http://www.iddaa.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/iddaa"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -18054,7 +18091,8 @@
   "overture_id": "f15b4478-40ac-4fd6-83df-d121d79e31b1",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://www.iddaa.com/apple-touch-icon.png"
  },
  {
   "ad": "İçimize Yolculuk Yaşam Atölyesi",

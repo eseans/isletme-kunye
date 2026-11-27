@@ -159,7 +159,7 @@
   "telefon": null,
   "web": "https://www.batipatent.com/",
   "sosyal": [],
-  "calisma_saatleri": null,
+  "calisma_saatleri": "Mo 08:00-20:00; Tu 08:00-20:00; We 08:00-20:00; Th 08:00-20:00; Fr 08:00-20:00; Sa 08:00-20:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 38.61534881591797,
@@ -171,7 +171,8 @@
   "overture_id": "7fdd50d1-3d67-4de3-af78-f2ab3dabafc5",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.batipatent.com/Admin-v3/uploads/ayarlar/1-logo-son.jpg"
  },
  {
   "ad": "Büşra Parlak Psikoloji Merkezi",
@@ -187,7 +188,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.randevumuz.com/firma/459?fbclid=PAAaby5YXL9fZFGqVkU5J-96XxJ0zRZIJ5ku3L1_LG4F8xItjHESgy26J_7D0",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/randevumuz"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -200,7 +206,8 @@
   "overture_id": "9b9e6bd0-2587-4aa6-85b5-6115f3340afd",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.randevumuz.com/images/apple-touch-icon.png"
  },
  {
   "ad": "Dilara Aytar Psikolojik Danışmanlık Merkezi",
@@ -216,7 +223,12 @@
   "mahalle": null,
   "telefon": "(0850) 333 83 44",
   "web": "http://www.dilaraaytar.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/psikologdilaraaytar"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -229,7 +241,8 @@
   "overture_id": "e442260d-c925-4f26-9f8a-97623a066cdb",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://www.dilaraaytar.com/img/favicons/favicon_60x60.png?v=697258ba998a6ccc998559b48d226a2d"
  },
  {
   "ad": "Genius Psikolojik Danışmanlık Merkezi",
@@ -1068,7 +1081,8 @@
   "overture_id": "6d0360be-7512-4868-8de4-68e421a65375",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.ideakurumsal.com/wp-content/uploads/2017/03/cropped-favicon-180x180.png"
  },
  {
   "ad": "İnci Psikolojik Danışmanlık Merkezi",

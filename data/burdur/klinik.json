@@ -5337,7 +5337,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.fizyomeds.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/fizyomeds"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -5350,7 +5355,8 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
-  "overture_id": "201371ed-7618-4527-b154-d29f014ccfdc"
+  "overture_id": "201371ed-7618-4527-b154-d29f014ccfdc",
+  "logo": "https://static.wixstatic.com/media/31729d_9faff727c09049cd961a78a431528863%7Emv2.png/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/31729d_9faff727c09049cd961a78a431528863%7Emv2.png"
  },
  {
   "ad": "Fizyomed's",

@@ -3424,7 +3424,8 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
-  "overture_id": "43754d40-e0dd-4a62-b8fb-4c594fc53dc4"
+  "overture_id": "43754d40-e0dd-4a62-b8fb-4c594fc53dc4",
+  "logo": "http://de.wikipedia.org/static/apple-touch/wikipedia.png"
  },
  {
   "ad": "Atlantik Kuaför Ve Güzellik Salonu",
@@ -10932,9 +10933,14 @@
   "il": null,
   "ilce": "Seyhan",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "+903222282280",
   "web": "http://www.drahuozbilen.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/drahuozbilen"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -13241,7 +13247,12 @@
   "mahalle": null,
   "telefon": "(0322) 503 03 07",
   "web": "http://www.emsaldoganadana.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/emsaldoganadana"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -30245,7 +30256,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.mislinabridal.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/mislina_adana"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -31577,7 +31593,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://namodabutik.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/namodabutik"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -31633,8 +31654,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.nattyclinicalbeauty.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/nattyclinicalbeauty"
+   }
+  ],
+  "calisma_saatleri": "Mo 09:00-19:00; Tu 09:00-19:00; We 09:00-19:00; Th 09:00-19:00; Fr 09:00-19:00; Sa 09:00-19:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 37.05624771118164,
@@ -31646,7 +31672,8 @@
   "overture_id": "1e573656-5fb3-46d7-bac3-fec5983e2ed1",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.nattyclinicalbeauty.com/assets/img/natty-clinical-beauty-logo.png"
  },
  {
   "ad": "Natua Beauty Center",
@@ -33092,7 +33119,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.olanail.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/olanaill"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -41820,7 +41852,8 @@
   "overture_id": "1472b395-cea7-4637-a364-35c1cac222d5",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://foursquare.com/wp-content/uploads/sites/2/2022/08/cropped-favicon-512x512-1.png"
  },
  {
   "ad": "Sinan Güzellik Merkezi",
@@ -42519,7 +42552,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://srybeauty.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/srybeautyy"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -42532,7 +42570,8 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
-  "overture_id": "bd3ae7c5-be8f-4123-b295-65184406902b"
+  "overture_id": "bd3ae7c5-be8f-4123-b295-65184406902b",
+  "logo": "https://srybeauty.com.tr/assets/img/favicon.svg"
  },
  {
   "ad": "Ss Bayan Kuaförü",
@@ -45569,7 +45608,8 @@
   "overture_id": "c904c300-a8e1-4c6f-8c11-c116e1a0c05c",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://s2.wp.com/i/webclip.png?m=1713868326i"
  },
  {
   "ad": "Vi-Ay Güzellik Salonu",
@@ -48749,7 +48789,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://canviperkekbakim.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/canvip_estetikman"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -48762,7 +48807,8 @@
   "overture_id": "89d3568e-838d-4fa3-8e22-92685287462b",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://adanaerkeklazerepilasyon.com/assets/img/can-vip-logo.png"
  },
  {
   "ad": "cansu demirbaş",

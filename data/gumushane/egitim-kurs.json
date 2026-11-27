@@ -97,7 +97,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.ezbersurucu.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ezbersurucukursu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -111,7 +116,8 @@
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
   "overture_id": "5907ce7a-544b-4fe5-bac3-414104c589ab",
-  "alt": "surucu-kursu"
+  "alt": "surucu-kursu",
+  "logo": "http://www.ezbersurucu.com/Content/assets/images/apple-touch-icon.png"
  },
  {
   "ad": "Gümüşhane Fen Sürücü Kursu",

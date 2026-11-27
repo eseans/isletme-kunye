@@ -100,7 +100,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://saripsikoloji.com/subelerimiz/nevsehir-psikolog",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/saripsikoloji"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,

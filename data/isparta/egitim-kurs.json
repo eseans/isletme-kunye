@@ -708,9 +708,14 @@
   "il": null,
   "ilce": "Dinar",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "03124341206",
   "web": "http://www.egitimis.org.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/egitimis"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -723,7 +728,8 @@
   "overture_id": "ff08582c-7763-4231-8605-038581dc9d8b",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://www.egitimis.org.tr/assets/icons/apple-touch-icon.png"
  },
  {
   "ad": "Galler Dil Okulları",
@@ -851,7 +857,12 @@
   "mahalle": null,
   "telefon": "(0246) 218 98 52",
   "web": "https://www.gulistansurucukursu.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ispartasurucukursugulistan"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -1444,7 +1455,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.ispartagunes.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ispartagunes"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -2060,7 +2076,12 @@
   "mahalle": null,
   "telefon": "(0246) 232 75 21",
   "web": "http://isparta.gsb.gov.tr",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/gencliksporbak"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -2073,7 +2094,8 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
-  "overture_id": "ac929482-2656-4de2-8862-0d340d2edf2c"
+  "overture_id": "ac929482-2656-4de2-8862-0d340d2edf2c",
+  "logo": "http://isparta.gsb.gov.tr/assets/img/favicon3.ico"
  },
  {
   "ad": "Topuklu Efe Dans Salonu",

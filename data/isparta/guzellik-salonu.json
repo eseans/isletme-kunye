@@ -1764,7 +1764,12 @@
   "mahalle": null,
   "telefon": "(0246) 232 31 33",
   "web": "http://www.evaguzellikmerkezi.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/evaguzellik_hulyaaktas"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -1777,7 +1782,8 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
-  "overture_id": "975c9340-deeb-41ad-9ee6-8c3055c0551f"
+  "overture_id": "975c9340-deeb-41ad-9ee6-8c3055c0551f",
+  "logo": "https://www.evaguzellik.com.tr/resources/files/logo.png"
  },
  {
   "ad": "Ebrar Bayan Kuaförü",
@@ -4568,8 +4574,13 @@
   "mahalle": null,
   "telefon": "(0246) 500 50 70",
   "web": "http://nedadaliri.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/nedadaliribeauty.isparta"
+   }
+  ],
+  "calisma_saatleri": "Mo 11:00-20:00; Tu 11:00-20:00; We 11:00-20:00; Th 11:00-20:00; Fr 11:00-20:00; Sa 11:00-20:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 37.76456832885742,
@@ -4581,7 +4592,8 @@
   "overture_id": "9b60f80f-290a-4b71-aac4-81d408d8ed8a",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://nedadaliri.com/apple-icon.png?apple-icon.2r2gw1ggje089.png"
  },
  {
   "ad": "Neda Daliri Kaş Ve Tirnak Merkezı",
@@ -4733,8 +4745,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.novaguzellikmerkezi.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/novaguzelliksalonu_"
+   }
+  ],
+  "calisma_saatleri": "Mo 10:00-19:00; Tu 10:00-19:00; We 10:00-19:00; Th 10:00-19:00; Fr 10:00-19:00; Sa 10:00-19:00; Su 10:00-19:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 37.76199722290039,
@@ -4746,7 +4763,8 @@
   "overture_id": "8b25972a-2ccd-446e-9425-b2e8396e960a",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://novaguzellikmerkezi.com/marka/nova-logo-yesil-192.png"
  },
  {
   "ad": "Nueva Güzellik Salonu",

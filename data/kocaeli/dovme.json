@@ -1373,7 +1373,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.262tattoo.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/262dovme"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -2257,7 +2262,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://thewalltattoo.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/thewall.tattoo"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -2270,7 +2280,8 @@
   "overture_id": "0221a0e1-62e4-4125-a06f-c893bd969833",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://miaoda-op-sourcecode.s3.us-west-2.amazonaws.com/source_code/projects/conv-a11zsui61urk_1778715223265/favicon.png"
  },
  {
   "ad": "Timsah Tattoo",

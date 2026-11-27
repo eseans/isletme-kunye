@@ -13,8 +13,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://atafizyoterapi.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/fzt.talataslan"
+   }
+  ],
+  "calisma_saatleri": "Mo 09:00-17:00; Tu 09:00-17:00; We 09:00-17:00; Th 09:00-17:00; Fr 09:00-17:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 38.36825180053711,
@@ -129,8 +134,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.fztmetinicli.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/fztmetinicli"
+   }
+  ],
+  "calisma_saatleri": "Mo,Tu,We,Th,Fr 09:00-18:00; Sa 09:00-15:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 38.36294937133789,
@@ -142,7 +152,8 @@
   "overture_id": "ad28f6a1-1376-419f-9720-f434864d9820",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://fztmetinicli.com/wp-content/uploads/2026/03/metin-icli-logo-2.png"
  },
  {
   "ad": "Muhammed Buğra Baysal",
@@ -158,7 +169,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.bugrabaysal.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/embed.js"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,

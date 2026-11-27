@@ -4919,7 +4919,8 @@
   "overture_id": "50c8bab5-f6a7-4c9c-9d5e-ce7f9ce3e6a9",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://keyiflimasaj.com/uploads/site/logo-966bcb.webp"
  },
  {
   "ad": "Hamam Muazzam Kadınlar",
@@ -5960,7 +5961,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.lavantaterapispa.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/lavantaterapispatorbali"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -6215,8 +6221,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://izmirhamam.com.tr/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/izmirhamam"
+   }
+  ],
+  "calisma_saatleri": "Mo 09:00-00:00; Tu 09:00-00:00; We 09:00-00:00; Th 09:00-00:00; Fr 09:00-00:00; Sa 09:00-00:00; Su 09:00-00:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 38.362274169921875,
@@ -12076,7 +12087,12 @@
   "mahalle": null,
   "telefon": "(0232) 370 18 58",
   "web": "http://egespahamam.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/cigliegespahamam"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -12351,7 +12367,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.iraspawellness.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/iraspawellness"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,

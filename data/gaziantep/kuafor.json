@@ -17054,8 +17054,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.bulentisler.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/bulentislerbarbersclub"
+   }
+  ],
+  "calisma_saatleri": "Mo 09:00-21:00; Tu 09:00-21:00; We 09:00-21:00; Th 09:00-21:00; Fr 09:00-21:00; Sa 09:00-21:00; Su 09:00-21:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 37.07601905480166,
@@ -17068,7 +17073,8 @@
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
   "overture_id": "f6da2bb0-ed01-44e5-8e41-450ed2c42275",
-  "alt": "berber"
+  "alt": "berber",
+  "logo": "http://www.bulentisler.com/favicon.svg"
  },
  {
   "ad": "Bünyamin işler clup",
@@ -23700,8 +23706,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://erhankayakuafor.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/erhankayart"
+   }
+  ],
+  "calisma_saatleri": "Mo 09:00-19:00; We 09:00-19:00; Th 09:00-19:00; Fr 09:00-19:00; Sa 09:00-19:00; Su 09:00-19:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 37.05693817138672,
@@ -23713,7 +23724,8 @@
   "overture_id": "6f7a27a8-85c3-4820-a3c6-e16499821dbc",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://erhankayakuafor.com/favicon.svg"
  },
  {
   "ad": "Erhan kaya",
@@ -79642,7 +79654,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.tageconsept.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/tageconsept"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,

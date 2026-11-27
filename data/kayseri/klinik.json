@@ -25214,7 +25214,12 @@
   "mahalle": null,
   "telefon": "(0850) 811 79 11",
   "web": "http://www.doktorsitesi.com/neriman-inanc-1903287/beslenme-ve-diyetetik/kayseri",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/doktorsitesi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -25227,7 +25232,8 @@
   "overture_id": "b31ef715-fc2c-419a-96f1-3d7ac881e461",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.doktorsitesi.com/assets/logo-tr.webp"
  },
  {
   "ad": "Prof. Dr. Oktay Banli",

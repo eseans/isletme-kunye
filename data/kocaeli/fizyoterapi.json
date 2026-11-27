@@ -389,8 +389,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.novafiz.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/novafiz"
+   }
+  ],
+  "calisma_saatleri": "Mo,Tu,We,Th,Fr,Sa,Su 09:00-17:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 40.7635612487793,
@@ -402,7 +407,8 @@
   "overture_id": "ce7180ac-1288-4bce-9a8e-3ecb4eb6fdb1",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://novafiz.com/wp-content/uploads/2026/09/inegol-novafiz-logo-e1790385605344.png"
  },
  {
   "ad": "Peri Fizyoterapi",
@@ -418,7 +424,12 @@
   "mahalle": null,
   "telefon": "(0262) 606 04 68",
   "web": "http://www.perifizyoterapi.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/kompascom"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -447,7 +458,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.drrabiaterzi.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/prof.dr.rabiaterzi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -460,7 +476,8 @@
   "overture_id": "67bf3ce4-2f06-45f2-8d51-f9da58ba8989",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.drrabiaterzi.com/wp-content/uploads/2026/08/cropped-favicon-180x180.png"
  },
  {
   "ad": "Recovery Fizyoterapi Klinik",
@@ -534,7 +551,12 @@
   "mahalle": null,
   "telefon": "(0262) 311 24 24",
   "web": "https://www.drhaticeerguner.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/uzm.dr.hatice_erguner"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -547,7 +569,8 @@
   "overture_id": "e5e02556-9c20-44ec-8518-6a7f834a272c",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://docs.drhaticeerguner.com/images/favicons/apple-icon-57x57.png"
  },
  {
   "ad": "Uzman Fizyoterapist Fatih Tezel Fizyoterapi ve Sağlıklı Yaşam Merkezi",

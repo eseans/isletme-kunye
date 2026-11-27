@@ -321,7 +321,7 @@
   "telefon": null,
   "web": "http://adelaclinic.com/",
   "sosyal": [],
-  "calisma_saatleri": null,
+  "calisma_saatleri": "Mo 10:30-20:00; Tu 10:30-20:00; We 10:30-20:00; Th 10:30-20:00; Fr 10:30-20:00; Sa 10:30-18:30; Su 10:30-18:30",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 37.870880126953125,
@@ -1941,8 +1941,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://aurabysidal.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/aurabysidal"
+   }
+  ],
+  "calisma_saatleri": "Mo 07:00-23:00; Tu 07:00-23:00; We 07:00-23:00; Th 07:00-23:00; Fr 07:00-23:00; Sa 07:00-23:00; Su 07:00-23:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 37.86399459838867,
@@ -1954,7 +1959,8 @@
   "overture_id": "a677868f-8b50-458e-b668-6284c36d24fb",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://aurabysidal.com/favicon.ico?favicon.2vob68tjqpejf.ico"
  },
  {
   "ad": "Ay Güzellik",
@@ -5891,7 +5897,7 @@
   "telefon": null,
   "web": "https://www.ecemakin.com/",
   "sosyal": [],
-  "calisma_saatleri": null,
+  "calisma_saatleri": "Mo-Sa 09:00-20:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 37.85773849487305,
@@ -5903,7 +5909,8 @@
   "overture_id": "782a35ad-b6ec-4939-a6e1-38056999d56a",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.ecemakin.com/apple-touch-icon.png"
  },
  {
   "ad": "Eda Kuaför&Güzellik Salonu",
@@ -8307,9 +8314,14 @@
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "04523334044",
   "web": "http://floraguzellik.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/flora.guzellik"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -8322,7 +8334,8 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
-  "overture_id": "c20e3097-45c9-4cc7-a92d-2afb6206421f"
+  "overture_id": "c20e3097-45c9-4cc7-a92d-2afb6206421f",
+  "logo": "https://floraguzellik.com/panel/assets/img/upload/slider_681f405aa15118.98933850.png"
  },
  {
   "ad": "Foot Massage Salon",
@@ -17346,7 +17359,12 @@
   "mahalle": null,
   "telefon": "(0256) 312 70 73",
   "web": "http://www.epilaguzellik.net/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/epilaguzellik"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -17359,7 +17377,8 @@
   "overture_id": "6576a915-22dd-403c-837d-34e819912369",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://epilaguzellik.net/wp-content/uploads/MG-INST-LOGO-01.png"
  },
  {
   "ad": "Nur Güzellik Salonu",
@@ -19005,7 +19024,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.cemaldusum.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/cemaldusum_merkezsalon"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -19018,7 +19042,8 @@
   "overture_id": "d44f190c-58c6-428a-93d4-a1e82e855fdf",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.cemaldusum.com/wp-content/uploads/2024/07/cropped-logo-cem--180x180.png"
  },
  {
   "ad": "Salon Eliva",
@@ -20972,7 +20997,12 @@
   "mahalle": null,
   "telefon": "(0256) 614 88 55",
   "web": "http://Sihirliellerkuafor.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/sihirli_els_kuafor"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -20985,7 +21015,8 @@
   "overture_id": "201f8a5b-c8cb-4cba-b6ff-8d8a0d079fbd",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://sihirliellerkuafor.com/wp-content/uploads/2022/12/logo-beyaz.png"
  },
  {
   "ad": "Simge Kuaför",

@@ -374,10 +374,15 @@
   "il": null,
   "ilce": "Battalgazi",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "+90 422 324 22 44",
   "web": "https://www.dentaadress.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/dentaadres"
+   }
+  ],
+  "calisma_saatleri": "Mo 09:30-22:00; Tu 09:30-22:00; We 09:30-22:00; Th 09:30-22:00; Fr 09:30-22:00; Sa 09:30-22:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 38.34779357910156,
@@ -389,7 +394,8 @@
   "overture_id": "49f2ff0d-ca88-4524-98b8-cb04eba2ea57",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.dentaadress.com/wp-content/themes/dentaadress/assets/img/logo.png"
  },
  {
   "ad": "Denta Malatya",
@@ -4309,7 +4315,12 @@
   "mahalle": null,
   "telefon": "(0422) 322 30 30",
   "web": "https://malatyaroyaldental.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/royaldentalmalatya"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -4322,7 +4333,8 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
-  "overture_id": "48276e8b-9b48-4505-8551-82c709249bc2"
+  "overture_id": "48276e8b-9b48-4505-8551-82c709249bc2",
+  "logo": "https://malatyaroyaldental.com/wp-content/uploads/2019/12/cropped-512x512-1-180x180.png"
  },
  {
   "ad": "Royal Dental",

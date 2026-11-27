@@ -15629,7 +15629,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://bit.ly/2lQYx3O",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/bitly"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -15642,7 +15647,8 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
-  "overture_id": "1aec3a8c-f2a2-4ba4-9b00-acdb5b0dc07f"
+  "overture_id": "1aec3a8c-f2a2-4ba4-9b00-acdb5b0dc07f",
+  "logo": "https://mkt-bitly-media.qrcg.net/wp-content/uploads/2026/09/22160748/bitly-logos.webp"
  },
  {
   "ad": "Kuafor Nuran",

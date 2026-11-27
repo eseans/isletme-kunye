@@ -71,7 +71,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://klinikaqua.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/aquadentalclinic"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -84,7 +89,8 @@
   "overture_id": "50b3da4b-707f-41ea-9b80-035b4af73e57",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://klinikaqua.com/wp-content/uploads/2023/12/aqua-wide-logo.png"
  },
  {
   "ad": "AQUA Diş Kliniği",

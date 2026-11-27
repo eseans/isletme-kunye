@@ -995,8 +995,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.esasteam.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/esas.team"
+   }
+  ],
+  "calisma_saatleri": "Mo 07:00-23:00; Tu 07:00-23:00; We 07:00-23:00; Th 07:00-23:00; Fr 07:00-23:00; Sa 11:00-22:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 41.385411,
@@ -1009,7 +1014,8 @@
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
   "overture_id": "944fbb76-8be9-44bb-bb71-59653d8dde46",
-  "alt": "fitness"
+  "alt": "fitness",
+  "logo": "https://esasteam.com/uploads/brand/icon-512.png"
  },
  {
   "ad": "Everlarst boxing Club",

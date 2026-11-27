@@ -843,8 +843,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://izmitgoldspa.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/newgoldspa1"
+   }
+  ],
+  "calisma_saatleri": "Mo 00:00-23:59; Tu 00:00-23:59; We 00:00-23:59; Th 00:00-23:59; Fr 00:00-23:59; Sa 00:00-23:59; Su 00:00-23:59",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 40.762602,
@@ -857,7 +862,8 @@
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
   "overture_id": "05ef7fa0-2b7e-4bec-9524-bce7de0af69d",
-  "alt": "masaj"
+  "alt": "masaj",
+  "logo": "https://izmitgoldspa.com/images/logo-altin-final.png.png"
  },
  {
   "ad": "Neşem Masaj Salonu",

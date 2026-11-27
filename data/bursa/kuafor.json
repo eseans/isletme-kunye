@@ -2079,7 +2079,8 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
-  "overture_id": "67f506ad-824a-4dfd-8d50-c04df7fa2d54"
+  "overture_id": "67f506ad-824a-4dfd-8d50-c04df7fa2d54",
+  "logo": "https://static.parastorage.com/client/pfavico.ico"
  },
  {
   "ad": "Ahmet Baysal Sac Tasarım",
@@ -4817,7 +4818,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://planla.co/alincasactasarim",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/hadis_salmanzadeh"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -51051,7 +51057,7 @@
     "deger": "https://instagram.com/hairworldtr"
    }
   ],
-  "calisma_saatleri": null,
+  "calisma_saatleri": "Mo-Fr 09:00-19:00; Sa 09:00-20:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 40.21297223387914,
@@ -51063,7 +51069,8 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
-  "overture_id": "5cae5084-681e-428f-911d-4af3230ff6d9"
+  "overture_id": "5cae5084-681e-428f-911d-4af3230ff6d9",
+  "logo": "https://hairworldtr.com/assets/img/logo.png"
  },
  {
   "ad": "Hairclupemirhanözdemir",
@@ -130075,7 +130082,12 @@
   "mahalle": null,
   "telefon": "(0224) 249 82 84",
   "web": "http://www.zemakuafor.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/zema.hair"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -130870,7 +130882,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.zeyneptulay.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/zeyneptulaybeauty"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -130883,7 +130900,8 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
-  "overture_id": "20b0381e-2628-4fa1-b904-1ae2b2b82207"
+  "overture_id": "20b0381e-2628-4fa1-b904-1ae2b2b82207",
+  "logo": "https://www.zeyneptulay.com/wp-content/uploads/2021/12/Zeynep-Tulay-Beauty-logo-1-e1639523011305.png"
  },
  {
   "ad": "Zeynep&Erdem Doğan",

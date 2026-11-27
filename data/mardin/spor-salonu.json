@@ -1792,9 +1792,14 @@
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "+908508400988",
   "web": "http://www.mossturkiye.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/mossturkiye"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -1807,7 +1812,8 @@
   "overture_id": "d196655d-6d69-424d-878a-9bb15b85c73a",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://mossturkiye.com/images/logo.png"
  },
  {
   "ad": "Moss GYM",

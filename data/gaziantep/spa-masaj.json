@@ -562,8 +562,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.linamasajsalonu.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/lina_spa27"
+   }
+  ],
+  "calisma_saatleri": "Mo 11:00-24:00; Tu 11:00-24:00; We 11:00-24:00; Th 11:00-24:00; Fr 11:00-24:00; Sa 11:00-24:00; Su 11:00-24:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 36.993186950683594,
@@ -575,7 +580,8 @@
   "overture_id": "09a34a26-c70c-49eb-a5a6-b37db17e92d4",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.linamasajsalonu.com/logo/lina-logo.png"
  },
  {
   "ad": "Gaziantep SoLi Terapi & Spa Merkezi",

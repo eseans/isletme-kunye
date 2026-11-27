@@ -121,7 +121,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.11onsanat.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/11onsanat"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -134,7 +139,8 @@
   "overture_id": "c8a13a82-107b-4132-8e2e-54fe310a4110",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://static.wixstatic.com/media/0cd213_9b59ac94444648cc99172f84cb950093%7Emv2.jpg/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/0cd213_9b59ac94444648cc99172f84cb950093%7Emv2.jpg"
  },
  {
   "ad": "15 Temmuz Mahallesi Semt Yüzme Havuzu",
@@ -203,7 +209,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.2daydance.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/2daydance"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -217,7 +228,8 @@
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
   "overture_id": "4c6ca6a3-a5e2-4822-990a-afd4ae93c94b",
-  "alt": "dans"
+  "alt": "dans",
+  "logo": "https://static.wixstatic.com/media/30bf17_5efbfd462b3b41798cd5b72022760cc2%7Emv2.png/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/30bf17_5efbfd462b3b41798cd5b72022760cc2%7Emv2.png"
  },
  {
   "ad": "2001 konutlari dans studyosu",
@@ -836,10 +848,10 @@
   "il": null,
   "ilce": "Esenyurt",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "+90 (212) 590 23 25",
   "web": "http://www.avcilarehliyetkursu.com/",
   "sosyal": [],
-  "calisma_saatleri": null,
+  "calisma_saatleri": "Mo 09:00-21:00; Tu 09:00-21:00; We 09:00-21:00; Th 09:00-21:00; Fr 09:00-21:00; Sa 09:00-21:00; Su 09:00-21:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 41.00521469116211,
@@ -851,7 +863,8 @@
   "overture_id": "a03e04cd-4d70-439a-9035-6aba127cdac7",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://www.avcilarehliyetkursu.com/avcilarlogo.png"
  },
  {
   "ad": "AAR Japan",
@@ -1798,8 +1811,13 @@
   "mahalle": null,
   "telefon": "(0212) 569 00 26",
   "web": "http://www.amerikankulturesenler.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/esenleramerikankultur"
+   }
+  ],
+  "calisma_saatleri": "Mo 09:30-22:00; Tu 09:30-22:00; We 09:30-22:00; Th 09:30-22:00; Fr 09:30-22:00; Sa 09:30-21:00; Su 09:30-21:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 41.03596114543817,
@@ -1812,7 +1830,8 @@
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
   "overture_id": "8502289c-0f8a-4e7d-8b03-f84ff8858865",
-  "alt": "dil-kursu"
+  "alt": "dil-kursu",
+  "logo": "https://www.amerikankulturesenler.com/img/logo-w.png"
  },
  {
   "ad": "ANADOLU KARİYER",
@@ -2033,8 +2052,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://artemsanatakademisi.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/artem.sanat.akademisi"
+   }
+  ],
+  "calisma_saatleri": "Mo 10:00-20:00; Tu 10:00-20:00; We 10:00-20:00; Th 10:00-20:00; Fr 10:00-20:00; Sa 10:00-18:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 40.99055862426758,
@@ -2046,7 +2070,8 @@
   "overture_id": "9970ed90-5065-4324-90e8-66d2dc4e3982",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://artemsanatakademisi.com/logo.png"
  },
  {
   "ad": "ARU Cambridge mezunu öğretmenden İngilizce özel ders 1.",
@@ -2091,7 +2116,12 @@
   "mahalle": null,
   "telefon": "(0216) 375 66 09",
   "web": "https://www.assrc.net/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/assrcpendik"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -2104,7 +2134,8 @@
   "overture_id": "6f0bb051-0e41-4633-bfe3-9390804ce186",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.assrc.net/wp-content/uploads/2019/10/logo.png"
  },
  {
   "ad": "ASPAVA SRC",
@@ -2697,7 +2728,12 @@
   "mahalle": null,
   "telefon": "(0216) 475 92 62",
   "web": "http://www.acarsanatakademi.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/acarsanatakademi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -2711,7 +2747,8 @@
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
   "overture_id": "57fce5d1-2f23-4d9f-9872-b18c426a59c1",
-  "alt": "dans"
+  "alt": "dans",
+  "logo": "http://www.acarsanatakademi.com/system/images/apple-touch-icon.png"
  },
  {
   "ad": "Acca Dil Akademi",
@@ -3113,9 +3150,14 @@
   "il": null,
   "ilce": "Beylikdüzü",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "02128722022",
   "web": "http://amerikandilegitimkurslari.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/amerikandilegitim"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -3128,7 +3170,8 @@
   "overture_id": "403a403c-e173-4704-9b02-d5cf3ace9b17",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://amerikandilegitimkurslari.com/wp-content/uploads/2018/11/footer_adek.jpg"
  },
  {
   "ad": "Aden Oyun Atölyesi",
@@ -3811,8 +3854,13 @@
   "mahalle": null,
   "telefon": "(0850) 473 00 30",
   "web": "http://www.akademidireksiyon.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/akademidireksiyon"
+   }
+  ],
+  "calisma_saatleri": "Mo 09:00-20:30; Tu 09:00-20:30; We 09:00-20:30; Th 09:00-20:30; Fr 09:00-20:30; Sa 09:00-19:00; Su 09:00-19:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 41.08005905151367,
@@ -3824,7 +3872,8 @@
   "overture_id": "af647da9-5633-4057-aed1-2cd2dc263ac9",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://akademidireksiyon.com/brand-logo.png"
  },
  {
   "ad": "Akademi Eflâtun",
@@ -3960,7 +4009,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.akademiservis.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/akdmservis"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -3973,7 +4027,8 @@
   "overture_id": "667aedab-fbd1-47ec-ae5a-608c4854112d",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://www.akademiservis.com.tr/logo/favicon.png?v=3"
  },
  {
   "ad": "Akademi Porte",
@@ -4058,7 +4113,8 @@
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
   "overture_id": "a1263ae9-9f0a-4dde-a1ff-82a476ad575f",
-  "alt": "dil-kursu"
+  "alt": "dil-kursu",
+  "logo": "https://akademi7.com/wp-content/uploads/2025/10/AKADEMI7-Akademi-7.jpg"
  },
  {
   "ad": "Akademik Akademi Mecidiyeköy",
@@ -4127,7 +4183,12 @@
   "mahalle": null,
   "telefon": "(0212) 693 17 47",
   "web": "https://www.asakademikmtsk.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/akademikmtsk"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -4140,7 +4201,8 @@
   "overture_id": "607f68d4-3054-41b0-a4a3-5257b51b4e48",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://asakademikmtsk.com/wp-content/uploads/2025/12/cropped-Designer-2-180x180.png"
  },
  {
   "ad": "Akademik Sürücü Kursları Halkalı Şubesi",
@@ -4379,7 +4441,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.ozdamla.com.tr/tr",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ozdamlamtsk"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -5434,7 +5501,12 @@
   "mahalle": null,
   "telefon": "(0212) 211 43 94",
   "web": "https://www.algiaba.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/algiozelegitim"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -5447,7 +5519,8 @@
   "overture_id": "721d37c4-f270-4a5f-b554-c927ba82d426",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.algiaba.com.tr/wp-content/uploads/2020/07/cropped-logo-180x180.png"
  },
  {
   "ad": "Algı Bilim & Sanat",
@@ -5714,7 +5787,12 @@
   "mahalle": null,
   "telefon": "(0216) 368 03 09",
   "web": "https://www.ddmcadde.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/dunyadillerimerkezi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -5743,7 +5821,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.almancaozelkurs.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/almancaozelkurs"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -5867,7 +5950,8 @@
   "overture_id": "9000b2a4-77e3-4cff-b094-d8505e92266d",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://www.altansurucukursu.com/images/favicon/apple-touch-icon.png"
  },
  {
   "ad": "Altancan",
@@ -6181,8 +6265,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.tobeacademy.com.tr/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/tobeacademytr"
+   }
+  ],
+  "calisma_saatleri": "Mo 10:00-22:00; Tu 10:00-22:00; We 10:00-22:00; Th 10:00-22:00; Fr 10:00-22:00; Sa 10:00-22:00; Su 10:00-22:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 40.96384811401367,
@@ -6194,7 +6283,8 @@
   "overture_id": "b28685b2-b6d6-42aa-80b6-8db339729a14",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.tobeacademy.com.tr/apple-touch-icon.png"
  },
  {
   "ad": "Ameican Life Ataşehir",
@@ -6264,7 +6354,12 @@
   "mahalle": null,
   "telefon": "(0212) 274 80 80",
   "web": "http://bahcelievleramerikankultur.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/amerikankulturbahcelievler"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -6293,7 +6388,12 @@
   "mahalle": null,
   "telefon": "(0216) 483 68 38",
   "web": "http://www.pendikamerikankultur.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/pendikamerikankultur"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -6322,7 +6422,12 @@
   "mahalle": null,
   "telefon": "(0212) 217 99 77",
   "web": "https://leventamerikankultur.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/leventamerikankultur"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -8208,7 +8313,12 @@
   "mahalle": null,
   "telefon": "(0212) 871 43 40",
   "web": "http://www.amerikankulturbeylikduzu.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/amerikankulturbeylikduzu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -8221,7 +8331,8 @@
   "overture_id": "b64c3f68-cb97-4383-91ab-8849ddfc02ef",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://amerikankulturbeylikduzu.com/wp-content/uploads/2024/01/cropped-gokturk-icon-180x180.png"
  },
  {
   "ad": "Amerikan Kültür Dil Okulu AVCILAR",
@@ -9054,7 +9165,12 @@
   "mahalle": null,
   "telefon": "(0850) 307 19 19",
   "web": "http://www.anadoluehliyet.com/aksaray-subesi",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/anadoluehliyet.com.tr"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -9067,7 +9183,8 @@
   "overture_id": "e29c7080-f69c-47fe-aabf-595b3462916d",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://anadoluehliyet.com/images/logo.png"
  },
  {
   "ad": "Anadolu Sürücü Kursları",
@@ -9112,7 +9229,12 @@
   "mahalle": null,
   "telefon": "(0212) 590 75 75",
   "web": "http://www.anadoluehliyet.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/anadoluehliyet.com.tr"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -9125,7 +9247,8 @@
   "overture_id": "775b25b6-9db6-4ea4-922a-ef5cd38f52e8",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://anadoluehliyet.com/images/logo.png"
  },
  {
   "ad": "Anadolu Sürücü Kursu",
@@ -9141,7 +9264,12 @@
   "mahalle": null,
   "telefon": "(0212) 324 35 51",
   "web": "http://www.anadoluehliyet.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/anadoluehliyet.com.tr"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -9154,7 +9282,8 @@
   "overture_id": "c63a91a8-453f-4486-ab2b-f24698efa6ef",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://anadoluehliyet.com/images/logo.png"
  },
  {
   "ad": "Anadolu Yildizlari Dans Merkezi",
@@ -9224,7 +9353,12 @@
   "mahalle": null,
   "telefon": "(0212) 653 34 44",
   "web": "http://www.anatoliasanat.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/anatolia.sanat.resim.kursu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -9793,7 +9927,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.arapcadeposu.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/arapcadeposu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -9806,7 +9945,8 @@
   "overture_id": "de7f4c95-4205-41d3-920d-c3486023e54b",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.arapcadeposu.com/wp-content/uploads/favicon-300x300.jpg"
  },
  {
   "ad": "Arapça Dil Kursu",
@@ -9849,7 +9989,12 @@
   "mahalle": null,
   "telefon": "(0216) 548 14 10",
   "web": "http://www.ddmatasehir.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/dunyadillerimerkezidilokullari"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -10173,7 +10318,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://arkanssanat.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/arkanssanat"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -10202,7 +10352,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.arkhesanat.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ArkheArtAcademy"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -10215,7 +10370,8 @@
   "overture_id": "33e7dc97-3415-478e-8714-2ae8da9ea313",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.arkhesanat.com/wp-content/uploads/2015/03/cropped-fav-180x180.png"
  },
  {
   "ad": "Armoni müzik okulu",
@@ -10627,7 +10783,12 @@
   "mahalle": null,
   "telefon": "(0216) 595 33 77",
   "web": "https://artimtsk.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/artimtsk"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -10640,7 +10801,8 @@
   "overture_id": "91fc47d2-2315-4549-bb80-5a5fc2350a7e",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://artimtsk.tr/wp-content/uploads/2021/05/cropped-favicon-logo-180x180.png"
  },
  {
   "ad": "Artı Sonsuz Dershaneleri",
@@ -10906,7 +11068,12 @@
   "mahalle": null,
   "telefon": "(0212) 233 07 33",
   "web": "http://ariman.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/arimanshop"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -10919,7 +11086,8 @@
   "overture_id": "e564e23b-3f07-444d-8d3d-a816d500d57d",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://ariman.com.tr/wp-content/uploads/2021/04/Ariman-Logo-Sade.png"
  },
  {
   "ad": "As Akademik Sürücü Kursu",
@@ -11290,9 +11458,14 @@
   "il": null,
   "ilce": "Ataşehir",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "4440923",
   "web": "http://www.atabeyy.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/atabey_resmi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -11305,7 +11478,8 @@
   "overture_id": "9e20aa3b-6ecf-4bf2-9c9a-3256fe28cd42",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://atabeykurs.com.tr/favicon.png"
  },
  {
   "ad": "Atak Sürücü Kursu",
@@ -11408,8 +11582,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.eksenmatematik.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/eksen.matematik"
+   }
+  ],
+  "calisma_saatleri": "Mo 11:00-20:30; Tu 11:00-20:30; We 11:00-20:30; Th 11:00-20:30; Fr 11:00-20:30; Sa 11:00-20:30; Su 11:00-20:30",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 41.04594421386719,
@@ -11421,7 +11600,8 @@
   "overture_id": "e8589bb4-ddb2-45ea-99fc-7f12457b5b0b",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.eksenmatematik.com/images/eksen-logo-compass-mark.png"
  },
  {
   "ad": "Atakent Elit Yüzme",
@@ -11748,7 +11928,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.birebiringilizce.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/1e1ingilizce"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -11969,9 +12154,14 @@
   "il": null,
   "ilce": "Ataşehir",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "0216 456 8676",
   "web": "http://atasehirmodernsanat.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/atasehirmodernsanat"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -12035,7 +12225,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.fasafisa.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/fasafisa"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -12048,7 +12243,8 @@
   "overture_id": "52ef2df9-d363-4ca1-b2e9-523c031a69c0",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://fasafisa.com/images/fasafisa-logo.png"
  },
  {
   "ad": "Ataşehir Tac Yabancı Dil Eğitim",
@@ -12117,7 +12313,12 @@
   "mahalle": null,
   "telefon": "(0216) 472 16 16",
   "web": "https://atasehiringilizkultur.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/atasehiringilizkultur"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -12805,7 +13006,8 @@
   "overture_id": "72bb422f-7df1-4508-894b-4625304d7177",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://static.wixstatic.com/media/73e236_65a0744d186d440388e6fe5cb819b8f3%7Emv2.png/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/73e236_65a0744d186d440388e6fe5cb819b8f3%7Emv2.png"
  },
  {
   "ad": "Atölyedans",
@@ -13031,7 +13233,8 @@
   "overture_id": "7e8999e4-3dd6-4a1c-a0f9-89f607b913b9",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://static.wixstatic.com/media/9fff0a_98861f5091534a3ab3a0002b2b9515ba%7Emv2.webp/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/9fff0a_98861f5091534a3ab3a0002b2b9515ba%7Emv2.webp"
  },
  {
   "ad": "Avcılar A7 Tepe Sürücü Kursu",
@@ -13321,7 +13524,12 @@
   "mahalle": "Hasanpaşa Mahallesi",
   "telefon": "(0216) 347 01 72",
   "web": "https://www.avrupadilenstitusu.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/avrupadilenstitusu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -13334,7 +13542,8 @@
   "ilk_gorulme": "2026-11-04",
   "son_gorulme": "2026-11-26",
   "overture_id": "67c8dc63-45ad-4400-a002-b2f798431804",
-  "alt": "dil-kursu"
+  "alt": "dil-kursu",
+  "logo": "https://www.avrupadilenstitusu.com/wp-content/uploads/2025/01/cropped-adk-fav-180x180.png"
  },
  {
   "ad": "Avrupa Dil Kültür Merkezi",
@@ -13662,9 +13871,14 @@
   "il": null,
   "ilce": "Bakırköy",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "4444511",
   "web": "http://www.ayazegitim.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ayazegitimkurumlari"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -14051,7 +14265,12 @@
   "mahalle": null,
   "telefon": "(0212) 561 00 97",
   "web": "https://aylinsurucukursu.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/aylin.surucukursu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -14065,7 +14284,8 @@
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
   "overture_id": "b08d0e03-b095-4381-8fed-6944528900fd",
-  "alt": "surucu-kursu"
+  "alt": "surucu-kursu",
+  "logo": "https://estanbulbutik.com/src/wp-content/uploads/2017/07/favicon-1.png"
  },
  {
   "ad": "Ayna Sürücü Kursu",
@@ -14231,7 +14451,8 @@
   "overture_id": "58a05f45-ce08-49a5-82dc-df61255049c0",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.abdabakirkoy.com/wp-content/uploads/2023/07/abda-logo-e1690314567686.png"
  },
  {
   "ad": "Aytunç Bentürk Dance Academy",
@@ -14849,8 +15070,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.barisdemirel.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/barisdemirelmusic"
+   }
+  ],
+  "calisma_saatleri": "Mo 11:00-19:00; Tu 11:00-19:00; We 11:00-19:00; Th 11:00-19:00; Fr 11:00-19:00; Sa 11:00-16:00; Su 00:00-00:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 41.05257,
@@ -14863,7 +15089,8 @@
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
   "overture_id": "c589fb40-9b22-49ea-947c-84811d84496d",
-  "alt": "muzik"
+  "alt": "muzik",
+  "logo": "http://www.barisdemirel.com/apple-touch-icon.png?v=1"
  },
  {
   "ad": "BDA",
@@ -15325,7 +15552,12 @@
   "mahalle": null,
   "telefon": "(0212) 270 83 14",
   "web": "http://www.btmuzik.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/btmuzikvesahnesanatlari"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -15338,7 +15570,8 @@
   "overture_id": "f3dd1e40-0e46-4ad6-b284-763bda62f4a2",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://www.btmuzik.com/assets/img/favicon.png"
  },
  {
   "ad": "BTF Akademi",
@@ -15378,7 +15611,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://bucampus.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/hamitcanileingilizce"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -15460,7 +15698,7 @@
   "il": null,
   "ilce": "Esenler",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "+90 212 569 10 40",
   "web": "https://baharsurucukursu.com.tr/",
   "sosyal": [],
   "calisma_saatleri": null,
@@ -16220,7 +16458,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.bakirkoyozeldireksiyondersi.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/aylinsurucukursubakirkoy"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -16233,7 +16476,8 @@
   "overture_id": "91148b7d-9677-4086-9608-338664134e2a",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.bakirkoyozeldireksiyondersi.com/wp-content/uploads/2018/05/favicon-2.png"
  },
  {
   "ad": "Bakü Sanat Akademi",
@@ -16474,7 +16718,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.fasafisa.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/fasafisa"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -16487,7 +16736,8 @@
   "overture_id": "537a0737-d76b-480b-b671-6da4a8fb8454",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://fasafisa.com/images/fasafisa-logo.png"
  },
  {
   "ad": "Bakırköy Türk Amerikan Derneği",
@@ -17233,7 +17483,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://davulcu.org/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/DavulcuOrg"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -17246,7 +17501,8 @@
   "overture_id": "7e377f9b-5a6a-4545-9a5b-2f2c4e393a66",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://davulcu.org/wp-content/uploads/2017/04/cropped-favicondavulcu-180x180.jpg"
  },
  {
   "ad": "Bas Fakültesi",
@@ -19717,7 +19973,12 @@
   "mahalle": null,
   "telefon": "(0212) 854 25 26",
   "web": "http://www.bmakademi.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/beylikduzu_muzik_akademisi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -19773,7 +20034,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.fasafisa.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/fasafisa"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -19786,7 +20052,8 @@
   "overture_id": "bd42f180-0ce7-4dd0-8d85-460681b41977",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://fasafisa.com/images/fasafisa-logo.png"
  },
  {
   "ad": "Beylikdüzü Tay Sürücü Okulları",
@@ -21661,7 +21928,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.blushdancestudio.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/blushdancestudio"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -21675,7 +21947,8 @@
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
   "overture_id": "5edcda0a-179d-4873-9e63-cf485edbd240",
-  "alt": "dans"
+  "alt": "dans",
+  "logo": "http://www.blushdancestudio.com/wp-content/themes/woodmart/images/icons/apple-touch-icon-152x152-precomposed.png"
  },
  {
   "ad": "Bogazici Gosteri Sanatlari Toplulugu",
@@ -25693,7 +25966,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://ctmuzikakademik.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ctmuzikakademik"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -25706,7 +25984,8 @@
   "overture_id": "9decea74-7e0b-4d65-b2bd-39d0be73213b",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://ctmuzikakademik.com/wp-content/uploads/2023/04/cropped-ct-muzik-akademik-1-180x180.png?b=202611140754"
  },
  {
   "ad": "CTF Dans Kulübü",
@@ -27278,7 +27557,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.chitchat.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/chitchatcourse"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -27674,7 +27958,12 @@
   "mahalle": null,
   "telefon": "(0850) 255 20 80",
   "web": "https://classest.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/classest.tr"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -27687,7 +27976,8 @@
   "overture_id": "16c250b2-05fa-4999-bf63-cf4abdc5c8ed",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://cdn.classest.com/static/img/meta/touch-icon.png"
  },
  {
   "ad": "Classest",
@@ -27703,7 +27993,12 @@
   "mahalle": null,
   "telefon": "(0850) 255 20 80",
   "web": "https://classest.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/classest.tr"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -27716,7 +28011,8 @@
   "overture_id": "3e8b02b0-d069-4498-a271-f58d048edfb4",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://cdn.classest.com/static/img/meta/touch-icon.png"
  },
  {
   "ad": "Clubsporium - Melih Altın Dans Dersleri  ",
@@ -28796,7 +29092,12 @@
   "mahalle": null,
   "telefon": "(0216) 999 08 00",
   "web": "http://www.danskeyfi.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/danskeyfi_atasehir"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -29074,7 +29375,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://Danceandmore.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/danceandmore"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -29087,7 +29393,8 @@
   "overture_id": "56b5100c-d763-4d0a-b268-67b4df8969ef",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://danceandmore.com.tr/wp-content/uploads/2026/08/dance-and-more-logo.png"
  },
  {
   "ad": "Dance with me",
@@ -29598,7 +29905,8 @@
   "overture_id": "8fed3396-755f-48fd-9c7e-ae922d267199",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://static.wixstatic.com/media/0ff0de_06ee9db5986a46a0b63fa2980b008090%7Emv2.png/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/0ff0de_06ee9db5986a46a0b63fa2980b008090%7Emv2.png"
  },
  {
   "ad": "Dans Dersi",
@@ -31079,8 +31387,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://desanatmerkezi.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/desanatmerkezi"
+   }
+  ],
+  "calisma_saatleri": "Mo 09:00-20:30; Tu 09:00-20:30; We 09:00-20:30; Th 09:00-20:30; Fr 09:00-20:30; Sa 09:00-20:30; Su 09:00-20:30",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 40.998863220214844,
@@ -31092,7 +31405,8 @@
   "overture_id": "0cf8999f-2c4e-4bd4-8863-c55f4c844601",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://desanatmerkezi.com/desanat-logo.png"
  },
  {
   "ad": "Deaf Dance Academy",
@@ -32144,7 +32458,12 @@
   "mahalle": null,
   "telefon": "(0850) 606 34 06",
   "web": "https://www.dersflix.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/dersflix.egitim"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -33112,7 +33431,12 @@
   "mahalle": null,
   "telefon": "(0212) 570 12 70",
   "web": "http://dilkobakirkoy.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/dilkoenglishTr"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -33527,7 +33851,12 @@
   "mahalle": null,
   "telefon": "(0212) 292 96 96",
   "web": "http://www.dilmer.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/dilmer_dil_okulu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -33638,7 +33967,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://sultangazidiltime.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/sultangazi.diltime"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -33810,8 +34144,13 @@
   "mahalle": null,
   "telefon": "(0212) 217 29 11",
   "web": "http://direksiyonkursu.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/direksiyondersimerkezi"
+   }
+  ],
+  "calisma_saatleri": "Mo 09:00-19:00; Tu 09:00-19:00; We 09:00-19:00; Th 09:00-19:00; Fr 09:00-19:00; Sa 09:00-19:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 41.06782913208008,
@@ -33823,7 +34162,8 @@
   "overture_id": "41ea9e6e-e58b-49c0-92cd-eec0d1e3816e",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://direksiyonkursu.com/wp-content/uploads/2025/12/cropped-direksiyon-gelistirme-merkezi-logo-direksiyon-kursu-kucuk.png"
  },
  {
   "ad": "Direksiyon dersleri",
@@ -33910,7 +34250,8 @@
   "overture_id": "723775f6-ce21-48b0-a779-9b9190e6f790",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.direksiyonegitimkursu.com/wp-content/uploads/2026/01/0x0-ehliyet-sinavinda-yeni-donem-bakanlik-calisma-baslatti-neden-kaldim-tartismasi-sona-eriyor-1768382206579.webp"
  },
  {
   "ad": "Direksiyondersi",
@@ -33939,7 +34280,8 @@
   "overture_id": "97751edb-338a-4c28-be51-2d3ae30000b8",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.direksiyonegitimkursu.com/wp-content/uploads/2026/01/0x0-ehliyet-sinavinda-yeni-donem-bakanlik-calisma-baslatti-neden-kaldim-tartismasi-sona-eriyor-1768382206579.webp"
  },
  {
   "ad": "Dirlik Sürücü Kursu",
@@ -34149,7 +34491,12 @@
   "mahalle": null,
   "telefon": "(0212) 543 62 60",
   "web": "http://www.dogansurucukursu.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/dogannsurucukursu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -34162,7 +34509,8 @@
   "overture_id": "8eaf9fb2-9267-4155-9e2b-13074037267e",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.dogansurucukursu.com/2023/06/thumbnail/undefinedpng-57x57.png"
  },
  {
   "ad": "Dogancilar Halk Oyunlari",
@@ -34575,7 +34923,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.dogancemakademi.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/dogancemakademi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -34588,7 +34941,8 @@
   "overture_id": "cb7a8c57-3417-44df-a9eb-a677751a87de",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.dogancemakademi.com/wp-content/uploads/2024/10/cropped-Logo-Square.png"
  },
  {
   "ad": "Doğulu Müzik Bale Eğitim Kurumlari Bahçesehir",
@@ -34809,7 +35163,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.driftakademi.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/abbascimen_drift"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -34822,7 +35181,8 @@
   "overture_id": "5400289d-9912-4c6a-b2e7-25c206c948d3",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://driftakademi.com/images/logos/drift-akademi-v2.webp"
  },
  {
   "ad": "Driftherapy Garage",
@@ -34926,9 +35286,14 @@
   "il": null,
   "ilce": "Ümraniye",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "+902163745050",
   "web": "https://www.englishpro.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/englishprodilokullari"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -34941,7 +35306,8 @@
   "overture_id": "c1af3342-6bd6-4076-bd25-268ecf9ece02",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.englishpro.com.tr/wp-content/uploads/2025/11/EnglishPro-Yer-Tutucu-Kare.webp"
  },
  {
   "ad": "Dunya Dilleri Merkezi",
@@ -34957,7 +35323,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.dunyadillerimerkezi.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/dunyadillerimerkezi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -35205,7 +35576,12 @@
   "mahalle": null,
   "telefon": "(0212) 283 19 14",
   "web": "https://ddmlevent.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/dunyadillerimerkezi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -35235,7 +35611,12 @@
   "mahalle": null,
   "telefon": "(0216) 548 14 11",
   "web": "http://www.dunyadillerimerkezi.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/dunyadillerimerkezi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -35347,7 +35728,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.dugundansim.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/dugundansi_danspoint"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -35360,7 +35746,8 @@
   "overture_id": "ff3a42e2-afae-4a5f-813d-a3f1400e3c62",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.dugundansim.com/ico/apple-icon-57x57.png"
  },
  {
   "ad": "Düğün Dansı Dans Point",
@@ -35376,7 +35763,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.dugundansim.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/dugundansi_danspoint"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -35389,7 +35781,8 @@
   "overture_id": "5b58392b-4803-421a-8a7d-f52741392a7b",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.dugundansim.com/ico/apple-icon-57x57.png"
  },
  {
   "ad": "Düğün Dansı Dersleri",
@@ -35623,7 +36016,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.emreshan.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/dedekorkutpedal"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -35652,7 +36050,12 @@
   "mahalle": null,
   "telefon": "(0212) 202 70 11",
   "web": "http://www.edmamuzik.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/edma_muzik"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -35665,7 +36068,8 @@
   "overture_id": "c59de6a3-5ad7-4d25-a41b-ec67cd7ec6ad",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://static.wixstatic.com/media/86d274_2ea9ec84006b4909b607d954ecf9dbfa.png/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/86d274_2ea9ec84006b4909b607d954ecf9dbfa.png"
  },
  {
   "ad": "EEC-Anglo - İngilizce Dil Köyü",
@@ -35694,7 +36098,8 @@
   "overture_id": "87962357-09f1-43f8-9ecf-4f4c10a3fce3",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://static.parastorage.com/client/pfavico.ico"
  },
  {
   "ad": "EFE TANMAN MÜZİK ATÖLYESİ",
@@ -36069,7 +36474,12 @@
   "mahalle": null,
   "telefon": "(0216) 557 02 59",
   "web": "http://www.sirmabaledans.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/sirmabaledansmuzik"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -36083,7 +36493,8 @@
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
   "overture_id": "213124e8-46f2-4ed6-838e-5f1a67112664",
-  "alt": "dans"
+  "alt": "dans",
+  "logo": "https://sirmabaledans.com/wp-content/uploads/2021/07/logo2-01.png"
  },
  {
   "ad": "Ebru Çapraz Dance & Arts",
@@ -36487,7 +36898,12 @@
   "mahalle": null,
   "telefon": "(0212) 526 26 26",
   "web": "https://www.edufaceenglish.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/edufaceenglish"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -36605,7 +37021,12 @@
   "mahalle": null,
   "telefon": "(0212) 249 37 82",
   "web": "http://www.edulinkbd.co.uk/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/edulinkbd"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -36618,7 +37039,8 @@
   "overture_id": "2af8ba0a-d261-4a6d-b119-1ba034afe5ac",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://static.wixstatic.com/media/d3194b_dca483cc9ae748c0b3a335d62f91ad7b%7Emv2.jpg/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/d3194b_dca483cc9ae748c0b3a335d62f91ad7b%7Emv2.jpg"
  },
  {
   "ad": "Eduway Language School",
@@ -36829,7 +37251,12 @@
   "mahalle": null,
   "telefon": "(0212) 546 00 00",
   "web": "https://www.ehliyetkapimda.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ehliyetkapimda"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -36842,7 +37269,8 @@
   "overture_id": "bbd0cfe3-1e16-41f6-9836-2f586028ce14",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.ehliyetkapimda.com/upload/logo/fav/s/fav-77.png"
  },
  {
   "ad": "Eker Müzik",
@@ -36920,7 +37348,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.ekinsurucu.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/Ekinehliyet"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -36933,7 +37366,8 @@
   "overture_id": "15bf6572-fd34-4983-91df-59a217084144",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://www.ekinsurucu.com/wp-content/uploads/2020/02/logo-2-1-297x94.png"
  },
  {
   "ad": "Ekip Akademi",
@@ -37697,7 +38131,12 @@
   "mahalle": null,
   "telefon": "(0216) 553 66 55",
   "web": "https://www.uskudarmusikicemiyeti.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/uskudarmusikicemiyeti"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -37710,7 +38149,8 @@
   "overture_id": "a6762612-4f06-4882-9b0b-4220328c9b21",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.uskudarmusikicemiyeti.com/wp-content/themes/starter/assets/frontend/images/favicon.png?revision=1795736218199_4_0"
  },
  {
   "ad": "Empathy Sanat Okulları",
@@ -37783,7 +38223,12 @@
   "mahalle": null,
   "telefon": "(0212) 771 34 39",
   "web": "http://www.emrahsurucukursu.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/emrahsurucukursu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -37899,7 +38344,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.emreyucelen.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/emreyucelen"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -37912,7 +38362,8 @@
   "overture_id": "0d6792ca-200f-444a-8a62-56dc2ee15233",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.emreyucelen.com/cdn/shop/files/eylogo.png?v=1781617398&width=500"
  },
  {
   "ad": "En Buyuk Show",
@@ -38484,7 +38935,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.englishhouse.org/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/wix"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -38497,7 +38953,8 @@
   "overture_id": "72511152-6c49-476f-8950-74a202c1d520",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://static.wixstatic.com/media/5904e6_16769d2b9c744068ac7cb21adecb96fa%7Emv2.jpg/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/5904e6_16769d2b9c744068ac7cb21adecb96fa%7Emv2.jpg"
  },
  {
   "ad": "English In Cape",
@@ -38673,7 +39130,8 @@
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
   "overture_id": "c0835dcc-b7e0-4862-bfa9-f3500b136714",
-  "alt": "dil-kursu"
+  "alt": "dil-kursu",
+  "logo": "https://englishoflondon.com/wp-content/uploads/2024/06/elementor/thumbs/logo-150x150.webp"
  },
  {
   "ad": "English Park",
@@ -38864,7 +39322,8 @@
   "overture_id": "ccae30c5-0e86-4897-b20d-622509a4419c",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.cekmekoyingilizcekurs.com/images/logo.webp"
  },
  {
   "ad": "English STATE",
@@ -40020,9 +40479,14 @@
   "il": null,
   "ilce": "Maltepe",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "+902164111718",
   "web": "https://www.englishcalleducation.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/englishcallerenkoy"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -40035,7 +40499,8 @@
   "overture_id": "6169fb53-7587-4d9d-9287-0fbe4d30cdfe",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.englishcalleducation.com/img/logo-amblem.webp"
  },
  {
   "ad": "Englishbox Dil Okulları",
@@ -40051,7 +40516,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://englishbox.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/englishboxtr"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -40064,7 +40534,8 @@
   "overture_id": "61f2ff9d-2e06-47df-ad52-8d1e0eefce98",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://englishbox.com.tr/wp-content/uploads/2022/02/english-box-logo.svg"
  },
  {
   "ad": "Englishland Dil Okulları",
@@ -40252,7 +40723,8 @@
   "overture_id": "eb649660-66bd-4cf2-9b06-acaff6ec636f",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.huseyinyildirayduman.com.tr/wp-content/uploads/2026/07/cropped-hyd_logo-1-180x180.webp"
  },
  {
   "ad": "Enstrüman Öğreniyorum",
@@ -40281,7 +40753,8 @@
   "overture_id": "2a024bef-2ddb-429c-b4ed-7d4cd392315a",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.huseyinyildirayduman.com.tr/wp-content/uploads/2026/07/cropped-hyd_logo-1-180x180.webp"
  },
  {
   "ad": "Eray Sürücü Kursu",
@@ -40442,7 +40915,12 @@
   "mahalle": null,
   "telefon": "(0216) 441 38 92",
   "web": "http://www.erdalerzincan.com.tr",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/erdalerzincan"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -40557,7 +41035,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://erendemirakademi.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/erendemirakademi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -40571,7 +41054,8 @@
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
   "overture_id": "874ff0d3-6fcb-4e42-ba3b-646826b0f914",
-  "alt": "muzik"
+  "alt": "muzik",
+  "logo": "https://www.erendemirakademi.com/wp-content/uploads/2026/03/cropped-Profil.png"
  },
  {
   "ad": "Eren Sürücü Kursu",
@@ -40743,9 +41227,14 @@
   "il": null,
   "ilce": "Kadıköy",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "02163809076",
   "web": "http://www.erenkoydansakademi.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/erenkoydansakademi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -40923,7 +41412,8 @@
   "overture_id": "cd692fbb-8e6e-44b5-8560-99d790d461cd",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.erkeningilizcebeylikduzu.com/icon.png"
  },
  {
   "ad": "Erman Güvenlik Okulu",
@@ -41033,7 +41523,8 @@
   "overture_id": "5532a2ab-79ff-4d68-881a-a8e30a095e0d",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://gemiadamikursu.com/assets/images/logo.svg"
  },
  {
   "ad": "Erşahin Sürücü kursu",
@@ -41185,7 +41676,12 @@
   "mahalle": null,
   "telefon": "(0212) 934 17 23",
   "web": "https://esenleramericanvip.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/esenleramericanvip"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -41673,7 +42169,8 @@
   "overture_id": "c5efc36e-ed06-49ec-a68b-df86ece2a869",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.estudia.com.tr/wp-content/uploads/2018/08/LOGOdefRojoBlanco-1-e1535653140619.png"
  },
  {
   "ad": "Ethics Driver Course",
@@ -41702,7 +42199,8 @@
   "overture_id": "fa9bc17a-8c17-40ea-9844-ab66d5877576",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://www.ehliyetiniz.com/favicon.svg"
  },
  {
   "ad": "Etik Sürücü Kursu",
@@ -41829,7 +42327,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.etkisanatatolyesi.com/index.html",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/etkisanatatolyesi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -41842,7 +42345,8 @@
   "overture_id": "ed570e96-a495-407d-aef2-368a5ade8757",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.etkisanatatolyesi.com/icon-192.png"
  },
  {
   "ad": "Etki Sürücü Kursu",
@@ -42047,7 +42551,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.danskursutango.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ewet_dans_kursu_beylikduzu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -42466,7 +42975,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.ezelsurucukursu.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ezelsurucukursu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -42479,7 +42993,8 @@
   "overture_id": "da62420d-0a92-4b17-a68a-e23ae857295a",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.ezelsurucukursu.com.tr/wp-content/uploads/2020/03/VLC-1-320x320.png"
  },
  {
   "ad": "Ezel Sürücü Kursu",
@@ -42495,7 +43010,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.ezelsurucukursu.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ezelsurucukursu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -42508,7 +43028,8 @@
   "overture_id": "711e9431-a840-40a1-84f5-ca0623ca400d",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.ezelsurucukursu.com.tr/wp-content/uploads/2020/03/VLC-1-320x320.png"
  },
  {
   "ad": "Ezgi  Müzik Sanat Merkezi",
@@ -43292,7 +43813,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.fasafisa.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/fasafisa"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -43305,7 +43831,8 @@
   "overture_id": "47757423-cbc6-4d25-8e38-8c3aaf851835",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://fasafisa.com/images/fasafisa-logo.png"
  },
  {
   "ad": "Fatih Büyük Anadolu Sürücü Kursu",
@@ -43319,9 +43846,14 @@
   "il": null,
   "ilce": "Fatih",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "+90-850-307-1919",
   "web": "http://www.anadoluehliyet.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/anadoluehliyet.com.tr"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -43334,7 +43866,8 @@
   "overture_id": "6aedde2e-4eab-4afa-971c-c6896fc3688f",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://anadoluehliyet.com/images/logo.png"
  },
  {
   "ad": "Fatih Kuran Kursu",
@@ -43544,7 +44077,12 @@
   "mahalle": null,
   "telefon": "(0216) 548 14 11",
   "web": "http://www.ddmatasehir.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/dunyadillerimerkezidilokullari"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -43791,7 +44329,8 @@
   "overture_id": "a878fb8b-9aab-47a5-bab3-177d728bfbf1",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://ferahevlersurucukursu.com/Content/Upload/Resimler/favicon.png"
  },
  {
   "ad": "Fetih Sürücü Kursu",
@@ -44266,7 +44805,12 @@
   "mahalle": null,
   "telefon": "(0212) 551 50 41",
   "web": "http://www.firtinamuzik.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/firtinamuzikevi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -44279,7 +44823,8 @@
   "overture_id": "19df4a26-a539-49d2-a292-564725ebe1d7",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.firtinamuzik.com.tr/wp-content/uploads/2025/04/Firtina_Favicon_Baglama-1-300x300.png"
  },
  {
   "ad": "Fizik Öğrenci Laboratuvarları L2F1-F5 (FIZ 101EL/102EL)",
@@ -44378,7 +44923,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.flamenkoevi.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/melekyel_flamenkoevi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -45081,7 +45631,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://frekansmuzik.net/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/frekansmuzik"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -45094,7 +45649,8 @@
   "overture_id": "244d00f1-26ff-4b14-9a65-326ef131c46f",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://frekansmuzik.net/wp-content/uploads/2021/03/frekans-muzik-favicon.jpg"
  },
  {
   "ad": "Fsmvu Tumer",
@@ -45110,7 +45666,12 @@
   "mahalle": null,
   "telefon": "(0212) 521 81 00",
   "web": "http://tumer.fsm.edu.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/fsmvu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -45123,7 +45684,8 @@
   "overture_id": "d1bb5bc0-8d57-4d04-a1c9-23594557182c",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.fsm.edu.tr/favicon.png?v=1.0"
  },
  {
   "ad": "Fuhot",
@@ -45287,7 +45849,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.fundaaygilbaleokulu.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/fundaaygilbalevemuzikokulu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -45300,7 +45867,8 @@
   "overture_id": "c798a52f-946a-4c29-b1da-1874000c2184",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.fundaaygilbaleokulu.com/wp-content/uploads/2020/12/funda-aygil-bale-muzik-okulu-logo-siyah.png"
  },
  {
   "ad": "Funda Ceber Bale&Dans Sanat Akademesi",
@@ -45403,7 +45971,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.fsdjacademy.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/fsdjacademy"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -45584,7 +46157,8 @@
   "overture_id": "df770c0c-9678-4908-9e8b-289b2ce3282b",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.youtube.com/s/desktop/c52980d1/img/favicon_96x96.png"
  },
  {
   "ad": "GA Çocuk Eğitim ve Danışmanlık",
@@ -45693,7 +46267,12 @@
   "mahalle": null,
   "telefon": "(0216) 470 08 15",
   "web": "http://www.gnregitim.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/gnregitim"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -45706,7 +46285,8 @@
   "overture_id": "a1e92555-d3e5-4d01-8cae-c52f183b3441",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://www.gnregitim.com/images/icon/apple-icon-57x57.png"
  },
  {
   "ad": "GNR Talks",
@@ -45722,7 +46302,12 @@
   "mahalle": null,
   "telefon": "(0216) 470 08 15",
   "web": "https://www.gnregitim.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/gnregitim"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -45735,7 +46320,8 @@
   "overture_id": "0151bb70-4856-4951-8f91-a32ae466393e",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.gnregitim.com/images/icon/apple-icon-57x57.png"
  },
  {
   "ad": "GSU Tekne Partisi",
@@ -46640,7 +47226,12 @@
   "mahalle": null,
   "telefon": "(0216) 378 95 18",
   "web": "http://www.gencakademik.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/gencakademikgelisimsury"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -46653,7 +47244,8 @@
   "overture_id": "e62ece27-e5bf-4e28-9e6b-a24b88759463",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://www.gencakademik.com/style/images/apple-touch-icon-precomposed.png"
  },
  {
   "ad": "Genç Ali Sürücü Kursu",
@@ -47057,9 +47649,14 @@
   "il": null,
   "ilce": "Maltepe",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0216) 709 40 55",
   "web": "http://girneamerikandilkursu.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/girneamerikandilkursu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -47072,7 +47669,8 @@
   "overture_id": "feed79cf-da98-4b10-9b8b-1d1fa6245c70",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://girneadk.ventedu.com/storage/images/logos/site_favicon_tr_1694352934.png"
  },
  {
   "ad": "Gitar Akademi",
@@ -47370,7 +47968,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.gizembaledans.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/gizemsanat"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -47384,7 +47987,8 @@
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
   "overture_id": "d31bd090-6e41-4943-bb0c-eedff1b08a00",
-  "alt": "dans"
+  "alt": "dans",
+  "logo": "http://gizembaledans.com/wp-content/uploads/2025/06/cropped-gizem_bale_dans_logo-180x180.png"
  },
  {
   "ad": "Gizem Yıldız Bale ve Dans Akademisi",
@@ -47400,7 +48004,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.gizembaledans.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/gizemsanat"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -47413,7 +48022,8 @@
   "overture_id": "7a8abf92-f3e1-405c-bba6-fe61992ad985",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://gizembaledans.com/wp-content/uploads/2025/06/cropped-gizem_bale_dans_logo-180x180.png"
  },
  {
   "ad": "Gizem Çebi Akademi",
@@ -48983,9 +49593,14 @@
   "il": null,
   "ilce": "Eyüpsultan",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "02123224040",
   "web": "https://amerikankulturgokturk.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/amerikankulturgokturkk"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -48998,7 +49613,8 @@
   "overture_id": "25a7a06b-21c9-4212-8e44-0d481b251d4e",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://amerikankulturgokturk.com/wp-content/uploads/2024/01/cropped-gokturk-icon-180x180.png"
  },
  {
   "ad": "Gökçe Sürücü Kursu",
@@ -49166,7 +49782,8 @@
   "overture_id": "f9017a90-8041-4440-8b21-57d6a566b22d",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.xn--surucukurslarehliyet-ubd.com/resimler/siteayarlari/5eb2d065301ef6f00749458ec0b64b3d.jpeg"
  },
  {
   "ad": "Göztepe Müzik Kursu",
@@ -49940,7 +50557,12 @@
   "mahalle": null,
   "telefon": "(0212) 216 06 66",
   "web": "https://gunesliamerikankultur.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/amerikankulturgunesli"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -49998,7 +50620,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.guneslipsikoteknik.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/guneslipsikoteknik"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -50011,7 +50638,8 @@
   "overture_id": "e915777f-0a56-47e5-a18e-1903789693f4",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://www.guneslipsikoteknik.com.tr/assets/icon/apple-touch-icon-158-precomposed.png"
  },
  {
   "ad": "Güneşli Yabancı Dil Kursu",
@@ -50199,7 +50827,12 @@
   "mahalle": null,
   "telefon": "(0212) 252 52 32",
   "web": "https://www.gmrakademi.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/gurzumarakademi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -50228,7 +50861,12 @@
   "mahalle": null,
   "telefon": "(0212) 252 52 32",
   "web": "https://www.gmrakademi.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/gurzumarakademi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -50398,7 +51036,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.hepdans.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/hepdans"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -50411,7 +51054,8 @@
   "overture_id": "d6083d7e-d13f-4377-b9c5-c2e86d728031",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://www.hepdans.com/static/favicon.svg"
  },
  {
   "ad": "Hacı Kenan ve Eşi Miyase Üneş Soğuksu Kuran Kursu",
@@ -50464,7 +51108,8 @@
   "overture_id": "93c51c28-c6db-42a4-ad3f-92ccac3f8496",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://static.wixstatic.com/media/902c0b_30d301a8c89149bab1a02e4462e07d00.jpg/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/902c0b_30d301a8c89149bab1a02e4462e07d00.jpg"
  },
  {
   "ad": "Hakan's Lounge",
@@ -51082,7 +51727,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.harmoniaacademy.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/harmoniaacademy"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -51095,7 +51745,8 @@
   "overture_id": "597e13a4-44a0-49d1-ab32-59c360432b22",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.harmoniaacademy.com/images/assets/logo.png"
  },
  {
   "ad": "Harward dil kursu eğitimi",
@@ -51301,7 +51952,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://havanastudio.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/havanastudiodansvesanatmerkezi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -51314,7 +51970,8 @@
   "overture_id": "9c9dc1d4-ec26-4547-95b4-3775fef476da",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://havanastudio.com.tr/ico/apple-icon-57x57.png"
  },
  {
   "ad": "Hayat Bi Dans Okulu",
@@ -51499,7 +52156,12 @@
   "mahalle": null,
   "telefon": "(0216) 640 19 38",
   "web": "http://www.onikiegitim.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/sonuconikikurs"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -51836,10 +52498,10 @@
   "il": null,
   "ilce": "Sultangazi",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "+902126682668",
   "web": "http://www.hisarehliyet.com/",
   "sosyal": [],
-  "calisma_saatleri": null,
+  "calisma_saatleri": "Mo 09:00-20:00; Tu 09:00-20:00; We 09:00-20:00; Th 09:00-20:00; Fr 09:00-20:00; Sa 09:00-20:00; Su 00:00-00:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 41.088558197021484,
@@ -51851,7 +52513,8 @@
   "overture_id": "170f36cd-d487-47be-af06-06edb3c0ea08",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.hisarehliyet.com/assets/images/hisar-surucu-kursu-logo.png"
  },
  {
   "ad": "Hocalara Geldik Başarı Merkezi",
@@ -51974,7 +52637,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.anadolufolklor.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/anadolu_folklor"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -51987,7 +52655,8 @@
   "overture_id": "4895fe8a-8e11-426d-8e2d-91021343401a",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.anadolufolklor.com/wp-content/uploads/2016/02/logo-folklor-1.png"
  },
  {
   "ad": "Hoyat Genclik ve Spor Klubu",
@@ -52043,7 +52712,8 @@
   "overture_id": "1261f3c8-8a8e-4a53-a05c-2e5ce88a2852",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://static.wixstatic.com/media/07faa2_13fa7f680e294dcda98989d4017452c3%7Emv2.jpg/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/07faa2_13fa7f680e294dcda98989d4017452c3%7Emv2.jpg"
  },
  {
   "ad": "Hulya Aksular Dance Academy",
@@ -52221,7 +52891,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.hulyaaksularsanatatolyesi.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/hulyaaksularsanatatolyesi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -52235,7 +52910,8 @@
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
   "overture_id": "d1cf7885-64d2-4dc5-b313-4d61c228f93e",
-  "alt": "sanat"
+  "alt": "sanat",
+  "logo": "https://www.hulyaaksularsanatatolyesi.com/wp-content/uploads/2023/02/cropped-android-chrome-512x512-1-180x180.png"
  },
  {
   "ad": "Hıdır 'ın Yeri",
@@ -52390,7 +53066,12 @@
   "mahalle": null,
   "telefon": "(0212) 249 28 78",
   "web": "http://www.ieltsegitimmerkezi.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ieltsegitimmerkezi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -52403,7 +53084,8 @@
   "overture_id": "52860143-b5f4-4551-9b15-9479cea38526",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://ieltsegitimmerkezi.com/wp-content/uploads/ielts-egitim-merkezi-logo-1.png"
  },
  {
   "ad": "IELTS Eğitim Merkezi",
@@ -52419,7 +53101,12 @@
   "mahalle": null,
   "telefon": "(0212) 249 28 78",
   "web": "http://www.ieltsegitimmerkezi.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ieltsegitimmerkezi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -52432,7 +53119,8 @@
   "overture_id": "f3fd3198-1099-4992-b7d0-bff877f74f2d",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://ieltsegitimmerkezi.com/wp-content/uploads/ielts-egitim-merkezi-logo-1.png"
  },
  {
   "ad": "IELTS Hazırlık Kursu",
@@ -52448,7 +53136,12 @@
   "mahalle": null,
   "telefon": "(0216) 548 14 10",
   "web": "http://www.ieltskursuatasehir.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/dunyadillerimerkezidilokullari"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -52782,7 +53475,12 @@
   "mahalle": null,
   "telefon": "(0212) 508 21 80",
   "web": "http://www.esenleridilsurucukursu.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/idilsurucukursu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -52795,7 +53493,8 @@
   "overture_id": "f62f6cf5-1278-4423-a5f6-81614f511c83",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://esenleridilsurucukursu.com/wp-content/uploads/2025/10/idil-surucu-kursu-logo7.png"
  },
  {
   "ad": "Ielts Kursu",
@@ -53175,9 +53874,14 @@
   "il": null,
   "ilce": "Başakşehir",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "+902122173434",
   "web": "https://interactive.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/interactive_tr"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -53190,7 +53894,8 @@
   "overture_id": "f561804f-d0fe-4a90-ab29-57e2b57d68f1",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://interactive.com.tr/assets/favicon.svg"
  },
  {
   "ad": "Intercity Akademi",
@@ -53925,7 +54630,12 @@
   "mahalle": null,
   "telefon": "(0212) 571 82 84",
   "web": "http://www.ilm.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/istanbullisanmerkezi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -53938,7 +54648,8 @@
   "overture_id": "2286e094-9a9e-4576-8b96-cd422f0229a1",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.ilm.com.tr/site_files/images/logo.png"
  },
  {
   "ad": "Istanbul Performance Dans Atolyesi",
@@ -54203,7 +54914,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.itrimusic.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/itri_music"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -54216,7 +54932,8 @@
   "overture_id": "fdb923ae-bc42-4135-8bf3-ba13244bd700",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://itrimusic.com.tr/wp-content/uploads/2018/10/itri-music-logo.png"
  },
  {
   "ad": "Işık Dans Topluluğu",
@@ -54927,7 +55644,8 @@
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
   "overture_id": "f9031714-4dd2-4c9c-b8f9-8353c5fad1bd",
-  "alt": "dil-kursu"
+  "alt": "dil-kursu",
+  "logo": "https://static.parastorage.com/client/pfavico.ico"
  },
  {
   "ad": "Just English Dil Okulları",
@@ -54943,7 +55661,12 @@
   "mahalle": null,
   "telefon": "(0212) 272 00 09",
   "web": "http://www.engcastle.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/englishcastle.tr"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -54956,7 +55679,8 @@
   "overture_id": "5ad3338b-6842-400d-b312-a1e72574ac95",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://engcastle.com/wp-content/uploads/2024/04/logo.png"
  },
  {
   "ad": "Just English Language & TOEFL CENTER",
@@ -55675,8 +56399,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.kugumuzik.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/kugumuzik"
+   }
+  ],
+  "calisma_saatleri": "Mo,Tu,We,Th,Fr 11:00-20:30; Sa 10:30-20:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 40.98881149291992,
@@ -55688,7 +56417,8 @@
   "overture_id": "c8281f04-cd63-46aa-b1e5-5cb9bae5b54a",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://kugumuzik.com/wp-content/uploads/Kugu-muzik-logo.jpg"
  },
  {
   "ad": "Kaan Sürücü Kursu",
@@ -55789,8 +56519,13 @@
   "mahalle": null,
   "telefon": "(0216) 495 94 94",
   "web": "http://kadikoyamerikankultur.net/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/kadikoy_amerikankultur"
+   }
+  ],
+  "calisma_saatleri": "Mo 09:00-21:00; Tu 09:00-21:00; We 09:00-21:00; Th 09:00-21:00; Fr 09:00-21:00; Sa 09:00-21:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 40.99134826660156,
@@ -55802,7 +56537,8 @@
   "overture_id": "40755c8f-90e1-4442-97e0-abd94d3bd82b",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://kadikoyamerikankultur.net/images/logo.png"
  },
  {
   "ad": "Kadiköy Amerikan Kültür İrtibat Bürosu",
@@ -56486,7 +57222,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.kafkadil.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/kafkadilakademisi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -56499,7 +57240,8 @@
   "overture_id": "0cb553b4-e172-4f2d-bcb2-78e32c8d2574",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://static.wixstatic.com/media/41e363_8309d2b4922e4a94af775679f824bb01%7Emv2.png/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/41e363_8309d2b4922e4a94af775679f824bb01%7Emv2.png"
  },
  {
   "ad": "Kafkas Halk Dansları",
@@ -56571,7 +57313,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.kafkaskartallari.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/kafkaskartallari"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -56584,7 +57331,8 @@
   "overture_id": "d0fcd08b-0772-41e5-8d98-3f8a12e3c2d4",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://static.wixstatic.com/media/acf663_12490bcd834f4062b2366ac802f4ae1e%7Emv2.png/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/acf663_12490bcd834f4062b2366ac802f4ae1e%7Emv2.png"
  },
  {
   "ad": "Kagithane Surucu Kursu",
@@ -56912,7 +57660,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.kalkedondans.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/kalkedondans"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -56925,7 +57678,8 @@
   "overture_id": "deac8b9d-39b0-4123-891f-a2449af30c68",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.kalkedondans.com/wp-content/uploads/2024/03/cropped-kalkedon-logo-180x180.jpg"
  },
  {
   "ad": "Kalkedon Flamenko Kültür ve Sanat Derneği",
@@ -57030,7 +57784,12 @@
   "mahalle": null,
   "telefon": "(0216) 336 25 52",
   "web": "https://ailebirlesimi-kursu.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/kampusdilegitimmerkezi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -57043,7 +57802,8 @@
   "overture_id": "1060cb8e-54e0-4717-9d2f-b53eda94e4e9",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://ailebirlesimi-kursu.com/wp-content/uploads/2023/09/kampus-logo.svg"
  },
  {
   "ad": "Kanarya Sürücü Kursu",
@@ -57324,7 +58084,8 @@
   "overture_id": "85df1c21-4621-4962-9b24-b4464af8f263",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://www.asrinegitim.com/assets/asrinegitim.com/templates/yoo_uniq/apple_touch_icon.png"
  },
  {
   "ad": "Kartal Atalar Mtsk",
@@ -57340,7 +58101,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.kartalatalarsurucukursu.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/kartalatalarsurucukursu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -57369,7 +58135,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.bigemsurucukursu.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/kartalbigemsurucukursu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -57382,7 +58153,8 @@
   "overture_id": "866b1bf8-7f99-4808-bcea-d3807637ed6c",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.bigemsurucukursu.com/wp-content/uploads/2018/04/Bigem-Logo-e1522664467165.jpg"
  },
  {
   "ad": "Kartal Folklor Derneği",
@@ -57611,7 +58383,8 @@
   "overture_id": "3b11139b-114d-415a-a885-3d0aa60e4312",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://www.kavacikkuzey.com/apple-touch-icon.png"
  },
  {
   "ad": "Kavacık American VIP Yabancı Dil Kursu",
@@ -57627,7 +58400,12 @@
   "mahalle": null,
   "telefon": "(0216) 606 55 60",
   "web": "https://kavacikamericanvip.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/kavacikamericanvip"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -58138,7 +58916,12 @@
   "mahalle": null,
   "telefon": "(0212) 863 63 11",
   "web": "http://kentsurucu.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/kentsurucukursumimaroba"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -58438,7 +59221,12 @@
   "mahalle": null,
   "telefon": "(0216) 472 78 65",
   "web": "http://www.kii3dort.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/batiatasehir_bale"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -58452,7 +59240,8 @@
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
   "overture_id": "04f86f0d-4f0c-4d01-9347-17340b248090",
-  "alt": "dans"
+  "alt": "dans",
+  "logo": "https://static.parastorage.com/client/pfavico.ico"
  },
  {
   "ad": "Kilavuz Sürücü Kursu",
@@ -58600,7 +59389,12 @@
   "mahalle": null,
   "telefon": "(0212) 293 56 02",
   "web": "http://www.kivilcim.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/kivilcimmuzik"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -58613,7 +59407,8 @@
   "overture_id": "a5908c60-5f87-4479-9bfd-2a7b20d5f1b2",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://kivilcim.com.tr/cdn/shop/files/Kivilcim-Web-Logo.png?v=1715357587&width=500"
  },
  {
   "ad": "Kiz Kur'an kursu",
@@ -58680,7 +59475,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.klasiksanatlar.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/klasiksanatlar"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -59416,7 +60216,12 @@
   "mahalle": null,
   "telefon": "(0212) 516 23 56",
   "web": "http://www.kubbealti.org.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/kubbealtivakfi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -59666,7 +60471,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.kilavuzsurucukursu.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/kilavuzsurucukursu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -59826,7 +60636,8 @@
   "overture_id": "c1bb9ec9-9103-4b21-a419-c8020e64a9bd",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://kurtulussurucukursu.com/wp-content/uploads/2025/07/cropped-IMG_2722.png"
  },
  {
   "ad": "Kusdili Surucu Kursu",
@@ -59980,7 +60791,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.herseymuzik.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/kugumuzik"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -59993,7 +60809,8 @@
   "overture_id": "31cb7844-dda3-4bab-8e4b-e0ca6711efef",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://herseymuzik.tsoftstatic.com/Data/EditorFiles/her"
  },
  {
   "ad": "Kuşdili Gönüllü Merkezi",
@@ -60036,7 +60853,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.kybelesanatakademisi.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/kybelesanatakademisi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -60049,7 +60871,8 @@
   "overture_id": "98632522-f2f2-4085-95f8-f9750dded8a4",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://kybelesanatakademisi.com/wp-content/uploads/2024/01/cropped-Kybele-Favicon-180x180.png"
  },
  {
   "ad": "KÜLSAT",
@@ -60498,9 +61321,14 @@
   "il": null,
   "ilce": "Beyoğlu",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "0212 230 90 70",
   "web": "http://www.akademikilinc.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/kilincdanceandart"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -60513,7 +61341,8 @@
   "overture_id": "a46102ca-f0a5-429d-9906-5042c2f4bf98",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://static.wixstatic.com/media/4c451b_c6c9d94ddd2d421a89192582582e0670%7Emv2.png/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/4c451b_c6c9d94ddd2d421a89192582582e0670%7Emv2.png"
  },
  {
   "ad": "Kına",
@@ -60583,7 +61412,12 @@
   "mahalle": null,
   "telefon": "(0212) 689 81 24",
   "web": "https://www.ozdamlakirac.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/kiracozdamlaa"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -60596,7 +61430,8 @@
   "overture_id": "09f65ca3-753f-40a8-b815-084d736bc4dc",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://ozdamlakirac.com/wp-content/uploads/2025/06/cropped-cropped-kiracozdamlasurucu.jpg"
  },
  {
   "ad": "Kırbaş Beach",
@@ -60747,7 +61582,12 @@
   "mahalle": null,
   "telefon": "(0216) 346 04 22",
   "web": "http://www.kiziltopraksurucukursu.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/kiziltopraksurucukursu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -60857,7 +61697,12 @@
   "mahalle": null,
   "telefon": "(0212) 302 40 10",
   "web": "https://www.laramuzikakademi.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/laramuzikbaleakademi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -60870,7 +61715,8 @@
   "overture_id": "031e5ecc-ccdc-4b5f-8b18-3443625fd36d",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.laramuzikakademi.com/assets/images/favicons/apple-touch-icon.png"
  },
  {
   "ad": "LINDYS'",
@@ -61329,7 +62175,12 @@
   "mahalle": null,
   "telefon": "(0212) 601 00 55",
   "web": "http://www.lalesurucukurslari.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/lalesurucukursuofficial"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -61358,7 +62209,12 @@
   "mahalle": null,
   "telefon": "(0212) 426 97 55",
   "web": "http://www.lalesurucukurslari.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/lalesurucukursuofficial"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -61582,7 +62438,12 @@
   "mahalle": null,
   "telefon": "(0216) 680 97 27",
   "web": "http://www.lapisakademi.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/lapisakademi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -61595,7 +62456,8 @@
   "overture_id": "b4032e18-d8d9-4491-bbc2-6ff27eecbd0a",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://static.wixstatic.com/media/d3346a_13fb6101a4064942b576758b86641aa5%7Emv2.png/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/d3346a_13fb6101a4064942b576758b86641aa5%7Emv2.png"
  },
  {
   "ad": "Lara Müzik Bale Akademi",
@@ -61771,9 +62633,14 @@
   "il": null,
   "ilce": "Kadıköy",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "+902122600609",
   "web": "http://almancasinavmerkezi.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/almancasinavmerkezi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -61786,7 +62653,8 @@
   "overture_id": "fc6012d6-f904-48b0-8625-e7d12816590f",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://www.almancasinavmerkezi.com/asmlogo.jpg"
  },
  {
   "ad": "Lcn YemİNlİ TercÜMe BÜRosu",
@@ -62400,7 +63268,12 @@
   "mahalle": null,
   "telefon": "(0850) 532 54 65",
   "web": "https://lingua-learn.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/lingualearn.turkey"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -62413,7 +63286,8 @@
   "overture_id": "635ab761-768b-4e15-a7c8-19bd76d133d5",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://lingua-learn.com.tr/wp-content/uploads/2023/03/logo-main.png"
  },
  {
   "ad": "Lingua Point",
@@ -62429,7 +63303,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://linguapoint.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/pointlingua"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -62442,7 +63321,8 @@
   "overture_id": "b1f76f1c-9031-4f31-916a-380495679b7d",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://linguapoint.com.tr/wp-content/uploads/2025/02/cropped-lingua-favicon-180x180.png"
  },
  {
   "ad": "Linguist Yabancı Dil Kursu",
@@ -64573,8 +65453,13 @@
   "mahalle": null,
   "telefon": "(0216) 352 92 99",
   "web": "http://www.maltepeamerikankultur.com/ingilizce-seviye-tespit-sinavi/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/maltepeamerikankultur"
+   }
+  ],
+  "calisma_saatleri": "Mo 09:00-21:00; Tu 09:00-21:00; We 09:00-21:00; Th 09:00-21:00; Fr 09:00-21:00; Sa 09:00-21:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 40.9254035949707,
@@ -64586,7 +65471,8 @@
   "overture_id": "cb6a64eb-e3cc-45c0-99b8-0b4a1d3dad71",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://maltepeamerikankultur.com/images/logo.png"
  },
  {
   "ad": "Maltepe American Vip Yabancı Dil Kursu",
@@ -69397,8 +70283,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://psikoteknikmerkezi.org/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/psikoteknikmerkezi"
+   }
+  ],
+  "calisma_saatleri": "Mo 09:00-18:00; Tu 09:00-18:00; We 09:00-18:00; Th 09:00-18:00; Fr 09:00-18:00; Sa 09:00-18:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 40.87696075439453,
@@ -69410,7 +70301,8 @@
   "overture_id": "b07c9af0-ad5c-42f2-a62d-7f22d89223a0",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://psikoteknikmerkezi.org/assets/logo.png"
  },
  {
   "ad": "Motosiklet Akademisi",
@@ -70913,7 +71805,12 @@
   "mahalle": null,
   "telefon": "0850 532 3020",
   "web": "https://muzikakademi.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/muzikakademimuzikkursu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -70927,7 +71824,8 @@
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
   "overture_id": "ec65af11-1750-4d66-834b-2c0a7bcf7b50",
-  "alt": "muzik"
+  "alt": "muzik",
+  "logo": "https://muzikakademi.com.tr/uploads/2021/09/muzik-akademi-logo-1.png"
  },
  {
   "ad": "Müzik Atölyesi",
@@ -71474,7 +72372,12 @@
   "mahalle": null,
   "telefon": "(0212) 570 80 68",
   "web": "http://www.narsanat.com/iletisim/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/narsanat"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -71487,7 +72390,8 @@
   "overture_id": "764af1af-765c-4e9b-9a1b-ee9c966e87eb",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.narsanat.com/wp-content/uploads/2026/07/ChatGPT-Image-Jul-5-2026-08_08_02-PM.png"
  },
  {
   "ad": "Native English Teachers in Turkey",
@@ -71619,7 +72523,12 @@
   "mahalle": null,
   "telefon": "(0216) 313 89 96",
   "web": "https://nauticalenglishcouncil.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/nauticalenglishcouncil"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -71632,7 +72541,8 @@
   "overture_id": "8ba540d2-9c2e-479b-b12f-6e6e20b96b2f",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://nauticalenglishcouncil.com/wp-content/uploads/2026/09/cropped-nec-en-iyi-logo-180x180.jpg"
  },
  {
   "ad": "Nazim Hikmet Tango Dersleri",
@@ -72065,7 +72975,8 @@
   "overture_id": "aef0f384-bb11-46df-80f6-0bae41c2f939",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://www.nevaozelegitim.com/apple-touch-icon.png"
  },
  {
   "ad": "New Initiatives Driving Course",
@@ -72206,7 +73117,8 @@
   "overture_id": "86d93ccb-6f29-4474-994c-2470ed642b60",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://static.wixstatic.com/media/f1e46c_5a34e8579bf64101b448b989a639d08b%7Emv2.png/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/f1e46c_5a34e8579bf64101b448b989a639d08b%7Emv2.png"
  },
  {
   "ad": "New York İnstitute Of American English",
@@ -72277,7 +73189,12 @@
   "mahalle": null,
   "telefon": "(0216) 370 20 70",
   "web": "https://yabancidildunyasi.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/yabancidildunyasi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -72291,7 +73208,8 @@
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
   "overture_id": "d4574c85-fa1e-431c-be99-8729146acbaa",
-  "alt": "dil-kursu"
+  "alt": "dil-kursu",
+  "logo": "https://yabancidildunyasi.com/storage/2021/10/cropped-NGLS-YABANCI%CC%87-DI%CC%87L-DUNYASI%CC%87-1.png"
  },
  {
   "ad": "Ngls Yabancı Dil Dünyası Avcılar",
@@ -72306,7 +73224,12 @@
   "mahalle": null,
   "telefon": "(0212) 590 50 70",
   "web": "https://yabancidildunyasi.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/yabancidildunyasi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -72320,7 +73243,8 @@
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
   "overture_id": "aaf58be0-1441-4020-83da-82b772670087",
-  "alt": "dil-kursu"
+  "alt": "dil-kursu",
+  "logo": "https://yabancidildunyasi.com/storage/2021/10/cropped-NGLS-YABANCI%CC%87-DI%CC%87L-DUNYASI%CC%87-1.png"
  },
  {
   "ad": "Nihat Altıntaş Müzik Merkezi",
@@ -74055,10 +74979,15 @@
   "il": null,
   "ilce": "Beykoz",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "+90 216 680 19 00",
   "web": "http://www.onursurkur.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/onursurucukursu"
+   }
+  ],
+  "calisma_saatleri": "Mo 09:00-19:00; Tu 09:00-19:00; We 09:00-19:00; Th 09:00-19:00; Fr 09:00-19:00; Sa 10:00-17:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 41.093360900878906,
@@ -74070,7 +74999,8 @@
   "overture_id": "9e058b55-dae1-43b6-9d23-70adbb4ac122",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://www.onursurkur.com/assets/img/pwa/icon-192.png"
  },
  {
   "ad": "Onur Sürücü Kursu",
@@ -74137,10 +75067,15 @@
   "il": "Istanbul",
   "ilce": "Kartal",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "0216 473 93 55",
   "web": "https://www.onurcansurucukursu.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/onurcansurucukursu"
+   }
+  ],
+  "calisma_saatleri": "Mo-Su 08:00-20:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 40.8902113,
@@ -74152,7 +75087,8 @@
   "ilk_gorulme": "2026-11-04",
   "son_gorulme": "2026-11-26",
   "overture_id": "54a430ae-cb61-4874-83ec-66b6b4f69714",
-  "alt": "surucu-kursu"
+  "alt": "surucu-kursu",
+  "logo": "https://www.onurcansurucukursu.com/logos/ONUR_Onurcan_Ana_Logo_Renkli.svg?v=20260910"
  },
  {
   "ad": "Opus Müzik & Stüdyo",
@@ -74168,7 +75104,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.opusmuzik.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/opusmuzik"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -74679,7 +75620,7 @@
   "il": null,
   "ilce": "Kadıköy",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "02127027624",
   "web": "https://www.oxfordacademy.com.tr/",
   "sosyal": [],
   "calisma_saatleri": null,
@@ -74694,7 +75635,8 @@
   "overture_id": "aeb64738-6a88-4add-a197-2ddc4768c3bb",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.oxfordacademy.com.tr/wp-content/uploads/2023/06/oxford-akademi-logo-dark.png"
  },
  {
   "ad": "Oxford Business Group",
@@ -74710,7 +75652,12 @@
   "mahalle": null,
   "telefon": "(0212) 216 03 00",
   "web": "http://www.oxfordbusinessgroup.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/oxfordbusinessgroup"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -74723,7 +75670,8 @@
   "overture_id": "1c0fe648-ef1e-4149-bfa1-cc2d81c716b9",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://uat.oxfordbusinessgroup.com/wp-content/uploads/2023/07/favicon.png"
  },
  {
   "ad": "Oxford City Bagcilar",
@@ -74739,7 +75687,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://bagcilaroxfordcity.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/bagcilaroxfordcity"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -74752,7 +75705,8 @@
   "overture_id": "511c6ecb-7d93-4bea-9e0f-27b5b96b0b5f",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://bagcilaroxfordcity.com/wp-content/uploads/2025/04/LLOGO-02.png"
  },
  {
   "ad": "Oxford English",
@@ -74911,7 +75865,12 @@
   "mahalle": null,
   "telefon": "(0212) 444 12 87",
   "web": "http://www.oxfordhousewat.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/oxfordhousewat"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -74924,7 +75883,8 @@
   "overture_id": "dda66791-a505-485a-978b-48f1ff924808",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.oxfordhousewat.com/wp-content/uploads/2025/04/cropped-watt-1-180x180.png"
  },
  {
   "ad": "Oxford Language Course",
@@ -75274,7 +76234,7 @@
   "il": null,
   "ilce": "Kağıthane",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "02122829230",
   "web": "http://www.ozdoruk.com",
   "sosyal": [],
   "calisma_saatleri": null,
@@ -75289,7 +76249,8 @@
   "overture_id": "ed129d87-a9e2-4acb-919f-c455bef63ef5",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.ozdoruk.com/wp-content/uploads/2026/03/cropped-WhatsApp-Image-2026-03-16-at-10.48.14-180x180.jpeg"
  },
  {
   "ad": "Oz Kartal İsmakinalari Kursu",
@@ -75459,7 +76420,8 @@
   "overture_id": "6351545b-306a-4eb3-8711-e6b3e45dc111",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.ozdamlakartal.com/wp-content/uploads/2022/03/cropped-ico-180x180.png"
  },
  {
   "ad": "Ozdamla SRC",
@@ -75676,7 +76638,12 @@
   "mahalle": null,
   "telefon": "(0212) 475 52 82",
   "web": "http://www.aktaslarsurucukursu.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/aktaslarsurucukursu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -75703,9 +76670,14 @@
   "il": null,
   "ilce": "Çekmeköy",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "+90 2165091619",
   "web": "www.mutlubale.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/mutlubaleokulu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -75718,7 +76690,8 @@
   "overture_id": "cba439f0-9baa-4075-976a-88f72e38d6c2",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://static.wixstatic.com/media/277c07_27a8a46459264506a7ed2a23f7b4474b%7Emv2.png/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/277c07_27a8a46459264506a7ed2a23f7b4474b%7Emv2.png"
  },
  {
   "ad": "Ozel Gungoren Surucu Kursu",
@@ -75879,7 +76852,12 @@
   "mahalle": null,
   "telefon": "(0212) 247 53 53",
   "web": "http://osmanbeysurucukursu.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/BRO138"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -75892,7 +76870,8 @@
   "overture_id": "6ea6a9f6-a920-42cd-b4d1-98f8be96cae0",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://ayowasabi.com/cdn/bro138-aget-logo-3.webp"
  },
  {
   "ad": "Ozel Oz Istanbul Surucu Kursu",
@@ -76737,9 +77716,14 @@
   "il": null,
   "ilce": "Üsküdar",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "02164744077",
   "web": "https://papillonsanat.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/papillonsanatatolyesi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -76848,10 +77832,15 @@
   "il": null,
   "ilce": "Üsküdar",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "+902164602877",
   "web": "http://www.parlasanat.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/parlasanat"
+   }
+  ],
+  "calisma_saatleri": "Mo 13:00-23:00; Tu 13:00-23:00; We 13:00-23:00; Th 13:00-23:00; Fr 13:00-23:00; Sa 10:00-21:00; Su 10:00-21:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 41.048883815611184,
@@ -76864,7 +77853,8 @@
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
   "overture_id": "0552ad4f-8dd0-420f-a3be-fa9d12134da8",
-  "alt": "muzik"
+  "alt": "muzik",
+  "logo": "https://www.parlasanat.com/images/parlalogo_1.webp"
  },
  {
   "ad": "Parla Sürücü Kursu",
@@ -77106,7 +78096,7 @@
   "il": null,
   "ilce": "Beykoz",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "+902164135236",
   "web": "http://www.pasabahcesurucukursu.com/",
   "sosyal": [],
   "calisma_saatleri": null,
@@ -77446,7 +78436,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.akademipendik.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/pendikmuzikakademisi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -78344,7 +79339,12 @@
   "mahalle": null,
   "telefon": "(0216) 404 11 45",
   "web": "http://www.pingusenglish.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/pingusenglishtr"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -78357,7 +79357,8 @@
   "overture_id": "ee2e1e2e-7a31-401e-b9bb-db84111ec53a",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://www.pingusenglish.com.tr/wp-content/uploads/2016/10/logo-small.png"
  },
  {
   "ad": "Piraye Sanat",
@@ -78459,7 +79460,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.pirayesanatakademi.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/pirayesanatakademi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -78851,7 +79857,8 @@
   "overture_id": "e1d078a1-b8fa-4784-bd4f-c1bc26f57df1",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://plusnetakademi.com.tr/api/setting-service/media/proxy/file?key=genel%2Fplusnet-logo.png"
  },
  {
   "ad": "Pof Pof milonga",
@@ -79016,7 +80023,8 @@
   "overture_id": "84a40c74-133c-4edd-ae7f-f643781f8e76",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://www.polenroll.com/favicon.svg?"
  },
  {
   "ad": "Polehall",
@@ -79117,7 +80125,12 @@
   "mahalle": null,
   "telefon": "(0216) 389 36 56",
   "web": "http://www.portakalenglish.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/portakalenglish"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -79130,7 +80143,8 @@
   "overture_id": "117a9d2c-b37c-4884-b544-9bacf0193107",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.portakalenglish.com/wp-content/themes/portakalenglish/img/apple-touch-icon-57x57-precomposed.png"
  },
  {
   "ad": "Portakal Tercüme Ataşehir",
@@ -79359,7 +80373,8 @@
   "overture_id": "f16d441b-07b7-4e54-9d4b-37b435fffa38",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.prestijceviri.com.tr/wp-content/uploads/2017/10/prestijlogo.png"
  },
  {
   "ad": "Prime Fitness",
@@ -85705,7 +86720,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.fasafisa.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/fasafisa"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -85718,7 +86738,8 @@
   "overture_id": "41d003f7-9751-408d-8b66-0b8ff253f603",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://fasafisa.com/images/fasafisa-logo.png"
  },
  {
   "ad": "Sistem Eğitim Kurumları",
@@ -88476,7 +89497,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.swingplanet.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/swing.planet"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -88490,7 +89516,8 @@
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
   "overture_id": "23001a1f-fbeb-43d5-827a-f755d371d84a",
-  "alt": "dans"
+  "alt": "dans",
+  "logo": "https://static.wixstatic.com/media/cadc2b_c93fed060f1d46789f3d3a70c2bc69be~mv2.png"
  },
  {
   "ad": "Swing Planet",
@@ -89952,7 +90979,12 @@
   "mahalle": null,
   "telefon": "(0216) 349 98 98",
   "web": "http://www.tojunior.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/tojunioregitim"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -89965,7 +90997,8 @@
   "overture_id": "236a9407-162a-4094-95e4-eae8dbc1a55b",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://framerusercontent.com/images/kdls2BzDzKvxT6Y3te1hZcxm1Y.png"
  },
  {
   "ad": "TOKTAŞ MERKEZ SÜRÜCÜ KURSU",
@@ -90035,7 +91068,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.toyistanbul.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/toykultursanat"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -90064,7 +91102,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.toyistanbul.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/toykultursanat"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -90318,7 +91361,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.suhaertekin.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/suhaertekin"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -90331,7 +91379,8 @@
   "overture_id": "80651da8-539f-455a-b452-41070958f274",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://static.parastorage.com/client/pfavico.ico"
  },
  {
   "ad": "Takadhimi Hint Dansı",
@@ -90517,7 +91566,12 @@
   "mahalle": null,
   "telefon": "(0212) 433 03 03",
   "web": "http://www.amerikankulturtaksim.org/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/taksim_amerikankultur"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -90531,7 +91585,8 @@
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
   "overture_id": "db85fddc-fbad-4932-8750-a1a7e60fea2b",
-  "alt": "dil-kursu"
+  "alt": "dil-kursu",
+  "logo": "https://amerikankulturtaksim.org/wp-content/uploads/2026/10/ak-logo-renkli.png"
  },
  {
   "ad": "Tale Dil Okulu",
@@ -90576,7 +91631,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.talkup.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/talkupedu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -90589,7 +91649,8 @@
   "overture_id": "4459858c-4a07-4708-91a2-ab67dc5bc77b",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://talkup.com.tr/bird-mark.png"
  },
  {
   "ad": "Talky Kids",
@@ -90986,9 +92047,14 @@
   "il": null,
   "ilce": "Şişli",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "+908503078856",
   "web": "https://tanercagli.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/tanercagli"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -91100,7 +92166,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://tangodans.com/marmaris-tango-kursu",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/tangodans"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -91248,7 +92319,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://tangodans.com/marmaris-tango-kursu",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/tangodans"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -91636,10 +92712,15 @@
   "il": null,
   "ilce": "Beyoğlu",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "+902122495620",
   "web": "http://www.poledanskursu.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/poledanskursu"
+   }
+  ],
+  "calisma_saatleri": "Mo 09:00-22:00; Tu 09:00-22:00; We 09:00-22:00; Th 09:00-22:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 09:00-22:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 41.031639099121094,
@@ -92188,7 +93269,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.tangoloveistanbul.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/tangoloveistanbul"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -92202,7 +93288,8 @@
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
   "overture_id": "05190599-2e71-4a8a-a46d-bb7937172784",
-  "alt": "dans"
+  "alt": "dans",
+  "logo": "http://tangoloveistanbul.com/wp-content/uploads/2017/11/cropped-tanglooove-1-180x180.jpg"
  },
  {
   "ad": "Tangomest",
@@ -92370,7 +93457,8 @@
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
   "overture_id": "62a912ba-8d81-427d-9b49-7d90efb0a153",
-  "alt": "dans"
+  "alt": "dans",
+  "logo": "http://www.tangoria.com/wp-content/uploads/2025/08/cropped-cropped-Nisan-Davetiyesi-kopyasi-1-scaled-1-180x180.png"
  },
  {
   "ad": "Tanguero",
@@ -92447,7 +93535,12 @@
   "mahalle": null,
   "telefon": "(0216) 336 00 22",
   "web": "http://www.tanjuyildirim.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/tanjuyildirimakademi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -92460,7 +93553,8 @@
   "overture_id": "bc1b999e-a8e9-4194-bf6c-3321da0dcedd",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://www.tanjuyildirim.com/wp-content/uploads/cropped-favicon-300x300.png"
  },
  {
   "ad": "Tarkan MTSK",
@@ -93262,7 +94356,12 @@
   "mahalle": null,
   "telefon": "(0212) 507 07 07",
   "web": "https://www.ozantelli.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ozantelli"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -93275,7 +94374,8 @@
   "overture_id": "5300280d-cc68-4865-aee7-0b597576007a",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.ozantelli.com/wp-content/uploads/2020/10/logo150.png"
  },
  {
   "ad": "Tema club house swimming pool",
@@ -93318,7 +94418,12 @@
   "mahalle": null,
   "telefon": "(0216) 573 11 15",
   "web": "https://temadil.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/tema_dil"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -93660,7 +94765,12 @@
   "mahalle": null,
   "telefon": "(0216) 740 00 59",
   "web": "https://testprepistanbul.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/testprepistanbul"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -93673,7 +94783,8 @@
   "overture_id": "c84dcb30-405f-41f1-8032-97269a63ee06",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.testprepistanbul.com/images/logo.svg"
  },
  {
   "ad": "The American English",
@@ -93936,7 +95047,12 @@
   "mahalle": null,
   "telefon": "(0212) 274 44 66",
   "web": "http://www.thefluencyinstitute.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/fluencyinstitute"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -93949,7 +95065,8 @@
   "overture_id": "cbbc6718-4e40-4f69-83b2-f555464d5b74",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://i0.wp.com/www.thefluencyinstitute.com/wp-content/uploads/2020/03/cropped-51703CB6-3876-4FDC-81F7-30088C074C64.jpeg?fit=180%2C180&#038;ssl=1"
  },
  {
   "ad": "The Language Centre",
@@ -94104,7 +95221,12 @@
   "mahalle": null,
   "telefon": "(0216) 534 03 12",
   "web": "https://timeguzelsanatlar.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/timeguzelsanatlar"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -94118,7 +95240,8 @@
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
   "overture_id": "b7e82d2c-de1a-494b-96cd-74859280710f",
-  "alt": "sanat"
+  "alt": "sanat",
+  "logo": "https://timeguzelsanatlar.com/wp-content/uploads/2026/08/Time-Guzel-Sanat-logo-2.svg"
  },
  {
   "ad": "Time Güzel Sanatlar 2",
@@ -94892,7 +96015,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.turkisharts.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/turkisharts"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -94905,7 +96033,8 @@
   "overture_id": "9ad3b02e-f1bc-46b8-8632-40436fe35f77",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://www.turkisharts.com/apple-icon.png?apple-icon.0ic16vbe1bsq~.png"
  },
  {
   "ad": "Turkish Language Institute",
@@ -94950,7 +96079,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://turkish-now.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/turkish.now"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -95806,7 +96940,12 @@
   "mahalle": null,
   "telefon": "(0216) 888 85 86",
   "web": "http://www.cinkultur.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/turkcinkulturdernegi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -95820,7 +96959,8 @@
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
   "overture_id": "7ec626b4-f952-46a6-a812-f0ca699be9e6",
-  "alt": "dil-kursu"
+  "alt": "dil-kursu",
+  "logo": "https://cinkultur.com/wp-content/uploads/2026/04/cropped-2-180x180.png"
  },
  {
   "ad": "Türk İslam Sanatları Bahçesi (Ubeydullah Efendi Tekkesi)",
@@ -96194,7 +97334,12 @@
   "mahalle": null,
   "telefon": "(0212) 434 64 14",
   "web": "http://www.ugursurucukursu.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ozelugursurucukursu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -96207,7 +97352,8 @@
   "overture_id": "3164ac5d-55d4-44f1-a0f9-b1ea637539d8",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.ugursurucukursu.com/site/o/110081/2025/03/buca-surucu-kursu-fav-icon_1.webp"
  },
  {
   "ad": "Ulu Camii Kuran Kursu",
@@ -96247,7 +97393,12 @@
   "mahalle": null,
   "telefon": "(0216) 606 65 70",
   "web": "https://umraniyeingilizkultur.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/umraniyeingilizkultur"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -96519,7 +97670,8 @@
   "overture_id": "db9aa10c-c226-4e7a-a649-9709361a16cf",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://static.wixstatic.com/media/2cc80f_8304b91cfa5c43b2afd6e7557c08174a%7Emv2.jpg/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/2cc80f_8304b91cfa5c43b2afd6e7557c08174a%7Emv2.jpg"
  },
  {
   "ad": "Uygar Yabancı Dil Merkezi",
@@ -96575,7 +97727,8 @@
   "overture_id": "5868be09-c38e-4143-bf53-8268a70c2c70",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://uyumsurucukursu.com/assets/favicon/apple-touch-icon.png"
  },
  {
   "ad": "Uzman Eğitmenler Sürücü Kursu",
@@ -96678,7 +97831,12 @@
   "mahalle": null,
   "telefon": "(0212) 603 54 50",
   "web": "http://ugurakyolmuzikmerkezi.kurs.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/kurs_com"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -96691,7 +97849,8 @@
   "overture_id": "663af5f0-5320-4dcc-833d-9b1445178a32",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.kurs.com/apple-touch-icon.png?v=11"
  },
  {
   "ad": "Uğur Dersanesi",
@@ -96865,7 +98024,12 @@
   "mahalle": null,
   "telefon": "(0212) 652 75 76",
   "web": "http://www.vipakademi.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/vipakademikocluk"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -96918,7 +98082,12 @@
   "mahalle": null,
   "telefon": "(0212) 669 62 70",
   "web": "http://www.vaditepekurs.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/vaditepekurs"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -96931,7 +98100,8 @@
   "overture_id": "fcb73769-0cbd-4940-8fa5-cb2eb719ee04",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.vaditepekurs.com/logo.png"
  },
  {
   "ad": "Vaditepe Kurs Merkezi - Cadde",
@@ -96945,9 +98115,14 @@
   "il": null,
   "ilce": "Başakşehir",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "+90-212-669-62-70",
   "web": "https://www.vaditepekurs.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/vaditepekurs"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -96960,7 +98135,8 @@
   "overture_id": "6fee4473-bba1-460b-a32a-e138e28dd155",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.vaditepekurs.com/logo.png"
  },
  {
   "ad": "Valikonağı Dil Kursu",
@@ -96976,7 +98152,12 @@
   "mahalle": null,
   "telefon": "(0212) 230 60 90",
   "web": "http://www.valikonagidilkursu.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/valikonagidilkursu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -96989,7 +98170,8 @@
   "overture_id": "66dd6e99-ef9f-4444-8254-325eee576b6f",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://www.valikonagidilkursu.com/assets/images/favicons/apple-touch-icon.png"
  },
  {
   "ad": "Vals Dersi",
@@ -97484,7 +98666,12 @@
   "mahalle": null,
   "telefon": "(0216) 389 89 44",
   "web": "http://www.viss.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/visservices"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -97498,7 +98685,8 @@
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
   "overture_id": "0934e9c6-b328-40bb-a270-57c9e396185d",
-  "alt": "dil-kursu"
+  "alt": "dil-kursu",
+  "logo": "https://viss.com.tr/wp-content/uploads/2026/08/viss-icon.svg"
  },
  {
   "ad": "Vizyon Dil Merkezi(İngiliz Kültür Taksim)",
@@ -98277,7 +99465,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.xlatolye.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/xlatolye"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -98290,7 +99483,8 @@
   "overture_id": "203540ff-6de1-4d02-96fb-f236db59fdc1",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.xlatolye.com/wp-content/uploads/2026/02/logo_xl_favicon.jpg"
  },
  {
   "ad": "Xdans",
@@ -98306,7 +99500,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.xdans.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/xdansakademi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -98319,7 +99518,8 @@
   "overture_id": "61eb82fc-aa63-4fbe-b228-6de03fbd8457",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://xdans.com/uploads/2025/02/x-dans-akademi-logo-2.png"
  },
  {
   "ad": "Xy Musics",
@@ -98397,7 +99597,12 @@
   "mahalle": null,
   "telefon": "(0212) 660 09 37",
   "web": "www.ydsacademy.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ydsacademyturkey"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -98410,7 +99615,8 @@
   "overture_id": "a3ebee83-0c1f-44b7-a7aa-1a93b3ca7e84",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://ydsacademy.com/wp-content/uploads/2018/05/yds-logo-01-1.png"
  },
  {
   "ad": "YDS Academy Kadıköy Şubesi",
@@ -98426,7 +99632,12 @@
   "mahalle": null,
   "telefon": "(0216) 349 12 00",
   "web": "https://ydsacademy.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ydsacademyturkey"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -98439,7 +99650,8 @@
   "overture_id": "ae289f11-0962-4cf9-a6e7-f956d56d1425",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://ydsacademy.com/wp-content/uploads/2018/05/yds-logo-01-1.png"
  },
  {
   "ad": "YDS Kursu",
@@ -98702,7 +99914,12 @@
   "mahalle": null,
   "telefon": "(0216) 323 80 27",
   "web": "http://www.yalisurucukursu.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/yalisurucukursu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -99065,7 +100282,8 @@
   "overture_id": "3f63ad9a-b295-4c8e-a989-a85d798eb628",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://yavuzsurucukurslari.com/wp-content/uploads/2026/10/icon.png"
  },
  {
   "ad": "Yayla Zafer Sürücü Kursu",
@@ -99416,7 +100634,12 @@
   "mahalle": null,
   "telefon": "(0216) 573 94 57",
   "web": "http://www.yeditepefolklor.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/yeditepefolklor"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -99430,7 +100653,8 @@
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
   "overture_id": "40432059-51ca-4de1-a1cc-594f3edf9477",
-  "alt": "dans"
+  "alt": "dans",
+  "logo": "http://www.yeditepefolklor.com/image/icon/apple-touch-icon.png"
  },
  {
   "ad": "Yeditepe Halk Oyunlari Dernegi",
@@ -99708,7 +100932,8 @@
   "overture_id": "22bd1a15-988b-459c-8fc7-d71ae08d7fd9",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://yenidamlasurucukursu.com.tr/logo.svg"
  },
  {
   "ad": "Yeni Demir Sürücü Kursu",
@@ -100215,7 +101440,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.seritsurucukursu.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/seritsurucukurs"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -100295,9 +101525,14 @@
   "il": null,
   "ilce": "Üsküdar",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "08504303000",
   "web": "http://yesilisiksurucukurslari.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/yesilisiksurucukurslari"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -100310,7 +101545,8 @@
   "overture_id": "e490e384-f48e-4a26-9aed-2323d0095664",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://yesilisiksurucukurslari.com/wp-content/uploads/2025/04/cropped-favicon-2-180x180.png"
  },
  {
   "ad": "Yesil Isik Surucu Kursu",
@@ -100384,8 +101620,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.yesilkoysanat.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/yesilkoybale_dans"
+   }
+  ],
+  "calisma_saatleri": "Mo 10:00-21:00; Tu 10:00-21:00; We 10:00-21:00; Th 10:00-21:00; Fr 10:00-21:00; Sa 10:00-18:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 40.958709716796875,
@@ -100397,7 +101638,8 @@
   "overture_id": "4d426012-4b5a-46d2-95e2-718fd39322da",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://yesilkoysanat.com/assets/images/logo-dark-new.png"
  },
  {
   "ad": "Yetişkin Bale",
@@ -100849,7 +102091,12 @@
   "mahalle": null,
   "telefon": "(0212) 572 21 19",
   "web": "http://www.yigenogluehliyet.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/yigenogluehliyet"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -100862,7 +102109,8 @@
   "overture_id": "3f85e0a2-2327-4b0d-b8ff-6a590741cdfc",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://yigenogluehliyet.com/wp-content/uploads/2023/05/cropped-yigenoglu-transparan-logo-180x180.png"
  },
  {
   "ad": "Yiğit Sürücü Kursu",
@@ -100932,7 +102180,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://galatasanat.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/galatasanatmerkezi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -100945,7 +102198,8 @@
   "overture_id": "002f08d6-b93f-49e8-b736-cb14dcc1393a",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://galatasanat.com/wp-content/uploads/2026/01/Galata-Sanat-Logo-Black-150x150.png"
  },
  {
   "ad": "Ytü Merkez Arşiv",
@@ -101001,7 +102255,8 @@
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
   "overture_id": "72dfb52d-1108-43af-890c-7d370a011d91",
-  "alt": "dans"
+  "alt": "dans",
+  "logo": "http://www.yuadansatolyesi.com/wp-content/uploads/2023/08/logo.png"
  },
  {
   "ad": "Yunanca Özel Ders",
@@ -101042,9 +102297,14 @@
   "il": null,
   "ilce": "Bakırköy",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "+90-212-571-82-94",
   "web": "https://www.ilm.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/istanbullisanmerkezi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -101057,7 +102317,8 @@
   "overture_id": "ec2b0ba2-7e98-4635-8f1e-6854169bd109",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.ilm.com.tr/site_files/images/logo.png"
  },
  {
   "ad": "Yunanistanbul",
@@ -101228,7 +102489,12 @@
   "mahalle": null,
   "telefon": "(0216) 550 71 12",
   "web": "http://www.yuppi.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/yuppi_yapim_seslendirme"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -101314,7 +102580,12 @@
   "mahalle": null,
   "telefon": "(0216) 398 01 64",
   "web": "http://www.yurt.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/yurtsurucukursu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -101327,7 +102598,8 @@
   "overture_id": "cd41e508-0fbe-4989-b6f5-2bc3fe0ec8e1",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://www.yurt.com.tr/icon.svg?icon.2a0ie3th_g_sf.svg"
  },
  {
   "ad": "Yurt Sürücü Kursu Bosna Bulvarı Şubesi",
@@ -101343,7 +102615,12 @@
   "mahalle": null,
   "telefon": "(0216) 398 00 01",
   "web": "http://www.yurt.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/yurtsurucukursu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -101356,7 +102633,8 @@
   "overture_id": "ce3866c4-5c0d-48b0-b4b5-b4ba3d4daf2b",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://www.yurt.com.tr/icon.svg?icon.2a0ie3th_g_sf.svg"
  },
  {
   "ad": "Yurtdışı Eğitim 0532 5743829 ingiltere amerika dilokulları",
@@ -101452,7 +102730,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.yonsurucukurslari.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/yonsurucukursu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -102626,7 +103909,12 @@
   "mahalle": null,
   "telefon": "(0212) 270 28 28",
   "web": "http://www.yesilyolsurucukursu.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ehliyetkapimda"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -104314,7 +105602,12 @@
   "mahalle": null,
   "telefon": "(0216) 519 41 48",
   "web": "https://www.do-re.com.tr/magaza/istanbul-istmarina-avm-magazasi/25955ffb85aa75fefa52904d381d80c2",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/doremusic"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -106588,7 +107881,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.nkymuzik.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/nkymuzikakademi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -106601,7 +107899,8 @@
   "overture_id": "b4f9a384-1be1-452c-8c6d-81429ce6fca2",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://nkymuzik.com.tr/wp-content/uploads/2022/11/cropped-icon-nky-muzik-180x180.png"
  },
  {
   "ad": "nurçin müzik",
@@ -108209,7 +109508,12 @@
   "mahalle": null,
   "telefon": "(0212) 615 90 98",
   "web": "https://www.cagdasbilgi.com.tr",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/cagdasbilgikoleji"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -108581,7 +109885,8 @@
   "overture_id": "c667ced7-a3e8-4264-ab4f-c7208a63d50a",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://carsimuzikmerkezi.com/wp-content/uploads/2022/08/favcon-300x300.png"
  },
  {
   "ad": "Çatı Modern Dans Akademisi",
@@ -108634,7 +109939,8 @@
   "ilk_gorulme": "2026-11-04",
   "son_gorulme": "2026-11-26",
   "overture_id": "b48df290-0d4d-49b4-b423-e7b5102a75c7",
-  "alt": "dans"
+  "alt": "dans",
+  "logo": "https://static.wixstatic.com/media/aece90_3fcc3daad81b4db8a4905abc168d7a5e%7Emv2.png/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/aece90_3fcc3daad81b4db8a4905abc168d7a5e%7Emv2.png"
  },
  {
   "ad": "Çatı Çağdaş Dans Stüdyosu",
@@ -108728,7 +110034,12 @@
   "mahalle": null,
   "telefon": "(0212) 570 76 93",
   "web": "http://www.cagataysanat.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/cagataysanatakademi1991"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -108967,7 +110278,8 @@
   "overture_id": "d3ba5c5f-8314-46cb-8c7f-debc5747c542",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.cekmekoysurucukursu.com.tr/wp-content/uploads/2026/02/cropped-cekmelogo-180x180.png"
  },
  {
   "ad": "Çekmeköy TSM Gönüllüleri Korosu",
@@ -109052,7 +110364,8 @@
   "overture_id": "64562949-4e2a-42ca-a648-e88f901ce5a7",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://static.wixstatic.com/media/80ffda_2bf3c73f3f8d48fbb608142d892625d9%7Emv2.png/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/80ffda_2bf3c73f3f8d48fbb608142d892625d9%7Emv2.png"
  },
  {
   "ad": "Çekmeköy İlçe Milli Eğitim Müdürlüğü",
@@ -109397,7 +110710,12 @@
   "mahalle": null,
   "telefon": "(0212) 291 45 30",
   "web": "http://www.cinkultur.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/turkcinkulturdernegi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -109410,7 +110728,8 @@
   "overture_id": "a14f1e63-4e68-4848-92fd-1616ff6c7d90",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://cinkultur.com/wp-content/uploads/2026/04/cropped-2-180x180.png"
  },
  {
   "ad": "Çivizade Tuba Kız Kuran Kursu",
@@ -109642,7 +110961,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.enesmuzik.net/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/enesatlig"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -109700,8 +111024,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.cocukcasanat.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/cocukcasanat"
+   }
+  ],
+  "calisma_saatleri": "Mo 16:00-19:00; Tu 16:00-19:00; We 16:00-19:00; Th 16:00-19:00; Fr 16:00-19:00; Sa 10:00-18:00; Su 10:00-18:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 40.96797180175781,
@@ -109713,7 +111042,8 @@
   "overture_id": "f3644b2f-8e3a-48c0-b413-ace3d28ee698",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.cocukcasanat.com/logo.png"
  },
  {
   "ad": "Çolakoğlu Sürücü Kursu Saray",
@@ -109930,7 +111260,8 @@
   "overture_id": "2c3cd906-e4c0-427e-b731-f4367b30ccb1",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://ulassurucukursu.com/wp-content/uploads/2026/02/cropped-ulas-180x180.png"
  },
  {
   "ad": "ÖZ Ulaş Sürücü Kursu",
@@ -109959,7 +111290,8 @@
   "overture_id": "99d31014-b42f-4c93-b4dc-831561380371",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://ulassurucukursu.com/wp-content/uploads/2026/02/cropped-ulas-180x180.png"
  },
  {
   "ad": "ÖZEL ARSLANLAR SÜRÜCÜ KURSU",
@@ -110356,7 +111688,12 @@
   "mahalle": null,
   "telefon": "(0212) 771 10 71",
   "web": "http://www.ozbalkanlarsurucukursu.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ozbalkanlarmtsk"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -110786,7 +112123,8 @@
   "ilk_gorulme": "2026-11-04",
   "son_gorulme": "2026-11-26",
   "overture_id": "901c5ec4-2382-4b98-8707-4e74b5dda5b8",
-  "alt": "surucu-kursu"
+  "alt": "surucu-kursu",
+  "logo": "http://www.ozmevlanasurucukursu.com/wp-content/uploads/2019/01/cropped-ozmevlanalogoo.png"
  },
  {
   "ad": "Öz Ozdemir Sürücü Kursu",
@@ -112098,7 +113436,12 @@
   "mahalle": null,
   "telefon": "(0216) 499 31 10",
   "web": "http://www.adamarmarasurucukursu.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/adamarmarasurucukursu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -112111,7 +113454,8 @@
   "overture_id": "738ca312-c491-4d62-8e79-d21e36c27749",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.adamarmarasurucukursu.com/storage/settings/cfpyFvlImQZnu7QRSmQSl8rSAtXNjNyGkjNj5HzT.png"
  },
  {
   "ad": "Özel Aday Sürücü Kursu",
@@ -112319,7 +113663,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://akincilarsurucukursu.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/akincilarsurucukursu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -112425,9 +113774,14 @@
   "il": null,
   "ilce": "Arnavutköy",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "0(212)597-44-55",
   "web": "http://www.zirvesurucukursum.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/zirvesurucukurslari"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -112784,7 +114138,12 @@
   "mahalle": null,
   "telefon": "(0212) 679 86 22",
   "web": "http://www.barlaslar.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/barlaslar.mtsk"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -112797,7 +114156,8 @@
   "overture_id": "8bec25f9-779b-41f0-a0c0-e5f150894848",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://static.parastorage.com/client/pfavico.ico"
  },
  {
   "ad": "Özel Bayrampaşa Sürücü Kursu",
@@ -113863,7 +115223,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.maltepehassurucukursu.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/hassurucukursu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -113876,7 +115241,8 @@
   "overture_id": "35992b7d-2193-4afe-b26e-b7875863d9ef",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.maltepehassurucukursu.com/storage/logos/2024-03-12-haslogo.svg?v=1795736369"
  },
  {
   "ad": "Özel Hisar Sürücü Kursu",
@@ -114394,7 +115760,12 @@
   "mahalle": null,
   "telefon": "(0212) 634 82 82",
   "web": "http://www.maltasurucukursu.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/malta.mtsk"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -114407,7 +115778,8 @@
   "overture_id": "5648a144-18b5-4379-9588-b4565108d451",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://maltasurucukursu.com/wp-content/uploads/2020/07/malta-surucu-kursu-bagcilar-logo-01.png"
  },
  {
   "ad": "Özel Murat Motorlu Taşıt Sürücü Kursu",
@@ -114826,7 +116198,12 @@
   "mahalle": null,
   "telefon": "(0216) 574 96 00",
   "web": "www.surotoyolatasehir.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/surotoyolsurucukursu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -114839,7 +116216,8 @@
   "ilk_gorulme": "2026-11-04",
   "son_gorulme": "2026-11-26",
   "overture_id": "f5e390ba-9da6-48d4-8974-289631acdb77",
-  "alt": "surucu-kursu"
+  "alt": "surucu-kursu",
+  "logo": "https://static.wixstatic.com/media/a963dd_0221af3e58ed4976960ad8093e52a33e%7Emv2.jpg/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/a963dd_0221af3e58ed4976960ad8093e52a33e%7Emv2.jpg"
  },
  {
   "ad": "Özel Taksim Sanat Müzik Ve Resim Kursu",
@@ -114883,7 +116261,7 @@
   "telefon": "(0212) 244 27 62",
   "web": "https://www.taksimkurs.com/",
   "sosyal": [],
-  "calisma_saatleri": null,
+  "calisma_saatleri": "Mo-Fr 09:00-21:30; Sa-Su 09:00-17:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 41.03773498535156,
@@ -114895,7 +116273,8 @@
   "overture_id": "b5083457-63fa-4e75-9541-8a1e82cdf240",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.taksimkurs.com/apple-touch-icon.png"
  },
  {
   "ad": "Özel Tay Sürücü Kursu",
@@ -115326,7 +116705,12 @@
   "mahalle": null,
   "telefon": "(0212) 555 06 06",
   "web": "http://www.yigenogluehliyet.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/yigenogluehliyet"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -115340,7 +116724,8 @@
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
   "overture_id": "be8ccfa3-d9eb-4bde-8ff2-dbf21a946b90",
-  "alt": "surucu-kursu"
+  "alt": "surucu-kursu",
+  "logo": "https://yigenogluehliyet.com/wp-content/uploads/2023/05/cropped-yigenoglu-transparan-logo-180x180.png"
  },
  {
   "ad": "Özel Yonca Bale Ve Müzik Okulu",
@@ -117017,9 +118402,14 @@
   "il": null,
   "ilce": "Ümraniye",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "08504303000",
   "web": "http://yesilisiksurucukurslari.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/yesilisiksurucukurslari"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -117032,7 +118422,8 @@
   "overture_id": "b1d502d2-11e8-4dbe-be3d-81d6233ece52",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://yesilisiksurucukurslari.com/wp-content/uploads/2025/04/cropped-favicon-2-180x180.png"
  },
  {
   "ad": "Ümraniye english time",
@@ -117238,7 +118629,8 @@
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
   "overture_id": "e4c0dee9-e4b6-4221-b772-5343b52deb60",
-  "alt": "muzik"
+  "alt": "muzik",
+  "logo": "https://uskudarmakamatolyesi.com/wp-content/uploads/2020/03/logo-uma.png"
  },
  {
   "ad": "Üstad Ney ve Müzik Atölyesi",
@@ -120339,7 +121731,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.denizcelikersanatakademi.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/denizcelikersanatakademi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -120352,7 +121749,8 @@
   "overture_id": "ace01da9-b738-46b4-8cc4-ba3c085e259a",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.denizcelikersanatakademi.com/icon.png?icon.1eyay9qnhxp2m.png"
  },
  {
   "ad": "İstanbul Devlet Opera ve Balesi",
@@ -120804,9 +122202,14 @@
   "il": null,
   "ilce": "Bahçelievler",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "+902122457374",
   "web": "http://www.medyaakademisi.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/istanbulmedyaakademisi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -120819,7 +122222,8 @@
   "overture_id": "284056ef-d5ed-4fe4-89db-2551893896fc",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.medyaakademisi.com.tr/logo.png"
  },
  {
   "ad": "İstanbul Müzik Akademisi",
@@ -121633,7 +123037,12 @@
   "mahalle": null,
   "telefon": "(0212) 235 53 53",
   "web": "www.istiklalsurucukursu.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/istiklalehliyet"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -121647,7 +123056,8 @@
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
   "overture_id": "70d63092-1ea0-472e-881b-934c4f963b9f",
-  "alt": "surucu-kursu"
+  "alt": "surucu-kursu",
+  "logo": "https://istiklalsurucukursu.com/wp-content/uploads/2022/10/cropped-favicon-istiklal-180x180.png"
  },
  {
   "ad": "İstiklal Sürücü Kursu Taksim",
@@ -121663,7 +123073,12 @@
   "mahalle": null,
   "telefon": "(0212) 243 49 43",
   "web": "http://www.istiklalsurucukursu.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/istiklalehliyet"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -121676,7 +123091,8 @@
   "overture_id": "48900b6f-fcaa-407b-afa5-b059348e3fa1",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://istiklalsurucukursu.com/wp-content/uploads/2022/10/cropped-favicon-istiklal-180x180.png"
  },
  {
   "ad": "İstut - Kültür Merkezi",
@@ -121982,7 +123398,8 @@
   "overture_id": "7858435d-19c6-4263-80f8-554bac39e3f7",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.safakmuzik.com/favicon-512.png"
  },
  {
   "ad": "Şahin Aydın Müzik Eğitim Merkezi",
@@ -122081,7 +123498,7 @@
   "telefon": null,
   "web": "https://www.sampiyonsurucukursu.com/",
   "sosyal": [],
-  "calisma_saatleri": null,
+  "calisma_saatleri": "Mo 09:00-19:30; Tu 09:00-19:30; We 09:00-19:30; Th 09:00-19:30; Fr 09:00-19:30; Sa 09:00-19:30",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 40.9054643,
@@ -122093,7 +123510,8 @@
   "ilk_gorulme": "2026-11-04",
   "son_gorulme": "2026-11-26",
   "overture_id": "64072485-4ca5-4cb0-a34b-f6063a397290",
-  "alt": "surucu-kursu"
+  "alt": "surucu-kursu",
+  "logo": "https://sampiyonsurucukursu.com/logo.png"
  },
  {
   "ad": "Şan Akademi",
@@ -122741,7 +124159,12 @@
   "mahalle": null,
   "telefon": "(0216) 594 72 72",
   "web": "https://serifaliamerikankultur.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/serifaliamerikankultur"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -122799,7 +124222,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.seritsurucukursu.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/seritsurucukurs"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -123083,7 +124511,12 @@
   "mahalle": null,
   "telefon": "(0216) 336 02 00",
   "web": "http://www.ehliyet.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/altiyolbahariyehliyet"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -123809,7 +125242,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.kazanim-k12.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/alfayez_schools"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -123822,7 +125260,8 @@
   "overture_id": "88325ed4-fbeb-458f-aeff-fd64e8878dab",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://kazanim-k12.com/wp-content/uploads/2022/12/cropped-Layer-0-180x180.png"
  },
  {
   "ad": "مدرسة أوز سيركجي لتعليم القيادة",

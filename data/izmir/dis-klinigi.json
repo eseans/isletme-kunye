@@ -4022,7 +4022,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.benklinik.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/benklinik"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -4035,7 +4040,8 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
-  "overture_id": "4df8ce13-ddbe-4391-ac34-8c6be49a3b14"
+  "overture_id": "4df8ce13-ddbe-4391-ac34-8c6be49a3b14",
+  "logo": "https://www.benklinik.com/logo.png"
  },
  {
   "ad": "Berdeli Clinic",
@@ -4284,7 +4290,7 @@
   "telefon": null,
   "web": "https://www.dentalclinicdeva.com/",
   "sosyal": [],
-  "calisma_saatleri": null,
+  "calisma_saatleri": "Mo 09:00-18:00; Tu 09:00-18:00; We 09:00-18:00; Th 09:00-18:00; Fr 09:00-18:00; Sa 09:00-14:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 38.39596939086914,
@@ -4296,7 +4302,8 @@
   "overture_id": "95a1997f-7248-465a-9141-f60e52f08fec",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://static.wixstatic.com/media/c9e709_cb930e6b2ec447598280abb9f4174f78%7Emv2.png/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/c9e709_cb930e6b2ec447598280abb9f4174f78%7Emv2.png"
  },
  {
   "ad": "BeyazDental",
@@ -4444,7 +4451,12 @@
   "mahalle": null,
   "telefon": "(0232) 388 06 46",
   "web": "http://www.bicon.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/bicon"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -4457,7 +4469,8 @@
   "overture_id": "0827f7a3-114d-4ab2-a33b-7e2078778fe1",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.bicon.com/cms/wp-content/uploads/2023/01/bicon-logo-blk-150px.svg"
  },
  {
   "ad": "Bilge Kumarı Diş Doktoru",
@@ -5323,9 +5336,14 @@
   "il": null,
   "ilce": "Konak",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "0232 484 0805",
   "web": "http://www.izmirortodontilab.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/izmirortodontilab"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -5338,7 +5356,8 @@
   "overture_id": "cdfb7b3c-d2ef-4d8c-b8c0-8c30de2a0d47",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://static.wixstatic.com/media/9ff692_66ee4c62eae94d7491ff9dde098dbeae%7Emv2.jpg/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/9ff692_66ee4c62eae94d7491ff9dde098dbeae%7Emv2.jpg"
  },
  {
   "ad": "ByDental",
@@ -7525,7 +7544,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://dentordu.com/en/home/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/dentorduintl"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -7538,7 +7562,8 @@
   "overture_id": "688d76c0-8df8-4d1b-b7dd-66508305cd7f",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://dentordu.com/wp-content/uploads/2025/06/logo_sosyal_medya.png"
  },
  {
   "ad": "Dent Risus Diş Polikliniği",
@@ -7553,7 +7578,12 @@
   "mahalle": null,
   "telefon": "(0232) 999 98 08",
   "web": "https://www.dentrisus.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/dentrisusizmir"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -7566,7 +7596,8 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
-  "overture_id": "9d53fa76-6d64-4cfe-bf85-eb00ea7be551"
+  "overture_id": "9d53fa76-6d64-4cfe-bf85-eb00ea7be551",
+  "logo": "https://www.dentrisus.com/wp-content/uploads/2022/09/dentrisuslogo.png"
  },
  {
   "ad": "Dent ekol",
@@ -10282,7 +10313,7 @@
   "telefon": null,
   "web": "https://www.dentalclinicdeva.com/",
   "sosyal": [],
-  "calisma_saatleri": null,
+  "calisma_saatleri": "Mo 09:00-18:00; Tu 09:00-18:00; We 09:00-18:00; Th 09:00-18:00; Fr 09:00-18:00; Sa 09:00-14:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 38.39360809326172,
@@ -10294,7 +10325,8 @@
   "overture_id": "f127d338-c7a1-4b7a-9b57-5074178d4e23",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://static.wixstatic.com/media/c9e709_cb930e6b2ec447598280abb9f4174f78%7Emv2.png/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/c9e709_cb930e6b2ec447598280abb9f4174f78%7Emv2.png"
  },
  {
   "ad": "Dichland Dent Ağız ve Diş Sağlığı Polikliniği",
@@ -18570,8 +18602,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.dishekimifundaerciyas.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/fundaerciyas"
+   }
+  ],
+  "calisma_saatleri": "Mo 09:30-18:30; Tu 09:30-18:30; We 09:30-18:30; Th 09:30-18:30; Fr 09:30-18:30; Sa 09:30-18:30",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 38.43206787109375,
@@ -18583,7 +18620,8 @@
   "overture_id": "7ae3cb4d-8e92-4e28-a6bc-68a1356ae07e",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.dishekimifundaerciyas.com/wp-content/uploads/2024/10/funda-erciyas-logo.webp"
  },
  {
   "ad": "Diş Hekimi Funda Madenci",
@@ -27362,7 +27400,8 @@
   "overture_id": "ae3f4cc7-6d8f-4e22-a2f5-c1855142ad9a",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://www.mustafaozbakir.com/images/ico/apple-touch-icon-144-precomposed.png"
  },
  {
   "ad": "Diş hekimi Alpay SÜCÜLLÜ",
@@ -30458,7 +30497,12 @@
   "mahalle": null,
   "telefon": "(0232) 231 84 84",
   "web": "https://www.dishekimibulentkoyuncu.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/dishekimibulentkoyuncu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -30471,7 +30515,8 @@
   "overture_id": "424bdfc2-4bed-4aef-82e2-5ca8f91932ed",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.dishekimibulentkoyuncu.com/wp-content/uploads/2020/01/LOGO.jpg"
  },
  {
   "ad": "Dr. Feyzan Kardeşler  Muayanehanesi",
@@ -31466,7 +31511,12 @@
   "mahalle": null,
   "telefon": "(0232) 421 56 64",
   "web": "https://www.izmirprotetikdistedavisi.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/dtsenaturgut"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -31479,7 +31529,8 @@
   "overture_id": "904fc07a-9bd2-4b0d-a928-5611e430dda2",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://static.wixstatic.com/media/c56d3e_289ec8befe8b434aaf0535d5d3b98aae%7Emv2.jpg/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/c56d3e_289ec8befe8b434aaf0535d5d3b98aae%7Emv2.jpg"
  },
  {
   "ad": "Dr. Tuba Çelik",
@@ -32907,7 +32958,12 @@
   "mahalle": null,
   "telefon": "(0850) 333 83 44",
   "web": "https://www.livadent.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/livadentizmir"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -32920,7 +32976,8 @@
   "overture_id": "20ce505a-8826-4516-80f1-fc081545163e",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.livadent.com.tr/wp-content/uploads/2021/01/cropped-Liva-Dent-Izmir-Dis-Klinigi-180x180.png"
  },
  {
   "ad": "Dt. Buket Atalay Dis Hekimi",
@@ -33716,7 +33773,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.omerfarukguven.net.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/dr.omerfarukguven"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -34728,7 +34790,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://ecrencolak.com/en/home",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ecrencolakdentclinic"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -34741,7 +34808,8 @@
   "overture_id": "2410f87b-b50b-48c2-a705-18d7013bc263",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://ecrencolak.com/wp-content/uploads/2022/10/logo-2048x597.png"
  },
  {
   "ad": "Efe Dental",
@@ -35172,7 +35240,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.egeportdental.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/egeportdental"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -35574,7 +35647,8 @@
   "overture_id": "14824764-8238-40dd-9da6-1cb3223ce766",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://veldrive.com/kkyhkMre/pajerototo.gif.gif"
  },
  {
   "ad": "Ercan & Emine Diş Hekimi",
@@ -36113,7 +36187,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.evka3dispoliklinigi.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/evka3dispoliklinigi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -36196,9 +36275,14 @@
   "il": null,
   "ilce": "Torbalı",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "+902322575564",
   "web": "http://www.evossimplant.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/evossimplantofficial"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -36211,7 +36295,8 @@
   "overture_id": "abfb3790-44e2-4e52-b3c9-7d39e48ae026",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://evossimplant.com/wp-content/uploads/2026/10/download-1-300x300.png"
  },
  {
   "ad": "Evren Gülekim",
@@ -37981,8 +38066,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://hbadent.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/hbadent"
+   }
+  ],
+  "calisma_saatleri": "Mo 10:00-18:30; Tu 10:00-18:30; We 10:00-18:30; Th 10:00-18:30; Fr 10:00-18:30; Sa 10:00-15:30",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 38.329769134521484,
@@ -37994,7 +38084,8 @@
   "overture_id": "f5492573-b879-4feb-88fc-e0bc63c93a83",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://hbadent.com/wp-content/uploads/2025/06/Hba-Logo-Disi-Png-300x300.png.webp"
  },
  {
   "ad": "Healthy Smiles Clinic •  Rifat Emnalar",
@@ -38093,7 +38184,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://dental-hollywood.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/hollywooddentalizmir"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -38106,7 +38202,8 @@
   "overture_id": "c91921c5-e8c0-434e-8c9c-cbc1c52d2044",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://dental-hollywood.com/wp-content/uploads/2026/04/hollywoodd-fav-icon-300x300-1.png"
  },
  {
   "ad": "Hollywood Dental Zahnklinik",
@@ -38494,7 +38591,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.internationaldentalstudio.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/international.dental.studio"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -38507,7 +38609,8 @@
   "overture_id": "4bd43ad0-3553-471d-909e-752c77f40a20",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://www.internationaldentalstudio.com/img/apple-touch-icon.png"
  },
  {
   "ad": "Ipek Aydogan Bolukbasi",
@@ -38986,7 +39089,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.drlukarcanin.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/drlukarcanin"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -39338,8 +39446,13 @@
   "mahalle": null,
   "telefon": "(0232) 381 76 31",
   "web": "http://www.karsiyakabeyazdental.com.tr/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/karsiyakabeyazdental"
+   }
+  ],
+  "calisma_saatleri": "Mo 09:00-19:00; Tu 09:00-19:00; We 09:00-19:00; Th 09:00-19:00; Fr 09:00-19:00; Sa 09:00-19:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 38.455474853515625,
@@ -39351,7 +39464,8 @@
   "overture_id": "dbf3804c-d81c-4619-95b0-f08a32ed5691",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://karsiyakabeyazdental.com.tr/resimler/apple-touch-icon.png"
  },
  {
   "ad": "Karşıyaka Diş Hekimi Mert Erbulut",
@@ -40192,8 +40306,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://lavivadent.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/lavivadentalclinic"
+   }
+  ],
+  "calisma_saatleri": "Mo-Fr 09:00-18:00; Sa 09:00-15:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 38.3795051574707,
@@ -40205,7 +40324,8 @@
   "overture_id": "eb7ce396-a5e4-43b1-99b1-4d2cc616a60e",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://www.lavivadent.com/assets/images/apple-touch-icon.png"
  },
  {
   "ad": "Lamia Kardesler Dis Hekimi",
@@ -40477,7 +40597,7 @@
     "deger": "https://instagram.com/locadent"
    }
   ],
-  "calisma_saatleri": null,
+  "calisma_saatleri": "Mo 08:00-18:00; Tu 08:00-18:00; We 08:00-18:00; Th 08:00-18:00; Fr 08:00-18:00; Sa 08:00-18:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 38.471814289163355,
@@ -40489,7 +40609,8 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
-  "overture_id": "3592eb1c-c12b-4309-a9af-e55da5392082"
+  "overture_id": "3592eb1c-c12b-4309-a9af-e55da5392082",
+  "logo": "https://locadentinternational.com/assets/img/logo-wordmark-gold-420.webp"
  },
  {
   "ad": "Lozan Dent",
@@ -40912,7 +41033,12 @@
   "mahalle": null,
   "telefon": "(0232) 332 10 20",
   "web": "https://www.medicaldentist.com/en/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/medicaldentist"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -41243,7 +41369,12 @@
   "mahalle": null,
   "telefon": "(0232) 832 12 13",
   "web": "https://menemenadsm.saglik.gov.tr",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/menemenadsm"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -44369,7 +44500,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://evdefiziktedavisi.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/evdefiziktedavisi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -44452,7 +44588,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://ctg.dental/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ctg_dental"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -44678,7 +44819,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.egedentin.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/egedentin"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -44691,7 +44837,8 @@
   "overture_id": "a23e1d8f-73da-4224-80d2-87b890cfea03",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.egedentin.com/wp-content/uploads/2021/12/cropped-yeni_ikon-180x180.png"
  },
  {
   "ad": "Ozel Erdogan Dıs protez laboratuarı",
@@ -44761,8 +44908,13 @@
   "mahalle": null,
   "telefon": "(0232) 255 51 55",
   "web": "https://ilkedis.com/#randevu-almak-istiyorum",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ilkedispoliklinigi"
+   }
+  ],
+  "calisma_saatleri": "Monday,Tuesday,Wednesday,Thursday,Friday 09:00-00:00; Saturday 09:00-19:00; Sunday 10:00-18:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 38.404212951660156,
@@ -44774,7 +44926,8 @@
   "overture_id": "75a65e81-8f2c-4a49-a96d-af3104bb5ba9",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://ilkedis.com/app/uploads/2024/06/Ozel-Ilke-Agiz-ve-Dis-Sagligi-Poliklinigi-White-Logo-Text-scaled.jpg"
  },
  {
   "ad": "Ozel Karabaglar Agiz ve Dis Sagligi Poliklinigi",
@@ -45315,7 +45468,12 @@
   "mahalle": null,
   "telefon": "(0232) 855 59 99",
   "web": "http://www.izmirprodis.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/izmirprodis"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -45328,7 +45486,8 @@
   "overture_id": "3cb25d31-62c7-4463-b505-f44bbdfe4617",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://www.izmirprodis.com/images/icons/apple-touch-icon-57x57.png"
  },
  {
   "ad": "Prodiş Ağız ve Diş Sağlığı Merkezi",
@@ -46079,8 +46238,13 @@
   "mahalle": null,
   "telefon": "(0232) 878 98 78",
   "web": "https://qairydental.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/qairydent"
+   }
+  ],
+  "calisma_saatleri": "Mo,Tu,We,Th,Fr 10:00-19:00; Sa 10:00-17:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 38.447724,
@@ -46092,7 +46256,8 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
-  "overture_id": "440f4222-f699-4ef3-8843-23bd4b2432ca"
+  "overture_id": "440f4222-f699-4ef3-8843-23bd4b2432ca",
+  "logo": "https://qairydental.com/wp-content/uploads/2026/08/qairydent-kare-scaled.png"
  },
  {
   "ad": "Qairy Dental",
@@ -46391,7 +46556,8 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
-  "overture_id": "cb9ab347-8b75-4830-b466-5c8be372b42c"
+  "overture_id": "cb9ab347-8b75-4830-b466-5c8be372b42c",
+  "logo": "https://roselledent.com/assets/img/logos/favicon.webp"
  },
  {
   "ad": "SMYRNA Ağız ve Diş Sağlığı Polikliniği",
@@ -47284,7 +47450,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://dentsigma.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/sigma_adsp"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -47422,7 +47593,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.smileizmir.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/smile_izmir"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -47435,7 +47611,8 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
-  "overture_id": "ce126885-425b-4609-bf8a-c2bcda9fd90e"
+  "overture_id": "ce126885-425b-4609-bf8a-c2bcda9fd90e",
+  "logo": "https://smileizmir.com/api/media/file/logo.png"
  },
  {
   "ad": "Smiles İzmir Diş Kliniği",
@@ -47842,7 +48019,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://tri-implants.swiss/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/tri.swiss"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -47855,7 +48037,8 @@
   "overture_id": "f66ee2a3-b9d6-4987-b175-42566446a5e9",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://tri-implants.swiss/apple-touch-icon.png"
  },
  {
   "ad": "TUNÇ ÖZAY",
@@ -47922,9 +48105,14 @@
   "il": null,
   "ilce": "Bornova",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "+902324673599",
   "web": "http://tamdent.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/tamdentdisklinigi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -47937,7 +48125,8 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
-  "overture_id": "61e508d6-70d6-4e38-b933-f503ae8cd5db"
+  "overture_id": "61e508d6-70d6-4e38-b933-f503ae8cd5db",
+  "logo": "http://tamdent.com/uploads/languages/apple-favicon_1.png"
  },
  {
   "ad": "Tamdent ağız ve diş sağlığı polikliniği",
@@ -48620,7 +48809,12 @@
   "mahalle": null,
   "telefon": "(0232) 855 49 49",
   "web": "http://www.dentapolis.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/dentapolis"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -48633,7 +48827,8 @@
   "overture_id": "89dcad08-b068-4a45-819e-988dd5aa570a",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://www.dentapolis.com/img/apple-touch/apple-touch-icon.png"
  },
  {
   "ad": "Torbalı Diş",
@@ -48676,7 +48871,12 @@
   "mahalle": null,
   "telefon": "(0232) 440 50 54",
   "web": "https://touchsmileglobal.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/touchsmileglobal"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -48689,7 +48889,8 @@
   "overture_id": "7e00715d-7cab-4398-911d-51083f025ff1",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://touchsmileglobal.com/wp-content/uploads/2023/03/Logo-Ikon-Touch-Smile-Dental.png"
  },
  {
   "ad": "Trident",
@@ -48757,10 +48958,15 @@
   "il": null,
   "ilce": "Karşıyaka",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "(0232) 323 13 13",
   "web": "https://www.triodentizmir.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/triodentizmir"
+   }
+  ],
+  "calisma_saatleri": "Mo 09:30-19:00; Tu 09:30-19:00; We 09:30-19:00; Th 09:30-19:00; Fr 09:30-19:00; Sa 10:00-16:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 38.461204528808594,
@@ -48772,7 +48978,8 @@
   "overture_id": "5f70d238-0325-4af8-9a18-bae2ad509a64",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://static.wixstatic.com/media/e640ac_36ac826b4f174766b0e218e28a123d9a%7Emv2.jpg/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/e640ac_36ac826b4f174766b0e218e28a123d9a%7Emv2.jpg"
  },
  {
   "ad": "Tri̇odent Ağiz Ve Di̇ş Sağliği̇ Poli̇kli̇ni̇ği̇",
@@ -49255,7 +49462,7 @@
   "il": null,
   "ilce": "Torbalı",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "+90232 854 64 77",
   "web": "http://www.ugurgurler.com/",
   "sosyal": [],
   "calisma_saatleri": null,
@@ -49286,7 +49493,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.ultimadent.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ultimadentglobal"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -49314,7 +49526,12 @@
   "mahalle": null,
   "telefon": "(0232) 404 01 44",
   "web": "https://www.ultimadent.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ultimadentglobal"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -49730,7 +49947,7 @@
   "telefon": null,
   "web": "https://www.drselentokgoz.com/",
   "sosyal": [],
-  "calisma_saatleri": null,
+  "calisma_saatleri": "Mo 10:00-18:00; Tu 10:00-18:00; We 10:00-18:00; Th 10:00-18:00; Fr 10:00-18:00; Sa 10:00-18:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 38.42963790893555,
@@ -49742,7 +49959,8 @@
   "overture_id": "cd8e0430-47ca-48b9-a33b-a16f97ab1e45",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://static.wixstatic.com/media/bb10bf_6f18fc6c796a4b0ab21f42ed2237000e%7Emv2.png/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/bb10bf_6f18fc6c796a4b0ab21f42ed2237000e%7Emv2.png"
  },
  {
   "ad": "Uzm. Dt. Alphan Özen",
@@ -49923,7 +50141,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.dtsolakoglu.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/uzm.dt.solakoglu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -49936,7 +50159,8 @@
   "overture_id": "8ecb9b24-9c25-4a08-812e-173750b37d45",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://static.parastorage.com/client/pfavico.ico"
  },
  {
   "ad": "Uzm.Dt.İnci Yörük Muayenehanesi",
@@ -50071,7 +50295,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.busekarataysibal.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/uzmdtbusekaratay"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -50180,7 +50409,12 @@
   "mahalle": null,
   "telefon": "(0232) 464 00 00",
   "web": "http://ugurbilkay.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/dtugurbilkay"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -50193,7 +50427,8 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
-  "overture_id": "62746c67-cdc3-48e8-bfd2-71774f65ffce"
+  "overture_id": "62746c67-cdc3-48e8-bfd2-71774f65ffce",
+  "logo": "https://ugurbilkay.com/assets/img/logo.png"
  },
  {
   "ad": "Uğur Çiftçi Özel Diş Hekimliği",
@@ -50260,10 +50495,15 @@
   "il": null,
   "ilce": "Bayraklı",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "444 7 820",
   "web": "http://vatandentalcenter.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/vatandentalcentertr"
+   }
+  ],
+  "calisma_saatleri": "Mo 09:00-23:00; Tu 09:00-23:00; We 09:00-23:00; Th 09:00-23:00; Fr 09:00-23:00; Sa 09:00-19:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 38.46366028695656,
@@ -50275,7 +50515,8 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
-  "overture_id": "5db79ba9-d946-48b4-9c62-f7ddfaf125fc"
+  "overture_id": "5db79ba9-d946-48b4-9c62-f7ddfaf125fc",
+  "logo": "https://vatandentalcenter.com/assets/logo-alt.png"
  },
  {
   "ad": "VS Ağız Ve Diş Sağlığı Kliniği",
@@ -50345,8 +50586,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://valodent.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/valodentgaziemir"
+   }
+  ],
+  "calisma_saatleri": "Mo 09:00-19:00; Tu 09:00-19:00; We 09:00-19:00; Th 09:00-19:00; Fr 09:00-19:00; Sa 09:00-19:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 38.321353912353516,
@@ -50358,7 +50604,8 @@
   "overture_id": "cda065b0-5937-41a6-a6df-db4a76f4e83c",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://valodent.com/logo.svg"
  },
  {
   "ad": "Vatan Dental Center",
@@ -50590,7 +50837,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://westdentclinicturkey.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/westdentclinicturkey"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -50603,7 +50855,8 @@
   "overture_id": "c8370479-fa18-46b5-b32c-eeef3b65d4a2",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://westdentclinicturkey.com/images/icon/apple-touch-icon-180x180.png"
  },
  {
   "ad": "White By Helin Erdoğdu",
@@ -50700,7 +50953,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.wiseandsmile.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/wiseandsmile"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -50713,7 +50971,8 @@
   "overture_id": "5109d3ed-cc17-482f-b7fb-9e3bb71f5746",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.wiseandsmile.com/wp-content/uploads/2026/02/cropped-Wise-Smile-icons-scaled-1-180x180.png"
  },
  {
   "ad": "YZP muayenehane Yusuf Ziya Peynirci",
@@ -51293,7 +51552,8 @@
   "overture_id": "1da0be67-fadc-4804-858c-c205005fd9de",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://static.wixstatic.com/media/342bab_6970b90802074277b613f1bdebc4b98e%7Emv2.png/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/342bab_6970b90802074277b613f1bdebc4b98e%7Emv2.png"
  },
  {
   "ad": "Yıldırım Ongan",
@@ -51403,7 +51663,8 @@
   "overture_id": "dda48c98-df5a-4c7e-bd39-6518cba1ae69",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://img1.wsimg.com/isteam/ip/static/pwa-app/logo-default.png/:/rs=w:57,h:57,m"
  },
  {
   "ad": "Zafer Gözoğlu Diş Hekilmliği",
@@ -51826,7 +52087,12 @@
   "mahalle": null,
   "telefon": "(0232) 362 11 63",
   "web": "http://www.beyaznoktadental.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/beyaznoktadental"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -54261,8 +54527,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://selimbilgin.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/docdrselimbilgin"
+   }
+  ],
+  "calisma_saatleri": "Mo 09:00-18:00; Tu 09:00-18:00; We 09:00-18:00; Th 09:00-18:00; Fr 09:00-18:00; Sa 09:00-18:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 38.450042724609375,
@@ -54274,7 +54545,8 @@
   "overture_id": "f3aa8384-a3ca-42e3-bd22-a58031c8eae8",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.selimbilgin.com/assets/images/logo2.webp"
  },
  {
   "ad": "dt. neval",
@@ -55566,7 +55838,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://hazalezgierken.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/pedodontisthazal"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -55579,7 +55856,8 @@
   "overture_id": "68771eed-1b99-4285-8979-0f0b069b2906",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://hazalezgierken.com/wp-content/uploads/2024/08/cropped-2-180x180.png"
  },
  {
   "ad": "prof dr serpil hazar",
@@ -57092,7 +57370,7 @@
   "telefon": null,
   "web": "http://www.asprodent.com.tr/",
   "sosyal": [],
-  "calisma_saatleri": null,
+  "calisma_saatleri": "Pazartesi – Cumartesi 09:00 – 20:00; Pazar 10:00 – 17:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 38.48782730102539,
@@ -57104,7 +57382,8 @@
   "overture_id": "b7f811ba-a0e7-421f-a920-9ad80ed48017",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://asprodent.com.tr/images/apple-touch-icon.png?v=2"
  },
  {
   "ad": "Özel Ata Ağız ve Diş Sağlığı Polikliniği",
@@ -57133,7 +57412,8 @@
   "overture_id": "b85f4a17-488d-4bea-bc11-832fcaffc580",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://www.atadis.com.tr/apple-touch-icon.png"
  },
  {
   "ad": "Özel Atlas Dental",
@@ -57148,7 +57428,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.atlasdental.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ozelatlasdental"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -57356,7 +57641,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://Www.baysaldisklinigi.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/doctorbaysal"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -57665,7 +57955,8 @@
   "overture_id": "568b6d90-ce64-4ee4-acbe-ffa02384d1ce",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://static.parastorage.com/client/pfavico.ico"
  },
  {
   "ad": "Özel Buca Dent Ağız ve Diş Sağlığı Polikliniği",
@@ -58024,7 +58315,7 @@
   "telefon": "(0232) 999 80 92",
   "web": "https://www.dentharmony.com.tr/",
   "sosyal": [],
-  "calisma_saatleri": null,
+  "calisma_saatleri": "Mo 10:00-18:00; Tu 10:00-18:00; We 10:00-18:00; Th 10:00-18:00; Fr 10:00-18:00; Sa 10:00-16:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 38.435394287109375,
@@ -58036,7 +58327,8 @@
   "overture_id": "fc3aa209-52cf-4488-8e73-80b57aa34d3d",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://dentharmony.com.tr/wp-content/plugins/dentharmony-experience/assets/logo.png"
  },
  {
   "ad": "Özel Dent KM Ağız ve Diş Sağlığı Polikliniği",
@@ -58136,7 +58428,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.dentsayak.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/dentsayak"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -58149,7 +58446,8 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
-  "overture_id": "1cc2090e-ed0c-4585-890e-eea6c9010627"
+  "overture_id": "1cc2090e-ed0c-4585-890e-eea6c9010627",
+  "logo": "http://www.dentsayak.com.tr/images/apple-touch-icon.png"
  },
  {
   "ad": "Özel Dent Seferihisar Ağız ve Diş Sağlığı Polikliniği - Dt. Hüseyin Anıl Banazlı - Dt. Muhittin Barış Doktaş",
@@ -58384,7 +58682,12 @@
   "mahalle": null,
   "telefon": "(0232) 374 50 55",
   "web": "https://dentagora.com.tr/en/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/dentagora"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -58397,7 +58700,8 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
-  "overture_id": "7cb28d1f-7d45-4d63-85ea-8576bb600ee0"
+  "overture_id": "7cb28d1f-7d45-4d63-85ea-8576bb600ee0",
+  "logo": "https://dentagora.com.tr/wp-content/uploads/2021/05/cropped-fav-180x180.png"
  },
  {
   "ad": "Özel Dental Center Ağız Ve Diş Sağlığı Polikliniği",
@@ -58412,7 +58716,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://dentalcenterizmir.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/dentalcenterizmir"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -58425,7 +58734,8 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
-  "overture_id": "61f693f2-2ce5-4980-a662-9494ff13053c"
+  "overture_id": "61f693f2-2ce5-4980-a662-9494ff13053c",
+  "logo": "https://dentalcenterizmir.com/uploads/logolar/logo.ico"
  },
  {
   "ad": "Özel Dental Kent Ağız Ve Diş Sağlığı Polikliniği",
@@ -59286,7 +59596,12 @@
   "mahalle": null,
   "telefon": "(0232) 463 63 28",
   "web": "http://www.egeortodonti.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/egeortodonti"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -59299,7 +59614,8 @@
   "overture_id": "dd8ce4b4-9394-4e9a-9e92-df2f2294c5f7",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.egeortodonti.com/wp-content/uploads/2022/07/ege-ortodonti-hd.png"
  },
  {
   "ad": "Özel Egem Ortodonti Merkezi",
@@ -60693,7 +61009,8 @@
   "overture_id": "77462e83-2e50-48e1-9dd1-367916d68abf",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://static.parastorage.com/client/pfavico.ico"
  },
  {
   "ad": "Özel Sun Ağız Ve Diş Sağlığı Polikliniği (Sun Tannlege Senter)",
@@ -61225,7 +61542,12 @@
   "mahalle": null,
   "telefon": "(0850) 850 12 76",
   "web": "http://www.yesilyurtdent.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ozelyesilyurtdent"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -61810,7 +62132,12 @@
   "mahalle": null,
   "telefon": "(0232) 330 25 05",
   "web": "http://www.semiklerkarbeyazi.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ozelkarbeyazisemikler"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -63149,8 +63476,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://dentalesta.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/dent.alesta"
+   }
+  ],
+  "calisma_saatleri": "Mo 09:00-19:00; Tu 09:00-19:00; We 09:00-19:00; Th 09:00-19:00; Fr 09:00-19:00; Sa 10:00-17:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 38.48927307128906,
@@ -63162,7 +63494,8 @@
   "overture_id": "1b54a2a6-7999-48b0-b319-8ffc10c80af1",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://dentalesta.com/images/logo-dark.png"
  },
  {
   "ad": "İzmir Dent Ekol Diş Hastanesi",
@@ -63232,7 +63565,12 @@
   "mahalle": null,
   "telefon": "(0232) 369 70 79",
   "web": "http://www.dentalizm.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/dentalizmagizvedis"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -63330,7 +63668,8 @@
   "overture_id": "26711bcf-a805-43d6-a7bb-9922b0c13b2e",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.drhuseyinkurtulmus.com/images/apple-touch-icon-57x57.png"
  },
  {
   "ad": "İzmir Diş Klinikleri",
@@ -63567,7 +63906,12 @@
   "mahalle": null,
   "telefon": "(0232) 325 40 40",
   "web": "http://dis.ikc.edu.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ikcudishekimligifakultesi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -63580,7 +63924,8 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
-  "overture_id": "30d19c5e-9587-42eb-a7c7-ac9ba891d42a"
+  "overture_id": "30d19c5e-9587-42eb-a7c7-ac9ba891d42a",
+  "logo": "http://dis.ikc.edu.tr/favicons/apple-icon-57x57.png"
  },
  {
   "ad": "İzmir Maviyeşil Diş Polikliniği",
@@ -63788,9 +64133,14 @@
   "il": null,
   "ilce": "Konak",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "+902329997670",
   "web": "https://www.dentapoint.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/dentapoint"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,

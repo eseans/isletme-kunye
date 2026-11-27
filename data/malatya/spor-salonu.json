@@ -1051,7 +1051,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://fitbullgym.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/fitbullgym"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -1064,7 +1069,8 @@
   "overture_id": "8fd648f7-0049-4bac-b09e-efdef7ae9fab",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://fitbull.hel1.your-objectstorage.com/settings/786IFNmQBYuT1Smw7aT9nckGtudbpVH1niu6W254.png"
  },
  {
   "ad": "Fitbull GYM Plus",

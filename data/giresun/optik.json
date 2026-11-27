@@ -245,7 +245,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.fatihcanoptik.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/fatihcanoptik"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -258,7 +263,8 @@
   "overture_id": "b7bf133f-1ebf-4516-895d-eb6e38ec3876",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.fatihcanoptik.com.tr/wp-content/uploads/2023/02/cropped-favicon.png"
  },
  {
   "ad": "Fatih Optik",
@@ -448,7 +454,12 @@
   "mahalle": null,
   "telefon": "(0454) 212 75 15",
   "web": "http://www.hayrioptikweb.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/hayrioptik"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,

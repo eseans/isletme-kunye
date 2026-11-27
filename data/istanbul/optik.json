@@ -149,7 +149,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://actualoptik.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/actualoptikcom"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -162,7 +167,8 @@
   "overture_id": "cc50c5cd-6bf9-4ce2-b6c4-0646d3a2b73c",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://actualoptik.com/icons/favicon-512x512.png"
  },
  {
   "ad": "Acıbadem Optik",
@@ -697,8 +703,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://akdereoptik.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/akdereoptik"
+   }
+  ],
+  "calisma_saatleri": "Mo 09:00-20:00; Tu 09:00-20:00; We 09:00-20:00; Th 09:00-20:00; Fr 09:00-20:00; Sa 09:00-20:00; Su 12:00-20:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 41.115264892578125,
@@ -710,7 +721,8 @@
   "overture_id": "e888c9d4-892b-425b-95b3-ae8363795d5d",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://akdereoptik.com/assets/img/logo_dark.svg"
  },
  {
   "ad": "Akkaya optik",
@@ -5739,7 +5751,8 @@
   "overture_id": "79416cd2-9f52-40ad-aff3-cfc1adf76920",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.bebekoptik.com/image/catalog/favicon.svg"
  },
  {
   "ad": "Bedri Seiko Watches and Eyewear",
@@ -8724,7 +8737,12 @@
   "mahalle": null,
   "telefon": "(0216) 386 37 00",
   "web": "https://www.atesyanyali.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/prof.dr.atesyanyali"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -8737,7 +8755,8 @@
   "overture_id": "50999afc-ec7b-46c0-a8ee-499e2ffadb58",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.atesyanyali.com/2025/07/thumbnail/undefinedpng-512x512.webp"
  },
  {
   "ad": "Dr. Dilek Uzer",
@@ -10403,7 +10422,12 @@
   "mahalle": null,
   "telefon": "(0212) 353 66 16",
   "web": "http://www.emooptik.com.tr",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/emooptikofficial"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -10416,7 +10440,8 @@
   "overture_id": "8f5475a4-d516-4d15-a565-45492ca54c92",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.emooptik.com.tr/Data/EditorFiles/emo-optik-siyah-logo-1-1.png"
  },
  {
   "ad": "Emooptik",
@@ -10429,7 +10454,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.emooptik.com.tr",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/emooptikofficial"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -10441,7 +10471,8 @@
   "kaynak": "osm",
   "ilk_gorulme": "2026-11-04",
   "son_gorulme": "2026-11-26",
-  "overture_id": "56deb5aa-4dc6-41ba-b902-8f79708ba274"
+  "overture_id": "56deb5aa-4dc6-41ba-b902-8f79708ba274",
+  "logo": "https://www.emooptik.com.tr/Data/EditorFiles/emo-optik-siyah-logo-1-1.png"
  },
  {
   "ad": "Emr Optik",
@@ -12237,7 +12268,7 @@
     "deger": "https://instagram.com/focaloptik"
    }
   ],
-  "calisma_saatleri": null,
+  "calisma_saatleri": "Mo 09:00-18:30; Tu 09:00-18:30; We 09:00-18:30; Th 09:00-18:30; Fr 09:00-18:30; Sa 09:00-18:30",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 41.01445388793945,
@@ -12249,7 +12280,8 @@
   "overture_id": "a85019ed-9de6-40a8-a4db-234718454c02",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://www.focaloptik.com/assets/apple-touch-icon.png"
  },
  {
   "ad": "Focus Optik",
@@ -13069,7 +13101,12 @@
   "mahalle": null,
   "telefon": "(0212) 445 73 44",
   "web": "http://www.gozgrup.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/gozgrup"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -13082,7 +13119,8 @@
   "overture_id": "e4f542be-c1c2-4f21-a347-f86f2565c354",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.gozgrup.com.tr/images/gozgrup.png"
  },
  {
   "ad": "GozGrup Optik",
@@ -13098,7 +13136,12 @@
   "mahalle": null,
   "telefon": "(0212) 345 56 33",
   "web": "http://www.gozgrup.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/gozgrup"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -13111,7 +13154,8 @@
   "overture_id": "b9093463-069d-4e79-9a5e-35c14c2cd6e3",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.gozgrup.com.tr/images/gozgrup.png"
  },
  {
   "ad": "Gozde Optik",
@@ -13709,7 +13753,12 @@
   "mahalle": null,
   "telefon": "(0216) 696 10 29",
   "web": "http://www.gozgrup.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/gozgrup"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -13722,7 +13771,8 @@
   "overture_id": "daeb70f2-e971-4161-a8bc-dd623cb091e9",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.gozgrup.com.tr/images/gozgrup.png"
  },
  {
   "ad": "Göz Grup Optik",
@@ -13738,7 +13788,12 @@
   "mahalle": null,
   "telefon": "(0216) 339 83 07",
   "web": "http://www.gozgrup.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/gozgrup"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -13751,7 +13806,8 @@
   "overture_id": "d52765e7-b447-4dfb-b111-3cb0f8289246",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.gozgrup.com.tr/images/gozgrup.png"
  },
  {
   "ad": "Göz Odak Optik Yayla",
@@ -13950,7 +14006,12 @@
   "mahalle": null,
   "telefon": "(0212) 437 15 31",
   "web": "http://www.gozgrup.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/gozgrup"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -13963,7 +14024,8 @@
   "overture_id": "2cbdd831-aaec-42a8-abdf-e7664d6ec07f",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.gozgrup.com.tr/images/gozgrup.png"
  },
  {
   "ad": "GözGrup Optik",
@@ -13979,7 +14041,12 @@
   "mahalle": null,
   "telefon": "(0212) 854 05 11",
   "web": "http://www.gozgrup.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/gozgrup"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -13992,7 +14059,8 @@
   "overture_id": "d93eeec0-0b13-48fc-a916-64b97f1e9f34",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.gozgrup.com.tr/images/gozgrup.png"
  },
  {
   "ad": "Gözay Optik",
@@ -14593,7 +14661,12 @@
   "mahalle": null,
   "telefon": "(0212) 875 80 35",
   "web": "https://gozmergozluk.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/gozmergozluk"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -15498,7 +15571,12 @@
   "mahalle": null,
   "telefon": "(0212) 512 68 96",
   "web": "http://www.happyline.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/gelinurunlericom"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -15692,7 +15770,12 @@
   "mahalle": null,
   "telefon": "(0216) 441 80 51",
   "web": "https://www.hermodagozluk.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/hermodagozluk"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -15705,7 +15788,8 @@
   "overture_id": "c8bb1a3f-c269-4bbb-b0bc-584f013505b1",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.hermodagozluk.com/img/setting/hermodagozluk_logo_05.03.2021_f33717e.png"
  },
  {
   "ad": "Hills Top",
@@ -16074,7 +16158,12 @@
   "mahalle": null,
   "telefon": "(0212) 269 58 28",
   "web": "http://www.gozlukvelens.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/isinoptik_"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -16607,7 +16696,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.kareoptik.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/kareoptik"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -16620,7 +16714,8 @@
   "overture_id": "089186f4-f559-4c19-83cc-01e98c487fec",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://cdn.shopify.com/s/files/1/0914/9444/9516/files/KARE_LOGO.jpg?v=1763976439"
  },
  {
   "ad": "Kare Optik-4",
@@ -16636,7 +16731,12 @@
   "mahalle": null,
   "telefon": "(0212) 446 52 72",
   "web": "http://www.kareoptik.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/kareoptik"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -16649,7 +16749,8 @@
   "overture_id": "72180214-f740-4b8b-8c0d-7b9f1b4327c4",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://cdn.shopify.com/s/files/1/0914/9444/9516/files/KARE_LOGO.jpg?v=1763976439"
  },
  {
   "ad": "Kare optik",
@@ -16662,7 +16763,12 @@
   "mahalle": null,
   "telefon": "(0212) 489 27 42",
   "web": "http://www.kareoptik.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/kareoptik"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -16674,7 +16780,8 @@
   "kaynak": "osm",
   "ilk_gorulme": "2026-11-04",
   "son_gorulme": "2026-11-26",
-  "overture_id": "c1e1cf87-f180-4200-9ba3-c21c0a7655d3"
+  "overture_id": "c1e1cf87-f180-4200-9ba3-c21c0a7655d3",
+  "logo": "https://cdn.shopify.com/s/files/1/0914/9444/9516/files/KARE_LOGO.jpg?v=1763976439"
  },
  {
   "ad": "Karmen Gözlük",
@@ -17529,8 +17636,13 @@
   "mahalle": null,
   "telefon": "(0212) 559 65 45",
   "web": "https://kuzplus.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/kuzplusoptik"
+   }
+  ],
+  "calisma_saatleri": "Mon-Sun 10:00-22:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 40.9784049987793,
@@ -17817,7 +17929,8 @@
   "overture_id": "7009d2cc-9b16-4127-8049-b76bc6512216",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.lazeroptik.com.tr/cdn/shop/files/logo1_ddb6f8c3-fb9c-44e3-b866-fe8cd6d1b6b5.png?v=1740087742&width=500"
  },
  {
   "ad": "Lens Dünyası",
@@ -17891,7 +18004,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.lensmarket.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/lensmarket_com"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -17904,7 +18022,8 @@
   "overture_id": "4e95b20b-0fdd-4efd-a563-05cd725ac656",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.lensmarket.com/logo.png"
  },
  {
   "ad": "Lens Medikal",
@@ -17962,7 +18081,8 @@
   "overture_id": "bafe1dac-9176-49b4-a761-64866fc0aed3",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.medikalportali.net/wp-content/uploads/2017/12/medikalportali-logo.png"
  },
  {
   "ad": "LensOptikal & Online Lens Marketi",
@@ -17978,7 +18098,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.lensoptikal.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/lensoptikalcom"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -17991,7 +18116,8 @@
   "overture_id": "d3fec028-e0f2-462e-b138-031cf35ece59",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://lensoptikal.com/lens-Optikal-Logo.png"
  },
  {
   "ad": "Levent optik",
@@ -18074,7 +18200,8 @@
   "overture_id": "46b77fa8-10b2-41cc-a805-88f847176441",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://cdn.myikas.com/images/073766fb-222d-41dd-bf11-ba33d89daac0/1dc66dfc-05eb-4a9f-beb4-fdbb094f672d/image_1080.webp"
  },
  {
   "ad": "Luna Optik",
@@ -18520,7 +18647,12 @@
   "mahalle": null,
   "telefon": "(0212) 633 00 44",
   "web": "http://www.mareoptik.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/mareoptik"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -18533,7 +18665,8 @@
   "overture_id": "9fab01dd-d16c-4532-aef5-5005c51a7506",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.mareoptik.com/wp-content/uploads/2026/01/mare-optik-logo-150x150-1.png"
  },
  {
   "ad": "MarkaMilla Filiz Aksesuar",
@@ -18778,7 +18911,12 @@
   "mahalle": null,
   "telefon": "(0212) 542 08 08",
   "web": "http://www.nsaoptik.com.tr/index.php/component/k2/item/8-maybach.html?Itemid=538",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/nsaoptik"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -18836,7 +18974,12 @@
   "mahalle": null,
   "telefon": "(0212) 213 95 90",
   "web": "http://mecidiyeoptik.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/mecidiyeoptik"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -18849,7 +18992,8 @@
   "overture_id": "da5edcd5-9dba-4dfc-9e35-771c6c589f19",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://mecidiyeoptik.com.tr/images/logo.png"
  },
  {
   "ad": "Mega Optik",
@@ -19142,7 +19286,12 @@
   "mahalle": null,
   "telefon": "(0212) 425 67 00",
   "web": "http://www.merveoptik.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/merveoptik"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -19155,7 +19304,8 @@
   "overture_id": "08d20ece-c3b7-49c4-8d89-38f9de7e1c0c",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://merveoptik.com/wp-content/uploads/2024/12/cropped-merveoptik_favicon_180.jpg"
  },
  {
   "ad": "Merve Optik Üretim",
@@ -19862,7 +20012,12 @@
   "mahalle": null,
   "telefon": "(0212) 809 48 04",
   "web": "https://manensol.co/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/manensol"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -19875,7 +20030,8 @@
   "overture_id": "d9923dfe-bfb2-44da-8b5c-951d4b699c16",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://manensol.com/cdn/shop/files/MANENSOL_LOGO_B.png?v=1722803450&width=2200"
  },
  {
   "ad": "Mühür Optik",
@@ -20677,7 +20833,12 @@
   "mahalle": null,
   "telefon": "(0216) 726 33 33",
   "web": "http://www.betaoptik.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/novax_gozluk_camlari"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -20690,7 +20851,8 @@
   "overture_id": "0cbde1a0-c033-442b-8270-5391a26020b2",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.betaoptik.com/images/logo.png"
  },
  {
   "ad": "Numune Optik",
@@ -20990,9 +21152,14 @@
   "il": null,
   "ilce": "Ataşehir",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "4444276",
   "web": "http://www.anadolusaglik.org/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/anadolusaglik"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -21005,7 +21172,8 @@
   "overture_id": "047848af-3364-475b-933f-4a6f6854bf31",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://cdn.scope.digital/assets/images/logo/logo-white.png"
  },
  {
   "ad": "Op. Dr. Berkant Bozdağ",
@@ -21050,7 +21218,12 @@
   "mahalle": null,
   "telefon": "(0850) 474 81 89",
   "web": "https://elvanyalcin.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/drelvanyalcin"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -21137,8 +21310,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://muratun.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/dr.muratun"
+   }
+  ],
+  "calisma_saatleri": "Mo 09:00-19:00; Tu 09:00-19:00; We 09:00-19:00; Th 09:00-19:00; Fr 09:00-19:00; Sa 09:00-14:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 40.980594635009766,
@@ -21150,7 +21328,8 @@
   "overture_id": "0b3d1c19-24c1-4fb1-ab82-511010a0f6a9",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://muratun.com/wp-content/themes/muratun/assets/img/logo-yatay.svg?v=f93908b0"
  },
  {
   "ad": "Op. Dr. Murat Yamiç",
@@ -21514,7 +21693,12 @@
   "mahalle": null,
   "telefon": "(0216) 331 29 97",
   "web": "http://www.opaklens.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/opaklensofficial"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -21527,7 +21711,8 @@
   "overture_id": "4bda0c9d-0183-4a7f-bbc7-2d2794b07211",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://static.wixstatic.com/media/fd1ac5_d111335259414622ba86e4a07e702879%7Emv2.png/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/fd1ac5_d111335259414622ba86e4a07e702879%7Emv2.png"
  },
  {
   "ad": "Opak Lens Kadıköy Şube",
@@ -21585,7 +21770,8 @@
   "overture_id": "4f87852b-e338-440e-b84b-2710d7f1a30e",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://www.essilor.com.tr/Icons/apple-touch-icon.png"
  },
  {
   "ad": "Opal Optik",
@@ -22405,7 +22591,12 @@
   "mahalle": null,
   "telefon": "(0212) 616 25 50",
   "web": "https://www.optifabrik.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/optifabrik"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -22418,7 +22609,8 @@
   "overture_id": "13559157-256e-431f-ab2e-1b93bf8605db",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.optifabrik.com/wp-content/uploads/2019/08/optifabrik-logo.png"
  },
  {
   "ad": "Optigo",
@@ -22434,7 +22626,12 @@
   "mahalle": null,
   "telefon": "(0212) 528 80 80",
   "web": "https://www.optigo.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/optigo"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -22728,7 +22925,12 @@
   "mahalle": null,
   "telefon": "(0212) 579 15 25",
   "web": "http://www.optimaroptik.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/optimaroptik"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -23101,7 +23303,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://osmanoptik.ikas.shop/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/osmanoptik"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -23114,7 +23321,8 @@
   "overture_id": "122678ae-191b-421d-b5c1-f1f4851f610a",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://cdn.myikas.com/images/b02a0a6a-78a5-4157-a975-b94f18b55928/0632c1b2-93d8-4ab7-b318-3622858c6692/image_1080.webp"
  },
  {
   "ad": "Otto Gözlük",
@@ -23391,7 +23599,12 @@
   "mahalle": null,
   "telefon": "(0212) 512 22 69",
   "web": "http://www.pakoptik.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/pakoptik1982"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -23473,7 +23686,12 @@
   "mahalle": null,
   "telefon": "(0216) 612 94 61",
   "web": "http://www.parmaoptik.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/parmaoptik"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -23502,8 +23720,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.pasajoptik.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/pasajoptik"
+   }
+  ],
+  "calisma_saatleri": "Mo 09:30-20:30; Tu 09:30-20:30; We 09:30-20:30; Th 09:30-20:30; Fr 09:30-20:30; Sa 09:30-20:30",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 41.043968200683594,
@@ -23515,7 +23738,8 @@
   "overture_id": "e885f4b2-6086-4284-8270-7ad667653d09",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://pasajoptik.com/PASAJ.svg"
  },
  {
   "ad": "Pasalı Optik",
@@ -23662,7 +23886,7 @@
   "il": "Istanbul",
   "ilce": "Beykoz",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "+90 216 576 36 76",
   "web": "http://www.peraoptik.com/",
   "sosyal": [],
   "calisma_saatleri": null,
@@ -23692,7 +23916,12 @@
   "mahalle": null,
   "telefon": "(0212) 875 80 35",
   "web": "http://www.piccoeyewear.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/piccoeyewear"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -23705,7 +23934,8 @@
   "overture_id": "3c0aff56-df61-4b97-b429-5591e39e89a2",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://piccoeyewear.com/images/logo.png"
  },
  {
   "ad": "Pim optik",
@@ -23828,8 +24058,13 @@
   "mahalle": null,
   "telefon": "(0212) 777 83 83",
   "web": "http://www.plusoptik.com.tr/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/plusoptik"
+   }
+  ],
+  "calisma_saatleri": "Mo 10:00-18:30; Tu 10:00-18:30; We 10:00-18:30; Th 10:00-18:30; Fr 10:00-18:30; Sa 10:00-17:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 41.050331115722656,
@@ -23841,7 +24076,8 @@
   "overture_id": "deb8955e-1e7a-484e-94cc-36717575cc61",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://www.plusoptik.com.tr/assets/img/favicon.png"
  },
  {
   "ad": "Plus Optik",
@@ -24031,8 +24267,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.mercanmurat.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/lmmercan"
+   }
+  ],
+  "calisma_saatleri": "Mo 09:00-19:00; Tu 09:00-19:00; We 09:00-19:00; Th 09:00-19:00; Fr 09:00-19:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 40.97694396972656,
@@ -24044,7 +24285,8 @@
   "overture_id": "585c5ca6-a052-406e-af84-639d37c02569",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://static.wixstatic.com/media/3ba939_3daa6828da034caaa9cab78ff68e5441%7Emv2.png/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/3ba939_3daa6828da034caaa9cab78ff68e5441%7Emv2.png"
  },
  {
   "ad": "Prof. Dr. Orkun Müftüoğlu",
@@ -24090,7 +24332,7 @@
   "telefon": null,
   "web": "http://www.rifatrasier.com/",
   "sosyal": [],
-  "calisma_saatleri": null,
+  "calisma_saatleri": "Mo 13:30-17:00; Tu 13:30-17:00; We 13:30-17:00; Th 13:30-17:00; Fr 10:00-16:30",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 41.0497932434082,
@@ -24176,7 +24418,12 @@
   "mahalle": null,
   "telefon": "(0216) 336 76 45",
   "web": "http://www.oncelkoca.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/droncelkoca2021"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -24189,7 +24436,8 @@
   "overture_id": "7d9f3b1e-1338-49ea-910a-0bbdf9364b30",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://www.oncelkoca.com/tr/about/favicon/128/favicon.png"
  },
  {
   "ad": "Proteza e syrit",
@@ -24661,7 +24909,12 @@
   "mahalle": null,
   "telefon": "(0212) 244 16 61",
   "web": "https://stores.ray-ban.com/turkey/istanbul/istiklal-cd-no-118?y_source=1_MTYyMzc5MjUtNTU5LWxvY2F0aW9uLndlYnNpdGU%3D",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/rayban"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": "no",
@@ -25040,7 +25293,8 @@
   "overture_id": "0853a711-ba81-4bcb-971d-5d4327a08bba",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://www.ruyetoptik.com/img/icon.png"
  },
  {
   "ad": "SAYGIN ÖZLER OPTİK 2",
@@ -25221,7 +25475,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.safiragozluk.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/safirex.eyewear"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -25438,7 +25697,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://saureneyewear.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/baseistanbulagency"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -25451,7 +25715,8 @@
   "overture_id": "9916347a-afc5-48a0-9b1c-86e86be1cb5d",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://saureneyewear.com/wp-content/uploads/2021/04/SAUREN-Logo-247x247.png"
  },
  {
   "ad": "Sayan Optik",
@@ -27979,7 +28244,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://uygunoptik.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/uygun_optik"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -28008,7 +28278,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://uygunoptik.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/uygun_optik"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,

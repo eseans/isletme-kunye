@@ -1798,7 +1798,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.dentaviva.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/dentavivaclinic"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -1811,7 +1816,8 @@
   "overture_id": "5b35a2a1-3ff4-4de2-8744-4938482400b1",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.dentaviva.com.tr/wp-content/uploads/2023/06/cropped-Favicon-180x180.png"
  },
  {
   "ad": "Derin Güzellik Merkezi",

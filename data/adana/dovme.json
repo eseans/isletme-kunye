@@ -374,7 +374,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://bariscoarts.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/bariscoarts"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -387,7 +392,8 @@
   "overture_id": "72ff4b18-e146-45db-90f1-307e843c4686",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://bariscoarts.com/img/logo.png"
  },
  {
   "ad": "Basement Tattoo Studio",
@@ -2114,7 +2120,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.nastattoo.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/nastattootr"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -3221,8 +3232,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://tattoo34.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/tattoo34pdx"
+   }
+  ],
+  "calisma_saatleri": "Mo 00:00-00:00, Tu 00:00-00:00, We 00:00-00:00, Th 00:00-00:00, Fr 00:00-00:00, Sa 00:00-00:00, Su 00:00-00:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 37.0198974609375,

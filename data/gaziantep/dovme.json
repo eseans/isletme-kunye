@@ -442,7 +442,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.gaziantepdovme.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/dalitattoogallery"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -455,7 +460,8 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
-  "overture_id": "333e81ca-5506-471d-aae9-f1d0102d7f1d"
+  "overture_id": "333e81ca-5506-471d-aae9-f1d0102d7f1d",
+  "logo": "https://static.wixstatic.com/media/e3020c_df2c3949bec04416b447efdf09ba4f42%7Emv2.png/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/e3020c_df2c3949bec04416b447efdf09ba4f42%7Emv2.png"
  },
  {
   "ad": "Damla Kuaför",

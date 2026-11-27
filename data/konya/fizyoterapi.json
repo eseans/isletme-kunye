@@ -97,8 +97,13 @@
   "mahalle": null,
   "telefon": "(0332) 244 05 51",
   "web": "http://www.cemrerehabilitasyon.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/cemrerehabilitasyonkonya"
+   }
+  ],
+  "calisma_saatleri": "Mo,Tu,We,Th,Fr,Sa,Su 09:00-17:40",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 37.91753387451172,
@@ -110,7 +115,8 @@
   "overture_id": "b45675c2-bf2a-4d2f-bd32-ee0297894154",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.cemrerehabilitasyon.com/wp-content/uploads/2023/02/cemrelogo1.webp"
  },
  {
   "ad": "Ergoterapi Danismanlik",
@@ -155,8 +161,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.fizyo8.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/fizyo8"
+   }
+  ],
+  "calisma_saatleri": "Mo 09:00-18:00; Tu 09:00-18:00; We 09:00-18:00; Th 09:00-18:00; Fr 09:00-18:00; Sa 09:00-18:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 37.86776351928711,
@@ -168,7 +179,8 @@
   "overture_id": "9416da7f-8a15-4999-9400-0b52d5b05667",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.fizyo8.com/wp-content/uploads/2023/06/cropped-fizyo8_logo.png"
  },
  {
   "ad": "Fizyo Aksu Konya",
@@ -582,7 +594,12 @@
   "mahalle": null,
   "telefon": "(0332) 245 60 60",
   "web": "http://www.carerehabilitasyon.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ozelcarerehabilitasyonmerkezi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -595,6 +612,7 @@
   "overture_id": "d35c0fc0-d705-4208-8ce7-5f6d42c20b5d",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://carerehabilitasyon.com.tr/wp-content/uploads/2025/05/favicon-300x300.png"
  }
 ]

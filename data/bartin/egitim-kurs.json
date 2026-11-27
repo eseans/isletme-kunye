@@ -572,7 +572,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://wonderlanddilokulu.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/wonderlanddilokulu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,

@@ -4932,7 +4932,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://germiyandis.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/germiyandis"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,

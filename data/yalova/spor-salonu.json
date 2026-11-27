@@ -1433,7 +1433,8 @@
   "overture_id": "55bfaaa4-e784-48ae-9f3f-d2ab831bd65c",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://static.wixstatic.com/media/cddc7a_4267a830923749b39286b4f7fd5c3ca0%7Emv2.jpg/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/cddc7a_4267a830923749b39286b4f7fd5c3ca0%7Emv2.jpg"
  },
  {
   "ad": "Bloom Studio Gebze",
@@ -1462,7 +1463,8 @@
   "overture_id": "646b5487-f5f7-4e68-9c0c-2cba19baea60",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://static.wixstatic.com/media/cddc7a_4267a830923749b39286b4f7fd5c3ca0%7Emv2.jpg/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/cddc7a_4267a830923749b39286b4f7fd5c3ca0%7Emv2.jpg"
  },
  {
   "ad": "Bloom Studio Tuzla",
@@ -1491,7 +1493,8 @@
   "overture_id": "33cf015a-2f03-4ae4-8185-861b9d1888c8",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://static.wixstatic.com/media/cddc7a_4267a830923749b39286b4f7fd5c3ca0%7Emv2.jpg/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/cddc7a_4267a830923749b39286b4f7fd5c3ca0%7Emv2.jpg"
  },
  {
   "ad": "Büşra Kaya Değişim Ve Spor Salonu",
@@ -3806,7 +3809,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.fitstation.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/fitstationofficiall"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -8040,9 +8048,14 @@
   "il": null,
   "ilce": "Darıca",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "02163777529",
   "web": "https://playstudyo.fit/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/playstudyo_kurumsal"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,

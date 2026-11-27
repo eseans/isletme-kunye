@@ -946,9 +946,14 @@
   "il": null,
   "ilce": "Develi",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "+90 850 80 80 453",
   "web": "https://www.amerikancakultur.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/amerikankulturofficial"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -962,7 +967,8 @@
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
   "overture_id": "5f285094-8ae0-4206-bccc-01e97779934a",
-  "alt": "dil-kursu"
+  "alt": "dil-kursu",
+  "logo": "https://amerikankultur.com/assets/images/Akdlogo.png"
  },
  {
   "ad": "Develi Amerikan Kültür Yabancı Dil Kursu",
@@ -1258,7 +1264,12 @@
   "mahalle": null,
   "telefon": "(0352) 380 04 44",
   "web": "https://englishtime.com/kayseri",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/englishtimedilokullari"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -1271,7 +1282,8 @@
   "overture_id": "067eabae-cc89-454d-b523-cfcba7b52749",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.englishtime.com/svg/logorenkli.svg"
  },
  {
   "ad": "English.com.tr (İngilizce Dil Kursu)",

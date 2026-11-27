@@ -15366,7 +15366,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.healthinanatolia.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/embed.js"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -22369,8 +22374,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.enverihtiyar.com/takvim/?utm_source=facebook&utm_medium=social&utm_campaign=randevu",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/profdrenverihtiyar"
+   }
+  ],
+  "calisma_saatleri": "Mo 09:00-18:00; Tu 09:00-18:00; We 09:00-18:00; Th 09:00-18:00; Fr 09:00-18:00; Sa 09:00-13:30",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 39.783145904541016,
@@ -22382,7 +22392,8 @@
   "overture_id": "9289b340-9ed0-42c0-acc3-4ea0fb7f05ea",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.enverihtiyar.com/apple-icon.png?8e16f5cd15abc9d7"
  },
  {
   "ad": "Prof. Dr. Hikmet Hassa Üreme Sağlığı Merkezi",
@@ -27132,7 +27143,7 @@
   "il": null,
   "ilce": "Odunpazarı",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "+90 222 224 25 24",
   "web": "http://www.drozlemkeskiner.com/",
   "sosyal": [],
   "calisma_saatleri": null,
@@ -27147,7 +27158,8 @@
   "overture_id": "8fd30787-17f6-4c7a-b998-f3e052298505",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.drozlemkeskiner.com/img/ozlem-keskiner-logo.png"
  },
  {
   "ad": "Uzm. Dr. Şafak Dağlı",
@@ -27264,7 +27276,8 @@
   "overture_id": "10586ade-3786-4352-ac9c-5f3380d24bf4",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://static.wixstatic.com/media/ebc515_e68766e8bd2243f284f90bd8fbe45ed6%7Emv2.png/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/ebc515_e68766e8bd2243f284f90bd8fbe45ed6%7Emv2.png"
  },
  {
   "ad": "Uzm.Dt.Elmas Tüfek Atıcı",
@@ -29342,7 +29355,8 @@
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
   "overture_id": "f1ad6447-63a4-4c7c-b381-3a89db01fb19",
-  "alt": "muayenehane"
+  "alt": "muayenehane",
+  "logo": "https://www.duyumak.com.tr/wp-content/uploads/2026/09/duyumak-favicon.png"
  },
  {
   "ad": "düzce muncurlu AtatürkDevletHastanesi",
@@ -33197,9 +33211,14 @@
   "il": null,
   "ilce": "Tepebaşı",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "0222 221 67 66",
   "web": "http://www.porsukdental.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/porsukdental"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,

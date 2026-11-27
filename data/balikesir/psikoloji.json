@@ -641,7 +641,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.serapsikoloji.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/serapsikoloji"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,

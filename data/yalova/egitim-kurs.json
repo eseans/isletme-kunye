@@ -360,7 +360,12 @@
   "mahalle": null,
   "telefon": "(0262) 644 44 00",
   "web": "http://americanvip.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/americanvipturkey"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -373,7 +378,8 @@
   "overture_id": "cd187de7-6b8e-4e3f-b904-1c78b71521da",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://americanvip.com.tr/upload/settings/logo.webp"
  },
  {
   "ad": "Amerikan Kultur Yabanci Dil Kursu Gemlik",

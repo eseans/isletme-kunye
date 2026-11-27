@@ -1206,8 +1206,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://atiguzelliksalon.shop/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/atiguzelliksalon"
+   }
+  ],
+  "calisma_saatleri": "Mo 09:00-21:00; Tu 09:00-21:00; We 09:00-21:00; Th 09:00-21:00; Fr 09:00-21:00; Sa 09:00-21:00; Su 10:00-19:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 39.778324127197266,
@@ -1219,7 +1224,8 @@
   "overture_id": "bf3b726c-396b-4f8f-a770-cb0493c97c66",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://ati-beauty-center-eskisehir.pesar369.chatgpt.site/images/ati-logo-v2.png"
  },
  {
   "ad": "Aura Güzellik",

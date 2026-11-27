@@ -1001,7 +1001,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://edamakeupstudio.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/edamake_up_studio"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,

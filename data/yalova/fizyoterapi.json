@@ -448,7 +448,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.halilibrahimdurmus.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/uzm_fzt_halilibrahim"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -461,7 +466,8 @@
   "overture_id": "e59cdb12-0043-472b-9361-73ae6afb9bca",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://www.halilibrahimdurmus.com/images/logo.jpg"
  },
  {
   "ad": "Terapi Arat",

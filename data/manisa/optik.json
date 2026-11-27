@@ -1202,7 +1202,12 @@
   "mahalle": null,
   "telefon": "(0236) 238 27 21",
   "web": "http://www.oneroptik.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/oneroptik45"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -1231,7 +1236,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.optikpromosyoncu.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/optikpromosyoncu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -1244,7 +1254,8 @@
   "overture_id": "32d8558b-525b-413c-a8f7-ed1bcd470b35",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://optikpromosyoncu.com/img/logo-optik-promosyoncu.png"
  },
  {
   "ad": "Optikzade Renkli Lens ve Gözlük",

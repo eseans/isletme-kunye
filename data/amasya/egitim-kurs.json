@@ -670,10 +670,15 @@
   "il": null,
   "ilce": "Merzifon",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "+90 (262) 220 00 00",
   "web": "http://americanlife.com.tr/merzifon",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/americanlifecomtr"
+   }
+  ],
+  "calisma_saatleri": "Mo 08:30-20:00; Tu 08:30-20:00; We 08:30-20:00; Th 08:30-20:00; Fr 08:30-20:00; Sa 08:30-20:00; Su 08:30-20:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 40.87796401977539,
@@ -685,7 +690,8 @@
   "overture_id": "d77eb7ef-a591-4b4b-89f8-a27a71db66f3",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://cdn.americanlife.com.tr/wp-content/uploads/2024/10/logo-500px.jpg"
  },
  {
   "ad": "Merzifon Belediyesi Prof. Dr. Türkan Saylan Bilim Kültür Ve Sanat Merkezi",
@@ -1093,7 +1099,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.winchesteracademy.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/winchesterturkiye"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,

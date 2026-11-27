@@ -150,8 +150,13 @@
   "mahalle": null,
   "telefon": "(0262) 311 11 80",
   "web": "https://www.animalistan.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/animalistan"
+   }
+  ],
+  "calisma_saatleri": "Su 10:00-20:00; Mo 09:00-22:00; Tu 09:00-22:00; We 09:00-22:00; Th 09:00-22:00; Fr 10:00-20:00; Sa 09:00-22:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 40.765292348027025,
@@ -163,7 +168,8 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
-  "overture_id": "c4e9e29b-c1d4-43c4-80a5-2df85061e229"
+  "overture_id": "c4e9e29b-c1d4-43c4-80a5-2df85061e229",
+  "logo": "https://animalistan.com/assets/img/icon-192.png"
  },
  {
   "ad": "Animalistan Veteriner Kliniği Değirmendere",
@@ -962,7 +968,12 @@
   "mahalle": null,
   "telefon": "(0262) 239 08 00",
   "web": "http://www.greenpetvet.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/greendogdentalvet"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -1302,7 +1313,12 @@
   "mahalle": null,
   "telefon": "(0262) 322 11 70",
   "web": "http://www.kocaelivho.org.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/kocaelivho"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -1315,7 +1331,8 @@
   "overture_id": "d8dd179a-7f81-46c5-9912-1320adfd46bb",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.kocaelivho.org.tr/wp-content/uploads/2022/04/favicon-16x16-1-300x300.png"
  },
  {
   "ad": "Kocaeli Veteriner Hekimleri Odası",
@@ -1331,7 +1348,12 @@
   "mahalle": null,
   "telefon": "(0262) 322 11 70",
   "web": "http://www.kocaelivho.org.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/kocaelivho"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -1344,7 +1366,8 @@
   "overture_id": "6e534e27-d415-46a8-9399-ebf037386ad0",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.kocaelivho.org.tr/wp-content/uploads/2022/04/favicon-16x16-1-300x300.png"
  },
  {
   "ad": "Konak Veteriner Kliniği",
@@ -2778,7 +2801,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.silehayvanhastanesi.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/silehayvanhastanesi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,

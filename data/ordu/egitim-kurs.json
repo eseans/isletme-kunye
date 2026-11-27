@@ -630,9 +630,14 @@
   "il": null,
   "ilce": "Fatsa",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "4448471",
   "web": "http://americanvip.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/americanvipturkey"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -645,7 +650,8 @@
   "overture_id": "0efa3c28-5c4d-4825-abbb-bbb2bad032f0",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://americanvip.com.tr/upload/settings/logo.webp"
  },
  {
   "ad": "Feza Sürücü Kursu",
@@ -1161,7 +1167,12 @@
   "mahalle": null,
   "telefon": "(0452) 225 01 80",
   "web": "http://americanvip.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/americanvipturkey"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -1175,7 +1186,8 @@
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
   "overture_id": "040b62c1-6b58-4203-b071-edb4f7074424",
-  "alt": "dil-kursu"
+  "alt": "dil-kursu",
+  "logo": "https://americanvip.com.tr/upload/settings/logo.webp"
  },
  {
   "ad": "ORDU TEOL Teaching English On Line",

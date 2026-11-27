@@ -406,7 +406,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.aytemiz.com.tr",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/AytemizOfficial"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -1779,7 +1784,8 @@
   "overture_id": "6d1d69d6-90a6-496e-9afd-0461e3d04ab9",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://derelihalisaha.click2stream.com/apple-icon.png?apple-icon.0-w3g79mc_mei.png"
  },
  {
   "ad": "Karagöl Dağı 3107 m",
@@ -1795,7 +1801,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://ordudagcilik.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ordudagcilik"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,

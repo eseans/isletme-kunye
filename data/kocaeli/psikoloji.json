@@ -472,7 +472,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://uzmanklinikpsikologaleynaavci.com/?fbclid=PAdGRleAN1quRleHRuA2FlbQIxMQABp4uwfAOgfkFnI_817ff5pHtDK-QNQMr6CcEgHG_1w9uRQAjkppOwp9UYJwPr_aem_vPjMhlR2iuRbaiGc4fhxog",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/klinikpsikologaleynaavci"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -485,7 +490,8 @@
   "overture_id": "485be730-af55-44e6-873d-121b4385ffe5",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://uzmanklinikpsikologaleynaavci.com/_assets/images/725b756a69a7d4c235070e51acd85560.png"
  },
  {
   "ad": "Kocaeli Cadde Psikoteknik Değerlendirme Merkezi",
@@ -879,8 +885,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://psikolojizmit.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/psikolojiizmit"
+   }
+  ],
+  "calisma_saatleri": "Mo 09:00-19:00; Tu 09:00-19:00; We 09:00-19:00; Th 09:00-19:00; Fr 09:00-19:00; Sa 09:00-17:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 40.77560043334961,
@@ -892,7 +903,8 @@
   "overture_id": "bc93fb53-3ac6-4656-9137-a71aa204d291",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://psikolojizmit.com/assets/logo.webp"
  },
  {
   "ad": "Psikolojik Danışman Rüveyda Çakır",

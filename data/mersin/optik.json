@@ -1202,7 +1202,12 @@
   "mahalle": null,
   "telefon": "(0324) 331 56 15",
   "web": "http://www.gozgrup.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/gozgrup"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -1215,7 +1220,8 @@
   "overture_id": "a89fa69b-2958-4ccf-ad46-74534358b2ba",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.gozgrup.com.tr/images/gozgrup.png"
  },
  {
   "ad": "Goz Optik",

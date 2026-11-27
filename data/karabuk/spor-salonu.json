@@ -737,7 +737,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.esformsports.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/esformofficial"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,

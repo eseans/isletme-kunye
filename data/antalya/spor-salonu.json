@@ -489,7 +489,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.4x4sportcenter.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/4x4sportcenter.uncali"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -503,7 +508,8 @@
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
   "overture_id": "1938ddc1-de89-41f5-a69c-921bf3630d43",
-  "alt": "fitness"
+  "alt": "fitness",
+  "logo": "https://www.4x4sportcenter.com/assets/brand/icon-512.png"
  },
  {
   "ad": "4X4 Sport Center Döşemealtı",
@@ -684,7 +690,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://777sportscenter.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/777sportscenter"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -698,7 +709,8 @@
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
   "overture_id": "4af53147-93a6-4705-a293-6c83e2f25b39",
-  "alt": "fitness"
+  "alt": "fitness",
+  "logo": "https://777sportscenter.com.tr/wp-content/uploads/2025/10/cropped-777-spor-logo-fav-180x180.png"
  },
  {
   "ad": ">",
@@ -1751,7 +1763,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.challengingadventure.com/tukrey",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/challengingadventure"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -1764,7 +1781,8 @@
   "overture_id": "037a6161-3842-4061-b981-ee993d04d908",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://static.wixstatic.com/media/8ebccf_9b44ea90f9ee46d0b79bfc58307fcb56%7Emv2.jpg/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/8ebccf_9b44ea90f9ee46d0b79bfc58307fcb56%7Emv2.jpg"
  },
  {
   "ad": "Adventurepark Manavgat",
@@ -1944,8 +1962,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.aifasporokullari.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/aifayazsporokulu"
+   }
+  ],
+  "calisma_saatleri": "Mo 09:00-20:00; Tu 09:00-20:00; We 09:00-20:00; Th 09:00-20:00; Fr 09:00-20:00; Sa 09:00-20:00; Su 09:00-20:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 36.890621185302734,
@@ -1957,7 +1980,8 @@
   "overture_id": "0ccf9676-b116-4ff4-8a2e-3ec89abca369",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://aifasporokullari.com/logo.png"
  },
  {
   "ad": "Aifa Futbol Okulu Varsak",
@@ -1973,8 +1997,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.aifasporokullari.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/aifayazsporokulu"
+   }
+  ],
+  "calisma_saatleri": "Mo 09:00-20:00; Tu 09:00-20:00; We 09:00-20:00; Th 09:00-20:00; Fr 09:00-20:00; Sa 09:00-20:00; Su 09:00-20:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 36.893558502197266,
@@ -1986,7 +2015,8 @@
   "overture_id": "6df3e648-83b0-49d7-8313-0ffb3a53eec2",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://aifasporokullari.com/logo.png"
  },
  {
   "ad": "Aikido Aikizen Dojo",
@@ -2002,7 +2032,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.aikizendojo.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/aikidoaikizendojo"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -2173,7 +2208,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.akasporkulubu.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/akasporkulubu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -2231,7 +2271,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.akademigsk.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/akademigsk"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -2330,7 +2375,8 @@
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
   "overture_id": "9a4fd2f9-d7b7-439b-a721-75e7f19e875d",
-  "alt": "fitness"
+  "alt": "fitness",
+  "logo": "https://static.wixstatic.com/media/51916d_293a8d8128394d72b6660791e0684698%7Emv2.jpg/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/51916d_293a8d8128394d72b6660791e0684698%7Emv2.jpg"
  },
  {
   "ad": "Akdeniz Akademi Extra Spor Merkezi",
@@ -2433,7 +2479,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://akdenizbilgi.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/akdenizbilgisporkulubu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -2446,7 +2497,8 @@
   "overture_id": "bbe0aa64-56f3-482a-9d7c-32660aa478c1",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://akdenizbilgi.com/wp-content/uploads/2024/10/akdenizbilgi-logo-300x300.png"
  },
  {
   "ad": "Akdeniz Kaplanları",
@@ -2519,7 +2571,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://sporbilimleri.akdeniz.edu.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/akdenizsporbilimleri"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -2548,7 +2605,12 @@
   "mahalle": null,
   "telefon": "(0242) 310 20 86",
   "web": "http://sks.akdeniz.edu.tr/spor-isletmeleri-mud-",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/akdenizsks"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -4057,7 +4119,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "www.antalyaspor.com.tr",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/antalyaspor"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -4070,7 +4137,8 @@
   "overture_id": "59d856c0-6b33-4dea-ba7a-ba7f10a0171d",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.antalyaspor.com.tr/apple-touch-icon.png"
  },
  {
   "ad": "Antalya Atatürk Kapalı Spor Salonu",
@@ -4171,7 +4239,12 @@
   "mahalle": null,
   "telefon": "(0242) 349 77 22",
   "web": "http://www.poligonum.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/antalyaatispoligonu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -4184,7 +4257,8 @@
   "overture_id": "005a9cc6-78e6-4bd1-a49c-3aff8fa829f7",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://poligonum.com/wp-content/uploads/2025/09/logo-1.png"
  },
  {
   "ad": "Antalya Ayyıldız Akademisi",
@@ -4881,7 +4955,12 @@
   "mahalle": null,
   "telefon": "(0242) 227 72 22",
   "web": "http://www.antalyaokculartekkesi.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/okcular_tekkesi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -5064,7 +5143,8 @@
   "overture_id": "d64f52b2-98a5-4e76-92a1-3ef0e03f8b47",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://antalyasafari.com/wp-content/uploads/2024/03/cropped-antalya-safari-logo-180x180.png"
  },
  {
   "ad": "Antalya Spor 07 Genclik Taraftar Dernegi",
@@ -5400,7 +5480,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "www.yelkencafe.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/yelkenrestaurantayvalik"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -5413,7 +5498,8 @@
   "overture_id": "95ff85de-e8f9-4497-9779-df0fabfb4f29",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://bridge240.qodeinteractive.com/wp-content/themes/bridge/img/favicon.ico"
  },
  {
   "ad": "Antalya Yoga",
@@ -5485,7 +5571,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.antalyayoga.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/antalyayoga"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -5498,7 +5589,8 @@
   "overture_id": "37d83286-585a-41b9-a1c0-67156e936ac2",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.antalyayoga.com.tr/wp-content/uploads/2024/04/antalya-yoga-black.png"
  },
  {
   "ad": "Antalya Yüzme Spor Kulübü",
@@ -8890,7 +8982,8 @@
   "overture_id": "5440c689-0d23-4cd9-acaf-4928eb74cf40",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://belekgolfacademy.com/uploads/resim/logo1718004579.png"
  },
  {
   "ad": "Belek Halı Saha",
@@ -9441,7 +9534,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://biggym.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/biggymeskisehir"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -9454,7 +9552,8 @@
   "overture_id": "98fd749d-1bec-4913-b89a-51a4ac85cdc5",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://biggym.com.tr/wp-content/uploads/2021/02/logo-big.png"
  },
  {
   "ad": "Bilek Guresi Turkiye Sampiyonasi",
@@ -10494,7 +10593,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://capellapilates.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/capella.pilates"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -11089,7 +11193,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.cingoz.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/cingozgunduzbakimevi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -11102,7 +11211,8 @@
   "overture_id": "9ee870e4-be67-4e9e-a466-9527c31916b4",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://cingoz.com.tr/images/cingoz/cingoz.webp"
  },
  {
   "ad": "City Club Fitness Merkezi",
@@ -11561,9 +11671,14 @@
   "il": null,
   "ilce": "Muratpaşa",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "+902423220000",
   "web": "https://www.nirvanahotels.com.tr/en/cosmo-fit",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/nirvanahotels"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -11576,7 +11691,8 @@
   "overture_id": "93716359-787b-498c-804c-cf1b06c0fb35",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.nirvanahotels.com.tr/favicon/apple-icon-180x180.png"
  },
  {
   "ad": "Cosmos Pilates",
@@ -11660,7 +11776,8 @@
   "overture_id": "02c04d47-911b-468e-95c2-f6473b8fa1a8",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://cdn.myikas.com/images/6950da4f-7a12-4fd8-8d52-d3e13561448d/cdafd0b9-a209-42be-8d95-9aa5a167979a/image_1080.webp"
  },
  {
   "ad": "Cristal Family Fitness Center",
@@ -12479,7 +12596,12 @@
   "mahalle": null,
   "telefon": "(0850) 304 77 44",
   "web": "https://www.dncfitness.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/dnc.fitness"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -12492,7 +12614,8 @@
   "overture_id": "de98ac16-4685-4cb1-8d77-198a259840cd",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.dncfitness.com/images/icons/apple-touch-icon-57x57.png"
  },
  {
   "ad": "DR GYM",
@@ -12586,7 +12709,8 @@
   "overture_id": "5e84b1ff-79d4-4e01-ac96-6e7b09859a90",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://static.parastorage.com/client/pfavico.ico"
  },
  {
   "ad": "Daima Biz resort hotel Tenis Kortu",
@@ -12847,7 +12971,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://demirpencesportcenter.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/demirpencesportcenter"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -13102,7 +13231,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.dincalyagym.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/dincalyagymworld"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -13551,8 +13685,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.duyguademoglu.com.tr/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/duyguademoglupilates"
+   }
+  ],
+  "calisma_saatleri": "Mo 09:00-21:00; Tu 09:00-21:00; We 09:00-21:00; Th 09:00-21:00; Fr 09:00-21:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 36.87001875310538,
@@ -13565,7 +13704,8 @@
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
   "overture_id": "8be13304-93e2-4780-a123-2e6498e2f70d",
-  "alt": "pilates"
+  "alt": "pilates",
+  "logo": "https://duyguademoglu.com.tr/assets/frontend/images/logo.png"
  },
  {
   "ad": "Dyadom Resort Fitness Center",
@@ -15106,7 +15246,12 @@
   "mahalle": null,
   "telefon": "(0242) 345 44 45",
   "web": "http://www.bodybuilding.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/bodybuildingcom"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -15120,7 +15265,8 @@
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
   "overture_id": "66eee43e-11e4-47e7-9ab4-549c1aad1fd6",
-  "alt": "fitness"
+  "alt": "fitness",
+  "logo": "http://shop.bodybuilding.com/cdn/shop/files/favicon-64x64.png?crop=center&height=180&v=1793960565&width=180"
  },
  {
   "ad": "Enes Halısaha Büyük Kapalı Saha",
@@ -18450,7 +18596,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.fizikobaby.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/fizikobaby"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -18643,7 +18794,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "www.fizyolara.com",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/fizyolarasaglik"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -18657,7 +18813,8 @@
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
   "overture_id": "a86093e0-6fa6-4d5d-a0eb-364ce92efe35",
-  "alt": "pilates"
+  "alt": "pilates",
+  "logo": "https://www.fizyolara.com/images/demo/fizyolaraicon.png"
  },
  {
   "ad": "FizyoTalya Saglikli Yasam Merkezi",
@@ -19777,7 +19934,12 @@
   "mahalle": null,
   "telefon": "(0242) 259 06 06",
   "web": "http://www.gymfactory.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/gymfactorytr"
+   }
+  ],
   "calisma_saatleri": null,
   "lat": 36.8883577,
   "lng": 30.6250668,
@@ -20510,7 +20672,12 @@
   "mahalle": null,
   "telefon": "(0242) 710 50 00",
   "web": "http://www.gloriasportsarena.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/gloriasportsarena"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -20523,7 +20690,8 @@
   "overture_id": "cacb0462-806b-4bd5-9be4-e4c30114bfff",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://www.gloriasportsarena.com.tr/images/favicon/apple-touch-icon.png"
  },
  {
   "ad": "Go Kart",
@@ -21721,7 +21889,12 @@
   "mahalle": null,
   "telefon": "(0242) 321 21 87",
   "web": "http://www.gymfactory.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/gymfactorytr"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -21750,7 +21923,12 @@
   "mahalle": null,
   "telefon": "(0242) 324 00 07",
   "web": "http://www.gymfactory.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/gymfactorytr"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -22484,7 +22662,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.hunabcrossfitness.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/hunabcrossfitness"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -22497,7 +22680,8 @@
   "overture_id": "41d6a5b1-50ec-47f3-a274-c638f6486843",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://static.wixstatic.com/media/921124_b6602db0a90e4bf6a911cfc3a6244213%7Emv2.png/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/921124_b6602db0a90e4bf6a911cfc3a6244213%7Emv2.png"
  },
  {
   "ad": "Ha Salon Exclusive",
@@ -23330,7 +23514,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.hobimexpress.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/www_hobimexpress_com"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -23343,7 +23532,8 @@
   "overture_id": "175eae7d-beed-4a62-b193-8e341abb5b13",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.hobimexpress.com/wp-content/uploads/2021/01/sosyal-logo.png"
  },
  {
   "ad": "HocusFocus Fitness Center",
@@ -24340,7 +24530,12 @@
   "mahalle": null,
   "telefon": "(0850) 309 30 09",
   "web": "https://www.jovenemsfitness.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/jovenemsfitness"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -24353,7 +24548,8 @@
   "overture_id": "952dede3-c382-4181-a32f-dffa7489a686",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://jovenemsfitness.com/storage/2021/05/cropped-free-image-resizer-cropper-180x180.png"
  },
  {
   "ad": "JOYA'S GYM SPORT'S CLUB",
@@ -24454,7 +24650,12 @@
   "mahalle": null,
   "telefon": "(0850) 309 30 09",
   "web": "http://www.jovenemsfitness.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/jovenemsfitness"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -24467,7 +24668,8 @@
   "overture_id": "ed16eee7-a8c5-4fbc-b240-ff666c1fdce4",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://jovenemsfitness.com/storage/2021/05/cropped-free-image-resizer-cropper-180x180.png"
  },
  {
   "ad": "Joven Fitness Club Gebizli Adalya",
@@ -24483,7 +24685,12 @@
   "mahalle": null,
   "telefon": "(0850) 309 30 09",
   "web": "https://jovenemsfitness.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/jovenemsfitness"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -24496,7 +24703,8 @@
   "overture_id": "69360d3a-fbde-483e-b2c3-570ac76cf1da",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://jovenemsfitness.com/storage/2021/05/cropped-free-image-resizer-cropper-180x180.png"
  },
  {
   "ad": "Joya Fitness Club",
@@ -24791,7 +24999,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://kangooclubturkey.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/kangooclub.turkey"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -24804,7 +25017,8 @@
   "overture_id": "2d1a9dc0-ffba-4126-a641-cb33905166a2",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://kangooclubturkey.com/wp-content/uploads/2025/10/cropped-cropped-new_kangoo_color-1-e1738067688710.webp"
  },
  {
   "ad": "Kangoo Clup Manavgat",
@@ -24874,7 +25088,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.karapanterkarate.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/wix"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -24887,7 +25106,8 @@
   "overture_id": "2d31e27a-adbe-4a86-82b4-92711a0b751c",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://static.wixstatic.com/media/3d5816_eb1bf79e044948b3870c85088bb80053%7Emv2.jpg/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/3d5816_eb1bf79e044948b3870c85088bb80053%7Emv2.jpg"
  },
  {
   "ad": "Karatepe Koyu Dernegi",
@@ -26509,7 +26729,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.kuyik.net/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/kuyikyuzme"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -26522,7 +26747,8 @@
   "overture_id": "33ee758b-4661-4ea6-ad85-5054e4ba8d82",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://kuyik.net/assets/frontend/images/Kuyik-Kulac-Yuzme-Ihtisas-Kulubu-Logo.svg"
  },
  {
   "ad": "Kulaç Yüzme İhtisas Kulübü",
@@ -26538,7 +26764,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.kuyik.net/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/kuyikyuzme"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -26551,7 +26782,8 @@
   "overture_id": "875dabd0-7502-4fc2-bb7b-5bd998bfbe8f",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://kuyik.net/assets/frontend/images/Kuyik-Kulac-Yuzme-Ihtisas-Kulubu-Logo.svg"
  },
  {
   "ad": "Kumluca Kapalı Spor Salonu",
@@ -30732,7 +30964,12 @@
   "mahalle": null,
   "telefon": "(0242) 321 33 89",
   "web": "http://monklifeclub.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/monklifeclub"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -30894,7 +31131,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.mozaikantalya.com/fitness",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/lapazcoffeeshop"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -30907,7 +31149,8 @@
   "overture_id": "4a95af33-a818-4bb0-9d18-b4ef5519e7ef",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://static.wixstatic.com/media/a85cc1_5d42e2e0b38c4216be4f025f74600339%7Emv2.png/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/a85cc1_5d42e2e0b38c4216be4f025f74600339%7Emv2.png"
  },
  {
   "ad": "Mr.Jab",
@@ -31320,7 +31563,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.aikizendojo.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/aikidoaikizendojo"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -31507,7 +31755,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://mylifepilates.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/mylifepilatesprtstudio"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -31521,7 +31774,8 @@
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
   "overture_id": "9f48dcce-d3f8-4e30-b7ae-0d47a7d69de4",
-  "alt": "fitness"
+  "alt": "fitness",
+  "logo": "https://mylifepilates.com/wp-content/uploads/2026/08/cropped-mylife-pilates-logo-180x180.png"
  },
  {
   "ad": "My Power Fitness",
@@ -32424,7 +32678,8 @@
   "overture_id": "b52ab7c9-8041-40a8-87d4-aa877dc2d664",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.noushere.com/wp-content/uploads/2021/01/cropped-Adsiz-tasarim-6-1-180x180.png"
  },
  {
   "ad": "Nova Fitness",
@@ -33106,7 +33361,8 @@
   "overture_id": "77b3a9dc-05c9-419d-9d82-3d34e6770fd1",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://www.orcanspor.com/apple-icon-57x57.png"
  },
  {
   "ad": "Ortombo Arena",
@@ -33120,9 +33376,14 @@
   "il": null,
   "ilce": "Muratpaşa",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "02424555111",
   "web": "https://www.ortombo.com/ortombo-arena-eglence-merkezi-c-44",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ortombo"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -33205,7 +33466,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.ovvoyoga.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ovvoyoga"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -33218,7 +33484,8 @@
   "overture_id": "61862135-b2c6-4cc4-b153-718db7c2c1b9",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.ovvoyoga.com/wp-content/uploads/2022/04/logog.jpg"
  },
  {
   "ad": "Oxygen Fitness Club",
@@ -34125,7 +34392,12 @@
   "mahalle": null,
   "telefon": "(0242) 710 09 00",
   "web": "http://www.papillon.com.tr/TR/Papillon-Sports-Center/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/papillonhotels"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -34138,7 +34410,8 @@
   "overture_id": "3a1c8123-8a4f-41da-a1bf-b6b197ddbb48",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://papillon.com.tr/wp-content/uploads/2025/06/cropped-icon-180x180.png"
  },
  {
   "ad": "Papillon Tennis Court",
@@ -35842,9 +36115,14 @@
   "il": null,
   "ilce": "Konyaaltı",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "02163777529",
   "web": "https://playstudyo.fit/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/playstudyo_kurumsal"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -36368,7 +36646,12 @@
   "mahalle": null,
   "telefon": "(0850) 532 78 96",
   "web": "http://www.poseidonspor.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/poseidon_sport_center"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -36381,7 +36664,8 @@
   "overture_id": "ecfa23d2-82af-4ec3-8277-37bf1df8f426",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.poseidonspor.com/wp-content/uploads/2019/09/logo.png"
  },
  {
   "ad": "Power Bear Fitness Center",
@@ -37774,7 +38058,12 @@
   "mahalle": null,
   "telefon": "(0242) 249 11 21",
   "web": "http://www.ramadaplazaantalya.com/default.asp?ramada=SPA%20&id=476&catid=1&%20Fitness=&islem=menudetay&menuID=476",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ramadaplazabywyndhamantalya"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -39395,7 +39684,12 @@
   "mahalle": null,
   "telefon": "(0242) 312 03 13",
   "web": "http://www.yesimguralp.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/waktogel_official"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -39408,7 +39702,8 @@
   "overture_id": "898cb835-69f7-40db-88ea-37b18b57d2a3",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://veldrive.com/VreyoLtF/wakloggo.webp"
  },
  {
   "ad": "Satva Yoga ve Terapi Merkezi",
@@ -39424,7 +39719,12 @@
   "mahalle": null,
   "telefon": "(0242) 312 03 13",
   "web": "http://www.yesimguralp.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/waktogel_official"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -39437,7 +39737,8 @@
   "overture_id": "324186e3-78ae-4e91-9108-58d1221cae09",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://veldrive.com/VreyoLtF/wakloggo.webp"
  },
  {
   "ad": "Satva yoga ve terapi merkezi",
@@ -40680,7 +40981,12 @@
   "mahalle": null,
   "telefon": "(0242) 763 85 01",
   "web": "http://www.sidestarhotels.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/sidestarhotels"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -40994,7 +41300,8 @@
   "overture_id": "edcfaf62-b987-47e7-a6c0-0dd13c353e91",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://static.parastorage.com/client/pfavico.ico"
  },
  {
   "ad": "Smoke Gym",
@@ -46222,8 +46529,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.transformgym.com.tr/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/transformgymantalya"
+   }
+  ],
+  "calisma_saatleri": "Mo 09:00-23:00; Tu 09:00-23:00; We 09:00-23:00; Th 09:00-23:00; Fr 09:00-23:00; Sa 09:00-23:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 36.91401672363281,
@@ -46235,7 +46547,8 @@
   "overture_id": "2c99d050-3b07-4b7d-80d7-74e32692d38e",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.transformgym.com.tr/images/icons/apple-touch-icon.png"
  },
  {
   "ad": "Trona GYM",
@@ -46750,7 +47063,8 @@
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
   "overture_id": "3ef1a7f0-4a91-4f1f-b6e7-b9c1d90d2b6c",
-  "alt": "fitness"
+  "alt": "fitness",
+  "logo": "https://static.parastorage.com/client/pfavico.ico"
  },
  {
   "ad": "U2 Pilates Club",
@@ -46835,7 +47149,8 @@
   "overture_id": "ffba0892-f411-4db0-b863-aa9f10d406f7",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://static.parastorage.com/client/pfavico.ico"
  },
  {
   "ad": "U2 Pilates Club Konyaaltı",
@@ -46864,7 +47179,8 @@
   "overture_id": "a60c5b81-a4fc-4f02-9a5f-9064a02d8008",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://static.parastorage.com/client/pfavico.ico"
  },
  {
   "ad": "U2 Pilates Club Yeşilbahçe",
@@ -46893,7 +47209,8 @@
   "overture_id": "4ad5885a-fe3c-4017-adab-ca0ee273f112",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://static.parastorage.com/client/pfavico.ico"
  },
  {
   "ad": "UK Pilates",

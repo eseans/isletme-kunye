@@ -1524,8 +1524,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.dentalcarekusadasi.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/dentalcare_kusadasi"
+   }
+  ],
+  "calisma_saatleri": "Mo 08:00-19:00; Tu 08:00-19:00; We 08:00-19:00; Th 08:00-19:00; Fr 08:00-19:00; Sa 08:00-19:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 37.85873794555664,
@@ -1537,7 +1542,8 @@
   "overture_id": "c2702006-8ceb-4e90-a1c1-1b3df13dd3c4",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://static.wixstatic.com/media/315a3b_d765f914b86a4f53a35ba6228291b461%7Emv2.png/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/315a3b_d765f914b86a4f53a35ba6228291b461%7Emv2.png"
  },
  {
   "ad": "Dentasey Uğur Erçiftçi Diş Kliniği",
@@ -3704,7 +3710,8 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
-  "overture_id": "b58dfba1-bac0-41b3-b48e-0f4112c8a0af"
+  "overture_id": "b58dfba1-bac0-41b3-b48e-0f4112c8a0af",
+  "logo": "https://dtgulfidanduran.com/tooth-icon.svg"
  },
  {
   "ad": "Diş Hekimi Gürsel Özkoç",

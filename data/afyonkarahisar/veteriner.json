@@ -341,7 +341,12 @@
   "mahalle": null,
   "telefon": "(0272) 214 01 18",
   "web": "http://anadoluved.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/anadoluved"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -354,7 +359,8 @@
   "overture_id": "8fb9d488-8f5d-49c8-91a8-b6479a4794d8",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://static.parastorage.com/client/pfavico.ico"
  },
  {
   "ad": "Artıpati Veteriner Kliniği",
@@ -2693,7 +2699,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.cavdaret.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/cavdaret"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,

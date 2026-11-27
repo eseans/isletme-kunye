@@ -626,7 +626,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.medyacizgi.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/cizgimedya"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,

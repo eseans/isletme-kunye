@@ -44052,7 +44052,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.denizsalon.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/salondenizman"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,

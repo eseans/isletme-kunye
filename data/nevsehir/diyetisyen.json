@@ -298,7 +298,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.onemoreinternational.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/onemoreinternational"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -311,7 +316,8 @@
   "overture_id": "7fcc551f-0b42-4017-89cf-20fc70210a07",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.onemoreinternational.com/wp-content/uploads/2023/01/logo-icon.png"
  },
  {
   "ad": "Onemore Nevşehir",
@@ -327,7 +333,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.onemoreinternational.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/onemoreinternational"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -340,6 +351,7 @@
   "overture_id": "da234c5f-82d5-4f1a-9cf0-a26d0357b573",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.onemoreinternational.com/wp-content/uploads/2023/01/logo-icon.png"
  }
 ]

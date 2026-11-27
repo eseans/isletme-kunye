@@ -100,8 +100,13 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.kepekcioptik.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/kepekcioptik"
+   }
+  ],
+  "calisma_saatleri": "Mo 08:00-19:00; Tu 08:00-19:00; We 08:00-19:00; Th 08:00-19:00; Fr 08:00-19:00; Sa 08:00-19:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 36.71461868286133,
@@ -113,7 +118,8 @@
   "overture_id": "1bce6113-f21a-4027-a32b-ea4b86281855",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://cdn.myikas.com/images/56f7be34-3b4d-4237-866a-095dfdd960e7/3c6e8a7a-2f19-4e8e-9f07-ddac88045f54/image_1080.webp"
  },
  {
   "ad": "Melek Optik",

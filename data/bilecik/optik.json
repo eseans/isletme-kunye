@@ -13,7 +13,12 @@
   "mahalle": null,
   "telefon": "(0224) 715 49 99",
   "web": "https://akanoptikk.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/aknoptk"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -26,7 +31,8 @@
   "overture_id": "867f4318-ea58-474e-910b-35f0534da7ef",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://akanoptikk.com/assets/img/logo-512.webp"
  },
  {
   "ad": "Akan Optik",
@@ -490,7 +496,8 @@
   "overture_id": "b4c9e6f0-53e5-4e6e-9276-048de926afcc",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://www.ozlemoptik.com/site-assets/uploads/2026/08/cropped-logo-180x180.jpg"
  },
  {
   "ad": "Rana Optik",

@@ -3450,7 +3450,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.erzurumdoguprotez.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/erzurumdoguprotez"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,

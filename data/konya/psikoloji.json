@@ -333,7 +333,12 @@
   "mahalle": null,
   "telefon": "(0332) 221 02 21",
   "web": "http://www.ktoevm.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ktoevm"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -617,9 +622,14 @@
   "il": null,
   "ilce": "Selçuklu",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "+90 850 333 0388",
   "web": "https://www.psikologmerveaslan.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/klinik.psikolog.merve.d.aslan"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -632,7 +642,8 @@
   "overture_id": "24ca6eed-4055-42d4-9690-ead3ee8085d1",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.psikologmerveaslan.com/img/favicons/favicon_60x60.png?v=697258ba998a6ccc998559b48d226a2d"
  },
  {
   "ad": "Marsel Psikolojik Danışmanlık",
@@ -1467,7 +1478,8 @@
   "overture_id": "eb362112-896b-4620-8d43-47b0be626b20",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://cdn.pratikyazilim.com/muhasebe-site/img/favicon.ico"
  },
  {
   "ad": "Tüllü Baba Dergahı",
@@ -1798,7 +1810,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.aypsikoloji.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ay_psikoloji"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -1811,7 +1828,8 @@
   "overture_id": "b71eb960-452d-46f7-aceb-8d19423b89c9",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.aypsikoloji.com/apple-touch-icon.png"
  },
  {
   "ad": "konyamavipsikoloji",

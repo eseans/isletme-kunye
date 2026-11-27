@@ -2977,7 +2977,12 @@
   "mahalle": null,
   "telefon": "(0286) 214 43 43",
   "web": "https://ydsacademy.com/canakkale/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ydsacademyturkey"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -2990,7 +2995,8 @@
   "overture_id": "938655be-92e7-4396-8ab1-d8e0da60f15b",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://ydsacademy.com/wp-content/uploads/2018/05/yds-logo-01-1.png"
  },
  {
   "ad": "Yabancı Diller Yüksekokulu",

@@ -150,7 +150,12 @@
   "mahalle": null,
   "telefon": "(0416) 216 15 27",
   "web": "http://www.soforlersurucukursu.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/soforlersurucukursu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -592,7 +597,12 @@
   "mahalle": null,
   "telefon": "(0416) 216 16 96",
   "web": "http://www.dogrucevap.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/dogrucevapgenelmerkez"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -605,7 +615,8 @@
   "overture_id": "109fb759-9c3a-493a-adeb-52acfd8ba02b",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://dogrucevap.ventedu.com/storage/images/logos/site_favicon_tr_1664710749.png"
  },
  {
   "ad": "Eğiten Birlik Sürücü Kursu",

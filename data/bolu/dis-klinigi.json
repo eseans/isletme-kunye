@@ -539,7 +539,7 @@
   "telefon": "(0374) 215 80 80",
   "web": "http://dentbolu.com/",
   "sosyal": [],
-  "calisma_saatleri": null,
+  "calisma_saatleri": "Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday 09:00-17:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 40.73907561265913,
@@ -551,7 +551,8 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
-  "overture_id": "409c8f33-0888-4b5b-80ae-a7eec524eabe"
+  "overture_id": "409c8f33-0888-4b5b-80ae-a7eec524eabe",
+  "logo": "https://dentbolu.com/wp-content/uploads/2022/01/logo.svg"
  },
  {
   "ad": "Dentestetik Diş Estetiği Ve İmplant Polikliniği",
@@ -1653,8 +1654,13 @@
   "mahalle": null,
   "telefon": "(0374) 215 43 33",
   "web": "http://www.klinik14.com/",
-  "sosyal": [],
-  "calisma_saatleri": null,
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/boluklinik14"
+   }
+  ],
+  "calisma_saatleri": "Mo 09:00-18:00; Tu 09:00-18:00; We 09:00-18:00; Th 09:00-18:00; Fr 09:00-18:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 40.7327995300293,
@@ -1666,7 +1672,8 @@
   "overture_id": "856ec0b3-f1e2-4e5d-b2e0-ee3958f8b6c2",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://klinik14.com/uploads/site/ec47407488845a62.png"
  },
  {
   "ad": "Manzaralı klinik",
@@ -1903,7 +1910,12 @@
   "mahalle": null,
   "telefon": "(0374) 217 99 55",
   "web": "http://www.bolubeyazdis.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/bolubeyazdis"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -1916,7 +1928,8 @@
   "overture_id": "d2c5de04-7205-4daa-b5a1-87bdf6f9f0ea",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://www.bolubeyazdis.com/images/apple-touch-icon.png"
  },
  {
   "ad": "Rahime Dedeoğlu",

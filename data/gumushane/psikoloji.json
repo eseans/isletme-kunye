@@ -42,7 +42,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.PsikologKamer.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/psikolog.kamer"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -55,7 +60,8 @@
   "overture_id": "b5f1b47f-dd1a-4fee-987f-7ca166d1313d",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://psikologkamer.com/wp-content/uploads/2022/03/creattion-demo.regular-1.webp"
  },
  {
   "ad": "Psikolog Seda Turhan",
@@ -71,7 +77,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.gumushane.gen.tr/yks-tercih-surecinde-dikkat-edilmesi-gerekenler-makale,2997.html",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/gumushane"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -84,6 +95,7 @@
   "overture_id": "17a25d3d-c713-46eb-b670-2453d99a2064",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.gumushane.gen.tr/uploads/logos/logo-1784404534.jpg"
  }
 ]

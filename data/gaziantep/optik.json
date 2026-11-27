@@ -622,7 +622,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.eyupoptik.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/eyupoptik"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -635,7 +640,8 @@
   "overture_id": "dc62d76e-3743-4a30-9792-5cda65ba2d4b",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://www.eyupoptik.com/images/favicon.png"
  },
  {
   "ad": "Erman Optik",
@@ -1028,7 +1034,12 @@
   "mahalle": null,
   "telefon": "(0342) 320 03 03",
   "web": "http://www.kahramanoptik.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/kahramanoptik"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -1432,9 +1443,14 @@
   "il": null,
   "ilce": "Şehitkamil",
   "mahalle": null,
-  "telefon": null,
+  "telefon": "+903422204022",
   "web": "https://ottasoptik.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/ottasoptik"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -1550,7 +1566,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.drseyhmusari.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/drseyhmusari"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -1563,7 +1584,8 @@
   "overture_id": "8dd8f079-b886-4ee4-876f-80cd19608620",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.drseyhmusari.com/wp-content/uploads/2023/03/Prof.-Dr.-Seyhmus-Ari-HK-2.jpg"
  },
  {
   "ad": "Real Optik",
@@ -1621,7 +1643,8 @@
   "overture_id": "67f33db8-9135-4090-9171-ebd341011aab",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://static.parastorage.com/client/pfavico.ico"
  },
  {
   "ad": "Sarı Gül Optik",
@@ -1666,7 +1689,12 @@
   "mahalle": null,
   "telefon": "(0850) 202 77 50",
   "web": "https://www.schroderhealth.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/schroderhp"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -1679,7 +1707,8 @@
   "overture_id": "1de0246a-e042-4e78-889e-044e7525e7c4",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.schroderhealth.com/media/48fb5400601a7788bf95166db0df431151565e6c0c4a324b0076cb9bad730391.png"
  },
  {
   "ad": "Servet Saat and Optik",

@@ -421,7 +421,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://aysegulaydin.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/izmitcocukdishekimi"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -434,7 +439,8 @@
   "overture_id": "9b9b1d4a-e97e-4fe0-9fa5-91cc3ef16a9a",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://aysegulaydin.com.tr/apple-touch-icon.png"
  },
  {
   "ad": "Ağız Diş sağlığı",
@@ -2285,7 +2291,12 @@
   "mahalle": null,
   "telefon": "(0262) 321 43 33",
   "web": "http://www.dtmehtapuysalbilginoglu.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/dtmehtapuysalbilginoglu"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -2298,7 +2309,8 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
-  "overture_id": "3663ba7e-923f-42b4-8d28-5a9e9959f04c"
+  "overture_id": "3663ba7e-923f-42b4-8d28-5a9e9959f04c",
+  "logo": "http://www.dtmehtapuysalbilginoglu.com/img/favicons/favicon_60x60.png?v=697258ba998a6ccc998559b48d226a2d"
  },
  {
   "ad": "Diş Hekimi",
@@ -6032,7 +6044,7 @@
   "telefon": null,
   "web": "http://www.dtserkankaragoz.com/",
   "sosyal": [],
-  "calisma_saatleri": null,
+  "calisma_saatleri": "Mo 09:00-19:00; Tu 09:00-23:30; We 09:00-19:00; Th 09:00-23:30; Fr 09:00-19:00; Sa 09:00-19:00",
   "randevu": null,
   "engelli_erisimi": null,
   "lat": 40.74114990234375,
@@ -6044,7 +6056,8 @@
   "overture_id": "b537a264-dd37-427b-86c7-effeb8838e93",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://dtserkankaragoz.com/assets/brand/serkan-karagoz-logo.svg"
  },
  {
   "ad": "Dt. Suhail İDRİS",
@@ -8434,7 +8447,8 @@
   "overture_id": "5ec5fa57-b07e-4d3f-b2f1-aa9bf83f295b",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "http://www.emeloncan.com/wp-content/uploads/2016/06/cropped-favicon.emelsari.com_-1-180x180.png"
  },
  {
   "ad": "Ortodonti Özel Muayene",
@@ -8639,9 +8653,14 @@
   "il": null,
   "ilce": null,
   "mahalle": null,
-  "telefon": null,
+  "telefon": "0262 331 41 07",
   "web": "https://donatimdis.com.tr/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/donatimdisizmit"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -8654,7 +8673,8 @@
   "overture_id": "d9afa086-55d7-44de-aca7-8d59d0cdda6b",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://donatimdis.com.tr/wp-content/uploads/2023/04/donatim-dis-icon__1_-removebg-preview.png"
  },
  {
   "ad": "Ozel Keskin Dental Agiz ve Dis Sagligi Poliklinigi",
@@ -9332,7 +9352,12 @@
   "mahalle": null,
   "telefon": "(0262) 332 35 45",
   "web": "https://www.uzmandisgrup.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/uzmandisgrup"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -9345,7 +9370,8 @@
   "kaynak": "foursquare",
   "ilk_gorulme": "2026-11-05",
   "son_gorulme": "2026-11-26",
-  "overture_id": "b693dea3-90f8-4a19-b749-5357218b9721"
+  "overture_id": "b693dea3-90f8-4a19-b749-5357218b9721",
+  "logo": "https://www.uzmandisgrup.com/wp-content/uploads/2020/08/cropped-favicon-180x180.png"
  },
  {
   "ad": "Uzman Diş Hekimi Kerem Çaglar",

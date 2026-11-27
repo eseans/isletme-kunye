@@ -42,7 +42,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.cetmut.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/cetmut_accessoriies"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -303,7 +308,12 @@
   "mahalle": null,
   "telefon": "(0850) 305 35 68",
   "web": "http://www.yalvacoptik.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/yalvacoptik"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -316,7 +326,8 @@
   "overture_id": "fca0614d-0777-4d54-8570-c13d14aa090f",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://www.yalvacoptik.com/image/cache/catalog/logo112-188x110.png"
  },
  {
   "ad": "Yalvaç Optik",

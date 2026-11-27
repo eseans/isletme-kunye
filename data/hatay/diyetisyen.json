@@ -207,7 +207,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "http://www.erayalbayrak.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/diyetea.erayalbayrak"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -263,7 +268,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://www.dytgizemkalin.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/dytgizemkaln"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
@@ -276,7 +286,8 @@
   "overture_id": "bb9aff9d-2568-4e87-9517-4545806cdedc",
   "kaynak": "overture",
   "ilk_gorulme": "2026-11-26",
-  "son_gorulme": "2026-11-26"
+  "son_gorulme": "2026-11-26",
+  "logo": "https://dytgizemkalin.com/apple-touch-icon.png"
  },
  {
   "ad": "Diyetisyen Mediha Bitmez",
@@ -698,7 +709,12 @@
   "mahalle": null,
   "telefon": null,
   "web": "https://fitberrydiet.com/",
-  "sosyal": [],
+  "sosyal": [
+   {
+    "tur": "instagram",
+    "deger": "https://instagram.com/fitberry.wellness"
+   }
+  ],
   "calisma_saatleri": null,
   "randevu": null,
   "engelli_erisimi": null,
