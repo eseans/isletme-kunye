@@ -37,3 +37,29 @@ def norm(ad):
   k = unicodedata.normalize('NFKD', ad or '')
   k = ''.join(c for c in k if not unicodedata.combining(c)).lower()
   return re.sub(r'[^a-z0-9]', '', k)[:40]
+
+# taxonomy.primary -> (sektor, alt kategori). Alt = sitede ayri filtre/sayfa.
+KATEGORI_OVERTURE = {
+  'hair_salon': ('kuafor', None), 'barber': ('kuafor', 'berber'),
+  'beauty_salon': ('guzellik-salonu', None), 'nail_salon': ('guzellik-salonu', 'tirnak'),
+  'eyelash_service': ('guzellik-salonu', 'kirpik'), 'hair_removal': ('guzellik-salonu', 'epilasyon'),
+  'skin_care': ('guzellik-salonu', 'cilt-bakimi'), 'waxing': ('guzellik-salonu', 'epilasyon'),
+  'massage': ('spa-masaj', 'masaj'), 'massage_therapy': ('spa-masaj', 'masaj'), 'spa': ('spa-masaj', 'spa'),
+  'gym': ('spor-salonu', 'fitness'), 'pilates_studio': ('spor-salonu', 'pilates'),
+  'yoga_studio': ('spor-salonu', 'yoga'), 'martial_arts_club': ('spor-salonu', 'dovus-sanatlari'),
+  'boxing_gym': ('spor-salonu', 'boks'), 'boxing_club': ('spor-salonu', 'boks'),
+  'dental_clinic': ('dis-klinigi', None), 'dentist': ('dis-klinigi', None), 'orthodontist': ('dis-klinigi', 'ortodonti'),
+  'doctors_office': ('klinik', 'muayenehane'), 'plastic_and_reconstructive_surgery': ('klinik', 'estetik'),
+  'dermatology': ('klinik', 'dermatoloji'),
+  'veterinarian': ('veteriner', None), 'pet_groomer': ('veteriner', 'pet-kuafor'),
+  'psychology': ('psikoloji', None), 'psychotherapist': ('psikoloji', None),
+  'nutrition_service': ('diyetisyen', None), 'dietitian': ('diyetisyen', None),
+  'physical_therapy': ('fizyoterapi', None), 'chiropractor': ('fizyoterapi', 'kiropraktik'),
+  'eyewear_store': ('optik', None), 'optometry': ('optik', None),
+  'tattoo_and_piercing': ('dovme', None), 'tattoo': ('dovme', None),
+  'photographer': ('fotografci', None), 'event_photography_service': ('fotografci', 'etkinlik'),
+  'driving_school': ('egitim-kurs', 'surucu-kursu'), 'language_school': ('egitim-kurs', 'dil-kursu'),
+  'music_school': ('egitim-kurs', 'muzik'), 'art_school': ('egitim-kurs', 'sanat'),
+  'dance_studio': ('egitim-kurs', 'dans'), 'tutoring_service': ('egitim-kurs', 'etut'),
+  'acupuncture': ('tamamlayici-tip', None),
+}

@@ -1,0 +1,29 @@
+name: Overture ulke kesfi
+
+# Yurt disi aday ulkeleri bizim kategorilerde karsilastirir (rapor/overture_ulkeler.md).
+on:
+  workflow_dispatch:
+    inputs:
+      ulkeler: { description: "ISO kodlari", default: "ES,MX,AR,CO,DE" }
+
+permissions:
+  contents: write
+
+jobs:
+  kesif:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install duckdb
+      - run: python3 scripts/overture_ulke_kesif.py
+        env:
+          ULKELER: ${{ github.event.inputs.ulkeler }}
+      - name: Raporu kaydet
+        run: |
+          git config user.name "kunye-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add rapor/
+          git diff --cached --quiet || { git commit -m "rapor: Overture ulke kesfi" && git pull --rebase && git push; }
