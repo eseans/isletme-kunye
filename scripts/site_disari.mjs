@@ -164,12 +164,15 @@ for (const sehir of readdirSync('data')) {
     rmSync(parcaKok, { recursive: true, force: true })
     if (tamJson.length > 300_000) {
       mkdirSync(join(parcaKok, 'i'), { recursive: true })
-      const kova = {}, ilceK = {}
+      mkdirSync(join(parcaKok, 'a'), { recursive: true })
+      const kova = {}, ilceK = {}, altK = {}
       for (const k of kayitlar) {
         const h = String(k[7]).slice(-10).charAt(0).toLowerCase() || '_'
         ;(kova[h] ||= []).push(k)
         if (k[1]) (ilceK[slugla(k[1])] ||= []).push(k)
+        if (k[13]) (altK[k[13]] ||= []).push(k) // <sektor>/a/<alt>.json: alt kategori sayfasi
       }
+      for (const [alt, ks] of Object.entries(altK)) writeFileSync(join(parcaKok, 'a', `${alt}.json`), JSON.stringify({ kayitlar: ks }))
       for (const [h, ks] of Object.entries(kova)) writeFileSync(join(parcaKok, `k${h}.json`), JSON.stringify({ kayitlar: ks }))
       for (const [ad, ks] of Object.entries(ilceK)) writeFileSync(join(parcaKok, 'i', `${ad}.json`), JSON.stringify({ kayitlar: ks }))
     }
