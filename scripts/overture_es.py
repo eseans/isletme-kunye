@@ -79,8 +79,21 @@ os.makedirs('site/es', exist_ok=True)
 for (prov, sek), ks in kume.items():
   ks.sort(key=lambda k: (-puan(k), k[0].lower()))
   os.makedirs(f'site/es/{prov}', exist_ok=True)
-  json.dump({'pais': 'es', 'sehir': prov, 'sektor': sek, 'n': len(ks), 'kayitlar': ks},
-            open(f'site/es/{prov}/{sek}.json', 'w', encoding='utf-8'), ensure_ascii=False, separators=(',', ':'))
+  tam = json.dumps({'pais': 'es', 'sehir': prov, 'sektor': sek, 'n': len(ks), 'kayitlar': ks}, ensure_ascii=False, separators=(',', ':'))
+  open(f'site/es/{prov}/{sek}.json', 'w', encoding='utf-8').write(tam)
+  # Buyuk dosyada ficha parcasi (Worker CPU): <sektor>/k<h>.json kimlik kovasi,
+  # <sektor>/i/<municipio>.json yakindakiler. Ana site lib/negociosPages.js okur.
+  kok = f'site/es/{prov}/{sek}'
+  import shutil; shutil.rmtree(kok, ignore_errors=True)
+  if len(tam) > 300_000:
+    os.makedirs(f'{kok}/i', exist_ok=True)
+    kova, mun = {}, {}
+    for k in ks:
+      kova.setdefault(k[7][-10:][0], []).append(k)
+      if k[1]: mun.setdefault(re.sub(r'[^a-z0-9]+', '-', __import__('unicodedata').normalize('NFKD', k[1]).encode('ascii', 'ignore').decode().lower()).strip('-'), []).append(k)
+    for h, v in kova.items(): json.dump({'kayitlar': v}, open(f'{kok}/k{h}.json', 'w', encoding='utf-8'), ensure_ascii=False, separators=(',', ':'))
+    for m, v in mun.items():
+      if m: json.dump({'kayitlar': v}, open(f'{kok}/i/{m}.json', 'w', encoding='utf-8'), ensure_ascii=False, separators=(',', ':'))
   ilce = {}
   for k in ks:
     if k[1]: ilce[k[1]] = ilce.get(k[1], 0) + 1
