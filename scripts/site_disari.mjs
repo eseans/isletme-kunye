@@ -22,7 +22,7 @@ const zenginlik = (k) => (dolgun({ telefon: k[2], web: k[3] }) ? 2 : 0) + (k[9] 
 // (sabit telefon veya web). Ince kunyeler bilincli disarida (olceklenmis icerik
 // riski); slug/kimlik mantigi ana repo lib/isletmeler.js ile BIREBIR ayni.
 // Kullanim: node scripts/site_disari.mjs
-import { readFileSync, writeFileSync, mkdirSync, readdirSync, statSync, existsSync } from 'node:fs'
+import { readFileSync, writeFileSync, mkdirSync, readdirSync, statSync, existsSync, rmSync } from 'node:fs'
 import { join } from 'node:path'
 import { createHash } from 'node:crypto'
 import { slugla, telefonTemizle } from '../topla.mjs'
@@ -153,8 +153,26 @@ for (const sehir of readdirSync('data')) {
       if (!zengin(k)) continue
       sitemapUrller.push(`  <url><loc>https://esesion.com${vitrinYolu(sehir, sektor, k[0], String(k[7]).slice(-10))}</loc></url>`)
     }
-    writeFileSync(join('site', sehir, sektor + '.json'),
-      JSON.stringify({ sehir, sektor, n: kayitlar.length, kayitlar }) + '\n')
+    const tamJson = JSON.stringify({ sehir, sektor, n: kayitlar.length, kayitlar }) + '\n'
+    writeFileSync(join('site', sehir, sektor + '.json'), tamJson)
+    // Buyuk dosya parcalari (Worker CPU: 4.7 MB JSON her vitrinde ayristirilinca
+    // ucretsiz plan 10 ms siniri asiliyordu). Ana site lib/isletmeler.js okur:
+    //   <sektor>/k<h>.json      kimligin (son 10) ilk karakterine gore (vitrin)
+    //   <sektor>/i/<ilce>.json  ilcenin kayitlari, sira korunur (ilce + yakindakiler)
+    // Kucuk dosyada parca yok; sunucu tam dosyaya duser.
+    const parcaKok = join('site', sehir, sektor)
+    rmSync(parcaKok, { recursive: true, force: true })
+    if (tamJson.length > 300_000) {
+      mkdirSync(join(parcaKok, 'i'), { recursive: true })
+      const kova = {}, ilceK = {}
+      for (const k of kayitlar) {
+        const h = String(k[7]).slice(-10).charAt(0).toLowerCase() || '_'
+        ;(kova[h] ||= []).push(k)
+        if (k[1]) (ilceK[slugla(k[1])] ||= []).push(k)
+      }
+      for (const [h, ks] of Object.entries(kova)) writeFileSync(join(parcaKok, `k${h}.json`), JSON.stringify({ kayitlar: ks }))
+      for (const [ad, ks] of Object.entries(ilceK)) writeFileSync(join(parcaKok, 'i', `${ad}.json`), JSON.stringify({ kayitlar: ks }))
+    }
     const ilceSay = {}
     for (const k of kayitlar) if (k[1]) ilceSay[k[1]] = (ilceSay[k[1]] || 0) + 1
     for (const [ad, n2] of Object.entries(ilceSay)) {
