@@ -74,6 +74,31 @@ for oid, ad, lat, lng, kat, tels, webs, sos, adres, yer, posta in rows:
 
 # Liste sirasi: Turkiye ile ayni fikir (dolu once), alfabe esitlikte.
 puan = lambda k: (2 if (k[2] or k[3]) else 0) + (1 if re.search(r'\d', k[9]) else 0) + (1 if k[8] else 0)
+
+# Ciftler: Overture ayni isletmeyi Meta + FSQ'dan ayri getirebiliyor ("Ama Pilates
+# Barcelona" x3, "Boisa Pilates" / "Boisa® Pilates"). Ayni normal ad + ~150 m -> en dolu kalir.
+# Municipio yazimi: ayni slug'in en sik yazimi ("Sant Cugat del Vallès" / "...Del...").
+import unicodedata
+def anahtar(s):
+  k = unicodedata.normalize('NFKD', str(s or '')).encode('ascii', 'ignore').decode().lower()
+  return re.sub(r'[^a-z0-9]', '', k)
+yazim = {}
+for ks in kume.values():
+  for k in ks:
+    if k[1]: yazim.setdefault(anahtar(k[1]), {}).setdefault(k[1], 0); yazim[anahtar(k[1])][k[1]] += 1
+en_sik = {a: max(v.items(), key=lambda x: x[1])[0] for a, v in yazim.items()}
+cift = 0
+for key, ks in list(kume.items()):
+  for k in ks:
+    if k[1]: k[1] = en_sik[anahtar(k[1])]
+  ks.sort(key=lambda k: -puan(k))
+  tut, gor = [], {}
+  for k in ks:
+    a = anahtar(k[0])
+    if any(abs(k[4] - o[4]) < 0.0015 and abs(k[5] - o[5]) < 0.002 for o in gor.get(a, [])): cift += 1; continue
+    gor.setdefault(a, []).append(k); tut.append(k)
+  kume[key] = tut
+say['cift_atildi'] = cift
 ozet = []
 os.makedirs('site/es', exist_ok=True)
 for (prov, sek), ks in kume.items():
