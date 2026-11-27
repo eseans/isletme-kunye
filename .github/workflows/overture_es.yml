@@ -1,0 +1,34 @@
+name: Overture Ispanya
+
+# Ispanya kunyesi (site/es). Aylik (Overture ayin ortasinda) + elle.
+on:
+  schedule:
+    - cron: "0 7 22 * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  es:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install duckdb
+      - run: python3 scripts/overture_es.py
+      - name: Kaydet ve yayinla
+        env:
+          HOOK: ${{ secrets.ESEANS_DEPLOY_HOOK }}
+        run: |
+          git config user.name "kunye-bot"
+          git config user.email "actions@users.noreply.github.com"
+          du -sh site/es; find site/es -type f | wc -l
+          git add site/es
+          git diff --cached --quiet && echo "Degisiklik yok" || {
+            git commit -m "veri: Ispanya kunyesi (Overture) $(date -u +%F)"
+            for i in 1 2 3; do git pull --rebase origin "$GITHUB_REF_NAME" && git push origin "$GITHUB_REF_NAME" && break; sleep 10; done
+            [ -z "$HOOK" ] || curl -fsS -X POST "$HOOK" -o /dev/null
+          }
