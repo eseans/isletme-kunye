@@ -86,5 +86,36 @@ for (prov, sek), ks in kume.items():
     if k[1]: ilce[k[1]] = ilce.get(k[1], 0) + 1
   ozet.append({'sehir': prov, 'sektor': sek, 'n': len(ks), 'ilceler': {a: n for a, n in ilce.items() if n >= 3}})
 json.dump(ozet, open('site/es/_ozet.json', 'w', encoding='utf-8'), ensure_ascii=False, separators=(',', ':'))
+
+# Sitemap (ana site /sitemap-negocios.xml): yalniz LISTE sayfalari, 5+ dolu kayitli.
+# Fichalar listelerden kesfedilir (231K'yi birden vermek ucretsiz Worker kotasini zorlar).
+# URL slug'lari ana site lib/negocios.js SECTORES/SUBTIPOS ile ayni olmali.
+SEC = {'kuafor': 'peluquerias', 'guzellik-salonu': 'centros-de-estetica', 'dis-klinigi': 'clinicas-dentales',
+  'klinik': 'clinicas', 'spor-salonu': 'gimnasios', 'fizyoterapi': 'fisioterapeutas', 'psikoloji': 'psicologos',
+  'diyetisyen': 'nutricionistas', 'veteriner': 'veterinarios', 'spa-masaj': 'spa-y-masajes', 'dovme': 'tatuajes',
+  'optik': 'opticas', 'fotografci': 'fotografos', 'egitim-kurs': 'academias', 'tamamlayici-tip': 'terapias-complementarias'}
+SUB = {'berber': 'barberias', 'tirnak': 'unas', 'pilates': 'pilates', 'yoga': 'yoga', 'dovus-sanatlari': 'artes-marciales',
+  'masaj': 'masajes', 'ortodonti': 'ortodoncia', 'surucu-kursu': 'autoescuelas', 'dil-kursu': 'academias-de-idiomas'}
+dolu = lambda k: bool((k[2] or k[3]) and re.search(r'\d', k[9]))
+def muni_slug(m):
+  import unicodedata
+  k = unicodedata.normalize('NFKD', m); k = ''.join(c for c in k if not unicodedata.combining(c)).lower()
+  return re.sub(r'[^a-z0-9]+', '-', k).strip('-')
+urls = ['/es/negocios'] + [f'/es/negocios/{p}' for p in sorted({p for p, _ in kume})]
+for (prov, sek), ks in sorted(kume.items()):
+  if sek not in SEC: continue
+  gruplar = [(SEC[sek], ks)] + [(SUB[a], [k for k in ks if k[13] == a]) for a in SUB if any(k[13] == a for k in ks)]
+  for yol, grup in gruplar:
+    if sum(map(dolu, grup)) < 5: continue
+    urls.append(f'/es/negocios/{prov}/{yol}')
+    munis = {}
+    for k in grup:
+      if k[1] and dolu(k): munis[k[1]] = munis.get(k[1], 0) + 1
+    urls += [f'/es/negocios/{prov}/{yol}/{muni_slug(m)}' for m, n in munis.items() if n >= 5 and muni_slug(m)]
+with open('site/es/_sitemap.xml', 'w', encoding='utf-8') as f:
+  f.write('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n')
+  f.write(''.join(f'  <url><loc>https://esesion.com{u}</loc></url>\n' for u in urls[:50000]))
+  f.write('</urlset>\n')
+print('sitemap url:', len(urls))
 json.dump({s: a for s, a in PROVINCIAS.values()}, open('site/es/_provincias.json', 'w', encoding='utf-8'), ensure_ascii=False)
 print(json.dumps(say), 'dosya:', len(kume))
