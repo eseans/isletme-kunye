@@ -161,6 +161,18 @@ for (const sehir of readdirSync('data')) {
       if (n2 < 5) continue
       sitemapUrller.push(`  <url><loc>https://esesion.com/isletmeler/${sehir}/${sektor}/${slugla(ad)}</loc></url>`)
     }
+    // Alt kategori sayfalari (/isletmeler/<il>/<alt>[/<ilce>]): yalniz 5+ ZENGIN kayitla
+    // (ince alt sayfa uretilmez; ana site lib/isletmeler.js ALT_SEKTOR ile ayni slug).
+    const altZengin = {}
+    for (const k of kayitlar) if (k[13] && zengin(k)) {
+      const a = (altZengin[k[13]] ||= { n: 0, ilce: {} }); a.n++
+      if (k[1]) a.ilce[k[1]] = (a.ilce[k[1]] || 0) + 1
+    }
+    for (const [alt, { n, ilce }] of Object.entries(altZengin)) {
+      if (n < 5) continue
+      sitemapUrller.push(`  <url><loc>https://esesion.com/isletmeler/${sehir}/${alt}</loc></url>`)
+      for (const [ad, n2] of Object.entries(ilce)) if (n2 >= 5) sitemapUrller.push(`  <url><loc>https://esesion.com/isletmeler/${sehir}/${alt}/${slugla(ad)}</loc></url>`)
+    }
     ozet.push({ sehir, sektor, n: kayitlar.length, ilceler: Object.fromEntries(Object.entries(ilceSay).filter(([, n2]) => n2 >= 3)) })
     toplam += kayitlar.length
   }
